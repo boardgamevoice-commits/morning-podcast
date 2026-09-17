@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>小方财经 · Morning Finance</title>
   <meta name="description" content="聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您呈现事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。">
-  <link rel="alternate" type="application/rss+xml" title="小方财经 · Morning Finance" href="podcast.xml">
+  <link rel="alternate" type="application/rss+xml" title="小方财经 · Morning Finance (中文)" href="podcast.xml">
+  <link rel="alternate" type="application/rss+xml" title="XiaoFang Finance · Wall Street Morning Brief (English)" href="podcast-en.xml">
   <link rel="icon" href="cover.jpg" type="image/jpeg">
   
   <style>
@@ -75,6 +76,45 @@
       background: linear-gradient(90deg, transparent, var(--gold-primary), transparent);
     }
 
+    /* Language Switcher Pill */
+    .lang-switcher {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      display: inline-flex;
+      background: rgba(0, 0, 0, 0.45);
+      border: 1px solid var(--border-gold);
+      border-radius: 30px;
+      padding: 3px;
+      gap: 4px;
+      z-index: 10;
+    }
+
+    .lang-btn {
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      font-size: 0.78rem;
+      font-weight: 700;
+      padding: 5px 12px;
+      border-radius: 20px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .lang-btn:hover {
+      color: #ffffff;
+    }
+
+    .lang-btn.active {
+      background: var(--gold-primary);
+      color: #060911;
+      box-shadow: 0 2px 10px var(--gold-glow);
+    }
+
     .cover-wrap {
       flex-shrink: 0;
       position: relative;
@@ -97,6 +137,7 @@
 
     .hero-content {
       flex: 1;
+      padding-top: 10px;
     }
 
     .brand-badge {
@@ -563,6 +604,12 @@
         flex-direction: column;
         text-align: center;
         padding: 24px;
+        padding-top: 60px;
+      }
+      .lang-switcher {
+        top: 14px;
+        right: 50%;
+        transform: translateX(50%);
       }
       .podcast-cover {
         width: 160px;
@@ -580,29 +627,36 @@
 <body>
 
   <!-- Toast Notification -->
-  <div class="toast" id="toast">已复制 Apple Podcasts 订阅源链接！</div>
+  <div class="toast" id="toast">已复制 RSS 订阅源链接！</div>
 
   <div class="container">
     
     <!-- Hero Header -->
     <div class="hero-card">
+      
+      <!-- Interactive Language Switcher -->
+      <div class="lang-switcher">
+        <button class="lang-btn active" id="btnLangZh" onclick="switchLanguage('zh')">🇨🇳 中文版</button>
+        <button class="lang-btn" id="btnLangEn" onclick="switchLanguage('en')">🇺🇸 English</button>
+      </div>
+
       <div class="cover-wrap">
         <img src="cover.jpg" alt="小方财经播客封面" class="podcast-cover">
       </div>
       <div class="hero-content">
-        <div class="brand-badge"><span class="pulse"></span> 每日晨会直通车 · 纯干货内参</div>
-        <h1 class="show-title">小方财经</h1>
-        <p class="show-tagline">
-          聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。专为敏锐投资者打造，车载与通勤收听即用。
+        <div class="brand-badge" id="brandBadge"><span class="pulse"></span> 每日晨会直通车 · 纯干货内参</div>
+        <h1 class="show-title" id="showTitle">小方财经</h1>
+        <p class="show-tagline" id="showTagline">
+          聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。
         </p>
         <div class="subscribe-matrix">
           <a href="podcast://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" class="btn-sub btn-apple" id="applePodcastBtn">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M15.97 6.38c.62-.75 1.04-1.8 0.92-2.85-.9.04-2 .6-2.65 1.35-.58.66-1.09 1.73-.95 2.76.99.08 2.05-.51 2.68-1.26z"/></svg>
-            Apple 播客一键订阅
+            <span id="appleBtnText">Apple 播客一键订阅</span>
           </a>
           <button class="btn-sub btn-rss" onclick="copyFeedUrl()">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><circle cx="6.18" cy="17.82" r="2.18"/><path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/></svg>
-            复制通用 RSS 源
+            <span id="rssBtnText">复制通用 RSS 源</span>
           </button>
         </div>
       </div>
@@ -611,8 +665,8 @@
     <!-- Featured Latest Episode Card -->
     <div class="featured-section">
       <div class="section-header">
-        <div class="section-title">今日头条单集</div>
-        <span style="font-size: 0.82rem; color: var(--gold-light);">★ 权威晨间联播</span>
+        <div class="section-title" id="featuredSectionTitle">今日头条单集</div>
+        <span style="font-size: 0.82rem; color: var(--gold-light);" id="featuredBadge">★ 权威晨间联播</span>
       </div>
       
       <div class="player-card" id="featuredCard">
@@ -621,7 +675,7 @@
           <span class="ep-date" id="featDate">2026-09-16</span>
           <span class="ep-duration">⏱️ <span id="featDuration">8分51秒</span></span>
         </div>
-        <div class="featured-title" id="featTitle">【晨间财金联播】2026-09-16 · 全球宏观多空深度博弈</div>
+        <div class="featured-title" id="featTitle">【小方财经】2026-09-16 · 全球宏观多空深度博弈</div>
         <div class="featured-desc" id="featDesc">
           美联储三年首次加息25基点落地；点阵图暗示窗口极短但美债收益率飙至20年新高。多空分歧激烈：盈利底+中期选举全胜规律 vs 周期尾部估值收缩。全篇事实坚决去重，深挖多空分歧与个股点位。
         </div>
@@ -650,7 +704,7 @@
 
         <!-- Transcript Collapsible Drawer -->
         <button class="transcript-toggle" onclick="toggleTranscript()">
-          <span>📄 阅读今日晨会全文内参（Show Notes 逐字稿）</span>
+          <span id="transcriptBtnText">📄 阅读今日晨会全文内参（Show Notes 逐字稿）</span>
           <span id="transcriptArrow">▼</span>
         </button>
         <div class="transcript-body" id="transcriptBody">正在加载最新内参文稿...</div>
@@ -660,17 +714,17 @@
     <!-- Episode Archive Section -->
     <div class="episodes-section">
       <div class="section-header">
-        <div class="section-title">往期晨报列表</div>
-        <span style="font-size: 0.82rem; color: var(--text-sub);">按时间倒序排列</span>
+        <div class="section-title" id="archiveSectionTitle">往期晨报列表</div>
+        <span style="font-size: 0.82rem; color: var(--text-sub);" id="archiveSub">按时间倒序排列</span>
       </div>
       <div id="episodesListContainer">
-        <!-- Dynamically populated from episodes.json -->
+        <!-- Dynamically populated from episodes.json / episodes_en.json -->
       </div>
     </div>
 
     <footer>
-      <p>© 2026 小方财经 · OpenClaw 投研电台</p>
-      <p style="margin-top: 4px;">Apple Podcasts RSS 2.0 工业标准 · 纯本地 Metal GPU 离线提炼 · -16 LUFS 广播级母带</p>
+      <p id="footerText">© 2026 小方财经 · 纯个人独立投研电台</p>
+      <p style="margin-top: 4px;" id="footerSub">Apple Podcasts RSS 2.0 工业标准 · 纯本地 Metal GPU 离线提炼 · -16 LUFS 广播级母带</p>
     </footer>
 
   </div>
@@ -689,7 +743,54 @@
   <audio id="audioElement" preload="metadata"></audio>
 
   <script>
-    const FEED_URL = "https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml";
+    const I18N = {
+      zh: {
+        brandBadge: "每日晨会直通车 · 纯干货内参",
+        showTitle: "小方财经",
+        showTagline: "聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。",
+        appleBtnText: "Apple 播客一键订阅",
+        rssBtnText: "复制通用 RSS 源",
+        featuredSectionTitle: "今日头条单集",
+        featuredBadge: "★ 权威晨间联播",
+        archiveSectionTitle: "往期晨报列表",
+        archiveSub: "按时间倒序排列",
+        transcriptBtnText: "📄 阅读今日晨会全文内参（Show Notes 逐字稿）",
+        feedUrl: "https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml",
+        appleUrl: "podcast://boardgamevoice-commits.github.io/morning-podcast/podcast.xml",
+        episodesJson: "episodes.json",
+        transcriptFile: "morning_digest_2026-09-16.txt",
+        playNow: "▶ 立即收听",
+        downloadMp3: "⬇ 下载 MP3",
+        toastCopied: "已复制【小方财经】中文 RSS 订阅源链接！",
+        footerText: "© 2026 小方财经 · 纯个人独立投研电台",
+        footerSub: "Apple Podcasts RSS 2.0 工业标准 · 纯本地 Metal GPU 离线提炼 · -16 LUFS 广播级母带",
+        speedSuffix: " 倍速"
+      },
+      en: {
+        brandBadge: "WALL STREET MORNING BRIEF · INSTITUTIONAL ALPHA",
+        showTitle: "XiaoFang Finance",
+        showTagline: "First-hand macro intelligence and Wall Street market dynamics distilled for acute investors. Pure signal, fact deduplication, consensus & divergence, and actionable risk levels. Fast-paced, concise, institutional morning briefing.",
+        appleBtnText: "Subscribe on Apple Podcasts",
+        rssBtnText: "Copy RSS Feed URL",
+        featuredSectionTitle: "Today's Featured Brief",
+        featuredBadge: "★ Wall Street Morning Edition",
+        archiveSectionTitle: "Past Daily Briefings",
+        archiveSub: "Chronological Archive",
+        transcriptBtnText: "📄 Read Today's Full Show Notes (Transcript)",
+        feedUrl: "https://boardgamevoice-commits.github.io/morning-podcast/podcast-en.xml",
+        appleUrl: "podcast://boardgamevoice-commits.github.io/morning-podcast/podcast-en.xml",
+        episodesJson: "episodes_en.json",
+        transcriptFile: "morning_digest_en_2026-09-16.txt",
+        playNow: "▶ Listen Now",
+        downloadMp3: "⬇ Download MP3",
+        toastCopied: "Copied [XiaoFang Finance] English RSS Feed URL!",
+        footerText: "© 2026 XiaoFang Finance · Independent Market Intelligence",
+        footerSub: "Apple Podcasts RSS 2.0 Compliant · Local Metal GPU Synthesis · -16 LUFS Broadcast Master",
+        speedSuffix: "x Speed"
+      }
+    };
+
+    let currentLang = localStorage.getItem("xf_podcast_lang") || "zh";
     const audio = document.getElementById("audioElement");
     const mainPlayBtn = document.getElementById("mainPlayBtn");
     const stickyPlayBtn = document.getElementById("stickyPlayBtn");
@@ -707,6 +808,37 @@
     let currentSpeedIdx = 0;
     let allEpisodes = [];
     let currentPlayingEp = null;
+
+    function switchLanguage(lang) {
+      currentLang = lang;
+      localStorage.setItem("xf_podcast_lang", lang);
+
+      document.getElementById("btnLangZh").classList.toggle("active", lang === "zh");
+      document.getElementById("btnLangEn").classList.toggle("active", lang === "en");
+
+      const t = I18N[lang];
+      document.getElementById("brandBadge").innerHTML = `<span class="pulse"></span> ` + t.brandBadge;
+      document.getElementById("showTitle").innerText = t.showTitle;
+      document.getElementById("showTagline").innerText = t.showTagline;
+      document.getElementById("appleBtnText").innerText = t.appleBtnText;
+      document.getElementById("rssBtnText").innerText = t.rssBtnText;
+      document.getElementById("applePodcastBtn").href = t.appleUrl;
+      document.getElementById("featuredSectionTitle").innerText = t.featuredSectionTitle;
+      document.getElementById("featuredBadge").innerText = t.featuredBadge;
+      document.getElementById("archiveSectionTitle").innerText = t.archiveSectionTitle;
+      document.getElementById("archiveSub").innerText = t.archiveSub;
+      document.getElementById("transcriptBtnText").innerText = t.transcriptBtnText;
+      document.getElementById("footerText").innerText = t.footerText;
+      document.getElementById("footerSub").innerText = t.footerSub;
+      document.title = lang === "zh" ? "小方财经 · Morning Finance" : "XiaoFang Finance · Wall Street Morning Brief";
+
+      // Pause currently playing audio if any
+      audio.pause();
+      mainPlayBtn.innerText = "▶";
+      stickyPlayBtn.innerText = "▶";
+
+      loadEpisodes(lang);
+    }
 
     // Format seconds to MM:SS
     function formatTime(seconds) {
@@ -738,7 +870,8 @@
       currentSpeedIdx = (currentSpeedIdx + 1) % speeds.length;
       const speed = speeds[currentSpeedIdx];
       audio.playbackRate = speed;
-      speedBtn.innerText = speed.toFixed(speed % 1 === 0 ? 1 : 2) + "x 倍速";
+      const suffix = currentLang === "zh" ? " 倍速" : "x Speed";
+      speedBtn.innerText = speed.toFixed(speed % 1 === 0 ? 1 : 2) + suffix;
       stickySpeedBtn.innerText = speed.toFixed(speed % 1 === 0 ? 1 : 2) + "x";
     }
 
@@ -782,8 +915,10 @@
 
     // Copy Feed Toast
     function copyFeedUrl() {
-      navigator.clipboard.writeText(FEED_URL).then(() => {
+      const t = I18N[currentLang];
+      navigator.clipboard.writeText(t.feedUrl).then(() => {
         const toast = document.getElementById("toast");
+        toast.innerText = t.toastCopied;
         toast.classList.add("show");
         setTimeout(() => toast.classList.remove("show"), 2800);
       });
@@ -803,36 +938,51 @@
     }
 
     // Load Episodes & Render
-    async function loadEpisodes() {
+    async function loadEpisodes(lang = currentLang) {
+      const t = I18N[lang];
       try {
-        const resp = await fetch("episodes.json?t=" + Date.now());
+        const resp = await fetch(`${t.episodesJson}?t=` + Date.now());
         if (!resp.ok) throw new Error("HTTP " + resp.status);
         allEpisodes = await resp.json();
       } catch (e) {
-        console.warn("Could not fetch episodes.json, using embedded fallback:", e);
-        allEpisodes = [
-          {
-            "guid": "digest-2026-09-16",
-            "title": "【晨间财金联播】2026-09-16 · 全球宏观多空深度博弈",
-            "description": "美联储三年首次加息25基点落地；点阵图暗示窗口极短但美债收益率飙至20年新高。多空分歧激烈：盈利底+中期选举全胜规律 vs 周期尾部估值收缩。全篇事实坚决去重，深挖多空分歧与个股点位。",
-            "audio_url": "episodes/morning_digest_2026-09-16.mp3",
-            "duration": 531.7,
-            "pub_date": "2026-09-16T22:58:14-04:00",
-            "episode_num": 3
-          }
-        ];
+        console.warn(`Could not fetch ${t.episodesJson}, using embedded fallback:`, e);
+        if (lang === "en") {
+          allEpisodes = [
+            {
+              "guid": "digest-en-2026-09-16",
+              "title": "XiaoFang Finance 2026-09-16 · Global Macro & Wall Street Clash",
+              "description": "Daily global macro dynamics and Wall Street tactical setup. First-hand institutional research deduplicated, highlighting key consensus and battleground divergences.",
+              "audio_url": "episodes/morning_digest_en_2026-09-16.mp3",
+              "duration": 552.5,
+              "pub_date": "2026-09-16T23:39:43-04:00",
+              "episode_num": 1
+            }
+          ];
+        } else {
+          allEpisodes = [
+            {
+              "guid": "digest-2026-09-16",
+              "title": "【小方财经】2026-09-16 · 全球宏观与美股多空深度博弈",
+              "description": "美联储三年首次加息25基点落地；点阵图暗示窗口极短但美债收益率飙至20年新高。多空分歧激烈：盈利底+中期选举全胜规律 vs 周期尾部估值收缩。全篇事实坚决去重，深挖多空分歧与个股点位。",
+              "audio_url": "episodes/morning_digest_2026-09-16.mp3",
+              "duration": 531.7,
+              "pub_date": "2026-09-16T22:58:14-04:00",
+              "episode_num": 3
+            }
+          ];
+        }
       }
 
       // Sort newest first
       allEpisodes.sort((a, b) => new Date(b.pub_date || 0) - new Date(a.pub_date || 0));
 
       if (allEpisodes.length > 0) {
-        setupFeaturedEpisode(allEpisodes[0]);
-        renderArchiveList(allEpisodes);
+        setupFeaturedEpisode(allEpisodes[0], lang);
+        renderArchiveList(allEpisodes, lang);
       }
     }
 
-    function setupFeaturedEpisode(ep) {
+    function setupFeaturedEpisode(ep, lang = currentLang) {
       currentPlayingEp = ep;
       audio.src = ep.audio_url;
       document.getElementById("featTitle").innerText = ep.title;
@@ -843,32 +993,32 @@
       const durSec = ep.duration || 531;
       const m = Math.floor(durSec / 60);
       const s = Math.floor(durSec % 60);
-      document.getElementById("featDuration").innerText = `${m}分${s}秒`;
+      document.getElementById("featDuration").innerText = lang === "zh" ? `${m}分${s}秒` : `${m}m ${s}s`;
       document.getElementById("totTime").innerText = formatTime(durSec);
       document.getElementById("stickyTotTime").innerText = formatTime(durSec);
       document.getElementById("stickyTitle").innerText = ep.title;
       document.getElementById("downloadLink").href = ep.audio_url;
 
-      // Load transcript text
-      loadTranscript();
+      loadTranscript(lang);
     }
 
-    async function loadTranscript() {
+    async function loadTranscript(lang = currentLang) {
+      const t = I18N[lang];
       try {
-        const resp = await fetch("morning_digest_2026-09-16.txt");
+        const resp = await fetch(t.transcriptFile + "?t=" + Date.now());
         if (resp.ok) {
           const txt = await resp.text();
           document.getElementById("transcriptBody").innerText = txt;
           return;
         }
       } catch (e) {}
-      document.getElementById("transcriptBody").innerText = "暂无逐字稿或加载失败。";
+      document.getElementById("transcriptBody").innerText = lang === "zh" ? "暂无逐字稿或加载中..." : "Transcript loading or currently unavailable.";
     }
 
     function playSpecificEpisode(idx) {
       const ep = allEpisodes[idx];
       if (!ep) return;
-      setupFeaturedEpisode(ep);
+      setupFeaturedEpisode(ep, currentLang);
       audio.play().then(() => {
         mainPlayBtn.innerText = "⏸";
         stickyPlayBtn.innerText = "⏸";
@@ -876,14 +1026,15 @@
       window.scrollTo({ top: featuredCard.offsetTop - 30, behavior: 'smooth' });
     }
 
-    function renderArchiveList(episodes) {
+    function renderArchiveList(episodes, lang = currentLang) {
       const container = document.getElementById("episodesListContainer");
       container.innerHTML = "";
+      const t = I18N[lang];
 
       episodes.forEach((ep, idx) => {
         const d = ep.pub_date ? ep.pub_date.substring(0, 10) : "";
         const durSec = ep.duration || 0;
-        const durStr = `${Math.floor(durSec / 60)}分${Math.floor(durSec % 60)}秒`;
+        const durStr = lang === "zh" ? `${Math.floor(durSec / 60)}分${Math.floor(durSec % 60)}秒` : `${Math.floor(durSec / 60)}m ${Math.floor(durSec % 60)}s`;
         
         const card = document.createElement("div");
         card.className = "episode-card";
@@ -895,16 +1046,16 @@
           <div class="card-title">${ep.title}</div>
           <div class="card-desc">${ep.description}</div>
           <div class="card-actions">
-            <button class="card-play-btn" onclick="playSpecificEpisode(${idx})">▶ 立即收听</button>
-            <a href="${ep.audio_url}" download style="font-size: 0.8rem; color: var(--text-muted); text-decoration: none;">⬇ 下载 MP3</a>
+            <button class="card-play-btn" onclick="playSpecificEpisode(${idx})">${t.playNow}</button>
+            <a href="${ep.audio_url}" download style="font-size: 0.8rem; color: var(--text-muted); text-decoration: none;">${t.downloadMp3}</a>
           </div>
         `;
         container.appendChild(card);
       });
     }
 
-    // Initialize
-    loadEpisodes();
+    // Initialize with preferred language
+    switchLanguage(currentLang);
   </script>
 </body>
 </html>

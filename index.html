@@ -3,98 +3,166 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>小方财经 · Morning Finance</title>
-  <meta name="description" content="聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您呈现事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。">
+  <title>小方财经 · Morning Finance | 独立全球投研与晨会联播门户</title>
+  <meta name="description" content="聚焦全球宏观异动，深挖美股多空博弈。每日美东开盘前为您呈现事实坚决去重、拒绝车轱辘套话、点位风控拉满的早间第一手财金内参。支持中英双轨、Apple Podcasts Podcasting 2.0 原生实时高亮字幕。">
+  
+  <!-- OpenGraph / Social Sharing -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="小方财经 · Morning Finance | 独立全球投研门户">
+  <meta property="og:description" content="聚焦全球宏观异动，深挖美股多空博弈。每日清晨呈现纯信号去重研报，支持 Apple Podcasts 订阅与实时同步字幕。">
+  <meta property="og:image" content="cover.jpg">
+  <meta property="og:url" content="https://boardgamevoice-commits.github.io/morning-podcast/">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="小方财经 · Morning Finance">
+  <meta name="twitter:description" content="美东交易日清晨开盘前必听的独立财经投研电台。">
+  <meta name="twitter:image" content="cover.jpg">
+
+  <!-- RSS Feeds -->
   <link rel="alternate" type="application/rss+xml" title="小方财经 · Morning Finance (中文)" href="podcast.xml">
   <link rel="alternate" type="application/rss+xml" title="XiaoFang Finance · Wall Street Morning Brief (English)" href="podcast-en.xml">
   <link rel="icon" href="cover.jpg" type="image/jpeg">
-  
+
   <style>
     :root {
       --bg-main: #060911;
-      --bg-surface: rgba(15, 23, 42, 0.72);
-      --bg-surface-hover: rgba(30, 41, 59, 0.85);
+      --bg-surface: rgba(15, 23, 42, 0.75);
+      --bg-surface-hover: rgba(30, 41, 59, 0.88);
+      --bg-card: rgba(17, 24, 39, 0.9);
       --border-subtle: rgba(255, 255, 255, 0.08);
       --border-gold: rgba(245, 158, 11, 0.28);
+      --border-gold-bright: rgba(245, 158, 11, 0.6);
       --gold-primary: #f59e0b;
       --gold-light: #fcd34d;
+      --gold-dark: #b45309;
       --gold-glow: rgba(245, 158, 11, 0.18);
+      --purple-accent: #8b5cf6;
+      --purple-glow: rgba(139, 92, 246, 0.25);
       --text-main: #f8fafc;
       --text-muted: #94a3b8;
       --text-sub: #64748b;
-      --apple-purple: #8b5cf6;
-      --radius-lg: 20px;
-      --radius-md: 14px;
+      --radius-xl: 24px;
+      --radius-lg: 18px;
+      --radius-md: 12px;
       --radius-sm: 8px;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    
+    html { scroll-behavior: smooth; }
+
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Plus Jakarta Sans", "SF Pro Display", "PingFang SC", "Hiragino Sans GB", "Segoe UI", sans-serif;
       background-color: var(--bg-main);
       background-image: 
-        radial-gradient(circle at 50% 0%, rgba(245, 158, 11, 0.07) 0%, transparent 60%),
-        radial-gradient(circle at 100% 50%, rgba(139, 92, 246, 0.05) 0%, transparent 50%),
-        radial-gradient(circle at 0% 100%, rgba(15, 23, 42, 0.8) 0%, transparent 70%);
+        radial-gradient(circle at 50% 0%, rgba(245, 158, 11, 0.09) 0%, transparent 60%),
+        radial-gradient(circle at 100% 40%, rgba(139, 92, 246, 0.06) 0%, transparent 50%),
+        radial-gradient(circle at 0% 80%, rgba(15, 23, 42, 0.85) 0%, transparent 70%);
       background-attachment: fixed;
       color: var(--text-main);
       min-height: 100vh;
       display: flex;
       flex-direction: column;
       align-items: center;
-      padding: 40px 20px 120px 20px;
+      padding: 0 0 120px 0;
       -webkit-font-smoothing: antialiased;
     }
 
-    .container {
-      max-width: 820px;
+    /* Top Sticky Global Navigation Bar */
+    .top-nav {
+      position: sticky;
+      top: 0;
       width: 100%;
-    }
-
-    /* Hero Header */
-    .hero-card {
-      background: var(--bg-surface);
-      backdrop-filter: blur(20px);
-      -webkit-backdrop-filter: blur(20px);
-      border: 1px solid var(--border-gold);
-      border-radius: var(--radius-lg);
-      padding: 36px;
-      margin-bottom: 30px;
-      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6), 0 0 35px var(--gold-glow);
+      background: rgba(6, 9, 17, 0.82);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      border-bottom: 1px solid var(--border-subtle);
+      z-index: 999;
       display: flex;
-      gap: 32px;
-      align-items: center;
-      position: relative;
-      overflow: hidden;
+      justify-content: center;
+      padding: 0 24px;
     }
 
-    .hero-card::after {
-      content: "";
-      position: absolute;
-      top: 0; left: 0; right: 0; height: 1px;
-      background: linear-gradient(90deg, transparent, var(--gold-primary), transparent);
+    .nav-inner {
+      max-width: 1040px;
+      width: 100%;
+      height: 64px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .nav-brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      color: #fff;
+    }
+
+    .nav-logo {
+      width: 38px;
+      height: 38px;
+      border-radius: 10px;
+      border: 1px solid var(--border-gold);
+      box-shadow: 0 0 15px var(--gold-glow);
+    }
+
+    .nav-title {
+      font-weight: 800;
+      font-size: 1.15rem;
+      letter-spacing: -0.3px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .nav-tag {
+      font-size: 0.68rem;
+      font-weight: 700;
+      color: var(--gold-primary);
+      background: rgba(245, 158, 11, 0.12);
+      border: 1px solid var(--border-gold);
+      padding: 2px 7px;
+      border-radius: 12px;
+      letter-spacing: 0.5px;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-link {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 0.85rem;
+      font-weight: 600;
+      transition: color 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .nav-link:hover {
+      color: #ffffff;
     }
 
     /* Language Switcher Pill */
     .lang-switcher {
-      position: absolute;
-      top: 20px;
-      right: 20px;
       display: inline-flex;
-      background: rgba(0, 0, 0, 0.45);
+      background: rgba(15, 23, 42, 0.9);
       border: 1px solid var(--border-gold);
       border-radius: 30px;
       padding: 3px;
-      gap: 4px;
-      z-index: 10;
+      gap: 3px;
     }
 
     .lang-btn {
       background: transparent;
       border: none;
       color: var(--text-muted);
-      font-size: 0.78rem;
+      font-size: 0.76rem;
       font-weight: 700;
       padding: 5px 12px;
       border-radius: 20px;
@@ -102,7 +170,7 @@
       transition: all 0.2s ease;
       display: inline-flex;
       align-items: center;
-      gap: 5px;
+      gap: 4px;
     }
 
     .lang-btn:hover {
@@ -115,29 +183,58 @@
       box-shadow: 0 2px 10px var(--gold-glow);
     }
 
+    .container {
+      max-width: 980px;
+      width: 100%;
+      padding: 36px 20px 0 20px;
+    }
+
+    /* Hero Header */
+    .hero-card {
+      background: var(--bg-surface);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      border: 1px solid var(--border-gold);
+      border-radius: var(--radius-xl);
+      padding: 40px;
+      margin-bottom: 36px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.7), 0 0 40px var(--gold-glow);
+      display: flex;
+      gap: 36px;
+      align-items: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-card::after {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0; height: 1px;
+      background: linear-gradient(90deg, transparent, var(--gold-primary), transparent);
+    }
+
     .cover-wrap {
       flex-shrink: 0;
       position: relative;
     }
 
     .podcast-cover {
-      width: 190px;
-      height: 190px;
-      border-radius: 16px;
+      width: 200px;
+      height: 200px;
+      border-radius: 18px;
       object-fit: cover;
-      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.7), 0 0 20px var(--gold-glow);
+      box-shadow: 0 16px 36px rgba(0, 0, 0, 0.8), 0 0 25px var(--gold-glow);
       border: 1px solid var(--border-gold);
       display: block;
       transition: transform 0.3s ease;
     }
 
     .podcast-cover:hover {
-      transform: scale(1.02);
+      transform: scale(1.025);
     }
 
     .hero-content {
       flex: 1;
-      padding-top: 10px;
     }
 
     .brand-badge {
@@ -146,7 +243,7 @@
       gap: 6px;
       background: rgba(245, 158, 11, 0.12);
       color: var(--gold-primary);
-      font-size: 0.75rem;
+      font-size: 0.74rem;
       font-weight: 700;
       letter-spacing: 1px;
       text-transform: uppercase;
@@ -164,19 +261,35 @@
     }
 
     h1.show-title {
-      font-size: 1.9rem;
+      font-size: 2.1rem;
       font-weight: 800;
-      letter-spacing: -0.5px;
+      letter-spacing: -0.6px;
       color: #ffffff;
-      margin-bottom: 8px;
+      margin-bottom: 10px;
       line-height: 1.25;
     }
 
     .show-tagline {
-      font-size: 0.92rem;
+      font-size: 0.94rem;
       color: var(--text-muted);
-      line-height: 1.55;
+      line-height: 1.6;
+      margin-bottom: 22px;
+    }
+
+    .hero-meta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
       margin-bottom: 20px;
+      font-size: 0.8rem;
+      color: var(--text-sub);
+    }
+
+    .hero-meta-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      color: #cbd5e1;
     }
 
     /* Subscribe Bar */
@@ -190,7 +303,7 @@
       display: inline-flex;
       align-items: center;
       gap: 8px;
-      padding: 9px 16px;
+      padding: 9px 18px;
       border-radius: 10px;
       font-size: 0.85rem;
       font-weight: 600;
@@ -218,52 +331,48 @@
     }
     .btn-rss:hover {
       background: rgba(255, 255, 255, 0.14);
-      border-color: var(--border-gold);
-      transform: translateY(-2px);
+      border-color: rgba(255, 255, 255, 0.2);
     }
 
-    /* Now Playing Featured Card */
-    .featured-section {
-      margin-bottom: 35px;
-    }
-
+    /* Section Header */
     .section-header {
       display: flex;
       justify-content: space-between;
-      align-items: baseline;
-      margin-bottom: 14px;
+      align-items: center;
+      margin-bottom: 16px;
     }
 
     .section-title {
-      font-size: 1.15rem;
-      font-weight: 700;
+      font-size: 1.25rem;
+      font-weight: 800;
       color: #ffffff;
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 10px;
+      letter-spacing: -0.3px;
     }
 
-    .section-title::before {
-      content: "";
-      width: 4px; height: 16px;
-      background: var(--gold-primary);
-      border-radius: 2px;
+    /* Featured Player Card */
+    .featured-section {
+      margin-bottom: 40px;
     }
 
     .player-card {
-      background: linear-gradient(180deg, rgba(28, 37, 65, 0.7) 0%, rgba(15, 23, 42, 0.85) 100%);
-      backdrop-filter: blur(16px);
+      background: var(--bg-surface);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
       border: 1px solid var(--border-gold);
-      border-radius: var(--radius-md);
-      padding: 24px;
-      box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4);
+      border-radius: var(--radius-lg);
+      padding: 30px;
+      box-shadow: 0 15px 45px rgba(0, 0, 0, 0.5), 0 0 30px var(--gold-glow);
     }
 
     .featured-meta {
       display: flex;
       align-items: center;
       gap: 12px;
-      margin-bottom: 10px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
     }
 
     .ep-tag {
@@ -271,8 +380,8 @@
       color: #060911;
       font-size: 0.72rem;
       font-weight: 800;
-      padding: 2px 8px;
-      border-radius: 4px;
+      padding: 3px 9px;
+      border-radius: 6px;
       letter-spacing: 0.5px;
     }
 
@@ -283,36 +392,50 @@
 
     .ep-duration {
       font-size: 0.82rem;
-      color: var(--gold-light);
-      display: flex;
+      color: var(--text-muted);
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .ep-sub-badge {
+      font-size: 0.72rem;
+      font-weight: 700;
+      color: #38bdf8;
+      background: rgba(56, 189, 248, 0.12);
+      border: 1px solid rgba(56, 189, 248, 0.3);
+      padding: 2px 8px;
+      border-radius: 6px;
+      display: inline-flex;
       align-items: center;
       gap: 4px;
     }
 
     .featured-title {
-      font-size: 1.28rem;
-      font-weight: 700;
-      line-height: 1.4;
+      font-size: 1.35rem;
+      font-weight: 800;
       color: #ffffff;
       margin-bottom: 10px;
+      line-height: 1.4;
     }
 
     .featured-desc {
-      font-size: 0.9rem;
+      font-size: 0.92rem;
       color: var(--text-muted);
-      line-height: 1.6;
-      margin-bottom: 20px;
+      line-height: 1.65;
+      margin-bottom: 24px;
     }
 
-    /* Custom Player Controls */
+    /* Custom Audio Player Bar */
     .custom-player-bar {
+      background: rgba(6, 9, 17, 0.85);
+      border: 1px solid var(--border-gold);
+      border-radius: var(--radius-md);
+      padding: 18px 22px;
       display: flex;
       flex-direction: column;
-      gap: 12px;
-      background: rgba(0, 0, 0, 0.35);
-      border: 1px solid rgba(255, 255, 255, 0.05);
-      border-radius: 12px;
-      padding: 16px;
+      gap: 14px;
+      box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.6);
     }
 
     .player-top-row {
@@ -322,32 +445,44 @@
     }
 
     .play-btn {
-      width: 50px;
-      height: 50px;
+      width: 48px;
+      height: 48px;
       border-radius: 50%;
       background: var(--gold-primary);
       color: #060911;
       border: none;
+      cursor: pointer;
       display: flex;
       align-items: center;
       justify-content: center;
-      cursor: pointer;
-      font-size: 1.2rem;
-      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+      font-size: 1.25rem;
+      font-weight: bold;
+      transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
       box-shadow: 0 4px 15px var(--gold-glow);
       flex-shrink: 0;
     }
 
     .play-btn:hover {
+      transform: scale(1.08);
       background: var(--gold-light);
-      transform: scale(1.06);
+      box-shadow: 0 6px 22px rgba(245, 158, 11, 0.4);
+    }
+
+    .play-btn.playing {
+      animation: pulsePlay 2s infinite;
+    }
+
+    @keyframes pulsePlay {
+      0%, 100% { box-shadow: 0 0 15px var(--gold-primary); }
+      50% { box-shadow: 0 0 28px rgba(245, 158, 11, 0.7); }
     }
 
     .skip-btn {
       background: transparent;
       border: none;
       color: var(--text-muted);
-      font-size: 0.85rem;
+      font-size: 0.82rem;
+      font-weight: 600;
       cursor: pointer;
       display: flex;
       flex-direction: column;
@@ -368,9 +503,9 @@
 
     .progress-bar-wrap {
       width: 100%;
-      height: 6px;
+      height: 7px;
       background: rgba(255, 255, 255, 0.12);
-      border-radius: 3px;
+      border-radius: 4px;
       cursor: pointer;
       position: relative;
       overflow: hidden;
@@ -380,7 +515,7 @@
       height: 100%;
       width: 0%;
       background: linear-gradient(90deg, var(--gold-primary), var(--gold-light));
-      border-radius: 3px;
+      border-radius: 4px;
       transition: width 0.1s linear;
     }
 
@@ -395,17 +530,18 @@
     .player-secondary-controls {
       display: flex;
       align-items: center;
-      justify-content: flex-end;
+      justify-content: space-between;
       gap: 12px;
-      padding-top: 6px;
+      padding-top: 8px;
       border-top: 1px solid rgba(255, 255, 255, 0.05);
+      flex-wrap: wrap;
     }
 
     .speed-btn {
       background: rgba(255, 255, 255, 0.08);
       color: var(--gold-primary);
       border: 1px solid rgba(245, 158, 11, 0.3);
-      padding: 3px 10px;
+      padding: 4px 12px;
       border-radius: 6px;
       font-size: 0.78rem;
       font-weight: 700;
@@ -417,36 +553,126 @@
       color: #060911;
     }
 
-    /* Transcript Drawer */
-    .transcript-toggle {
-      background: transparent;
-      border: 1px dashed rgba(245, 158, 11, 0.4);
-      color: var(--gold-light);
-      width: 100%;
-      padding: 12px;
-      border-radius: 10px;
-      font-size: 0.88rem;
-      font-weight: 600;
-      cursor: pointer;
-      margin-top: 16px;
+    .download-group {
       display: flex;
       align-items: center;
-      justify-content: center;
+      gap: 12px;
+    }
+
+    .download-link {
+      color: var(--text-muted);
+      font-size: 0.78rem;
+      text-decoration: none;
+      transition: color 0.2s;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .download-link:hover { color: #fff; }
+
+    /* Interactive Transcript & Show Notes Tabs */
+    .transcript-module {
+      margin-top: 20px;
+    }
+
+    .transcript-tabs {
+      display: flex;
       gap: 8px;
+      border-bottom: 1px solid var(--border-subtle);
+      padding-bottom: 10px;
+    }
+
+    .tab-btn {
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      font-size: 0.86rem;
+      font-weight: 700;
+      padding: 8px 16px;
+      border-radius: 8px;
+      cursor: pointer;
       transition: all 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
     }
 
-    .transcript-toggle:hover {
-      background: rgba(245, 158, 11, 0.08);
-      border-color: var(--gold-primary);
+    .tab-btn.active {
+      background: rgba(245, 158, 11, 0.15);
+      color: var(--gold-light);
+      border: 1px solid rgba(245, 158, 11, 0.3);
     }
 
-    .transcript-body {
-      display: none;
-      background: rgba(6, 9, 17, 0.85);
+    .tab-btn:hover:not(.active) {
+      color: #fff;
+    }
+
+    /* Synced Karaoke Cue Container */
+    .synced-cues-container {
+      background: rgba(6, 9, 17, 0.88);
       border: 1px solid var(--border-subtle);
-      border-radius: 10px;
+      border-radius: 12px;
       padding: 20px;
+      margin-top: 12px;
+      max-height: 420px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      scroll-behavior: smooth;
+    }
+
+    .synced-cue-item {
+      padding: 10px 14px;
+      border-radius: 8px;
+      background: transparent;
+      color: #94a3b8;
+      font-size: 0.94rem;
+      line-height: 1.7;
+      cursor: pointer;
+      transition: all 0.25s ease;
+      border-left: 3px solid transparent;
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+    }
+
+    .synced-cue-item:hover {
+      background: rgba(255, 255, 255, 0.04);
+      color: #e2e8f0;
+    }
+
+    .synced-cue-item.active {
+      background: rgba(245, 158, 11, 0.12);
+      color: #ffffff;
+      font-weight: 600;
+      border-left: 3px solid var(--gold-primary);
+      box-shadow: 0 4px 15px rgba(245, 158, 11, 0.08);
+      transform: scale(1.01);
+    }
+
+    .cue-time {
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 0.76rem;
+      color: var(--text-sub);
+      background: rgba(255, 255, 255, 0.05);
+      padding: 2px 6px;
+      border-radius: 4px;
+      flex-shrink: 0;
+      margin-top: 3px;
+    }
+
+    .synced-cue-item.active .cue-time {
+      color: var(--gold-primary);
+      background: rgba(245, 158, 11, 0.2);
+    }
+
+    .raw-transcript-view {
+      display: none;
+      background: rgba(6, 9, 17, 0.88);
+      border: 1px solid var(--border-subtle);
+      border-radius: 12px;
+      padding: 22px;
       margin-top: 12px;
       font-size: 0.92rem;
       line-height: 1.8;
@@ -456,17 +682,145 @@
       white-space: pre-wrap;
     }
 
+    /* Platforms Matrix Section */
+    .platforms-section {
+      margin-bottom: 40px;
+    }
+
+    .platforms-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+      gap: 14px;
+    }
+
+    .platform-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 16px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      text-decoration: none;
+      color: #fff;
+      transition: all 0.25s ease;
+      cursor: pointer;
+    }
+
+    .platform-card:hover {
+      border-color: var(--border-gold);
+      background: var(--bg-surface-hover);
+      transform: translateY(-2px);
+    }
+
+    .platform-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.2rem;
+      flex-shrink: 0;
+    }
+
+    .icon-apple { background: linear-gradient(135deg, #7c3aed, #a855f7); }
+    .icon-spotify { background: #1ed760; color: #000; }
+    .icon-pocketcasts { background: #f43f5e; }
+    .icon-overcast { background: #ea580c; }
+    .icon-youtube { background: #ef4444; }
+    .icon-rss { background: #f59e0b; color: #000; }
+
+    .platform-name {
+      font-weight: 700;
+      font-size: 0.92rem;
+      margin-bottom: 2px;
+    }
+
+    .platform-sub {
+      font-size: 0.74rem;
+      color: var(--text-sub);
+    }
+
+    /* Search & Topic Filters */
+    .filter-bar {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      margin-bottom: 22px;
+    }
+
+    .search-input-wrap {
+      position: relative;
+      width: 100%;
+    }
+
+    .search-input {
+      width: 100%;
+      background: rgba(15, 23, 42, 0.9);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 12px 18px 12px 42px;
+      color: #fff;
+      font-size: 0.9rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .search-input:focus {
+      border-color: var(--gold-primary);
+      box-shadow: 0 0 15px var(--gold-glow);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 15px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-sub);
+      font-size: 0.9rem;
+    }
+
+    .topic-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .topic-pill {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      font-size: 0.78rem;
+      font-weight: 600;
+      padding: 5px 12px;
+      border-radius: 20px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .topic-pill:hover {
+      color: #fff;
+      border-color: rgba(255, 255, 255, 0.2);
+    }
+
+    .topic-pill.active {
+      background: rgba(245, 158, 11, 0.15);
+      color: var(--gold-light);
+      border-color: var(--gold-primary);
+    }
+
     /* Episodes List */
     .episodes-section {
-      margin-top: 35px;
+      margin-bottom: 40px;
     }
 
     .episode-card {
       background: var(--bg-surface);
       border: 1px solid var(--border-subtle);
       border-radius: var(--radius-md);
-      padding: 20px;
-      margin-bottom: 14px;
+      padding: 22px;
+      margin-bottom: 16px;
       transition: all 0.25s ease;
       position: relative;
     }
@@ -481,28 +835,52 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-bottom: 8px;
+      margin-bottom: 10px;
+      flex-wrap: wrap;
+      gap: 8px;
     }
 
     .card-title {
-      font-size: 1.05rem;
+      font-size: 1.12rem;
       font-weight: 700;
       color: #ffffff;
-      margin-bottom: 6px;
+      margin-bottom: 8px;
       line-height: 1.4;
     }
 
     .card-desc {
-      font-size: 0.86rem;
+      font-size: 0.88rem;
       color: var(--text-muted);
-      line-height: 1.55;
+      line-height: 1.6;
+      margin-bottom: 16px;
+    }
+
+    .ticker-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
       margin-bottom: 14px;
+    }
+
+    .ticker-tag {
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 0.72rem;
+      font-weight: 700;
+      color: #38bdf8;
+      background: rgba(56, 189, 248, 0.1);
+      border: 1px solid rgba(56, 189, 248, 0.25);
+      padding: 2px 7px;
+      border-radius: 4px;
     }
 
     .card-actions {
       display: flex;
       align-items: center;
+      justify-content: space-between;
       gap: 12px;
+      flex-wrap: wrap;
+      padding-top: 10px;
+      border-top: 1px solid rgba(255, 255, 255, 0.05);
     }
 
     .card-play-btn {
@@ -512,10 +890,10 @@
       background: rgba(245, 158, 11, 0.15);
       color: var(--gold-primary);
       border: 1px solid rgba(245, 158, 11, 0.3);
-      padding: 6px 14px;
-      border-radius: 6px;
-      font-size: 0.82rem;
-      font-weight: 600;
+      padding: 7px 16px;
+      border-radius: 8px;
+      font-size: 0.84rem;
+      font-weight: 700;
       cursor: pointer;
       transition: all 0.2s;
     }
@@ -525,20 +903,81 @@
       color: #060911;
     }
 
-    /* Sticky Bottom Player (Mobile/Scroll) */
+    /* About Section */
+    .about-section {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-gold);
+      border-radius: var(--radius-lg);
+      padding: 32px;
+      margin-bottom: 40px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+    }
+
+    .about-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 28px;
+      margin-top: 20px;
+    }
+
+    .about-card {
+      background: rgba(6, 9, 17, 0.6);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 20px;
+    }
+
+    .about-card h3 {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--gold-light);
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .about-card p {
+      font-size: 0.88rem;
+      color: var(--text-muted);
+      line-height: 1.65;
+    }
+
+    /* Disclaimer Section */
+    .disclaimer-section {
+      background: rgba(15, 23, 42, 0.6);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 22px;
+      margin-bottom: 40px;
+      font-size: 0.82rem;
+      color: var(--text-sub);
+      line-height: 1.65;
+    }
+
+    .disclaimer-title {
+      font-weight: 700;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    /* Sticky Bottom Player */
     .sticky-player {
       position: fixed;
       bottom: 20px;
       left: 50%;
-      transform: translateX(-50%) translateY(120px);
+      transform: translateX(-50%) translateY(140px);
       width: calc(100% - 40px);
-      max-width: 760px;
+      max-width: 820px;
       background: rgba(15, 23, 42, 0.95);
-      backdrop-filter: blur(20px);
-      -webkit-backdrop-filter: blur(20px);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
       border: 1px solid var(--border-gold);
-      border-radius: 16px;
-      padding: 12px 20px;
+      border-radius: 18px;
+      padding: 12px 22px;
       box-shadow: 0 10px 40px rgba(0, 0, 0, 0.8), 0 0 25px var(--gold-glow);
       display: flex;
       align-items: center;
@@ -553,74 +992,73 @@
 
     .sticky-info {
       flex: 1;
-      overflow: hidden;
+      min-width: 0;
     }
 
     .sticky-title {
-      font-size: 0.85rem;
+      font-size: 0.92rem;
       font-weight: 700;
-      color: #fff;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
+      color: #fff;
     }
 
     .sticky-time {
-      font-size: 0.72rem;
-      color: var(--gold-light);
+      font-size: 0.74rem;
+      color: var(--text-sub);
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
     }
 
     /* Toast Notification */
     .toast {
       position: fixed;
-      top: 24px;
+      bottom: 90px;
       left: 50%;
-      transform: translateX(-50%) translateY(-100px);
-      background: #10b981;
-      color: white;
-      font-size: 0.88rem;
-      font-weight: 600;
+      transform: translateX(-50%) translateY(20px);
+      background: var(--gold-primary);
+      color: #060911;
       padding: 10px 22px;
       border-radius: 30px;
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
-      z-index: 9999;
-      transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      font-size: 0.86rem;
+      font-weight: 700;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6);
+      opacity: 0;
       pointer-events: none;
+      transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+      z-index: 2000;
     }
-    .toast.show { transform: translateX(-50%) translateY(0); }
 
-    /* Footer */
+    .toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
     footer {
       text-align: center;
-      margin-top: 60px;
       font-size: 0.8rem;
       color: var(--text-sub);
-      line-height: 1.8;
+      line-height: 1.6;
+      border-top: 1px solid rgba(255, 255, 255, 0.05);
+      padding-top: 24px;
     }
 
-    /* Responsive */
-    @media (max-width: 680px) {
+    @media (max-width: 768px) {
+      .nav-links { display: none; }
       .hero-card {
         flex-direction: column;
         text-align: center;
-        padding: 24px;
-        padding-top: 60px;
-      }
-      .lang-switcher {
-        top: 14px;
-        right: 50%;
-        transform: translateX(50%);
+        padding: 28px 20px;
       }
       .podcast-cover {
-        width: 160px;
-        height: 160px;
+        width: 170px;
+        height: 170px;
         margin: 0 auto;
       }
-      .subscribe-matrix {
-        justify-content: center;
-      }
-      .section-title { font-size: 1.05rem; }
-      .featured-title { font-size: 1.15rem; }
+      .hero-meta-row { justify-content: center; }
+      .subscribe-matrix { justify-content: center; }
+      .about-grid { grid-template-columns: 1fr; }
+      .platforms-grid { grid-template-columns: 1fr 1fr; }
     }
   </style>
 </head>
@@ -629,26 +1067,49 @@
   <!-- Toast Notification -->
   <div class="toast" id="toast">已复制 RSS 订阅源链接！</div>
 
+  <!-- Top Sticky Global Navigation Bar -->
+  <header class="top-nav">
+    <div class="nav-inner">
+      <a href="#" class="nav-brand">
+        <img src="cover.jpg" alt="小方财经" class="nav-logo">
+        <div class="nav-title">
+          <span id="navShowTitle">小方财经</span>
+          <span class="nav-tag" id="navTag">DAILY BRIEF</span>
+        </div>
+      </a>
+      <nav class="nav-links">
+        <a href="#featured" class="nav-link">🎙️ <span id="navFeatured">今日晨会</span></a>
+        <a href="#transcript" class="nav-link">⚡ <span id="navTranscript">同步字幕</span></a>
+        <a href="#platforms" class="nav-link">🎧 <span id="navPlatforms">收听渠道</span></a>
+        <a href="#archive" class="nav-link">📚 <span id="navArchive">往期内参</span></a>
+        <a href="#about" class="nav-link">💡 <span id="navAbout">投研理念</span></a>
+      </nav>
+      <div class="lang-switcher">
+        <button class="lang-btn active" id="btnLangZh" onclick="switchLanguage('zh')">🇨🇳 中文</button>
+        <button class="lang-btn" id="btnLangEn" onclick="switchLanguage('en')">🇺🇸 EN</button>
+      </div>
+    </div>
+  </header>
+
   <div class="container">
     
-    <!-- Hero Header -->
-    <div class="hero-card">
-      
-      <!-- Interactive Language Switcher -->
-      <div class="lang-switcher">
-        <button class="lang-btn active" id="btnLangZh" onclick="switchLanguage('zh')">🇨🇳 中文版</button>
-        <button class="lang-btn" id="btnLangEn" onclick="switchLanguage('en')">🇺🇸 English</button>
-      </div>
-
+    <!-- Hero Header Section -->
+    <div class="hero-card" id="hero">
       <div class="cover-wrap">
         <img src="cover.jpg" alt="小方财经播客封面" class="podcast-cover">
       </div>
       <div class="hero-content">
         <div class="brand-badge" id="brandBadge"><span class="pulse"></span> 每日晨会直通车 · 纯干货内参</div>
-        <h1 class="show-title" id="showTitle">小方财经</h1>
+        <h1 class="show-title" id="showTitle">小方财经 · Morning Finance</h1>
         <p class="show-tagline" id="showTagline">
-          聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。
+          聚焦全球宏观异动，深挖美股多空博弈。每日美东开盘前为您呈现事实坚决去重、拒绝车轱辘套话、点位风控拉满的早间第一手财金内参。车载通勤，开盘前必听。
         </p>
+        <div class="hero-meta-row">
+          <span class="hero-meta-item">🎙️ 主讲：<strong id="heroHost" style="color:#fff;">小方 (XiaoFang)</strong></span>
+          <span class="hero-meta-item">⏱️ 更新：美东交易日 06:00 EST</span>
+          <span class="hero-meta-item">⚡ 响度：-16 LUFS 广播级</span>
+          <span class="hero-meta-item">📜 规范：Podcasting 2.0 原生同步字幕</span>
+        </div>
         <div class="subscribe-matrix">
           <a href="podcast://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" class="btn-sub btn-apple" id="applePodcastBtn">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M15.97 6.38c.62-.75 1.04-1.8 0.92-2.85-.9.04-2 .6-2.65 1.35-.58.66-1.09 1.73-.95 2.76.99.08 2.05-.51 2.68-1.26z"/></svg>
@@ -663,9 +1124,9 @@
     </div>
 
     <!-- Featured Latest Episode Card -->
-    <div class="featured-section">
+    <div class="featured-section" id="featured">
       <div class="section-header">
-        <div class="section-title" id="featuredSectionTitle">今日头条单集</div>
+        <div class="section-title" id="featuredSectionTitle">今日头条晨报</div>
         <span style="font-size: 0.82rem; color: var(--gold-light);" id="featuredBadge">★ 权威晨间联播</span>
       </div>
       
@@ -674,10 +1135,19 @@
           <span class="ep-tag" id="featEpTag">EP.3</span>
           <span class="ep-date" id="featDate">2026-09-16</span>
           <span class="ep-duration">⏱️ <span id="featDuration">8分51秒</span></span>
+          <span class="ep-sub-badge" id="featSubBadge">⚡ Podcasting 2.0 同步字幕</span>
         </div>
-        <div class="featured-title" id="featTitle">【小方财经】2026-09-16 · 全球宏观多空深度博弈</div>
+        <div class="featured-title" id="featTitle">【小方财经】2026-09-16 · 全球宏观与美股多空深度博弈</div>
         <div class="featured-desc" id="featDesc">
           美联储三年首次加息25基点落地；点阵图暗示窗口极短但美债收益率飙至20年新高。多空分歧激烈：盈利底+中期选举全胜规律 vs 周期尾部估值收缩。全篇事实坚决去重，深挖多空分歧与个股点位。
+        </div>
+
+        <div class="ticker-tags" id="featTickers">
+          <span class="ticker-tag">$SPX 标普500</span>
+          <span class="ticker-tag">$NDX 纳指100</span>
+          <span class="ticker-tag">$TLT 20年美债</span>
+          <span class="ticker-tag">$NVDA 英伟达</span>
+          <span class="ticker-tag">$AAPL 苹果</span>
         </div>
 
         <!-- Custom Audio Player Bar -->
@@ -698,40 +1168,173 @@
           </div>
           <div class="player-secondary-controls">
             <button class="speed-btn" id="speedBtn" onclick="cycleSpeed()">1.0x 倍速</button>
-            <a id="downloadLink" href="episodes/morning_digest_2026-09-16.mp3" download style="color: var(--text-muted); font-size: 0.78rem; text-decoration: none;">⬇ 下载 MP3</a>
+            <div class="download-group">
+              <a id="downloadLink" href="episodes/morning_digest_2026-09-16.mp3" download class="download-link">⬇ 下载 MP3</a>
+              <a id="downloadVttLink" href="episodes/morning_digest_2026-09-16.vtt" download class="download-link">📝 下载 VTT 字幕</a>
+              <a id="downloadSrtLink" href="episodes/morning_digest_2026-09-16.srt" download class="download-link">📜 下载 SRT 字幕</a>
+            </div>
           </div>
         </div>
 
-        <!-- Transcript Collapsible Drawer -->
-        <button class="transcript-toggle" onclick="toggleTranscript()">
-          <span id="transcriptBtnText">📄 阅读今日晨会全文内参（Show Notes 逐字稿）</span>
-          <span id="transcriptArrow">▼</span>
-        </button>
-        <div class="transcript-body" id="transcriptBody">正在加载最新内参文稿...</div>
+        <!-- Interactive Transcript & Show Notes Module -->
+        <div class="transcript-module" id="transcript">
+          <div class="transcript-tabs">
+            <button class="tab-btn active" id="tabSyncedBtn" onclick="switchTranscriptTab('synced')">
+              ⚡ 实时同步字幕 (点击句子跳播)
+            </button>
+            <button class="tab-btn" id="tabFullBtn" onclick="switchTranscriptTab('full')">
+              📄 深度内参全文 (Show Notes)
+            </button>
+          </div>
+
+          <!-- Synced Karaoke Cues Container -->
+          <div class="synced-cues-container" id="syncedCuesContainer">
+            <div style="color: var(--text-sub); text-align: center; padding: 20px;">正在加载同步字幕...</div>
+          </div>
+
+          <!-- Raw Full-Text View -->
+          <div class="raw-transcript-view" id="rawTranscriptView">
+            正在加载全文研报内参...
+          </div>
+        </div>
+
       </div>
     </div>
 
-    <!-- Episode Archive Section -->
-    <div class="episodes-section">
+    <!-- Listen Everywhere Platforms Section -->
+    <div class="platforms-section" id="platforms">
       <div class="section-header">
-        <div class="section-title" id="archiveSectionTitle">往期晨报列表</div>
-        <span style="font-size: 0.82rem; color: var(--text-sub);" id="archiveSub">按时间倒序排列</span>
+        <div class="section-title">🎧 <span id="platformsSectionTitle">多平台收听矩阵</span></div>
+        <span style="font-size: 0.82rem; color: var(--text-sub);">全平台通用 RSS 2.0 / Podcasting 2.0</span>
       </div>
+      <div class="platforms-grid">
+        <a href="podcast://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" class="platform-card" id="cardApple">
+          <div class="platform-icon icon-apple">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M15.97 6.38c.62-.75 1.04-1.8 0.92-2.85-.9.04-2 .6-2.65 1.35-.58.66-1.09 1.73-.95 2.76.99.08 2.05-.51 2.68-1.26z"/></svg>
+          </div>
+          <div>
+            <div class="platform-name">Apple 播客</div>
+            <div class="platform-sub">一键添加节目资料库</div>
+          </div>
+        </a>
+
+        <div class="platform-card" onclick="copyFeedUrl()">
+          <div class="platform-icon icon-spotify">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm4.586 14.424c-.18.295-.563.387-.857.207-2.348-1.435-5.304-1.76-8.785-.963-.335.077-.67-.133-.747-.468-.077-.334.133-.67.468-.747 3.808-.87 7.076-.496 9.714 1.115.295.18.387.563.207.856zm1.224-2.723c-.226.367-.708.482-1.075.257-2.687-1.652-6.785-2.131-9.965-1.166-.413.126-.85-.108-.975-.521-.126-.413.108-.85.521-.975 3.632-1.102 8.147-.568 11.237 1.33.367.225.482.707.257 1.075zm.105-2.835C14.692 8.95 9.375 8.775 6.297 9.71c-.493.15-1.016-.13-1.166-.623-.15-.493.13-1.016.623-1.166 3.532-1.072 9.404-.866 13.115 1.338.445.264.59.838.327 1.282-.264.443-.838.59-1.281.325z"/></svg>
+          </div>
+          <div>
+            <div class="platform-name">Spotify</div>
+            <div class="platform-sub">复制 RSS 导入收听</div>
+          </div>
+        </div>
+
+        <a href="pktc://subscribe/boardgamevoice-commits.github.io/morning-podcast/podcast.xml" class="platform-card" id="cardPocketCasts">
+          <div class="platform-icon icon-pocketcasts">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="10"/><path d="M12 4a8 8 0 108 8h-2a6 6 0 11-6-6V4z" fill="#fff"/></svg>
+          </div>
+          <div>
+            <div class="platform-name">Pocket Casts</div>
+            <div class="platform-sub">支持 Podcasting 2.0 字幕</div>
+          </div>
+        </a>
+
+        <a href="overcast://x-callback-url/add?url=https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" class="platform-card" id="cardOvercast">
+          <div class="platform-icon icon-overcast">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="4" fill="#fff"/></svg>
+          </div>
+          <div>
+            <div class="platform-name">Overcast</div>
+            <div class="platform-sub">iOS 极致智能人声加速</div>
+          </div>
+        </a>
+
+        <div class="platform-card" onclick="copyFeedUrl()">
+          <div class="platform-icon icon-rss">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><circle cx="6.18" cy="17.82" r="2.18"/><path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/></svg>
+          </div>
+          <div>
+            <div class="platform-name">通用 RSS 订阅源</div>
+            <div class="platform-sub">点击一键复制 XML 链接</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Archive & Search Section -->
+    <div class="episodes-section" id="archive">
+      <div class="section-header">
+        <div class="section-title" id="archiveSectionTitle">📚 往期晨报内参库</div>
+        <span style="font-size: 0.82rem; color: var(--text-sub);" id="archiveSub">按发布时间倒序排列</span>
+      </div>
+
+      <!-- Search & Filters -->
+      <div class="filter-bar">
+        <div class="search-input-wrap">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="searchInput" class="search-input" placeholder="搜索单集关键词（例如：美联储、加息、英伟达、CPI、估值）..." oninput="handleSearch()">
+        </div>
+        <div class="topic-pills">
+          <button class="topic-pill active" onclick="filterByTopic('all')">全部单集</button>
+          <button class="topic-pill" onclick="filterByTopic('美联储')">#美联储加息</button>
+          <button class="topic-pill" onclick="filterByTopic('美债')">#美债与流动性</button>
+          <button class="topic-pill" onclick="filterByTopic('多空')">#多空博弈点位</button>
+          <button class="topic-pill" onclick="filterByTopic('AI')">#AI与半导体</button>
+          <button class="topic-pill" onclick="filterByTopic('纳指')">#纳斯达克</button>
+        </div>
+      </div>
+
       <div id="episodesListContainer">
-        <!-- Dynamically populated from episodes.json / episodes_en.json -->
+        <!-- Dynamically rendered -->
       </div>
+    </div>
+
+    <!-- About Section -->
+    <div class="about-section" id="about">
+      <div class="section-header">
+        <div class="section-title">💡 <span id="aboutSectionTitle">关于小方财经 / 投研体系</span></div>
+      </div>
+      <p style="font-size: 0.92rem; color: var(--text-muted); line-height: 1.7;" id="aboutLead">
+        《小方财经》（XiaoFang Finance）是由个人主理人小方驱动的独立早间全球财金内参。我们借助前沿本地大模型技术，对全球对冲基金研报、美联储纪要及华尔街一线交易员观点进行全自动化交叉核验与去重提炼，旨在为敏锐投资者提供最具时效性与纯信号密度的决策情报。
+      </p>
+
+      <div class="about-grid">
+        <div class="about-card">
+          <h3>🎯 投研三原则</h3>
+          <p>
+            <strong>1. 事实坚决去重</strong>：同一事件只讲一次因果，不来回倒腾；<br>
+            <strong>2. 拒绝废话套话</strong>：开门见山，直接切入核心数据与标的点位；<br>
+            <strong>3. 深挖多空博弈</strong>：不仅看共识，更剖析顶级机构在周期尾部与估值收缩上的根本分歧。
+          </p>
+        </div>
+        <div class="about-card">
+          <h3>🎙️ 工业级双轨标准</h3>
+          <p>
+            <strong>中英双轨原生撰稿</strong>：英文国际版由 AI 原生起草，绝非机翻直译腔；<br>
+            <strong>-16 LUFS 母带响度</strong>：严格遵循 Apple Podcasts 国际广播级响度规范；<br>
+            <strong>Podcasting 2.0 同步字幕</strong>：全自动导出 WebVTT/SRT，实现边听边看毫秒级同步滚动。
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Legal & Financial Disclaimer Section -->
+    <div class="disclaimer-section" id="disclaimer">
+      <div class="disclaimer-title">⚖️ 投研合规与免责声明 (Disclaimer)</div>
+      <p>
+        《小方财经》所有音频内容、逐字内参及相关分析仅作为主理人对全球公开宏观数据与市场盘面的个人观察与学术探讨，<strong>不构成任何形式的证券投资建议、买卖要约或操作背书</strong>。资本市场存在极高的本金损失风险，历史规律与量化统计不保证未来收益。听众在做出任何投资决策前，应根据自身财务状况与风险承受能力进行独立审慎判断，或咨询执业投资顾问。主理人及本节目对依据本内参进行的任何交易后果不承担任何法律责任。
+      </p>
     </div>
 
     <footer>
-      <p id="footerText">© 2026 小方财经 · 纯个人独立投研电台</p>
-      <p style="margin-top: 4px;" id="footerSub">Apple Podcasts RSS 2.0 工业标准 · 纯本地 Metal GPU 离线提炼 · -16 LUFS 广播级母带</p>
+      <p id="footerText">© 2026 小方财经 · 纯个人独立全球投研电台</p>
+      <p style="margin-top: 4px;" id="footerSub">Apple Podcasts RSS 2.0 工业标准 · Podcasting 2.0 原生同步字幕 · 纯本地 Metal GPU 离线提炼 · -16 LUFS 广播级母带</p>
     </footer>
 
   </div>
 
-  <!-- Sticky Bottom Player -->
+  <!-- Sticky Bottom Mini-Player -->
   <div class="sticky-player" id="stickyPlayer">
-    <button class="play-btn" style="width: 40px; height: 40px; font-size: 1rem;" id="stickyPlayBtn" onclick="togglePlay()">▶</button>
+    <button class="play-btn" style="width: 42px; height: 42px; font-size: 1rem;" id="stickyPlayBtn" onclick="togglePlay()">▶</button>
     <div class="sticky-info">
       <div class="sticky-title" id="stickyTitle">小方财经</div>
       <div class="sticky-time"><span id="stickyCurrTime">00:00</span> / <span id="stickyTotTime">08:51</span></div>
@@ -739,58 +1342,90 @@
     <button class="speed-btn" onclick="cycleSpeed()" id="stickySpeedBtn">1.0x</button>
   </div>
 
-  <!-- Audio Element -->
+  <!-- Hidden Audio Element -->
   <audio id="audioElement" preload="metadata"></audio>
 
   <script>
     const I18N = {
       zh: {
+        navShowTitle: "小方财经",
+        navTag: "DAILY BRIEF",
+        navFeatured: "今日晨会",
+        navTranscript: "同步字幕",
+        navPlatforms: "收听渠道",
+        navArchive: "往期内参",
+        navAbout: "投研理念",
         brandBadge: "每日晨会直通车 · 纯干货内参",
-        showTitle: "小方财经",
-        showTagline: "聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。",
+        showTitle: "小方财经 · Morning Finance",
+        showTagline: "聚焦全球宏观异动，深挖美股多空博弈。每日美东开盘前为您呈现事实坚决去重、拒绝车轱辘套话、点位风控拉满的早间第一手财金内参。车载通勤，开盘前必听。",
+        heroHost: "小方 (XiaoFang)",
         appleBtnText: "Apple 播客一键订阅",
         rssBtnText: "复制通用 RSS 源",
-        featuredSectionTitle: "今日头条单集",
+        featuredSectionTitle: "今日头条晨报",
         featuredBadge: "★ 权威晨间联播",
-        archiveSectionTitle: "往期晨报列表",
-        archiveSub: "按时间倒序排列",
-        transcriptBtnText: "📄 阅读今日晨会全文内参（Show Notes 逐字稿）",
-        feedUrl: "https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml",
-        appleUrl: "podcast://boardgamevoice-commits.github.io/morning-podcast/podcast.xml",
+        platformsSectionTitle: "多平台收听矩阵",
+        archiveSectionTitle: "📚 往期晨报内参库",
+        archiveSub: "按发布时间倒序排列",
+        aboutSectionTitle: "关于小方财经 / 投研体系",
+        tabSyncedText: "⚡ 实时同步字幕 (点击句子跳播)",
+        tabFullText: "📄 深度内参全文 (Show Notes)",
+        playNow: "▶ 立即播放",
+        downloadMp3: "⬇ MP3",
+        downloadVtt: "📝 VTT字幕",
+        toastCopied: "已复制通用 RSS 订阅源！在任何播客客户端添加 URL 即可收听。",
+        footerText: "© 2026 小方财经 · 纯个人独立全球投研电台",
+        footerSub: "Apple Podcasts RSS 2.0 工业标准 · Podcasting 2.0 原生同步字幕 · 纯本地 Metal GPU 离线提炼 · -16 LUFS 广播级母带",
         episodesJson: "episodes.json",
+        feedUrl: "https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml",
         transcriptFile: "morning_digest_2026-09-16.txt",
-        playNow: "▶ 立即收听",
-        downloadMp3: "⬇ 下载 MP3",
-        toastCopied: "已复制【小方财经】中文 RSS 订阅源链接！",
-        footerText: "© 2026 小方财经 · 纯个人独立投研电台",
-        footerSub: "Apple Podcasts RSS 2.0 工业标准 · 纯本地 Metal GPU 离线提炼 · -16 LUFS 广播级母带",
-        speedSuffix: " 倍速"
+        vttFile: "episodes/morning_digest_2026-09-16.vtt",
+        searchPlaceholder: "搜索单集关键词（例如：美联储、加息、英伟达、CPI、估值）..."
       },
       en: {
-        brandBadge: "WALL STREET MORNING BRIEF · INSTITUTIONAL ALPHA",
-        showTitle: "XiaoFang Finance",
-        showTagline: "First-hand macro intelligence and Wall Street market dynamics distilled for acute investors. Pure signal, fact deduplication, consensus & divergence, and actionable risk levels. Fast-paced, concise, institutional morning briefing.",
+        navShowTitle: "XiaoFang Finance",
+        navTag: "WALL STREET BRIEF",
+        navFeatured: "Morning Brief",
+        navTranscript: "Synced Captions",
+        navPlatforms: "Platforms",
+        navArchive: "Archive",
+        navAbout: "Philosophy",
+        brandBadge: "Wall Street Morning Briefing · Pure Signal",
+        showTitle: "XiaoFang Finance: Wall Street Brief",
+        showTagline: "First-hand macro intelligence and Wall Street market dynamics distilled for acute investors. Pure signal, fact deduplication, consensus & divergence, and actionable risk levels. Fast-paced, institutional morning briefing.",
+        heroHost: "XiaoFang",
         appleBtnText: "Subscribe on Apple Podcasts",
-        rssBtnText: "Copy RSS Feed URL",
-        featuredSectionTitle: "Today's Featured Brief",
-        featuredBadge: "★ Wall Street Morning Edition",
-        archiveSectionTitle: "Past Daily Briefings",
-        archiveSub: "Chronological Archive",
-        transcriptBtnText: "📄 Read Today's Full Show Notes (Transcript)",
-        feedUrl: "https://boardgamevoice-commits.github.io/morning-podcast/podcast-en.xml",
-        appleUrl: "podcast://boardgamevoice-commits.github.io/morning-podcast/podcast-en.xml",
+        rssBtnText: "Copy Universal RSS Feed",
+        featuredSectionTitle: "Today's Wall Street Brief",
+        featuredBadge: "★ Institutional Briefing",
+        platformsSectionTitle: "Listen Everywhere",
+        archiveSectionTitle: "📚 Morning Briefing Archive",
+        archiveSub: "Sorted in reverse chronological order",
+        aboutSectionTitle: "About XiaoFang Finance / Methodology",
+        tabSyncedText: "⚡ Live Synced Transcript (Click line to seek)",
+        tabFullText: "📄 Full Show Notes & Outline",
+        playNow: "▶ Play Episode",
+        downloadMp3: "⬇ MP3",
+        downloadVtt: "📝 VTT Captions",
+        toastCopied: "Copied RSS Feed URL! Paste into any podcast client to subscribe.",
+        footerText: "© 2026 XiaoFang Finance · Independent Wall Street Intelligence",
+        footerSub: "Apple Podcasts RSS 2.0 Standards · Podcasting 2.0 Synced Transcripts · Metal GPU Pipeline · -16 LUFS Broadcast Master",
         episodesJson: "episodes_en.json",
+        feedUrl: "https://boardgamevoice-commits.github.io/morning-podcast/podcast-en.xml",
         transcriptFile: "morning_digest_en_2026-09-16.txt",
-        playNow: "▶ Listen Now",
-        downloadMp3: "⬇ Download MP3",
-        toastCopied: "Copied [XiaoFang Finance] English RSS Feed URL!",
-        footerText: "© 2026 XiaoFang Finance · Independent Market Intelligence",
-        footerSub: "Apple Podcasts RSS 2.0 Compliant · Local Metal GPU Synthesis · -16 LUFS Broadcast Master",
-        speedSuffix: "x Speed"
+        vttFile: "episodes/morning_digest_en_2026-09-16.vtt",
+        searchPlaceholder: "Search episodes (e.g., Fed, Rate Hike, Nvidia, CPI, Valuation)..."
       }
     };
 
-    let currentLang = localStorage.getItem("xf_podcast_lang") || "zh";
+    let currentLang = localStorage.getItem("podcast_lang") || "zh";
+    let allEpisodes = [];
+    let currentFilteredEpisodes = [];
+    let activeCues = [];
+    let currentActiveCueIndex = -1;
+    let currentPlayingEp = null;
+    let currentSpeedIdx = 0;
+    const speeds = [1.0, 1.25, 1.5, 1.75, 2.0];
+
     const audio = document.getElementById("audioElement");
     const mainPlayBtn = document.getElementById("mainPlayBtn");
     const stickyPlayBtn = document.getElementById("stickyPlayBtn");
@@ -803,44 +1438,61 @@
     const stickySpeedBtn = document.getElementById("stickySpeedBtn");
     const stickyPlayer = document.getElementById("stickyPlayer");
     const featuredCard = document.getElementById("featuredCard");
-    
-    let speeds = [1.0, 1.25, 1.5, 2.0];
-    let currentSpeedIdx = 0;
-    let allEpisodes = [];
-    let currentPlayingEp = null;
 
+    // Language Switcher
     function switchLanguage(lang) {
       currentLang = lang;
-      localStorage.setItem("xf_podcast_lang", lang);
+      localStorage.setItem("podcast_lang", lang);
 
       document.getElementById("btnLangZh").classList.toggle("active", lang === "zh");
       document.getElementById("btnLangEn").classList.toggle("active", lang === "en");
 
       const t = I18N[lang];
-      document.getElementById("brandBadge").innerHTML = `<span class="pulse"></span> ` + t.brandBadge;
+      document.getElementById("navShowTitle").innerText = t.navShowTitle;
+      document.getElementById("navTag").innerText = t.navTag;
+      document.getElementById("navFeatured").innerText = t.navFeatured;
+      document.getElementById("navTranscript").innerText = t.navTranscript;
+      document.getElementById("navPlatforms").innerText = t.navPlatforms;
+      document.getElementById("navArchive").innerText = t.navArchive;
+      document.getElementById("navAbout").innerText = t.navAbout;
+
+      document.getElementById("brandBadge").innerHTML = `<span class="pulse"></span> ${t.brandBadge}`;
       document.getElementById("showTitle").innerText = t.showTitle;
       document.getElementById("showTagline").innerText = t.showTagline;
+      document.getElementById("heroHost").innerText = t.heroHost;
       document.getElementById("appleBtnText").innerText = t.appleBtnText;
       document.getElementById("rssBtnText").innerText = t.rssBtnText;
-      document.getElementById("applePodcastBtn").href = t.appleUrl;
+
+      const appleScheme = lang === "zh"
+        ? "podcast://boardgamevoice-commits.github.io/morning-podcast/podcast.xml"
+        : "podcast://boardgamevoice-commits.github.io/morning-podcast/podcast-en.xml";
+      document.getElementById("applePodcastBtn").href = appleScheme;
+      document.getElementById("cardApple").href = appleScheme;
+      document.getElementById("cardPocketCasts").href = "pktc://subscribe/" + t.feedUrl.replace("https://", "");
+      document.getElementById("cardOvercast").href = "overcast://x-callback-url/add?url=" + encodeURIComponent(t.feedUrl);
+
       document.getElementById("featuredSectionTitle").innerText = t.featuredSectionTitle;
       document.getElementById("featuredBadge").innerText = t.featuredBadge;
+      document.getElementById("platformsSectionTitle").innerText = t.platformsSectionTitle;
       document.getElementById("archiveSectionTitle").innerText = t.archiveSectionTitle;
       document.getElementById("archiveSub").innerText = t.archiveSub;
-      document.getElementById("transcriptBtnText").innerText = t.transcriptBtnText;
+      document.getElementById("aboutSectionTitle").innerText = t.aboutSectionTitle;
+      document.getElementById("tabSyncedBtn").innerText = t.tabSyncedText;
+      document.getElementById("tabFullBtn").innerText = t.tabFullText;
+      document.getElementById("searchInput").placeholder = t.searchPlaceholder;
       document.getElementById("footerText").innerText = t.footerText;
       document.getElementById("footerSub").innerText = t.footerSub;
-      document.title = lang === "zh" ? "小方财经 · Morning Finance" : "XiaoFang Finance · Wall Street Morning Brief";
+      document.title = lang === "zh" ? "小方财经 · Morning Finance | 独立全球投研门户" : "XiaoFang Finance · Wall Street Morning Brief";
 
-      // Pause currently playing audio if any
       audio.pause();
       mainPlayBtn.innerText = "▶";
+      mainPlayBtn.classList.remove("playing");
       stickyPlayBtn.innerText = "▶";
 
       loadEpisodes(lang);
     }
 
-    // Format seconds to MM:SS
+    // Format seconds
     function formatTime(seconds) {
       if (isNaN(seconds) || seconds < 0) return "00:00";
       const m = Math.floor(seconds / 60);
@@ -853,11 +1505,13 @@
       if (audio.paused) {
         audio.play().then(() => {
           mainPlayBtn.innerText = "⏸";
+          mainPlayBtn.classList.add("playing");
           stickyPlayBtn.innerText = "⏸";
         }).catch(err => console.log("Play interrupted:", err));
       } else {
         audio.pause();
         mainPlayBtn.innerText = "▶";
+        mainPlayBtn.classList.remove("playing");
         stickyPlayBtn.innerText = "▶";
       }
     }
@@ -883,7 +1537,14 @@
       }
     }
 
-    // Audio Event Listeners
+    function seekToTime(sec) {
+      audio.currentTime = sec;
+      if (audio.paused) {
+        togglePlay();
+      }
+    }
+
+    // Audio Progress & Synced Captions Listener
     audio.addEventListener("timeupdate", () => {
       if (!audio.duration) return;
       const pct = (audio.currentTime / audio.duration) * 100;
@@ -894,10 +1555,14 @@
       totTimeEl.innerText = totStr;
       stickyCurrTimeEl.innerText = currStr;
       stickyTotTimeEl.innerText = totStr;
+
+      // Update active synced subtitle cue
+      updateSyncedSubtitles(audio.currentTime);
     });
 
     audio.addEventListener("ended", () => {
       mainPlayBtn.innerText = "▶";
+      mainPlayBtn.classList.remove("playing");
       stickyPlayBtn.innerText = "▶";
       progressFill.style.width = "0%";
     });
@@ -913,31 +1578,96 @@
       }
     });
 
-    // Copy Feed Toast
     function copyFeedUrl() {
       const t = I18N[currentLang];
       navigator.clipboard.writeText(t.feedUrl).then(() => {
         const toast = document.getElementById("toast");
         toast.innerText = t.toastCopied;
         toast.classList.add("show");
-        setTimeout(() => toast.classList.remove("show"), 2800);
+        setTimeout(() => toast.classList.remove("show"), 3200);
       });
     }
 
-    // Toggle Transcript
-    function toggleTranscript() {
-      const body = document.getElementById("transcriptBody");
-      const arrow = document.getElementById("transcriptArrow");
-      if (body.style.display === "block") {
-        body.style.display = "none";
-        arrow.innerText = "▼";
+    // Transcript Tabs: Synced vs Full Show Notes
+    function switchTranscriptTab(tab) {
+      const tabSyncedBtn = document.getElementById("tabSyncedBtn");
+      const tabFullBtn = document.getElementById("tabFullBtn");
+      const syncedContainer = document.getElementById("syncedCuesContainer");
+      const rawView = document.getElementById("rawTranscriptView");
+
+      if (tab === "synced") {
+        tabSyncedBtn.classList.add("active");
+        tabFullBtn.classList.remove("active");
+        syncedContainer.style.display = "flex";
+        rawView.style.display = "none";
       } else {
-        body.style.display = "block";
-        arrow.innerText = "▲";
+        tabFullBtn.classList.add("active");
+        tabSyncedBtn.classList.remove("active");
+        rawView.style.display = "block";
+        syncedContainer.style.display = "none";
       }
     }
 
-    // Load Episodes & Render
+    // WebVTT Parser
+    function parseWebVTT(vttText) {
+      const lines = vttText.split(/\r?\n/);
+      const cues = [];
+      let currentCue = null;
+      const timeRegex = /(\d{2}:)?(\d{2}):(\d{2})[\.,](\d{3})\s*-->\s*(\d{2}:)?(\d{2}):(\d{2})[\.,](\d{3})/;
+
+      function parseTime(str) {
+        if (!str) return 0;
+        const parts = str.trim().split(/[:\.,]/);
+        if (parts.length === 4) {
+          return parseInt(parts[0], 10) * 3600 + parseInt(parts[1], 10) * 60 + parseInt(parts[2], 10) + parseInt(parts[3], 10) / 1000;
+        } else if (parts.length === 3) {
+          return parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10) + parseInt(parts[2], 10) / 1000;
+        }
+        return 0;
+      }
+
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (!line || line === 'WEBVTT') continue;
+        const match = line.match(timeRegex);
+        if (match) {
+          const parts = line.split('-->');
+          const start = parseTime(parts[0]);
+          const end = parseTime(parts[1]);
+          currentCue = { start, end, text: '' };
+          cues.push(currentCue);
+        } else if (currentCue && !line.match(/^\d+$/)) {
+          currentCue.text = currentCue.text ? currentCue.text + ' ' + line : line;
+        }
+      }
+      return cues;
+    }
+
+    // Update Synced Subtitle highlight
+    function updateSyncedSubtitles(currentTime) {
+      if (!activeCues || activeCues.length === 0) return;
+      let activeIndex = -1;
+      for (let i = 0; i < activeCues.length; i++) {
+        if (currentTime >= activeCues[i].start && currentTime <= activeCues[i].end) {
+          activeIndex = i;
+          break;
+        }
+      }
+      if (activeIndex !== -1 && activeIndex !== currentActiveCueIndex) {
+        currentActiveCueIndex = activeIndex;
+        const allCueEls = document.querySelectorAll('.synced-cue-item');
+        allCueEls.forEach((el, idx) => {
+          if (idx === activeIndex) {
+            el.classList.add('active');
+            el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+          } else {
+            el.classList.remove('active');
+          }
+        });
+      }
+    }
+
+    // Load Episodes
     async function loadEpisodes(lang = currentLang) {
       const t = I18N[lang];
       try {
@@ -945,41 +1675,41 @@
         if (!resp.ok) throw new Error("HTTP " + resp.status);
         allEpisodes = await resp.json();
       } catch (e) {
-        console.warn(`Could not fetch ${t.episodesJson}, using embedded fallback:`, e);
+        console.warn(`Fallback episodes:`, e);
         if (lang === "en") {
-          allEpisodes = [
-            {
-              "guid": "digest-en-2026-09-16",
-              "title": "XiaoFang Finance 2026-09-16 · Global Macro & Wall Street Clash",
-              "description": "Daily global macro dynamics and Wall Street tactical setup. First-hand institutional research deduplicated, highlighting key consensus and battleground divergences.",
-              "audio_url": "episodes/morning_digest_en_2026-09-16.mp3",
-              "duration": 552.5,
-              "pub_date": "2026-09-16T23:39:43-04:00",
-              "episode_num": 1
-            }
-          ];
+          allEpisodes = [{
+            "guid": "digest-en-2026-09-16",
+            "title": "XiaoFang Finance 2026-09-16 · Global Macro & Wall Street Clash",
+            "description": "Daily global macro dynamics and Wall Street tactical setup. First-hand institutional research deduplicated, highlighting key consensus and battleground divergences.",
+            "audio_url": "episodes/morning_digest_en_2026-09-16.mp3",
+            "duration": 552.48,
+            "pub_date": "2026-09-17T09:19:46-04:00",
+            "episode_num": 1,
+            "vtt_url": "episodes/morning_digest_en_2026-09-16.vtt",
+            "srt_url": "episodes/morning_digest_en_2026-09-16.srt"
+          }];
         } else {
-          allEpisodes = [
-            {
-              "guid": "digest-2026-09-16",
-              "title": "【小方财经】2026-09-16 · 全球宏观与美股多空深度博弈",
-              "description": "美联储三年首次加息25基点落地；点阵图暗示窗口极短但美债收益率飙至20年新高。多空分歧激烈：盈利底+中期选举全胜规律 vs 周期尾部估值收缩。全篇事实坚决去重，深挖多空分歧与个股点位。",
-              "audio_url": "episodes/morning_digest_2026-09-16.mp3",
-              "duration": 531.7,
-              "pub_date": "2026-09-16T22:58:14-04:00",
-              "episode_num": 3
-            }
-          ];
+          allEpisodes = [{
+            "guid": "digest-2026-09-16",
+            "title": "【小方财经】2026-09-16 · 全球宏观与美股多空深度博弈",
+            "description": "美联储三年首次加息25基点落地；点阵图暗示窗口极短但美债收益率飙至20年新高。多空分歧激烈：盈利底+中期选举全胜规律 vs 周期尾部估值收缩。全篇事实坚决去重，深挖多空分歧与个股点位。",
+            "audio_url": "episodes/morning_digest_2026-09-16.mp3",
+            "duration": 531.696,
+            "pub_date": "2026-09-17T09:19:46-04:00",
+            "episode_num": 3,
+            "vtt_url": "episodes/morning_digest_2026-09-16.vtt",
+            "srt_url": "episodes/morning_digest_2026-09-16.srt"
+          }];
         }
       }
 
-      // Sort newest first
       allEpisodes.sort((a, b) => new Date(b.pub_date || 0) - new Date(a.pub_date || 0));
+      currentFilteredEpisodes = [...allEpisodes];
 
       if (allEpisodes.length > 0) {
         setupFeaturedEpisode(allEpisodes[0], lang);
-        renderArchiveList(allEpisodes, lang);
       }
+      renderArchiveList(currentFilteredEpisodes, lang);
     }
 
     function setupFeaturedEpisode(ep, lang = currentLang) {
@@ -999,31 +1729,108 @@
       document.getElementById("stickyTitle").innerText = ep.title;
       document.getElementById("downloadLink").href = ep.audio_url;
 
-      loadTranscript(lang);
+      const vttUrl = ep.vtt_url || (ep.audio_url ? ep.audio_url.replace(".mp3", ".vtt") : "");
+      const srtUrl = ep.srt_url || (ep.audio_url ? ep.audio_url.replace(".mp3", ".srt") : "");
+      document.getElementById("downloadVttLink").href = vttUrl;
+      document.getElementById("downloadSrtLink").href = srtUrl;
+
+      loadSyncedSubtitles(vttUrl);
+      loadFullTranscript(lang);
     }
 
-    async function loadTranscript(lang = currentLang) {
+    async function loadSyncedSubtitles(vttUrl) {
+      const container = document.getElementById("syncedCuesContainer");
+      container.innerHTML = `<div style="color: var(--text-sub); text-align: center; padding: 20px;">正在加载同步字幕...</div>`;
+      try {
+        const resp = await fetch(vttUrl + "?t=" + Date.now());
+        if (!resp.ok) throw new Error("HTTP " + resp.status);
+        const vttText = await resp.text();
+        activeCues = parseWebVTT(vttText);
+        renderSyncedCues(activeCues);
+      } catch (e) {
+        console.warn("Could not load VTT:", e);
+        container.innerHTML = `<div style="color: var(--text-sub); text-align: center; padding: 20px;">暂未找到实时同步字幕文件，已为您呈现完整文字内参。</div>`;
+      }
+    }
+
+    function renderSyncedCues(cues) {
+      const container = document.getElementById("syncedCuesContainer");
+      container.innerHTML = "";
+      if (!cues || cues.length === 0) {
+        container.innerHTML = `<div style="color: var(--text-sub); text-align: center; padding: 20px;">字幕为空</div>`;
+        return;
+      }
+      cues.forEach((cue, idx) => {
+        const item = document.createElement("div");
+        item.className = "synced-cue-item";
+        item.onclick = () => seekToTime(cue.start);
+        item.innerHTML = `
+          <span class="cue-time">${formatTime(cue.start)}</span>
+          <span class="cue-text">${cue.text}</span>
+        `;
+        container.appendChild(item);
+      });
+    }
+
+    async function loadFullTranscript(lang = currentLang) {
       const t = I18N[lang];
       try {
         const resp = await fetch(t.transcriptFile + "?t=" + Date.now());
         if (resp.ok) {
           const txt = await resp.text();
-          document.getElementById("transcriptBody").innerText = txt;
+          document.getElementById("rawTranscriptView").innerText = txt;
           return;
         }
       } catch (e) {}
-      document.getElementById("transcriptBody").innerText = lang === "zh" ? "暂无逐字稿或加载中..." : "Transcript loading or currently unavailable.";
+      document.getElementById("rawTranscriptView").innerText = lang === "zh" ? "暂无逐字稿或加载中..." : "Transcript loading or currently unavailable.";
+    }
+
+    // Search and Topic Filters
+    function handleSearch() {
+      const query = document.getElementById("searchInput").value.toLowerCase().trim();
+      if (!query) {
+        currentFilteredEpisodes = [...allEpisodes];
+      } else {
+        currentFilteredEpisodes = allEpisodes.filter(ep => 
+          (ep.title && ep.title.toLowerCase().includes(query)) ||
+          (ep.description && ep.description.toLowerCase().includes(query))
+        );
+      }
+      renderArchiveList(currentFilteredEpisodes, currentLang);
+    }
+
+    function filterByTopic(topic) {
+      // Toggle active topic pill
+      const pills = document.querySelectorAll('.topic-pill');
+      pills.forEach(p => {
+        if ((topic === 'all' && p.innerText.includes('全部')) || p.innerText.includes(topic)) {
+          p.classList.add('active');
+        } else {
+          p.classList.remove('active');
+        }
+      });
+
+      if (topic === 'all') {
+        currentFilteredEpisodes = [...allEpisodes];
+      } else {
+        currentFilteredEpisodes = allEpisodes.filter(ep => 
+          (ep.title && ep.title.includes(topic)) ||
+          (ep.description && ep.description.includes(topic))
+        );
+      }
+      renderArchiveList(currentFilteredEpisodes, currentLang);
     }
 
     function playSpecificEpisode(idx) {
-      const ep = allEpisodes[idx];
+      const ep = currentFilteredEpisodes[idx];
       if (!ep) return;
       setupFeaturedEpisode(ep, currentLang);
       audio.play().then(() => {
         mainPlayBtn.innerText = "⏸";
+        mainPlayBtn.classList.add("playing");
         stickyPlayBtn.innerText = "⏸";
       });
-      window.scrollTo({ top: featuredCard.offsetTop - 30, behavior: 'smooth' });
+      window.scrollTo({ top: featuredCard.offsetTop - 80, behavior: 'smooth' });
     }
 
     function renderArchiveList(episodes, lang = currentLang) {
@@ -1031,23 +1838,40 @@
       container.innerHTML = "";
       const t = I18N[lang];
 
+      if (episodes.length === 0) {
+        container.innerHTML = `<div style="text-align: center; padding: 40px; color: var(--text-sub);">未检索到匹配的单集</div>`;
+        return;
+      }
+
       episodes.forEach((ep, idx) => {
         const d = ep.pub_date ? ep.pub_date.substring(0, 10) : "";
         const durSec = ep.duration || 0;
         const durStr = lang === "zh" ? `${Math.floor(durSec / 60)}分${Math.floor(durSec % 60)}秒` : `${Math.floor(durSec / 60)}m ${Math.floor(durSec % 60)}s`;
-        
+        const sizeMb = ep.audio_size ? (ep.audio_size / (1024 * 1024)).toFixed(1) + " MB" : "";
+        const vttUrl = ep.vtt_url || (ep.audio_url ? ep.audio_url.replace(".mp3", ".vtt") : "");
+
         const card = document.createElement("div");
         card.className = "episode-card";
         card.innerHTML = `
           <div class="card-top">
             <span class="ep-tag">EP.${ep.episode_num || (episodes.length - idx)}</span>
-            <span style="font-size: 0.8rem; color: var(--text-sub);">${d} · ⏱️ ${durStr}</span>
+            <span style="font-size: 0.8rem; color: var(--text-sub);">${d} · ⏱️ ${durStr} ${sizeMb ? '· 💾 ' + sizeMb : ''}</span>
+            <span class="ep-sub-badge">⚡ VTT 同步字幕</span>
           </div>
           <div class="card-title">${ep.title}</div>
           <div class="card-desc">${ep.description}</div>
+          <div class="ticker-tags">
+            <span class="ticker-tag">$SPX</span>
+            <span class="ticker-tag">$NDX</span>
+            <span class="ticker-tag">$TLT</span>
+            <span class="ticker-tag">$FED</span>
+          </div>
           <div class="card-actions">
             <button class="card-play-btn" onclick="playSpecificEpisode(${idx})">${t.playNow}</button>
-            <a href="${ep.audio_url}" download style="font-size: 0.8rem; color: var(--text-muted); text-decoration: none;">${t.downloadMp3}</a>
+            <div style="display: flex; gap: 12px; align-items: center;">
+              <a href="${ep.audio_url}" download style="font-size: 0.82rem; color: var(--text-muted); text-decoration: none;">${t.downloadMp3}</a>
+              ${vttUrl ? `<a href="${vttUrl}" download style="font-size: 0.82rem; color: #38bdf8; text-decoration: none;">${t.downloadVtt}</a>` : ''}
+            </div>
           </div>
         `;
         container.appendChild(card);

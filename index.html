@@ -1133,11 +1133,11 @@
       <div class="player-card" id="featuredCard">
         <div class="featured-meta">
           <span class="ep-tag" id="featEpTag">EP.3</span>
-          <span class="ep-date" id="featDate">2026-09-16</span>
+          <span class="ep-date" id="featDate">2026-09-17</span>
           <span class="ep-duration">⏱️ <span id="featDuration">8分51秒</span></span>
           <span class="ep-sub-badge" id="featSubBadge">⚡ Podcasting 2.0 同步字幕</span>
         </div>
-        <div class="featured-title" id="featTitle">【小方财经】2026-09-16 · 全球宏观与美股多空深度博弈</div>
+        <div class="featured-title" id="featTitle">【小方财经】2026-09-17 · 全球宏观与美股多空深度博弈</div>
         <div class="featured-desc" id="featDesc">
           美联储三年首次加息25基点落地；点阵图暗示窗口极短但美债收益率飙至20年新高。多空分歧激烈：盈利底+中期选举全胜规律 vs 周期尾部估值收缩。全篇事实坚决去重，深挖多空分歧与个股点位。
         </div>
@@ -1169,9 +1169,9 @@
           <div class="player-secondary-controls">
             <button class="speed-btn" id="speedBtn" onclick="cycleSpeed()">1.0x 倍速</button>
             <div class="download-group">
-              <a id="downloadLink" href="episodes/morning_digest_2026-09-16.mp3" download class="download-link">⬇ 下载 MP3</a>
-              <a id="downloadVttLink" href="episodes/morning_digest_2026-09-16.vtt" download class="download-link">📝 下载 VTT 字幕</a>
-              <a id="downloadSrtLink" href="episodes/morning_digest_2026-09-16.srt" download class="download-link">📜 下载 SRT 字幕</a>
+              <a id="downloadLink" href="episodes/morning_digest_2026-09-17.mp3" download class="download-link">⬇ 下载 MP3</a>
+              <a id="downloadVttLink" href="episodes/morning_digest_2026-09-17.vtt" download class="download-link">📝 下载 VTT 字幕</a>
+              <a id="downloadSrtLink" href="episodes/morning_digest_2026-09-17.srt" download class="download-link">📜 下载 SRT 字幕</a>
             </div>
           </div>
         </div>
@@ -1273,13 +1273,8 @@
           <span class="search-icon">🔍</span>
           <input type="text" id="searchInput" class="search-input" placeholder="搜索单集关键词（例如：美联储、加息、英伟达、CPI、估值）..." oninput="handleSearch()">
         </div>
-        <div class="topic-pills">
-          <button class="topic-pill active" onclick="filterByTopic('all')">全部单集</button>
-          <button class="topic-pill" onclick="filterByTopic('美联储')">#美联储加息</button>
-          <button class="topic-pill" onclick="filterByTopic('美债')">#美债与流动性</button>
-          <button class="topic-pill" onclick="filterByTopic('多空')">#多空博弈点位</button>
-          <button class="topic-pill" onclick="filterByTopic('AI')">#AI与半导体</button>
-          <button class="topic-pill" onclick="filterByTopic('纳指')">#纳斯达克</button>
+        <div class="topic-pills" id="topicPillsContainer">
+          <!-- Dynamically populated based on language -->
         </div>
       </div>
 
@@ -1298,7 +1293,7 @@
       </p>
 
       <div class="about-grid">
-        <div class="about-card">
+        <div class="about-card" id="aboutCard1">
           <h3>🎯 投研三原则</h3>
           <p>
             <strong>1. 事实坚决去重</strong>：同一事件只讲一次因果，不来回倒腾；<br>
@@ -1306,7 +1301,7 @@
             <strong>3. 深挖多空博弈</strong>：不仅看共识，更剖析顶级机构在周期尾部与估值收缩上的根本分歧。
           </p>
         </div>
-        <div class="about-card">
+        <div class="about-card" id="aboutCard2">
           <h3>🎙️ 工业级双轨标准</h3>
           <p>
             <strong>中英双轨原生撰稿</strong>：英文国际版由 AI 原生起草，绝非机翻直译腔；<br>
@@ -1318,7 +1313,7 @@
     </div>
 
     <!-- Legal & Financial Disclaimer Section -->
-    <div class="disclaimer-section" id="disclaimer">
+    <div class="disclaimer-section" id="disclaimerSection">
       <div class="disclaimer-title">⚖️ 投研合规与免责声明 (Disclaimer)</div>
       <p>
         《小方财经》所有音频内容、逐字内参及相关分析仅作为主理人对全球公开宏观数据与市场盘面的个人观察与学术探讨，<strong>不构成任何形式的证券投资建议、买卖要约或操作背书</strong>。资本市场存在极高的本金损失风险，历史规律与量化统计不保证未来收益。听众在做出任何投资决策前，应根据自身财务状况与风险承受能力进行独立审慎判断，或咨询执业投资顾问。主理人及本节目对依据本内参进行的任何交易后果不承担任何法律责任。
@@ -1377,9 +1372,22 @@
         footerSub: "Apple Podcasts RSS 2.0 工业标准 · Podcasting 2.0 原生同步字幕 · 纯本地 Metal GPU 离线提炼 · -16 LUFS 广播级母带",
         episodesJson: "episodes.json",
         feedUrl: "https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml",
-        transcriptFile: "morning_digest_2026-09-16.txt",
-        vttFile: "episodes/morning_digest_2026-09-16.vtt",
-        searchPlaceholder: "搜索单集关键词（例如：美联储、加息、英伟达、CPI、估值）..."
+        transcriptFile: "morning_digest_2026-09-17.txt",
+        vttFile: "episodes/morning_digest_2026-09-17.vtt",
+        searchPlaceholder: "搜索单集关键词（例如：美联储、加息、英伟达、CPI、估值）...",
+        aboutLead: "《小方财经》（XiaoFang Finance）是由个人主理人小方驱动的独立早间全球财金内参。我们借助前沿本地大模型技术，对全球对冲基金研报、美联储纪要及华尔街一线交易员观点进行全自动化交叉核验与去重提炼，旨在为敏锐投资者提供最具时效性与纯信号密度的决策情报。",
+        aboutCard1: "<h3>🎯 投研三原则</h3><p><strong>1. 事实坚决去重</strong>：同一事件只讲一次因果，不来回倒腾；<br><strong>2. 拒绝废话套话</strong>：开门见山，直接切入核心数据与标的点位；<br><strong>3. 深挖多空博弈</strong>：不仅看共识，更剖析顶级机构在周期尾部与估值收缩上的根本分歧。</p>",
+        aboutCard2: "<h3>🎙️ 工业级双轨标准</h3><p><strong>中英双轨原生撰稿</strong>：英文国际版由 AI 原生起草，绝非机翻直译腔；<br><strong>-16 LUFS 母带响度</strong>：严格遵循 Apple Podcasts 国际广播级响度规范；<br><strong>Podcasting 2.0 同步字幕</strong>：全自动导出 WebVTT/SRT，实现边听边看毫秒级同步滚动。</p>",
+        disclaimer: "<div class=\"disclaimer-title\">⚖️ 投研合规与免责声明 (Disclaimer)</div><p>《小方财经》所有音频内容、逐字内参及相关分析仅作为主理人对全球公开宏观数据与市场盘面的个人观察与学术探讨，<strong>不构成任何形式的证券投资建议、买卖要约或操作背书</strong>。资本市场存在极高的本金损失风险，历史规律与量化统计不保证未来收益。听众在做出任何投资决策前，应根据自身财务状况与风险承受能力进行独立审慎判断，或咨询执业投资顾问。主理人及本节目对依据本内参进行的任何交易后果不承担任何法律责任。</p>",
+        tickers: ["$SPX 标普500", "$NDX 纳指100", "$TLT 20年美债", "$NVDA 英伟达", "$AAPL 苹果"],
+        topics: [
+          { label: "全部单集", query: "all" },
+          { label: "#美联储加息", query: "美联储" },
+          { label: "#美债与流动性", query: "美债" },
+          { label: "#多空博弈点位", query: "多空" },
+          { label: "#AI与半导体", query: "AI" },
+          { label: "#纳斯达克", query: "纳指" }
+        ]
       },
       en: {
         navShowTitle: "XiaoFang Finance",
@@ -1411,9 +1419,22 @@
         footerSub: "Apple Podcasts RSS 2.0 Standards · Podcasting 2.0 Synced Transcripts · Metal GPU Pipeline · -16 LUFS Broadcast Master",
         episodesJson: "episodes_en.json",
         feedUrl: "https://boardgamevoice-commits.github.io/morning-podcast/podcast-en.xml",
-        transcriptFile: "morning_digest_en_2026-09-16.txt",
-        vttFile: "episodes/morning_digest_en_2026-09-16.vtt",
-        searchPlaceholder: "Search episodes (e.g., Fed, Rate Hike, Nvidia, CPI, Valuation)..."
+        transcriptFile: "morning_digest_en_2026-09-17.txt",
+        vttFile: "episodes/morning_digest_en_2026-09-17.vtt",
+        searchPlaceholder: "Search episodes (e.g., Fed, Rate Hike, Nvidia, CPI, Valuation)...",
+        aboutLead: "XiaoFang Finance is an independent morning global macro intelligence and market briefing hosted by XiaoFang. Leveraging state-of-the-art local LLM models, we continuously analyze and cross-validate hedge fund research, Federal Reserve minutes, and Wall Street trading floor dynamics—delivering pure signal, actionable intelligence, and zero meta-narrative fluff before the opening bell.",
+        aboutCard1: "<h3>🎯 Three Research Disciplines</h3><p><strong>1. Strict Fact Deduplication</strong>: Each market catalyst is explained once with full causality, never looped;<br><strong>2. Direct & Zero Filler</strong>: Right into key price levels, S&P 500, Nasdaq, and Treasury yields from second one;<br><strong>3. Battleground Divergences</strong>: Uncovering fundamental clashes between institutional bulls and bears across cycle-tail valuations.</p>",
+        aboutCard2: "<h3>🎙️ Broadcast-Grade Engineering</h3><p><strong>Native English Drafting</strong>: Direct financial English thinking, not literal translation;<br><strong>-16 LUFS Loudness</strong>: Mastered to strict Apple Podcasts international broadcast standards;<br><strong>Podcasting 2.0 Synced Captions</strong>: WebVTT/SRT with sub-second alignment for synchronized reading while listening.</p>",
+        disclaimer: "<div class=\"disclaimer-title\">⚖️ Regulatory & Financial Disclaimer</div><p>All audio broadcasts, show notes, and written digests of XiaoFang Finance are strictly for academic inquiry and personal macro observation. <strong>Nothing herein constitutes financial, investment, or trading advice, nor a solicitation or endorsement to buy or sell securities</strong>. Capital markets involve substantial risk of loss. Listeners must exercise independent judgment and due diligence, or consult a licensed professional before making any investment decisions. The host and producers assume no liability for any market actions taken based on this publication.</p>",
+        tickers: ["$SPX S&P 500", "$NDX Nasdaq 100", "$TLT 20Y Treasury", "$NVDA Nvidia", "$AAPL Apple"],
+        topics: [
+          { label: "All Briefs", query: "all" },
+          { label: "#Federal Reserve", query: "Fed" },
+          { label: "#US Treasuries", query: "Treasur" },
+          { label: "#Wall Street Clash", query: "Clash" },
+          { label: "#AI & Semi", query: "AI" },
+          { label: "#Nasdaq", query: "Nasdaq" }
+        ]
       }
     };
 
@@ -1480,8 +1501,21 @@
       document.getElementById("tabSyncedBtn").innerText = t.tabSyncedText;
       document.getElementById("tabFullBtn").innerText = t.tabFullText;
       document.getElementById("searchInput").placeholder = t.searchPlaceholder;
+      document.getElementById("aboutLead").innerText = t.aboutLead;
+      document.getElementById("aboutCard1").innerHTML = t.aboutCard1;
+      document.getElementById("aboutCard2").innerHTML = t.aboutCard2;
+      document.getElementById("disclaimerSection").innerHTML = t.disclaimer;
       document.getElementById("footerText").innerText = t.footerText;
       document.getElementById("footerSub").innerText = t.footerSub;
+
+      // Update Tickers
+      const featTickersEl = document.getElementById("featTickers");
+      if (featTickersEl && t.tickers) {
+        featTickersEl.innerHTML = t.tickers.map(tk => `<span class="ticker-tag">${tk}</span>`).join("");
+      }
+
+      // Update Topic Pills
+      renderTopicPills(lang);
       document.title = lang === "zh" ? "小方财经 · Morning Finance | 独立全球投研门户" : "XiaoFang Finance · Wall Street Morning Brief";
 
       audio.pause();
@@ -1678,27 +1712,27 @@
         console.warn(`Fallback episodes:`, e);
         if (lang === "en") {
           allEpisodes = [{
-            "guid": "digest-en-2026-09-16",
-            "title": "XiaoFang Finance 2026-09-16 · Global Macro & Wall Street Clash",
+            "guid": "digest-en-2026-09-17",
+            "title": "XiaoFang Finance 2026-09-17 · Global Macro & Wall Street Clash",
             "description": "Daily global macro dynamics and Wall Street tactical setup. First-hand institutional research deduplicated, highlighting key consensus and battleground divergences.",
-            "audio_url": "episodes/morning_digest_en_2026-09-16.mp3",
+            "audio_url": "episodes/morning_digest_en_2026-09-17.mp3",
             "duration": 552.48,
             "pub_date": "2026-09-17T09:19:46-04:00",
             "episode_num": 1,
-            "vtt_url": "episodes/morning_digest_en_2026-09-16.vtt",
-            "srt_url": "episodes/morning_digest_en_2026-09-16.srt"
+            "vtt_url": "episodes/morning_digest_en_2026-09-17.vtt",
+            "srt_url": "episodes/morning_digest_en_2026-09-17.srt"
           }];
         } else {
           allEpisodes = [{
-            "guid": "digest-2026-09-16",
-            "title": "【小方财经】2026-09-16 · 全球宏观与美股多空深度博弈",
+            "guid": "digest-2026-09-17",
+            "title": "【小方财经】2026-09-17 · 全球宏观与美股多空深度博弈",
             "description": "美联储三年首次加息25基点落地；点阵图暗示窗口极短但美债收益率飙至20年新高。多空分歧激烈：盈利底+中期选举全胜规律 vs 周期尾部估值收缩。全篇事实坚决去重，深挖多空分歧与个股点位。",
-            "audio_url": "episodes/morning_digest_2026-09-16.mp3",
+            "audio_url": "episodes/morning_digest_2026-09-17.mp3",
             "duration": 531.696,
             "pub_date": "2026-09-17T09:19:46-04:00",
             "episode_num": 3,
-            "vtt_url": "episodes/morning_digest_2026-09-16.vtt",
-            "srt_url": "episodes/morning_digest_2026-09-16.srt"
+            "vtt_url": "episodes/morning_digest_2026-09-17.vtt",
+            "srt_url": "episodes/morning_digest_2026-09-17.srt"
           }];
         }
       }
@@ -1718,7 +1752,7 @@
       document.getElementById("featTitle").innerText = ep.title;
       document.getElementById("featDesc").innerText = ep.description;
       document.getElementById("featEpTag").innerText = "EP." + (ep.episode_num || allEpisodes.length);
-      const d = ep.pub_date ? ep.pub_date.substring(0, 10) : "2026-09-16";
+      const d = ep.pub_date ? ep.pub_date.substring(0, 10) : "2026-09-17";
       document.getElementById("featDate").innerText = d;
       const durSec = ep.duration || 531;
       const m = Math.floor(durSec / 60);
@@ -1797,6 +1831,20 @@
         );
       }
       renderArchiveList(currentFilteredEpisodes, currentLang);
+    }
+
+    function renderTopicPills(lang = currentLang) {
+      const container = document.getElementById("topicPillsContainer");
+      if (!container) return;
+      const t = I18N[lang];
+      container.innerHTML = "";
+      t.topics.forEach((tp, idx) => {
+        const btn = document.createElement("button");
+        btn.className = "topic-pill" + (idx === 0 ? " active" : "");
+        btn.innerText = tp.label;
+        btn.onclick = () => filterByTopic(tp.query);
+        container.appendChild(btn);
+      });
     }
 
     function filterByTopic(topic) {

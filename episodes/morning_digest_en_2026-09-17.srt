@@ -3,569 +3,569 @@
 Good morning, listeners.
 
 2
-00:00:03,652 --> 00:00:07,427
-Today is September 16, 2026.
+00:00:03,652 --> 00:00:07,513
+Today is September 17, 2026.
 
 3
-00:00:07,427 --> 00:00:14,412
-The S&P 500 closed down zero point four five percent at seven thousand five hundred fifty-one.
+00:00:07,513 --> 00:00:15,221
+Overnight, the S&P 500 closed down zero point four five percent at seven thousand five hundred fifty-one.
 
 4
-00:00:14,412 --> 00:00:17,525
+00:00:15,221 --> 00:00:18,334
 It lost its sixty-day moving average.
 
 5
-00:00:17,525 --> 00:00:22,807
+00:00:18,334 --> 00:00:23,616
 The prior high at seven thousand six hundred twenty was reclaimed, then lost.
 
 6
-00:00:22,807 --> 00:00:28,322
+00:00:23,616 --> 00:00:29,130
 Nasdaq was down just one hundredth of a percent, barely holding its sixty-day line.
 
 7
-00:00:28,322 --> 00:00:31,949
+00:00:29,130 --> 00:00:32,758
 The tape has been grinding sideways for nearly a quarter.
 
 8
-00:00:31,949 --> 00:00:33,726
+00:00:32,758 --> 00:00:34,535
 No direction.
 
 9
-00:00:33,726 --> 00:00:35,491
+00:00:34,535 --> 00:00:36,300
 No leadership.
 
 10
-00:00:35,491 --> 00:00:37,255
+00:00:36,300 --> 00:00:38,064
 No momentum.
 
 11
-00:00:37,255 --> 00:00:43,076
+00:00:38,064 --> 00:00:43,885
 The Fed hiked twenty-five basis points to a range of three and three-quarters to four percent.
 
 12
-00:00:43,076 --> 00:00:44,817
+00:00:43,885 --> 00:00:45,625
 Unanimous.
 
 13
-00:00:44,817 --> 00:00:46,826
+00:00:45,625 --> 00:00:47,635
 Zero dissents.
 
 14
-00:00:46,826 --> 00:00:51,312
+00:00:47,635 --> 00:00:52,121
 This is the first rate increase since July of two thousand thirteen.
 
 15
-00:00:51,312 --> 00:00:54,596
+00:00:52,121 --> 00:00:55,405
 Chair Warsh kept his presser under eight minutes.
 
 16
-00:00:54,596 --> 00:00:57,268
+00:00:55,405 --> 00:00:58,076
 He hammered the inflation message.
 
 17
-00:00:57,268 --> 00:00:59,976
+00:00:58,076 --> 00:01:00,785
 The tape sold off in real time.
 
 18
-00:00:59,976 --> 00:01:02,623
+00:01:00,785 --> 00:01:03,432
 The dot plot is the real story.
 
 19
-00:01:02,623 --> 00:01:07,868
+00:01:03,432 --> 00:01:08,677
 Sixteen of eighteen voters see one more twenty-five basis point hike this year.
 
 20
-00:01:07,868 --> 00:01:11,986
+00:01:08,677 --> 00:01:12,795
 The twenty-six year-end median sits at four and one-tenths.
 
 21
-00:01:11,986 --> 00:01:16,606
+00:01:12,795 --> 00:01:17,415
 Twenty-seven holds at four and one-tenths before the cycle turns down.
 
 22
-00:01:16,606 --> 00:01:21,140
+00:01:17,415 --> 00:01:21,949
 Inflation hitting the two percent target is now pushed to twenty-nine.
 
 23
-00:01:21,140 --> 00:01:25,135
+00:01:21,949 --> 00:01:25,944
 The ten-year Treasury yield jumped to four point nine seven.
 
 24
-00:01:25,135 --> 00:01:28,554
+00:01:25,944 --> 00:01:29,363
 The thirty-year is at five point three five.
 
 25
-00:01:28,554 --> 00:01:30,527
+00:01:29,363 --> 00:01:31,336
 Twenty-year highs.
 
 26
-00:01:30,527 --> 00:01:36,741
+00:01:31,336 --> 00:01:37,550
 The last time we saw this level of bond stress was the two-thousand dot-com crash and September eleventh.
 
 27
-00:01:36,741 --> 00:01:41,630
+00:01:37,550 --> 00:01:42,439
 August retail sales came in up zero point eight percent month over month.
 
 28
-00:01:41,630 --> 00:01:44,645
+00:01:42,439 --> 00:01:45,454
 Core control group up one point four.
 
 29
-00:01:44,645 --> 00:01:46,863
+00:01:45,454 --> 00:01:47,672
 Strong on the surface.
 
 30
-00:01:46,863 --> 00:01:50,050
+00:01:47,672 --> 00:01:50,858
 But real wages have been falling for months.
 
 31
-00:01:50,050 --> 00:01:53,003
+00:01:50,858 --> 00:01:53,812
 Household savings are being drawn down.
 
 32
-00:01:53,003 --> 00:01:55,564
+00:01:53,812 --> 00:01:56,373
 This is wealth-effect consumption.
 
 33
-00:01:55,564 --> 00:01:58,040
+00:01:56,373 --> 00:01:58,849
 Not durable income growth.
 
 34
-00:01:58,040 --> 00:02:01,814
+00:01:58,849 --> 00:02:02,623
 Now, here is where the thesis genuinely splits.
 
 35
-00:02:01,814 --> 00:02:07,010
+00:02:02,623 --> 00:02:07,819
 On one hand, the consensus view is that this tightening cycle is near its tail.
 
 36
-00:02:07,010 --> 00:02:10,552
+00:02:07,819 --> 00:02:11,361
 The Fed has only two or three more hikes left.
 
 37
-00:02:10,552 --> 00:02:16,238
+00:02:11,361 --> 00:02:17,047
 Goldman's forward-looking inflation indicators show pressure below two-thousand eighteen levels.
 
 38
-00:02:16,238 --> 00:02:21,422
+00:02:17,047 --> 00:02:22,231
 Core CPI has already drifted from two point nine down to two point four.
 
 39
-00:02:21,422 --> 00:02:24,130
+00:02:22,231 --> 00:02:24,939
 The hike accelerates the decline.
 
 40
-00:02:24,130 --> 00:02:26,189
+00:02:24,939 --> 00:02:26,998
 It does not reverse it.
 
 41
-00:02:26,189 --> 00:02:30,233
+00:02:26,998 --> 00:02:31,042
 Under that framing, this is a one-time repricing event.
 
 42
-00:02:30,233 --> 00:02:33,248
+00:02:31,042 --> 00:02:34,057
 Not the start of a sustained bear market.
 
 43
-00:02:33,248 --> 00:02:41,545
+00:02:34,057 --> 00:02:42,353
 On the other hand, Wells Fargo just cut its S&P year-end target from seven thousand nine hundred fifty to seven thousand seven hundred.
 
 44
-00:02:41,545 --> 00:02:44,106
+00:02:42,353 --> 00:02:44,915
 They are calling this cycle tail.
 
 45
-00:02:44,106 --> 00:02:47,427
+00:02:44,915 --> 00:02:48,236
 The main driver is no longer earnings growth.
 
 46
-00:02:47,427 --> 00:02:49,706
+00:02:48,236 --> 00:02:50,515
 It is multiple compression.
 
 47
-00:02:49,706 --> 00:02:53,689
+00:02:50,515 --> 00:02:54,498
 Liquidity indicators are at year-to-date lows through November.
 
 48
-00:02:53,689 --> 00:02:57,047
+00:02:54,498 --> 00:02:57,856
 High-beta growth stocks are the most exposed.
 
 49
-00:02:57,047 --> 00:02:59,572
+00:02:57,856 --> 00:03:00,380
 And then there is the third camp.
 
 50
-00:02:59,572 --> 00:03:02,096
+00:03:00,380 --> 00:03:02,905
 The midterm election year pattern.
 
 51
-00:03:02,096 --> 00:03:05,969
+00:03:02,905 --> 00:03:06,777
 September and October are historically the weakest window.
 
 52
-00:03:05,969 --> 00:03:12,427
+00:03:06,777 --> 00:03:13,236
 But since nineteen seventy-four, the six months after the election have produced gains every single time.
 
 53
-00:03:12,427 --> 00:03:15,895
+00:03:13,236 --> 00:03:16,704
 Average return, twelve point four percent.
 
 54
-00:03:15,895 --> 00:03:18,309
+00:03:16,704 --> 00:03:19,118
 Twice the historical norm.
 
 55
-00:03:18,309 --> 00:03:21,263
+00:03:19,118 --> 00:03:22,072
 And it does not matter which party wins.
 
 56
-00:03:21,263 --> 00:03:26,030
+00:03:22,072 --> 00:03:26,839
 Under that framework, this pullback is the last buying window of the year.
 
 57
-00:03:26,030 --> 00:03:28,922
+00:03:26,839 --> 00:03:29,731
 The earnings data supports the bulls.
 
 58
-00:03:28,922 --> 00:03:33,407
+00:03:29,731 --> 00:03:34,216
 Second quarter corporate profits grew forty-seven point four percent.
 
 59
-00:03:33,407 --> 00:03:38,285
+00:03:34,216 --> 00:03:39,094
 Strip out big tech investment gains, you still get twenty-eight point eight.
 
 60
-00:03:38,285 --> 00:03:43,224
+00:03:39,094 --> 00:03:44,032
 That is the strongest print since the post-crisis low base in two thousand nine.
 
 61
-00:03:43,224 --> 00:03:46,741
+00:03:44,032 --> 00:03:47,550
 Third quarter is tracking to twenty-nine point two.
 
 62
-00:03:46,741 --> 00:03:49,841
+00:03:47,550 --> 00:03:50,650
 Fourth quarter, twenty-four point three.
 
 63
-00:03:49,841 --> 00:03:53,800
+00:03:50,650 --> 00:03:54,608
 And the forward P and E sits around nineteen times.
 
 64
-00:03:53,800 --> 00:03:55,895
+00:03:54,608 --> 00:03:56,704
 That is not stretched.
 
 65
-00:03:55,895 --> 00:03:59,020
+00:03:56,704 --> 00:03:59,829
 But the bears have a point on the bond side.
 
 66
-00:03:59,020 --> 00:04:02,942
+00:03:59,829 --> 00:04:03,750
 Deutsche Bank is calling this a mild re-tightening regime.
 
 67
-00:04:02,942 --> 00:04:10,944
+00:04:03,750 --> 00:04:11,753
 The historical pattern says long-end yields keep climbing fifty to a hundred basis points in the year after a new hiking cycle begins.
 
 68
-00:04:10,944 --> 00:04:16,704
+00:04:11,753 --> 00:04:17,513
 The only exception was nineteen ninety-seven, when the Asian crisis forced an immediate pivot.
 
 69
-00:04:16,704 --> 00:04:21,030
+00:04:17,513 --> 00:04:21,839
 The AI capital boom has structurally raised the neutral rate.
 
 70
-00:04:21,030 --> 00:04:25,160
+00:04:21,839 --> 00:04:25,969
 The economy can absorb higher rates without a sharp recession.
 
 71
-00:04:25,160 --> 00:04:28,885
+00:04:25,969 --> 00:04:29,694
 That is the Fed's implicit argument for staying hawkish.
 
 72
-00:04:29,000 --> 00:04:32,234
+00:04:29,792 --> 00:04:33,026
 JPMorgan offers a useful framework.
 
 73
-00:04:32,184 --> 00:04:35,174
+00:04:32,976 --> 00:04:35,966
 The question is not whether rates rise.
 
 74
-00:04:35,174 --> 00:04:38,409
+00:04:35,966 --> 00:04:39,201
 It is whether the curve steepens or flattens.
 
 75
-00:04:38,409 --> 00:04:41,436
+00:04:39,201 --> 00:04:42,228
 Steepening means the economy is strong.
 
 76
-00:04:41,436 --> 00:04:44,022
+00:04:42,228 --> 00:04:44,814
 Energy and financials lead.
 
 77
-00:04:44,022 --> 00:04:47,270
+00:04:44,814 --> 00:04:48,062
 Flattening means policy is choking growth.
 
 78
-00:04:47,270 --> 00:04:51,020
+00:04:48,062 --> 00:04:51,812
 Quality tech with stable cash flows holds up better.
 
 79
-00:04:51,020 --> 00:04:56,375
+00:04:51,812 --> 00:04:57,167
 The real danger is disorderly rate spikes hitting at the same time as earnings roll over.
 
 80
-00:04:56,375 --> 00:04:58,949
+00:04:57,167 --> 00:04:59,741
 That is the scenario to watch.
 
 81
-00:04:58,949 --> 00:05:03,642
+00:04:59,741 --> 00:05:04,434
 Let me flag the five overlapping risks compressing the window right now.
 
 82
-00:05:03,642 --> 00:05:08,409
+00:05:04,434 --> 00:05:09,201
 First, the Fed hike and the uncertainty around how many more are coming.
 
 83
-00:05:08,409 --> 00:05:13,875
+00:05:09,201 --> 00:05:14,667
 Second, Treasury yields at two-decade highs, pulling capital out of equities.
 
 84
-00:05:13,875 --> 00:05:18,569
+00:05:14,667 --> 00:05:19,361
 Third, AI data center construction is becoming a political issue.
 
 85
-00:05:18,569 --> 00:05:22,625
+00:05:19,361 --> 00:05:23,417
 Over half of Americans oppose a data center in their neighborhood.
 
 86
-00:05:22,625 --> 00:05:25,799
+00:05:23,417 --> 00:05:26,591
 Both parties will use it as a campaign weapon.
 
 87
-00:05:25,799 --> 00:05:27,956
+00:05:26,591 --> 00:05:28,748
 Approvals will slow.
 
 88
-00:05:27,956 --> 00:05:31,657
+00:05:28,748 --> 00:05:32,449
 But neither party will actually block AI progress.
 
 89
-00:05:31,657 --> 00:05:35,505
+00:05:32,449 --> 00:05:36,297
 Fourth, the US-China summit at the end of the month.
 
 90
-00:05:35,505 --> 00:05:39,647
+00:05:36,297 --> 00:05:40,439
 Trade friction will flare before the meeting, cool down after.
 
 91
-00:05:39,647 --> 00:05:43,017
+00:05:40,439 --> 00:05:43,809
 It is a timing risk, not a structural one.
 
 92
-00:05:43,017 --> 00:05:53,336
+00:05:43,809 --> 00:05:54,128
 The two-thousand twenty-four September precedent, where a summit preceded a single-day three point six percent selloff, was really an AI investment scare wearing a trade mask.
 
 93
-00:05:53,336 --> 00:05:56,828
+00:05:54,128 --> 00:05:57,620
 Fifth, the Anthropic IPO in October.
 
 94
-00:05:56,828 --> 00:05:59,831
+00:05:57,620 --> 00:06:00,623
 That is a pure capital siphon event.
 
 95
-00:05:59,831 --> 00:06:04,206
+00:06:00,623 --> 00:06:04,998
 Bigger than the SpaceX listing in terms of institutional appetite.
 
 96
-00:06:04,206 --> 00:06:07,037
+00:06:04,998 --> 00:06:07,829
 But it is a one-time liquidity drain.
 
 97
-00:06:07,037 --> 00:06:09,353
+00:06:07,829 --> 00:06:10,145
 Not a fundamental shift.
 
 98
-00:06:09,353 --> 00:06:15,529
+00:06:10,145 --> 00:06:16,321
 None of these five, individually or combined, meet the threshold for a systemic bear market.
 
 99
-00:06:15,529 --> 00:06:22,539
+00:06:16,321 --> 00:06:23,331
 The fast-hiking scenario, like two thousand twenty or nineteen ninety-nine, is extremely low probability.
 
 100
-00:06:22,539 --> 00:06:26,963
+00:06:23,331 --> 00:06:27,755
 The slow-hike, pause, observe path is the base case.
 
 101
-00:06:26,963 --> 00:06:28,863
+00:06:27,755 --> 00:06:29,655
 On the watchlist.
 
 102
-00:06:28,863 --> 00:06:33,397
+00:06:29,655 --> 00:06:34,189
 SpaceX is up five percent today to one fifty point eight eight.
 
 103
-00:06:33,397 --> 00:06:36,350
+00:06:34,189 --> 00:06:37,142
 The catalyst is September twenty-second.
 
 104
-00:06:36,350 --> 00:06:38,814
+00:06:37,142 --> 00:06:39,606
 Starship flight fourteen.
 
 105
-00:06:38,814 --> 00:06:41,596
+00:06:39,606 --> 00:06:42,388
 First attempt at a full Earth orbit.
 
 106
-00:06:41,596 --> 00:06:45,272
+00:06:42,388 --> 00:06:46,064
 Six laps, then splashdown in the Pacific.
 
 107
-00:06:45,272 --> 00:06:49,941
+00:06:46,064 --> 00:06:50,733
 Twenty-six Starlink V3 satellites deployed in a single pass.
 
 108
-00:06:49,941 --> 00:06:54,586
+00:06:50,733 --> 00:06:55,378
 That is twenty-six terabytes of new network capacity in one shot.
 
 109
-00:06:54,586 --> 00:06:57,392
+00:06:55,378 --> 00:06:58,184
 Commercialization is accelerating.
 
 110
-00:06:57,392 --> 00:07:03,642
+00:06:58,184 --> 00:07:04,434
 Intel is up four percent on talks with SK Hynix to produce memory chips on US soil.
 
 111
-00:07:03,642 --> 00:07:06,792
+00:07:04,434 --> 00:07:07,584
 Lease capacity or form a joint venture.
 
 112
-00:07:06,792 --> 00:07:08,924
+00:07:07,584 --> 00:07:09,716
 No final deal yet.
 
 113
-00:07:08,924 --> 00:07:11,424
+00:07:09,716 --> 00:07:12,216
 But the optionality is real.
 
 114
-00:07:11,424 --> 00:07:16,154
+00:07:12,216 --> 00:07:16,946
 Nvidia and Tesla both sit near their two-hundred-day moving averages.
 
 115
-00:07:16,154 --> 00:07:18,569
+00:07:16,946 --> 00:07:19,361
 Those are the line in the sand.
 
 116
-00:07:18,569 --> 00:07:21,914
+00:07:19,361 --> 00:07:22,706
 Below that, the technical structure breaks.
 
 117
-00:07:21,914 --> 00:07:25,346
+00:07:22,706 --> 00:07:26,138
 Above it, the range-bound chop continues.
 
 118
-00:07:25,346 --> 00:07:28,679
+00:07:26,138 --> 00:07:29,471
 The S&P has one clear support level.
 
 119
-00:07:28,679 --> 00:07:31,216
+00:07:29,471 --> 00:07:32,008
 Seven thousand four hundred.
 
 120
-00:07:31,216 --> 00:07:35,162
+00:07:32,008 --> 00:07:35,954
 If that gives, the next leg down opens up fast.
 
 121
-00:07:35,162 --> 00:07:41,865
+00:07:35,954 --> 00:07:42,657
 Resistance is the lost high at seven thousand six hundred twenty, then the sixty-day average that just broke.
 
 122
-00:07:41,865 --> 00:07:46,522
+00:07:42,657 --> 00:07:47,314
 For the crypto corner, the stablecoin bill failed its procedural vote.
 
 123
-00:07:46,522 --> 00:07:49,451
+00:07:47,314 --> 00:07:50,243
 No favorable legislation this year.
 
 124
-00:07:49,451 --> 00:07:52,551
+00:07:50,243 --> 00:07:53,343
 Circle and Coinbase took a two-day hit.
 
 125
-00:07:52,551 --> 00:07:57,172
+00:07:53,343 --> 00:07:57,964
 But the bill not passing does not reduce their existing revenue streams.
 
 126
-00:07:57,172 --> 00:08:00,100
+00:07:57,964 --> 00:08:00,892
 Circle is trading on pure sentiment.
 
 127
-00:08:00,100 --> 00:08:02,355
+00:08:00,892 --> 00:08:03,147
 Extreme volatility.
 
 128
-00:08:02,355 --> 00:08:04,390
+00:08:03,147 --> 00:08:05,182
 Emotional pricing.
 
 129
-00:08:04,390 --> 00:08:06,485
+00:08:05,182 --> 00:08:07,277
 One more data point.
 
 130
-00:08:06,485 --> 00:08:18,115
+00:08:07,277 --> 00:08:18,907
 The New Zealand superannuation fund, five hundred forty-four billion dollars in assets, ten-year annualized return of nine point six eight, has already cut its US equity risk exposure.
 
 131
-00:08:18,115 --> 00:08:20,652
+00:08:18,907 --> 00:08:21,444
 They see the rally as stretched.
 
 132
-00:08:20,652 --> 00:08:28,115
+00:08:21,444 --> 00:08:28,907
 The triggers they flagged: high-level rate hikes, AI giants signaling a slowdown, and the rally being overextended.
 
 133
-00:08:28,115 --> 00:08:31,167
+00:08:28,907 --> 00:08:31,959
 That is a meaningful institutional signal.
 
 134
-00:08:31,167 --> 00:08:34,218
+00:08:31,959 --> 00:08:35,010
 Key dates to track this week and next.
 
 135
-00:08:34,218 --> 00:08:38,140
+00:08:35,010 --> 00:08:38,932
 September twenty-second, Bank of England rate decision.
 
 136
-00:08:38,140 --> 00:08:42,196
+00:08:38,932 --> 00:08:42,988
 September twenty-second, Bank of Japan rate decision.
 
 137
-00:08:42,196 --> 00:08:50,346
+00:08:42,988 --> 00:08:51,138
 September twenty-ninth, the triple expiry of global futures, equity index futures, and single-stock futures contracts.
 
 138
-00:08:50,346 --> 00:08:54,022
+00:08:51,138 --> 00:08:54,814
 That is a volatility event regardless of direction.
 
 139
-00:08:54,022 --> 00:08:57,000
+00:08:54,814 --> 00:08:57,792
 And the ongoing Middle East situation.
 
 140
-00:08:57,000 --> 00:09:02,404
+00:08:57,792 --> 00:09:03,196
 The US strategic petroleum reserve is at its lowest level since nineteen eighty-two.
 
 141
-00:09:02,404 --> 00:09:05,615
+00:09:03,196 --> 00:09:06,407
 One more escalation and there is no cushion.
 
 142
-00:09:05,615 --> 00:09:09,623
+00:09:06,407 --> 00:09:10,415
 That concludes today's XiaoFang Finance Morning Brief.
 
 143
-00:09:09,623 --> 00:09:13,789
+00:09:10,415 --> 00:09:14,581
 Thank you for listening, trade safely, and see you tomorrow.

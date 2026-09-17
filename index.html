@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>晨间财金精粹 · Morning Finance Brief</title>
+  <style>
+    :root {
+      --bg: #0b132b;
+      --card-bg: rgba(28, 37, 65, 0.75);
+      --text-main: #f0f4f8;
+      --text-muted: #8d99ae;
+      --accent: #d4af37;
+      --accent-hover: #f3c644;
+      --border: rgba(212, 175, 55, 0.25);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", sans-serif;
+      background: radial-gradient(circle at top, #1c2541 0%, var(--bg) 100%);
+      color: var(--text-main);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 40px 20px;
+    }
+    .container { max-width: 680px; width: 100%; }
+    .header { text-align: center; margin-bottom: 35px; }
+    .cover {
+      width: 200px;
+      height: 200px;
+      border-radius: 20px;
+      box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5), 0 0 20px rgba(212, 175, 55, 0.2);
+      margin-bottom: 20px;
+      object-fit: cover;
+      border: 1px solid var(--border);
+    }
+    h1 { font-size: 1.8rem; margin-bottom: 10px; color: #fff; letter-spacing: 0.5px; }
+    p.desc { font-size: 0.95rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 25px; }
+    .rss-box {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 35px;
+      backdrop-filter: blur(10px);
+    }
+    .rss-url {
+      flex: 1;
+      font-family: monospace;
+      font-size: 0.9rem;
+      color: var(--accent);
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+    .btn {
+      background: var(--accent);
+      color: #0b132b;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 0.85rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .btn:hover { background: var(--accent-hover); transform: translateY(-1px); }
+    .episodes h2 { font-size: 1.2rem; margin-bottom: 15px; color: var(--accent); }
+    .episode-card {
+      background: var(--card-bg);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 14px;
+      padding: 20px;
+      margin-bottom: 16px;
+      transition: border-color 0.2s;
+    }
+    .episode-card:hover { border-color: var(--border); }
+    .ep-title { font-size: 1.05rem; font-weight: 600; margin-bottom: 8px; color: #fff; }
+    .ep-desc { font-size: 0.85rem; color: var(--text-muted); line-height: 1.5; margin-bottom: 15px; }
+    audio { width: 100%; height: 38px; border-radius: 8px; outline: none; }
+    footer { text-align: center; margin-top: 50px; font-size: 0.8rem; color: var(--text-muted); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <img src="cover.jpg" alt="Podcast Cover" class="cover">
+      <h1>晨间财金精粹</h1>
+      <p class="desc">每日清晨 5 分钟，为您呈现实时宏观经济、美股要闻与全球资产核心博弈。智能转写自 YouTube 顶级财经频道。</p>
+      <div class="rss-box">
+        <span class="rss-url" id="feedUrl">https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml</span>
+        <button class="btn" onclick="copyFeed()">复制源地址</button>
+      </div>
+    </div>
+    <div class="episodes">
+      <h2>最新单集</h2>
+      <div class="episode-card">
+        <div class="ep-title">资本大撤退还是倒车接人？一边押注上涨一边警惕回撤</div>
+        <div class="ep-desc">基于贝拉聊财金最新研报：标普与纳指震荡博弈，资金避险与进攻策略深度复盘。（时长：3分01秒）</div>
+        <audio controls preload="none" src="episodes/morning_brief_qjDUf9_0x7I.mp3"></audio>
+      </div>
+      <div class="episode-card">
+        <div class="ep-title">突然降温！美债破5与AI安全大博弈</div>
+        <div class="ep-desc">基于贝拉聊财金最新研报：美债十年期破5%，美联储加息预期与AI芯片板块IPO推迟的多空大博弈。（时长：4分13秒）</div>
+        <audio controls preload="none" src="episodes/morning_brief_e8xMinZ9acs.mp3"></audio>
+      </div>
+    </div>
+    <footer>Powered by OpenClaw · Apple Podcasts Compatible RSS 2.0</footer>
+  </div>
+  <script>
+    function copyFeed() {
+      const url = document.getElementById("feedUrl").innerText;
+      navigator.clipboard.writeText(url).then(() => {
+        alert("已复制 Apple Podcasts 订阅源链接！\n\n在 iPhone【播客】App -> 资料库右上角 -> 通过 URL 添加节目 即可完成收听。");
+      });
+    }
+  </script>
+</body>
+</html>

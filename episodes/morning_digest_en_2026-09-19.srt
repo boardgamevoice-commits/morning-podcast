@@ -1,0 +1,555 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,427
+Today is September 19, 2026.
+
+3
+00:00:07,427 --> 00:00:15,037
+Overnight, risk assets staged a full-blown short squeeze rally after the Fed landed its first rate hike in three years.
+
+4
+00:00:15,037 --> 00:00:20,209
+The S and P five hundred, Nasdaq, and Dow all closed higher.
+
+5
+00:00:20,209 --> 00:00:24,988
+The ten-year Treasury yield broke below four point nine seven percent.
+
+6
+00:00:24,988 --> 00:00:28,959
+That snapped an eight-day losing streak for bond prices.
+
+7
+00:00:28,959 --> 00:00:31,349
+The two-year fell in tandem.
+
+8
+00:00:31,349 --> 00:00:37,280
+The entire move was powered by a repricing of the Fed path, not by fresh economic data.
+
+9
+00:00:37,280 --> 00:00:39,902
+Let me unpack the Fed decision.
+
+10
+00:00:39,902 --> 00:00:43,824
+The FOMC hiked twenty-five basis points.
+
+11
+00:00:43,824 --> 00:00:46,422
+The dot plot came in hawkish.
+
+12
+00:00:46,422 --> 00:00:48,873
+No terminal rate was given.
+
+13
+00:00:48,873 --> 00:00:51,263
+No promise of a pause.
+
+14
+00:00:51,263 --> 00:00:53,947
+The presser lasted thirty minutes.
+
+15
+00:00:53,947 --> 00:00:56,594
+One of the shortest in Fed history.
+
+16
+00:00:56,594 --> 00:01:00,000
+Goldman expects another twenty-five in October.
+
+17
+00:01:00,000 --> 00:01:02,856
+Bank of America is more aggressive.
+
+18
+00:01:02,856 --> 00:01:06,091
+They see hikes in both October and December.
+
+19
+00:01:06,091 --> 00:01:09,020
+The tightening cycle is far from over.
+
+20
+00:01:09,020 --> 00:01:11,753
+Now here is the key divergence.
+
+21
+00:01:11,753 --> 00:01:14,228
+The market did not sell off.
+
+22
+00:01:14,228 --> 00:01:16,594
+Instead, it rallied.
+
+23
+00:01:16,594 --> 00:01:19,927
+Three forces converged simultaneously.
+
+24
+00:01:19,927 --> 00:01:23,027
+First, the hike was fully priced.
+
+25
+00:01:23,027 --> 00:01:25,834
+The bad news became good news.
+
+26
+00:01:25,834 --> 00:01:30,013
+Traders shifted from a tightening narrative to a resilience trade.
+
+27
+00:01:30,013 --> 00:01:33,616
+Second, Middle East de-escalation is real.
+
+28
+00:01:33,616 --> 00:01:37,500
+Saudi Arabia asked Oman to broker a ceasefire.
+
+29
+00:01:37,500 --> 00:01:42,488
+Trump plans to convene foreign leaders next week on post-conflict arrangements.
+
+30
+00:01:42,488 --> 00:01:46,679
+Iran's foreign minister is in Beijing discussing the aftermath.
+
+31
+00:01:46,679 --> 00:01:49,277
+Oil price upside is fading.
+
+32
+00:01:49,277 --> 00:01:52,206
+Import inflation pressure is easing.
+
+33
+00:01:52,206 --> 00:01:56,300
+That directly reduces the need for further aggressive tightening.
+
+34
+00:01:56,300 --> 00:02:01,226
+Third, U.S. jobless claims fell to one hundred ninety-six thousand.
+
+35
+00:02:01,226 --> 00:02:03,150
+A multi-year low.
+
+36
+00:02:03,150 --> 00:02:07,010
+The labor market shows low layoffs, low hiring.
+
+37
+00:02:07,010 --> 00:02:11,030
+Companies are not cutting heads after AI cost savings.
+
+38
+00:02:11,030 --> 00:02:16,741
+They are reinvesting into new projects, raising wages, and expanding capex.
+
+39
+00:02:16,741 --> 00:02:19,535
+That is uniquely American right now.
+
+40
+00:02:19,535 --> 00:02:22,929
+Strong employment means no imminent recession.
+
+41
+00:02:22,929 --> 00:02:26,569
+But it also means inflation stickiness persists.
+
+42
+00:02:26,569 --> 00:02:29,425
+Higher for longer is the base case.
+
+43
+00:02:29,425 --> 00:02:31,471
+One political note.
+
+44
+00:02:31,471 --> 00:02:34,106
+Trump publicly supported the hike.
+
+45
+00:02:34,106 --> 00:02:37,292
+He said he spoke with Powell before the decision.
+
+46
+00:02:37,292 --> 00:02:41,103
+This is a sharp reversal from his usual rate-cut pressure.
+
+47
+00:02:41,103 --> 00:02:47,697
+The reality is that with inflation well above two percent, forcing a cut would blow out expectations.
+
+48
+00:02:47,697 --> 00:02:50,773
+The Fed is not bending to political pressure.
+
+49
+00:02:50,773 --> 00:02:55,895
+Now let me connect this macro liquidity picture to where capital is actually flowing.
+
+50
+00:02:55,895 --> 00:03:00,466
+The AI capex cycle is accelerating, not decelerating.
+
+51
+00:03:00,466 --> 00:03:05,172
+OpenAI expects next year's product sales to be double this year's.
+
+52
+00:03:05,172 --> 00:03:08,616
+That is a direct tailwind for the chip complex.
+
+53
+00:03:08,616 --> 00:03:12,243
+Bank of America frames this as a prisoner's dilemma.
+
+54
+00:03:12,243 --> 00:03:19,951
+No hyperscaler can hit the brakes without falling behind in model capability, compute reserves, and ecosystem lock-in.
+
+55
+00:03:19,951 --> 00:03:26,201
+They project global AI capital expenditure could exceed three trillion dollars by 2027.
+
+56
+00:03:26,201 --> 00:03:29,143
+UBS makes a critical distinction.
+
+57
+00:03:29,143 --> 00:03:33,469
+Slower model iteration does not mean slower AI demand.
+
+58
+00:03:33,469 --> 00:03:37,770
+Two-thirds of current compute demand comes from inference workloads.
+
+59
+00:03:37,770 --> 00:03:40,540
+Token usage is still compounding.
+
+60
+00:03:40,540 --> 00:03:44,486
+The bottleneck is shifting from chips to power infrastructure.
+
+61
+00:03:44,486 --> 00:03:53,322
+Goldman now forecasts that by 2030, new U.S. data center electricity demand will equal the entire electricity consumption of a new Japan.
+
+62
+00:03:53,322 --> 00:04:00,135
+The constraints are gas turbines, transformers, transmission lines, skilled labor, and permitting.
+
+63
+00:04:00,135 --> 00:04:05,233
+South Korea's leadership publicly stated they will not slow the AI pace.
+
+64
+00:04:05,233 --> 00:04:07,966
+Barclays' core thesis is simple.
+
+65
+00:04:07,966 --> 00:04:14,425
+As long as corporate earnings keep expanding, equities can absorb the valuation drag from higher rates.
+
+66
+00:04:14,425 --> 00:04:17,206
+The financing structure is changing.
+
+67
+00:04:17,206 --> 00:04:22,819
+AI companies are increasingly tapping five-year medium-term notes to fund capex.
+
+68
+00:04:22,819 --> 00:04:25,197
+That is a structural shift.
+
+69
+00:04:25,197 --> 00:04:30,736
+It adds selling pressure to the intermediate Treasury market and amplifies rate volatility.
+
+70
+00:04:30,736 --> 00:04:36,116
+Meanwhile, AI safety advocates are pushing for independent third-party audits.
+
+71
+00:04:36,116 --> 00:04:38,162
+The tension is clear.
+
+72
+00:04:38,162 --> 00:04:42,072
+Geopolitical competition demands full-speed AI.
+
+73
+00:04:42,072 --> 00:04:45,050
+Safety regulation demands friction.
+
+74
+00:04:45,050 --> 00:04:48,101
+Both cannot be true simultaneously.
+
+75
+00:04:48,101 --> 00:04:51,594
+Now to the individual names driving today's tape.
+
+76
+00:04:51,704 --> 00:04:53,455
+SpaceX.
+
+77
+00:04:53,405 --> 00:04:55,831
+This is the story of the quarter.
+
+78
+00:04:55,831 --> 00:04:59,961
+The stock is up nearly fifty percent from its late-August low.
+
+79
+00:04:59,961 --> 00:05:03,736
+Morgan Stanley raised its target to three hundred dollars.
+
+80
+00:05:03,736 --> 00:05:09,054
+Their split valuation shows the market is severely underwriting the AI business.
+
+81
+00:05:09,054 --> 00:05:12,952
+The implied valuation on that segment is extremely low.
+
+82
+00:05:12,952 --> 00:05:15,488
+There is massive re-rating room.
+
+83
+00:05:15,488 --> 00:05:19,765
+Musk is pouring resources into AI compute infrastructure.
+
+84
+00:05:19,765 --> 00:05:26,567
+The goal is a massive GPU cluster operational within 2026 to support Grok training at scale.
+
+85
+00:05:26,567 --> 00:05:31,101
+That is a direct play on the inference demand thesis we just discussed.
+
+86
+00:05:31,101 --> 00:05:33,528
+The merger narrative is real.
+
+87
+00:05:33,528 --> 00:05:40,856
+Options data shows the probability of a Tesla-SpaceX combination by 2028 exceeds sixty-five percent.
+
+88
+00:05:40,856 --> 00:05:43,626
+The logic is vertical integration.
+
+89
+00:05:43,626 --> 00:05:48,417
+Chips, compute, energy, and space on one balance sheet.
+
+90
+00:05:48,417 --> 00:05:50,979
+The obstacles are significant.
+
+91
+00:05:50,979 --> 00:05:58,123
+Antitrust review, valuation disputes, Musk's governance structure, and defense-contractor regulations.
+
+92
+00:05:58,123 --> 00:06:00,905
+But the optionality is pricing in.
+
+93
+00:06:00,905 --> 00:06:07,400
+Additionally, SpaceX's inclusion in the Nasdaq index is pulling in billions in passive flows.
+
+94
+00:06:07,400 --> 00:06:11,028
+That is mechanical buying that compounds the momentum.
+
+95
+00:06:11,028 --> 00:06:12,461
+Tesla.
+
+96
+00:06:12,461 --> 00:06:16,542
+The stock is being re-rated through the SpaceX merger lens.
+
+97
+00:06:16,542 --> 00:06:25,194
+If the combination materializes, Tesla gains access to SpaceX's energy storage, satellite compute, and launch infrastructure.
+
+98
+00:06:25,194 --> 00:06:29,827
+The standalone auto business is no longer the sole valuation driver.
+
+99
+00:06:29,827 --> 00:06:32,118
+Watch the options market.
+
+100
+00:06:32,118 --> 00:06:36,113
+The 2028 merger probability is the key metric.
+
+101
+00:06:36,113 --> 00:06:41,775
+If that number creeps above seventy percent, expect a step-change in Tesla's multiple.
+
+102
+00:06:41,775 --> 00:06:45,452
+Below sixty percent, the premium deflates.
+
+103
+00:06:45,452 --> 00:06:50,133
+On the standalone front, the AI cost-savings narrative is holding.
+
+104
+00:06:50,133 --> 00:06:52,804
+Tesla is not cutting headcount.
+
+105
+00:06:52,804 --> 00:06:57,155
+It is redirecting savings into new product lines and capex.
+
+106
+00:06:57,155 --> 00:07:01,518
+That aligns with the broader U.S. labor market pattern we discussed.
+
+107
+00:07:01,518 --> 00:07:06,297
+The risk is that higher-for-longer rates compress auto financing demand.
+
+108
+00:07:06,297 --> 00:07:08,577
+Watch the ten-year yield.
+
+109
+00:07:08,577 --> 00:07:15,623
+If it reclaims five percent, consumer credit costs spike and that hits Tesla's delivery economics directly.
+
+110
+00:07:15,623 --> 00:07:19,214
+For risk management, here are the levels to track.
+
+111
+00:07:19,214 --> 00:07:24,116
+On the macro side, the ten-year at four point nine seven is the pivot.
+
+112
+00:07:24,116 --> 00:07:28,417
+A break above five percent invalidates the short-squeeze rally.
+
+113
+00:07:28,417 --> 00:07:32,988
+A hold below four point nine supports the risk-on continuation.
+
+114
+00:07:32,988 --> 00:07:38,417
+On SpaceX, the three-hundred-dollar Morgan Stanley target is the near-term magnet.
+
+115
+00:07:38,417 --> 00:07:42,143
+Support sits at the late-August consolidation zone.
+
+116
+00:07:42,143 --> 00:07:46,150
+A close below that level signals the rally is exhausted.
+
+117
+00:07:46,150 --> 00:07:50,942
+On Tesla, the merger probability in options is your leading indicator.
+
+118
+00:07:50,942 --> 00:07:53,809
+Pair it with the Nasdaq index level.
+
+119
+00:07:53,809 --> 00:07:58,932
+If the Nasdaq loses its recent breakout, the merger premium unwinds.
+
+120
+00:07:58,932 --> 00:08:00,721
+The bottom line.
+
+121
+00:08:00,721 --> 00:08:03,589
+This rally is a triple convergence.
+
+122
+00:08:03,589 --> 00:08:08,711
+Hike landing, geopolitical easing, and AI earnings resilience.
+
+123
+00:08:08,711 --> 00:08:12,559
+It is an expectation repair, not a trend reversal.
+
+124
+00:08:12,559 --> 00:08:15,525
+The structural risks remain intact.
+
+125
+00:08:15,525 --> 00:08:18,123
+Forty trillion in U.S. debt.
+
+126
+00:08:18,123 --> 00:08:20,672
+Persistent fiscal deficits.
+
+127
+00:08:20,672 --> 00:08:24,042
+Oil above one hundred dollars in the base case.
+
+128
+00:08:24,042 --> 00:08:27,952
+AI financing stress in the intermediate bond market.
+
+129
+00:08:27,952 --> 00:08:32,253
+Crypto regulation stalled in the Senate at fifty to forty-nine.
+
+130
+00:08:32,253 --> 00:08:34,569
+None of that has resolved.
+
+131
+00:08:34,569 --> 00:08:38,773
+The Fed is in a 1997 Greenspan-style bind.
+
+132
+00:08:38,773 --> 00:08:40,562
+No recession.
+
+133
+00:08:40,562 --> 00:08:42,633
+Sticky inflation.
+
+134
+00:08:42,633 --> 00:08:45,574
+AI pushing the neutral rate higher.
+
+135
+00:08:45,574 --> 00:08:49,300
+The tightening must continue without crushing the economy.
+
+136
+00:08:49,300 --> 00:08:52,143
+This is a long, grinding fight.
+
+137
+00:08:52,143 --> 00:08:57,130
+The rally can persist, but it will be punctuated by violent mean-reversions.
+
+138
+00:08:57,130 --> 00:09:01,138
+That concludes today's XiaoFang Finance Morning Brief.
+
+139
+00:09:01,138 --> 00:09:05,304
+Thank you for listening, trade safely, and see you tomorrow.

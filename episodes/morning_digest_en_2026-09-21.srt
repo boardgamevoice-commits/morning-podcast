@@ -7,565 +7,433 @@ Good morning, listeners.
 Today is September 21, 2026.
 
 3
-00:00:07,537 --> 00:00:13,567
-Overnight, the S and P 500 closed higher, with the Nasdaq leading the tech rally.
+00:00:07,537 --> 00:00:15,846
+Overnight, the S and P five hundred, Nasdaq, and Dow all firmed, with technology stocks anchoring the broader rebound.
 
 4
-00:00:13,567 --> 00:00:16,422
-The Dow followed with modest upside.
+00:00:15,846 --> 00:00:21,275
+Treasury yields remain the single biggest macro constraint on equity valuations.
 
 5
-00:00:16,422 --> 00:00:22,280
-Ten-year Treasury yields remain the single biggest macro constraint on equity valuations.
+00:00:21,275 --> 00:00:25,209
+The Fed dot plot still signals one more hike this year.
 
 6
-00:00:22,280 --> 00:00:26,741
-The September dot plot still signals one more rate hike this year.
+00:00:25,209 --> 00:00:29,951
+But the market is pricing only a forty percent probability for October.
 
 7
-00:00:26,741 --> 00:00:31,888
-Yet the market is pricing only a forty percent probability of an October move.
+00:00:29,951 --> 00:00:35,172
+That gap between official guidance and street pricing is where the real tension lives.
 
 8
-00:00:31,888 --> 00:00:37,451
-That gap between Fed hawkishness and market pricing is where all the volatility lives.
+00:00:35,172 --> 00:00:37,954
+The geopolitical tape is dense.
 
 9
-00:00:37,451 --> 00:00:41,557
-This week, a barrage of Fed officials deliver speeches.
+00:00:37,954 --> 00:00:43,628
+Washington is slapping fifty percent tariffs on twenty billion Canadian dollars of goods.
 
 10
-00:00:41,557 --> 00:00:45,050
-Each one is a data point for that October decision.
+00:00:43,628 --> 00:00:49,106
+Ottawa has retaliated with tiered duties on twenty-seven billion in American products.
 
 11
-00:00:45,050 --> 00:00:49,829
-The Treasury is also auctioning six hundred billion in short-term bills.
+00:00:49,106 --> 00:00:54,118
+Over eight thousand Canadian firms and a quarter million jobs are exposed.
 
 12
-00:00:49,829 --> 00:00:53,542
-Plus four hundred forty billion in longer-dated notes.
+00:00:54,118 --> 00:00:57,537
+London is feeling the squeeze simultaneously.
 
 13
-00:00:53,542 --> 00:00:58,505
-Weak demand pushes yields higher and compresses growth stock multiples.
+00:00:57,537 --> 00:01:03,591
+The Falklands question and Northern Ireland sovereignty are now open chips in US-UK talks.
 
 14
-00:00:58,505 --> 00:01:02,586
-Strong demand does the opposite and lifts risk assets.
+00:01:03,591 --> 00:01:07,145
+And Brussels just floated something unprecedented.
 
 15
-00:01:02,586 --> 00:01:06,361
-The Bank of Japan enters a three-day holiday stretch.
+00:01:07,145 --> 00:01:11,826
+Canada is being courted as the first quasi-member of the European Union.
 
 16
-00:01:06,361 --> 00:01:11,606
-Liquidity thins out, and any yen volatility risks triggering intervention.
+00:01:11,826 --> 00:01:17,194
+On the other side of the Atlantic, Beijing and Washington are in active dialogue.
 
 17
-00:01:11,606 --> 00:01:15,356
-The dollar-yen pair is flirting with the one-sixty level.
+00:01:17,194 --> 00:01:21,557
+Deputy Premier He Lifeng led a delegation to the States this week.
 
 18
-00:01:15,356 --> 00:01:21,091
-Remember, roughly five trillion dollars in global carry trade flows hinge on that rate.
+00:01:21,557 --> 00:01:25,638
+The market is pricing in hundreds of billions in tariff relief.
 
 19
-00:01:21,091 --> 00:01:27,402
-A sharp yen rally means forced unwinding and amplified volatility across every risk asset.
+00:01:25,638 --> 00:01:29,988
+The critical question is whether this is structural or merely tactical.
 
 20
-00:01:27,402 --> 00:01:31,655
-Now, the China trade talks are the week's biggest catalyst.
+00:01:29,988 --> 00:01:34,363
+Goldman Sachs has laid out its year-end all-assets rally case.
 
 21
-00:01:31,655 --> 00:01:35,184
-He Lifeng leads the delegation through the twenty-third.
+00:01:34,363 --> 00:01:36,532
+The thesis is clean.
 
 22
-00:01:35,184 --> 00:01:39,277
-The market is pricing a multi-billion dollar tariff reduction.
+00:01:36,532 --> 00:01:39,890
+Bond markets have overpriced the hiking cycle.
 
 23
-00:01:39,277 --> 00:01:44,559
-The optimistic scenario delivers real tariff cuts and eased export controls.
+00:01:39,890 --> 00:01:45,956
+Inflation cools, yields fall, and equities, bonds, and gold all benefit.
 
 24
-00:01:44,559 --> 00:01:50,736
-That triggers valuation repair for export-heavy multinationals and lifts risk appetite broadly.
+00:01:45,956 --> 00:01:48,616
+But there is one hard prerequisite.
 
 25
-00:01:50,736 --> 00:01:55,883
-The pessimistic scenario is verbal softening only, no structural change.
-
-26
-00:01:55,883 --> 00:02:00,123
-In that case, the pre-announcement rally unwinds fast.
-
-27
-00:02:00,123 --> 00:02:03,518
-Funds take profits and prices retrace.
-
-28
-00:02:03,518 --> 00:02:09,094
-The key nuance is marginal easing, not a full lifting of semiconductor restrictions.
-
-29
-00:02:09,094 --> 00:02:15,246
-Any positive signal flows through to AI, pharma, new energy, and rare earths.
-
-30
-00:02:15,246 --> 00:02:20,246
-On the geopolitical front, the Middle East remains the largest wildcard.
-
-31
-00:02:20,246 --> 00:02:24,706
-Oil price is the transmission mechanism for every asset class.
-
-32
-00:02:24,706 --> 00:02:27,243
-Goldman's framework is clear.
-
-33
-00:02:27,243 --> 00:02:30,491
-Falling oil means all assets rally.
-
-34
-00:02:30,491 --> 00:02:36,471
-Rising oil means inflation sticks, the Fed stays hawkish, and equities get crushed.
-
-35
-00:02:36,471 --> 00:02:40,295
-Trump has signaled a major decision on Iran is imminent.
-
-36
-00:02:40,295 --> 00:02:46,189
-Iran's seven-point ceasefire list reads like a negotiating posture, not a real plan.
-
-37
-00:02:46,189 --> 00:02:50,000
-Air raid sirens rang in Riyadh for the first time.
-
-38
-00:02:50,000 --> 00:02:54,964
-Red Sea shipping and Gulf oil export corridors face elevated risk.
-
-39
-00:02:54,964 --> 00:02:59,927
-Pakistan and Turkey have both voiced military support for Saudi Arabia.
-
-40
-00:02:59,927 --> 00:03:04,780
-The Houthi forces disclosed a new low-cost cognitive warfare tactic.
-
-41
-00:03:04,780 --> 00:03:10,687
-Special operators scaled cliffs while AI-synthesized voice commands faked a retreat order.
-
-42
-00:03:10,687 --> 00:03:15,491
-The U.S. has issued security alerts across multiple Middle East countries.
-
-43
-00:03:15,491 --> 00:03:18,775
-Treat those alerts as high-signal indicators.
-
-44
-00:03:18,775 --> 00:03:24,768
-If the situation deteriorates, oil spikes fast and the entire rate path reprices.
-
-45
-00:03:24,768 --> 00:03:29,057
-The Greenland security agreement is a pulse event, not a trend.
-
-46
-00:03:29,057 --> 00:03:33,677
-The U.S. gained permanent garrison rights and base expansion authority.
-
-47
-00:03:33,677 --> 00:03:40,503
-Denmark retains sovereignty, but no other nation can build military infrastructure without Washington approval.
-
-48
-00:03:40,503 --> 00:03:44,743
-Rare earths and Arctic shipping lanes are the strategic prize.
-
-49
-00:03:44,743 --> 00:03:47,513
-This is election-cycle diplomacy.
-
-50
-00:03:47,513 --> 00:03:51,385
-It will not move the oil needle or change the equity tape.
-
-51
-00:03:51,385 --> 00:03:55,711
-Consumer sentiment is at its lowest point since 2025.
-
-52
-00:03:55,711 --> 00:04:01,520
-Over half of individual investors are bearish, with only twenty-eight point eight percent bullish.
-
-53
-00:04:01,520 --> 00:04:04,057
-Cash positions are elevated.
-
-54
-00:04:04,057 --> 00:04:06,716
-The Michigan index hit a new low.
-
-55
-00:04:06,716 --> 00:04:10,417
-Goldman notes the drag is not inflation or income.
-
-56
-00:04:10,417 --> 00:04:14,621
-It is a deeper erosion of public trust and overall well-being.
-
-57
-00:04:14,621 --> 00:04:19,045
-That is a social-level headwind that no single data print fixes.
-
-58
-00:04:19,045 --> 00:04:23,444
-Goldman's year-end all-asset rally thesis deserves a close read.
-
-59
-00:04:23,444 --> 00:04:28,334
-Their core argument is that the bond market has over-priced the hawkish scenario.
-
-60
-00:04:28,334 --> 00:04:31,422
-The market is pricing four more hikes.
-
-61
-00:04:31,422 --> 00:04:33,885
-Goldman sees at most two.
-
-62
-00:04:33,885 --> 00:04:36,826
-The transmission chain is straightforward.
-
-63
-00:04:36,826 --> 00:04:42,500
-Inflation cools, hike expectations fade, yields drop, bonds rally.
-
-64
-00:04:42,500 --> 00:04:46,275
-Lower rates then lift equities and gold in tandem.
-
-65
-00:04:46,275 --> 00:04:48,726
-But there is a hard precondition.
-
-66
-00:04:48,824 --> 00:04:50,906
+00:01:48,616 --> 00:01:50,699
 Oil must come down.
 
-67
-00:04:50,856 --> 00:04:57,755
-If oil stays elevated, inflation won't break, the Fed can't stop, and the thesis collapses.
+26
+00:01:50,699 --> 00:01:55,993
+If Middle East escalation keeps crude elevated, the entire framework breaks.
 
-68
-00:04:57,755 --> 00:05:03,013
-The other risk is an AI capex miss or an unexpected economic downturn.
+27
+00:01:55,993 --> 00:01:58,665
+And that is the wildcard right now.
 
-69
-00:05:03,013 --> 00:05:05,697
-This is not a one-way bull call.
+28
+00:01:58,665 --> 00:02:02,023
+The US and Iran are at a critical juncture.
 
-70
-00:05:05,697 --> 00:05:09,275
-It is a mean-reversion trade on overdone pessimism.
+29
+00:02:02,023 --> 00:02:05,736
+Riyadh sounded air raid sirens for the first time.
 
-71
-00:05:09,275 --> 00:05:11,714
-Turning to the tech complex.
+30
+00:02:05,736 --> 00:02:09,412
+Red Sea shipping corridors are under active threat.
 
-72
-00:05:11,714 --> 00:05:14,974
-Trump's AI policy is now explicit.
+31
+00:02:09,412 --> 00:02:14,486
+The Houthis have deployed AI voice synthesis to forge enemy retreat orders.
 
-73
-00:05:14,974 --> 00:05:17,964
-No restrictions on AI development.
+32
+00:02:14,486 --> 00:02:19,143
+This is a live, pricing-relevant threat to every asset class.
 
-74
-00:05:17,964 --> 00:05:23,209
-He is appointing an AI czar and standing up a dedicated AI task force.
+33
+00:02:19,143 --> 00:02:26,103
+This week also brings a six hundred billion short-term Treasury auction and a four hundred forty billion long-term issue.
 
-75
-00:05:23,209 --> 00:05:26,113
-The regulatory posture is permissive.
+34
+00:02:26,103 --> 00:02:31,067
+Weak demand pushes yields higher and compresses growth stock multiples.
 
-76
-00:05:26,113 --> 00:05:31,150
-OpenAI, Google, and Meta are greenlit to keep expanding capex.
+35
+00:02:31,067 --> 00:02:33,824
+Strong demand does the reverse.
 
-77
-00:05:31,150 --> 00:05:35,182
-AI is being framed as the next industrial revolution.
+36
+00:02:33,824 --> 00:02:36,630
+Japan is in a three-day holiday.
 
-78
-00:05:35,182 --> 00:05:40,427
-The stated target is AI contributing twenty-five percent of U.S. GDP.
+37
+00:02:36,630 --> 00:02:39,510
+The yen is flirting with one sixty.
 
-79
-00:05:40,427 --> 00:05:46,652
-Musk has publicly argued AI will lift next year's GDP growth from two to four percent.
+38
+00:02:39,510 --> 00:02:43,861
+That is a five trillion dollar carry trade sitting on a hair trigger.
 
-80
-00:05:46,652 --> 00:05:49,226
-The policy intent is clear.
+39
+00:02:43,861 --> 00:02:49,302
+In the tech complex, the software sector just printed numbers that reset the narrative.
 
-81
-00:05:49,226 --> 00:05:54,054
-Use the AI narrative to anchor the bull market and employment resilience.
+40
+00:02:49,302 --> 00:02:55,246
+S and P software constituents beat earnings consensus by thirteen percent on average.
 
-82
-00:05:54,054 --> 00:05:58,135
-The near-term read is positive for the entire AI stack.
+41
+00:02:55,246 --> 00:02:59,375
+Over eighty percent of names came in above revenue estimates.
 
-83
-00:05:58,135 --> 00:06:02,572
-Compute, software, and application layers all benefit.
-
-84
-00:06:02,572 --> 00:06:05,844
-But the medium-term picture is more complex.
-
-85
-00:06:05,844 --> 00:06:11,040
-AI hardware and semiconductors have already priced in substantial optimism.
-
-86
-00:06:11,040 --> 00:06:13,405
-Valuations are stretched.
-
-87
-00:06:13,405 --> 00:06:16,138
-The marginal buyer is getting thinner.
-
-88
-00:06:16,138 --> 00:06:20,415
-There is a visible rotation underway from hardware into software.
-
-89
-00:06:20,415 --> 00:06:26,873
-Last week, the S and P software index delivered an average earnings beat of thirteen percent.
-
-90
-00:06:26,873 --> 00:06:31,052
-Over eighty percent of constituents beat consensus on revenue.
-
-91
-00:06:31,052 --> 00:06:35,782
+42
+00:02:59,375 --> 00:03:04,106
 Goldman's cybersecurity basket is up sixty-five percent year to date.
 
-92
-00:06:35,782 --> 00:06:38,025
-The narrative has shifted.
+43
+00:03:04,106 --> 00:03:06,214
+The market has pivoted.
 
-93
-00:06:38,025 --> 00:06:41,383
-It is no longer AI destroying software.
+44
+00:03:06,214 --> 00:03:10,883
+It is no longer pricing AI as a destroyer of legacy software.
 
-94
-00:06:41,383 --> 00:06:45,831
-It is AI enabling software to unlock new growth vectors.
+45
+00:03:10,883 --> 00:03:16,201
+It is pricing AI as the engine that restructures and expands software margins.
 
-95
-00:06:45,831 --> 00:06:49,275
-That is a fundamentally different pricing framework.
+46
+00:03:16,201 --> 00:03:19,363
+Trump has made his AI posture explicit.
 
-96
-00:06:49,275 --> 00:06:51,983
-But the long-term risk remains.
+47
+00:03:19,363 --> 00:03:21,912
+No restrictions on development.
 
-97
-00:06:51,983 --> 00:06:56,420
-AI iteration can still disrupt incumbent software models.
+48
+00:03:21,912 --> 00:03:25,209
+A dedicated AI czar will be appointed.
 
-98
-00:06:56,420 --> 00:07:01,089
-And the single biggest risk to the hardware complex is a capex miss.
+49
+00:03:25,209 --> 00:03:30,246
+OpenAI, Google, and Meta are greenlit to keep expanding capex.
 
-99
-00:07:01,089 --> 00:07:06,040
-If hyperscaler spending decelerates, the correction in semis is severe.
+50
+00:03:30,246 --> 00:03:33,763
+He called AI the next industrial revolution.
 
-100
-00:07:06,040 --> 00:07:09,447
-Now, the three names that matter most today.
+51
+00:03:33,763 --> 00:03:38,162
+He projected it could reach twenty-five percent of American GDP.
 
-101
-00:07:09,447 --> 00:07:11,052
+52
+00:03:38,162 --> 00:03:41,214
+The policy signal is unambiguous.
+
+53
+00:03:41,214 --> 00:03:45,197
+Build faster, regulate lightly, scale now.
+
+54
+00:03:45,197 --> 00:03:48,934
+But here is the divergence that matters for your portfolio.
+
+55
+00:03:48,934 --> 00:03:53,175
+Hardware and semiconductors have already priced in that optimism.
+
+56
+00:03:53,175 --> 00:03:55,466
+The rotation is visible.
+
+57
+00:03:55,466 --> 00:03:59,657
+Money is migrating from chips toward software applications.
+
+58
+00:03:59,657 --> 00:04:05,037
+If capex guidance disappoints even slightly, the hardware drawdown will be sharp.
+
+59
+00:04:05,037 --> 00:04:10,135
+The software names have more runway because their earnings are just starting to inflect.
+
+60
+00:04:10,135 --> 00:04:15,454
+The US-China talks this week are the swing factor for the entire tech complex.
+
+61
+00:04:15,454 --> 00:04:24,155
+A meaningful tariff cut and easing of export controls would unlock valuation repair across export-oriented and China-revenue-exposed names.
+
+62
+00:04:24,155 --> 00:04:28,910
+A hollow verbal handshake would trigger an immediate profit-taking cascade.
+
+63
+00:04:28,910 --> 00:04:32,390
+The market needs substance, not soundbites.
+
+64
+00:04:32,390 --> 00:04:33,996
 Nvidia.
 
-102
-00:07:11,052 --> 00:07:13,871
-The story is capex dependency.
+65
+00:04:33,996 --> 00:04:37,537
+The story is no longer just data center demand.
 
-103
-00:07:13,871 --> 00:07:18,822
-Every major hyperscaler's spending plan is Nvidia's revenue forecast.
+66
+00:04:37,537 --> 00:04:41,042
+It is the entire AI infrastructure buildout.
 
-104
-00:07:18,822 --> 00:07:21,420
-The policy tailwind is real.
+67
+00:04:41,042 --> 00:04:45,527
+Every hyperscaler capex cycle flows through their GPUs.
 
-105
-00:07:21,420 --> 00:07:26,591
-Washington is explicitly encouraging continued AI infrastructure buildout.
+68
+00:04:45,527 --> 00:04:49,780
+Institutional positioning is stretched, which means the bid is
 
-106
-00:07:26,591 --> 00:07:30,635
-But the valuation has already absorbed a lot of that optimism.
+69
+00:04:49,880 --> 00:04:51,937
+real but fragile.
 
-107
-00:07:30,635 --> 00:07:35,868
-Watch the next earnings cycle for any softness in data center revenue guidance.
+70
+00:04:51,887 --> 00:04:56,079
+The key technical level is the fifty-two week moving average.
 
-108
-00:07:35,868 --> 00:07:38,809
-Institutional positioning is crowded.
+71
+00:04:56,079 --> 00:05:00,392
+A close below that on volume signals institutional de-risking.
 
-109
-00:07:38,809 --> 00:07:43,871
-A single negative capex signal from one hyperscaler can trigger a cascade.
+72
+00:05:00,392 --> 00:05:04,069
+Above it, the path of least resistance is higher.
 
-110
-00:07:43,871 --> 00:07:48,638
-On the technical side, the fifty-day moving average is the key support.
+73
+00:05:04,069 --> 00:05:06,385
+The risk is not demand.
 
-111
-00:07:48,638 --> 00:07:53,135
-A close below that level opens the door to a ten percent drawdown.
+74
+00:05:06,385 --> 00:05:11,238
+The risk is a single capex miss from any of the big four hyperscalers.
 
-112
-00:07:53,135 --> 00:07:56,444
-Resistance sits at the all-time high cluster.
+75
+00:05:11,238 --> 00:05:14,902
+That compresses the multiple before earnings catch up.
 
-113
-00:07:56,444 --> 00:07:58,662
-Here is the risk boundary.
+76
+00:05:14,902 --> 00:05:18,738
+Set your stop below the prior consolidation shelf.
 
-114
-00:07:58,662 --> 00:08:03,956
-If a Fed speaker hawks the path and oil spikes, de-risk Nvidia first.
+77
+00:05:18,738 --> 00:05:21,030
+Do not chase a gap day.
 
-115
-00:08:03,956 --> 00:08:05,390
+78
+00:05:21,030 --> 00:05:22,463
 Tesla.
 
-116
-00:08:05,390 --> 00:08:11,824
-Musk's public comment that AI lifts GDP growth to four percent is a direct narrative tailwind.
+79
+00:05:22,463 --> 00:05:24,927
+The narrative has bifurcated.
 
-117
-00:08:11,824 --> 00:08:17,412
-The market is trying to reprice Tesla as an AI company, not just an auto company.
+80
+00:05:24,927 --> 00:05:29,424
+The automotive business is in a pricing war with Chinese OEMs.
 
-118
-00:08:17,412 --> 00:08:20,121
-That re-rating is the bull case.
+81
+00:05:29,424 --> 00:05:32,230
+Margins are under structural pressure.
 
-119
-00:08:20,121 --> 00:08:22,682
-The bear case is execution.
+82
+00:05:32,230 --> 00:05:37,463
+But the autonomy and robotics optionality is what the street is actually underwriting.
 
-120
-00:08:22,682 --> 00:08:29,643
-Delivery numbers, margin pressure, and the competitive squeeze from Chinese EV makers remain unresolved.
+83
+00:05:37,463 --> 00:05:42,365
+The robotaxi rollout timeline is the single variable that moves this stock.
 
-121
-00:08:29,643 --> 00:08:32,547
-Institutional flows have been choppy.
+84
+00:05:42,365 --> 00:05:47,476
+Watch quarterly deliveries against the one to two percent sequential growth threshold.
 
-122
-00:08:32,547 --> 00:08:37,400
-Hedge fund positioning is split between momentum longs and value shorts.
+85
+00:05:47,476 --> 00:05:50,846
+Below that, the growth premium erodes.
 
-123
-00:08:37,400 --> 00:08:41,076
-The key technical level is the round-number support zone.
+86
+00:05:50,846 --> 00:05:54,007
+Above it, the re-rating accelerates.
 
-124
-00:08:41,076 --> 00:08:45,599
-A break below triggers algorithmic selling and accelerates the move.
+87
+00:05:54,007 --> 00:05:58,419
+The fifty day moving average is the institutional line in the sand.
 
-125
-00:08:45,599 --> 00:08:49,263
-Above, the prior high is the resistance ceiling.
+88
+00:05:58,419 --> 00:06:02,451
+A break below on above-average volume is your exit signal.
 
-126
-00:08:49,263 --> 00:08:51,738
-The risk boundary is clear.
+89
+00:06:02,451 --> 00:06:08,566
+The China revenue exposure makes this name directly sensitive to this week's US-China outcome.
 
-127
-00:08:51,738 --> 00:08:57,326
-If China talks fail and tariffs tighten, Tesla's China revenue becomes a headwind.
+90
+00:06:08,566 --> 00:06:10,270
+Microsoft.
 
-128
-00:08:57,326 --> 00:08:58,724
-Apple.
+91
+00:06:10,270 --> 00:06:13,272
+The software rotation beneficiary.
 
-129
-00:08:58,724 --> 00:09:02,866
-Apple is the quiet beneficiary of the software rotation.
+92
+00:06:13,272 --> 00:06:18,530
+Azure AI revenue is compounding at a rate that justifies the premium multiple.
 
-130
-00:09:02,866 --> 00:09:08,711
-Services revenue is growing, and the AI integration roadmap is the next catalyst.
+93
+00:06:18,530 --> 00:06:21,728
+The beat-and-raise cadence has been consistent.
 
-131
-00:09:08,711 --> 00:09:13,258
-The market has been underweight Apple relative to the broader tech complex.
+94
+00:06:21,728 --> 00:06:26,299
+But the valuation leaves no room for a single quarter of deceleration.
 
-132
-00:09:13,258 --> 00:09:16,677
-That underweight is a setup for catch-up flows.
+95
+00:06:26,299 --> 00:06:30,110
+The key level is the round number psychological support.
 
-133
-00:09:16,677 --> 00:09:20,905
-The key driver to watch is the AI feature rollout timeline.
+96
+00:06:30,110 --> 00:06:33,713
+Below that, algorithmic selling cascades.
 
-134
-00:09:20,905 --> 00:09:27,020
-Any confirmation of a meaningful on-device AI capability upgrade re-rates the hardware cycle.
+97
+00:06:33,713 --> 00:06:36,985
+Above it, the momentum bid sustains.
 
-135
-00:09:27,020 --> 00:09:31,787
-Technically, the two-hundred-day moving average is the institutional floor.
+98
+00:06:36,985 --> 00:06:40,895
+The AI agent product suite is the next catalyst.
 
-136
-00:09:31,787 --> 00:09:34,152
-Support is well-defined.
+99
+00:06:40,895 --> 00:06:46,103
+If developer adoption steepens in the next two quarters, the multiple expands.
 
-137
-00:09:34,152 --> 00:09:37,388
-Resistance is the prior earnings-driven high.
+100
+00:06:46,103 --> 00:06:51,336
+If it flattens, the stock trades as a mature software name at a growth premium.
 
-138
-00:09:37,388 --> 00:09:39,728
-The risk is regulatory.
+101
+00:06:51,336 --> 00:06:53,897
+That is a dangerous combination.
 
-139
-00:09:39,728 --> 00:09:44,091
-Antitrust exposure in Europe and the U.S. remains an overhang.
+102
+00:06:53,897 --> 00:06:56,826
+One final note before we close.
 
-140
-00:09:44,091 --> 00:09:47,302
-If the China talks produce tariff relief,
+103
+00:06:56,826 --> 00:07:00,833
+The US-Canada-UK-Europe friction is not a trade story.
 
-141
-00:09:47,384 --> 00:09:51,316
-Apple's supply chain cost structure improves marginally.
+104
+00:07:00,833 --> 00:07:03,333
+It is a structural realignment.
 
-142
-00:09:51,266 --> 00:09:55,225
-That is a secondary benefit, not the primary driver.
+105
+00:07:03,333 --> 00:07:08,137
+The post-war Western alliance is fragmenting along national interest lines.
 
-143
-00:09:55,225 --> 00:09:59,036
-The primary driver is AI monetization and
+106
+00:07:08,137 --> 00:07:13,885
+For your portfolio, supply chain diversification is no longer a long-term thesis.
+
+107
+00:07:13,885 --> 00:07:16,655
+It is a quarterly earnings line item.
+
+108
+00:07:16,655 --> 00:07:22,647
+Companies with single-region revenue concentration now carry a permanent geopolitical discount.
+
+109
+00:07:22,647 --> 00:07:26,655
+That concludes today's XiaoFang Finance Morning Brief.
+
+110
+00:07:26,655 --> 00:07:30,821
+Thank you for listening, trade safely, and see you tomorrow.

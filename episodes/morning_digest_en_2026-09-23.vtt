@@ -1,0 +1,625 @@
+WEBVTT
+
+1
+00:00:01.400 --> 00:00:03.702
+Good morning, listeners.
+
+2
+00:00:03.652 --> 00:00:07.476
+Today is September 23, 2026.
+
+3
+00:00:07.476 --> 00:00:12.451
+Overnight, the Nasdaq digested its sharp rally on Meta's Muse launch.
+
+4
+00:00:12.451 --> 00:00:16.618
+The S and P five hundred posted only marginal gains.
+
+5
+00:00:16.618 --> 00:00:19.326
+The Dow tracked essentially flat.
+
+6
+00:00:19.326 --> 00:00:22.782
+Volume stayed thin despite index highs.
+
+7
+00:00:22.782 --> 00:00:26.434
+That is the single most important read in today's tape.
+
+8
+00:00:26.434 --> 00:00:28.750
+The market is not chasing.
+
+9
+00:00:28.750 --> 00:00:30.822
+It is consolidating.
+
+10
+00:00:30.822 --> 00:00:34.388
+Investment grade credit spreads widened overnight.
+
+11
+00:00:34.388 --> 00:00:37.880
+The bond market is still pricing macro risk.
+
+12
+00:00:37.880 --> 00:00:40.197
+The stock market is not.
+
+13
+00:00:40.197 --> 00:00:42.488
+That divergence matters.
+
+14
+00:00:42.488 --> 00:00:46.716
+On the energy side, Brent slid below one hundred dollars.
+
+15
+00:00:46.716 --> 00:00:49.939
+The Saudi East West pipeline restarted.
+
+16
+00:00:49.939 --> 00:00:53.665
+Yanbu port is resuming crude exports this week.
+
+17
+00:00:53.665 --> 00:00:57.525
+Washington and Tehran both signaled willingness to talk.
+
+18
+00:00:57.525 --> 00:01:01.177
+Trump hinted at a back channel meeting during the U N run.
+
+19
+00:01:01.177 --> 00:01:03.652
+None of that is a signed deal.
+
+20
+00:01:03.652 --> 00:01:06.238
+The Houthi threat is not gone.
+
+21
+00:01:06.238 --> 00:01:09.265
+But the oil tailwind is being priced in.
+
+22
+00:01:09.265 --> 00:01:12.035
+It will not drive another leg higher.
+
+23
+00:01:12.035 --> 00:01:18.885
+On the policy front, Treasury Secretary Bessent confirmed a bilateral AI dialogue framework with Beijing.
+
+24
+00:01:18.885 --> 00:01:23.420
+Markets are reading that as marginal easing on chip export controls.
+
+25
+00:01:23.420 --> 00:01:26.140
+Trump also dropped a strange one.
+
+26
+00:01:26.140 --> 00:01:31.091
+Government documents will now use the term Superintelligence instead of AI.
+
+27
+00:01:31.091 --> 00:01:34.988
+He opposes any global mandatory AI restriction.
+
+28
+00:01:34.988 --> 00:01:37.868
+The regulatory overhang is lightening.
+
+29
+00:01:37.868 --> 00:01:39.927
+At least domestically.
+
+30
+00:01:39.927 --> 00:01:44.988
+Now let's connect that macro liquidity picture to where capital is actually flowing.
+
+31
+00:01:44.988 --> 00:01:49.167
+The AI agent narrative is reshaping the hardware stack.
+
+32
+00:01:49.167 --> 00:01:52.562
+This is not a GPU-only story anymore.
+
+33
+00:01:52.562 --> 00:01:57.145
+An AI agent does not generate one text response and stop.
+
+34
+00:01:57.145 --> 00:01:59.939
+It sits in the background for hours.
+
+35
+00:01:59.939 --> 00:02:03.383
+It loops through multi step task orchestration.
+
+36
+00:02:03.383 --> 00:02:06.103
+It pulls local data repeatedly.
+
+37
+00:02:06.103 --> 00:02:08.775
+It hammers service APIs.
+
+38
+00:02:08.775 --> 00:02:11.692
+It runs parallel workflow logic.
+
+39
+00:02:11.692 --> 00:02:16.128
+That sustained multi thread scheduling load is a CPU problem.
+
+40
+00:02:16.128 --> 00:02:24.645
+Jefferies projects global server CPU shipments climbing from twenty nine million units in twenty twenty five to seventy five million by twenty thirty.
+
+41
+00:02:24.645 --> 00:02:28.542
+The substrate and packaging market scales in lockstep.
+
+42
+00:02:28.542 --> 00:02:31.422
+The tape confirmed it on the twenty first.
+
+43
+00:02:31.422 --> 00:02:34.216
+ARM ripped over fifteen percent.
+
+44
+00:02:34.216 --> 00:02:36.434
+Intel jumped twelve.
+
+45
+00:02:36.434 --> 00:02:42.108
+AMD surged nearly ten percent and crossed the one trillion dollar market cap mark.
+
+46
+00:02:42.108 --> 00:02:46.447
+That is a structural demand shift, not a one day rotation.
+
+47
+00:02:46.447 --> 00:02:49.351
+GPU remains the foundation.
+
+48
+00:02:49.351 --> 00:02:52.574
+But a second compute axis is now live.
+
+49
+00:02:52.574 --> 00:02:55.613
+The agent war is also a data war.
+
+50
+00:02:55.613 --> 00:03:01.581
+Unlike chatbots where model parameters can be matched, agents compete on user behavior data.
+
+51
+00:03:01.581 --> 00:03:05.050
+They compete on cross ecosystem connectivity.
+
+52
+00:03:05.050 --> 00:03:08.542
+They compete on long term habit accumulation.
+
+53
+00:03:08.542 --> 00:03:11.263
+Switching costs are enormous.
+
+54
+00:03:11.263 --> 00:03:14.939
+OpenAI is still anchored in dialogue models.
+
+55
+00:03:14.939 --> 00:03:17.954
+Its consumer agent rollout is lagging.
+
+56
+00:03:17.954 --> 00:03:20.871
+Meta is out ahead on the product front.
+
+57
+00:03:20.871 --> 00:03:24.375
+That is where we get to the stock that defined this week.
+
+58
+00:03:24.375 --> 00:03:29.510
+Meta's Muse hit number one on the U S App Store free chart within two weeks.
+
+59
+00:03:29.510 --> 00:03:33.812
+It beat every prior Meta AI product on growth velocity.
+
+60
+00:03:33.812 --> 00:03:37.170
+The product is fundamentally different from a chatbot.
+
+61
+00:03:37.170 --> 00:03:40.871
+It proactively executes multi step tasks.
+
+62
+00:03:40.871 --> 00:03:43.309
+It remembers your preferences.
+
+63
+00:03:43.309 --> 00:03:46.704
+It auto compares prices and places orders.
+
+64
+00:03:46.704 --> 00:03:49.461
+It books restaurants and hotels.
+
+65
+00:03:49.461 --> 00:03:52.268
+It manages your Gmail inbox.
+
+66
+00:03:52.268 --> 00:03:54.633
+It orchestrates your calendar.
+
+67
+00:03:54.633 --> 00:03:57.402
+It links Spotify and Instagram.
+
+68
+00:03:57.402 --> 00:04:00.981
+It cancels subscriptions and recovers refunds.
+
+69
+00:04:00.981 --> 00:04:04.277
+It filters the best dealer quotes on a car.
+
+70
+00:04:04.277 --> 00:04:09.768
+The revenue model is subscription plus e commerce commission plus service revenue share.
+
+71
+00:04:09.768 --> 00:04:14.130
+Free tier, twenty dollar premium, one hundred dollar tier.
+
+72
+00:04:14.130 --> 00:04:17.635
+Wall Street is re-rating the stock on that basis.
+
+73
+00:04:17.635 --> 00:04:22.317
+Wells Fargo lifted its target from six forty to seven ninety six.
+
+74
+00:04:22.317 --> 00:04:24.743
+The core thesis is this.
+
+75
+00:04:24.743 --> 00:04:28.947
+Meta has poured nearly two hundred billion dollars into AI.
+
+76
+00:04:28.947 --> 00:04:33.591
+For the first time, that spend produced a product users will pay for.
+
+77
+00:04:33.591 --> 00:04:36.826
+The cost center is becoming a revenue engine.
+
+78
+00:04:36.826 --> 00:04:40.662
+Every additional user interaction deepens the data moat.
+
+79
+00:04:40.662 --> 00:04:43.812
+More usage means better personalization.
+
+80
+00:04:43.812 --> 00:04:47.182
+Better personalization means higher retention.
+
+81
+00:04:47.182 --> 00:04:49.878
+Higher retention means more data.
+
+82
+00:04:49.878 --> 00:04:52.562
+That flywheel is the bull case.
+
+83
+00:04:52.562 --> 00:04:55.625
+But the bear case is real and specific.
+
+84
+00:04:55.625 --> 00:05:00.760
+Amazon has already banned Muse from executing auto checkout on its platform.
+
+85
+00:05:00.760 --> 00:05:03.113
+The reason is straightforward.
+
+86
+00:05:03.113 --> 00:05:06.042
+Muse bypasses the recommendation
+
+87
+00:05:06.128 --> 00:05:07.744
+algorithm.
+
+88
+00:05:07.694 --> 00:05:10.819
+It scrapes the lowest price across the web.
+
+89
+00:05:10.819 --> 00:05:15.611
+That directly attacks Amazon's ad auction and traffic pricing power.
+
+90
+00:05:15.611 --> 00:05:18.809
+China already played this exact script.
+
+91
+00:05:18.809 --> 00:05:24.140
+Domestic auto operation AI assistants got blocked by every major platform.
+
+92
+00:05:24.140 --> 00:05:28.944
+Meta's own ecosystem, Facebook and Instagram, is safe.
+
+93
+00:05:28.944 --> 00:05:33.577
+Native APIs, full compliance, long term iteration.
+
+94
+00:05:33.577 --> 00:05:38.724
+But the cross platform, unrestricted agent narrative will face repeated friction.
+
+95
+00:05:38.724 --> 00:05:41.603
+More platforms will follow Amazon.
+
+96
+00:05:41.603 --> 00:05:45.660
+The market's high expectations need a haircut on that dimension.
+
+97
+00:05:45.660 --> 00:05:47.755
+Muse will not fail.
+
+98
+00:05:47.755 --> 00:05:50.746
+The Meta ecosystem loop is durable.
+
+99
+00:05:50.746 --> 00:05:54.778
+But the grand unified agent story is going to get chipped away.
+
+100
+00:05:54.778 --> 00:05:58.417
+That is the risk to monitor into the next two quarters.
+
+101
+00:05:58.417 --> 00:06:00.513
+Now the second name.
+
+102
+00:06:00.513 --> 00:06:02.118
+Nvidia.
+
+103
+00:06:02.118 --> 00:06:07.853
+Jensen Huang called the company the only global growth value stock at the Goldman tech conference.
+
+104
+00:06:07.853 --> 00:06:10.733
+The data does not agree with that framing.
+
+105
+00:06:10.733 --> 00:06:15.304
+Forward earnings multiple has compressed to roughly seventeen times.
+
+106
+00:06:15.304 --> 00:06:17.461
+That is a decade low.
+
+107
+00:06:17.461 --> 00:06:20.280
+Four pressures are capping the re rating.
+
+108
+00:06:20.280 --> 00:06:22.437
+First, margin.
+
+109
+00:06:22.437 --> 00:06:26.849
+The company has guided gross margin down from seventy five percent.
+
+110
+00:06:26.849 --> 00:06:30.893
+Quarter four likely lands at seventy one to seventy two.
+
+111
+00:06:30.893 --> 00:06:35.329
+Long term equilibrium settles at seventy two to seventy three.
+
+112
+00:06:35.329 --> 00:06:38.883
+Storage chip costs are the primary squeeze.
+
+113
+00:06:38.883 --> 00:06:42.228
+Second, hyperscaler custom silicon.
+
+114
+00:06:42.228 --> 00:06:48.699
+Morgan Stanley and JPMorgan both flag that the CPU and custom ASIC share gap is narrowing.
+
+115
+00:06:48.699 --> 00:06:51.787
+The single vendor dependency is eroding.
+
+116
+00:06:51.787 --> 00:06:54.802
+Third, capex sustainability.
+
+117
+00:06:54.802 --> 00:07:00.819
+If the big cloud players pause their build out, Nvidia's revenue curve flattens immediately.
+
+118
+00:07:00.819 --> 00:07:03.417
+Funds are front running that risk.
+
+119
+00:07:03.417 --> 00:07:06.273
+Fourth, the base is enormous.
+
+120
+00:07:06.273 --> 00:07:10.059
+Doubling from here requires a blowout fundamental print.
+
+121
+00:07:10.059 --> 00:07:12.780
+A good quarter is no longer enough.
+
+122
+00:07:12.780 --> 00:07:15.684
+The valuation floor looks soft.
+
+123
+00:07:15.684 --> 00:07:19.851
+But the structural demand from agents and inference is still building.
+
+124
+00:07:19.851 --> 00:07:24.765
+This is a stock where the story is intact but the multiple has lost its premium.
+
+125
+00:07:24.765 --> 00:07:29.827
+Watch for any hyperscaler guidance that hints at reduced Nvidia allocation.
+
+126
+00:07:29.827 --> 00:07:32.228
+That is the trigger to watch.
+
+127
+00:07:32.228 --> 00:07:34.030
+The third name.
+
+128
+00:07:34.030 --> 00:07:35.635
+AMD.
+
+129
+00:07:35.635 --> 00:07:38.577
+One trillion dollars of market cap.
+
+130
+00:07:38.577 --> 00:07:41.922
+That number was unthinkable eighteen months ago.
+
+131
+00:07:41.922 --> 00:07:44.471
+The driver is not GPU.
+
+132
+00:07:44.471 --> 00:07:48.515
+It is the CPU re acceleration I described earlier.
+
+133
+00:07:48.515 --> 00:07:53.099
+AI agents are a sustained scheduling and orchestration workload.
+
+134
+00:07:53.099 --> 00:07:57.290
+That is squarely in AMD's server processor sweet spot.
+
+135
+00:07:57.290 --> 00:08:00.219
+The competitive dynamic has shifted.
+
+136
+00:08:00.219 --> 00:08:04.287
+Intel is no longer the only x86 alternative.
+
+137
+00:08:04.287 --> 00:08:08.797
+AMD is capturing the share that was previously Intel's default.
+
+138
+00:08:08.797 --> 00:08:13.478
+The one trillion mark signals institutional re allocation is complete.
+
+139
+00:08:13.478 --> 00:08:18.711
+The next leg depends on whether the agent build out accelerates into twenty twenty seven.
+
+140
+00:08:18.711 --> 00:08:21.101
+The risk is concentration.
+
+141
+00:08:21.101 --> 00:08:28.025
+If one or two hyperscalers lock in a custom silicon roadmap, the CPU growth narrative gets a headwind.
+
+142
+00:08:28.025 --> 00:08:34.153
+But the Jefferies seventy five million unit projection by twenty thirty is the floor, not the ceiling.
+
+143
+00:08:34.153 --> 00:08:37.510
+One final macro note before we close.
+
+144
+00:08:37.510 --> 00:08:40.378
+Next week, Micron reports.
+
+145
+00:08:40.378 --> 00:08:45.415
+That is the single most important data point for the entire AI hardware trade.
+
+146
+00:08:45.415 --> 00:08:51.113
+The market is waiting for Micron to confirm that memory and storage demand is still expanding.
+
+147
+00:08:51.113 --> 00:08:56.211
+If the numbers validate the capex cycle, the consolidation breaks higher.
+
+148
+00:08:56.211 --> 00:09:01.653
+If they disappoint, the thin volume we saw overnight turns into a real correction.
+
+149
+00:09:01.653 --> 00:09:04.189
+That is the binary to watch.
+
+150
+00:09:04.189 --> 00:09:07.829
+Position sizing matters more than direction this week.
+
+151
+00:09:07.829 --> 00:09:09.765
+Keep stops tight.
+
+152
+00:09:09.765 --> 00:09:12.461
+Do not average into a gap down.
+
+153
+00:09:12.461 --> 00:09:17.106
+The credit spread divergence tells you the bond market is not convinced yet.
+
+154
+00:09:17.106 --> 00:09:18.822
+Respect that.
+
+155
+00:09:18.822 --> 00:09:22.829
+That concludes today's XiaoFang Finance Morning Brief.
+
+156
+00:09:22.829 --> 00:09:26.996
+Thank you for listening, trade safely, and see you tomorrow.

@@ -1,0 +1,81 @@
+Good morning, listeners. Today is September 24, 2026. Overnight, the S and P five hundred shed fifty-nine points, down three quarters of one percent. The Nasdaq dropped over three hundred points, stalling just below its prior high. The Dow followed lower in sympathy.
+
+The five-year Treasury yield broke above five percent. That is the highest reading since 2023. The two-year sits at four point nine. The thirty-year mortgage has climbed to seven point one two.
+
+The Fed path is the core pressure right now. CME futures price a sixty-nine percent chance of an October hike. A December follow-up is nearly locked in. Three hikes this year is the base case.
+
+The S and P Global Services PMI hit fifty-eight point four. That is the strongest reading since 2021. Strong services data keeps the Fed firmly on a hawkish footing.
+
+The prior market thesis was that rate cuts were limited. That assumption is cracking. Higher-for-longer is back on the table.
+
+Geopolitics added fuel overnight. US-Iran talks collapsed. Tehran refused to reopen the Strait of Hormuz. Super tanker rates spiked past one point two million dollars per day.
+
+JPMorgan warns traditional supply-demand models no longer anchor oil pricing. Bank of America models a one-hundred-fifty-dollar Brent in a prolonged disruption scenario.
+
+A more structural shift is underway. For the first time, analysts are cutting earnings forecasts faster than raising them. Energy costs, higher borrowing, and sticky services inflation are squeezing margins from both sides.
+
+Citi data shows global short positions building across asset classes. The risk-off tide is spreading from Europe into US equities.
+
+In Europe, HSBC downgraded French sovereign debt to underweight. The euro slid to a two-month low against the dollar. German two-year yields jumped. The DAX saw fresh short accumulation.
+
+Now the macro liquidity picture is directly repricing the tech complex. Higher rates hit long-duration growth stocks hardest. That is the Nasdaq's structural vulnerability right now.
+
+But the AI capex cycle is not pausing. Over two-thirds of enterprises have pushed AI budgets above ten percent of total IT spend. Compute demand is accelerating, not decelerating.
+
+The model price war is intensifying. OpenAI launched GPT six Soul at two dollars per million input tokens. GPT six Luna sits at ten cents input, fifty cents output.
+
+Anthropic countered with Claude Opus five point five. Input at four dollars, output at twenty. That is a twenty percent cut from the prior generation.
+
+The old slow-down-iteration consensus is dead. Inference cost and deployment scale are the new battleground.
+
+On the hardware side, server CPUs and memory are the clear beneficiaries. AMD and Intel server chip logic is being re-priced by institutional flows.
+
+McKinsey data shows a thirty-fold gap in compute consumption across different AI agent workloads. That gap is driving hardware differentiation at the top end.
+
+The critical divergence from here: companies owning silicon, memory, and manufacturing capacity keep winning. Pure application-layer firms face price compression and unproven monetization. AI is no longer a blanket bid.
+
+Trump's July trade disclosures add a data point. He sold Microsoft, Amazon, and Oracle. He bought Marvell, Intuit, Salesforce, Adobe, and CrowdStrike. The cloud mega-cap exit is notable.
+
+Let me go into three names.
+
+Meta is the day's most contested narrative. The stock broke out of a months-long downtrend this week. A new all-time high is within reach.
+
+The catalyst is Muse, its AI agent platform, unveiled at Connect. Zuckerberg fronted the two-day livestream personally.
+
+JPMorgan sees Meta as the broadest consumer AI platform after ChatGPT. Their target is eight hundred twenty dollars. They maintain an overweight.
+
+But the short side has three structural arguments. First, Amazon banned Muse outright. Six major banks issued joint fraud warnings on agent-driven payments.
+
+Second, a critical security flaw was disclosed. Attackers could remotely hijack Muse and harvest multi-platform credentials. Meta patched it, but the trust damage lingers.
+
+Third, the AI phone-call feature still relies on human operators. When merchants detect the bot, calls transfer to outsourced staff. At scale, that cost model breaks.
+
+The deeper problem is the business model itself. An agent that helps users compare and buy faster kills the ad-duration model. It also kills the search-traffic model. Neither revenue engine maps cleanly to agent commerce.
+
+Subscription conversion ceilings remain unproven. Revenue contribution against Meta's capex bill is still thin. The entry-point thesis has a structural gap that has not been closed.
+
+McDonald's dropped nearly five percent yesterday. The stock has fallen from three hundred thirty-four to two hundred thirty-eight. That is a thirty percent drawdown on a historically low-beta name.
+
+The CEO's own words make this a persistent headwind, not a one-off. High inflation, weak foot traffic, and rising beef and labor costs will linger.
+
+The strategy shift is telling. No new growth cake. The play is stealing share through discounts and surgical pricing. That is a margin-compression playbook.
+
+They plan to deploy eight point five billion dollars to franchisees. Restaurant modernization, tech deployment, operational upgrades. Target is ten thousand dollars in added annual cash flow per US location.
+
+The fifty percent operating margin target by 2030 is ambitious. But the path there runs through a prolonged cost squeeze.
+
+At three percent dividend yield, the valuation floor has some support. But the fundamental trajectory argues for a slow bleed, not a V-recovery. Patience over panic here.
+
+Marvell is the quiet semiconductor winner in this tape. Trump's July buy list includes the name. The stock sits under two hundred thirty billion in market cap.
+
+The setup is optical interconnect and custom silicon for AI data centers. Jensen Huang has referenced a trillion-dollar addressable market for this space.
+
+The chart is intact. Uptrend structure holds. No major support break. The name is in accumulation, not distribution.
+
+The risk is the rate environment. If the Fed hikes three times, long-duration growth multiples compress across the board. Marvell is not immune.
+
+But the capex cycle supports the revenue line. As long as hyperscalers build, Marvell's order book holds. Watch the next earnings print for data-center revenue acceleration.
+
+Support sits at the fifty-day moving average. A close below that invalidates the short-term structure. Resistance is the prior swing high.
+
+That concludes today's XiaoFang Finance Morning Brief. Thank you for listening, trade safely, and see you tomorrow.

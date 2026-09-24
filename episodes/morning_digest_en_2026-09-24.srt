@@ -1,0 +1,483 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,451
+Today is September 24, 2026.
+
+3
+00:00:07,451 --> 00:00:13,996
+Overnight, the S and P five hundred shed fifty-nine points, down three quarters of one percent.
+
+4
+00:00:13,996 --> 00:00:19,375
+The Nasdaq dropped over three hundred points, stalling just below its prior high.
+
+5
+00:00:19,375 --> 00:00:22,219
+The Dow followed lower in sympathy.
+
+6
+00:00:22,219 --> 00:00:26,091
+The five-year Treasury yield broke above five percent.
+
+7
+00:00:26,091 --> 00:00:29,535
+That is the highest reading since 2023.
+
+8
+00:00:29,535 --> 00:00:32,427
+The two-year sits at four point nine.
+
+9
+00:00:32,427 --> 00:00:36,373
+The thirty-year mortgage has climbed to seven point one two.
+
+10
+00:00:36,373 --> 00:00:39,510
+The Fed path is the core pressure right now.
+
+11
+00:00:39,510 --> 00:00:44,326
+CME futures price a sixty-nine percent chance of an October hike.
+
+12
+00:00:44,326 --> 00:00:47,353
+A December follow-up is nearly locked in.
+
+13
+00:00:47,353 --> 00:00:50,454
+Three hikes this year is the base case.
+
+14
+00:00:50,454 --> 00:00:55,074
+The S and P Global Services PMI hit fifty-eight point four.
+
+15
+00:00:55,074 --> 00:00:58,591
+That is the strongest reading since 2021.
+
+16
+00:00:58,591 --> 00:01:03,003
+Strong services data keeps the Fed firmly on a hawkish footing.
+
+17
+00:01:03,003 --> 00:01:06,704
+The prior market thesis was that rate cuts were limited.
+
+18
+00:01:06,704 --> 00:01:09,008
+That assumption is cracking.
+
+19
+00:01:09,008 --> 00:01:11,814
+Higher-for-longer is back on the table.
+
+20
+00:01:11,814 --> 00:01:14,804
+Geopolitics added fuel overnight.
+
+21
+00:01:14,804 --> 00:01:17,439
+US-Iran talks collapsed.
+
+22
+00:01:17,439 --> 00:01:20,993
+Tehran refused to reopen the Strait of Hormuz.
+
+23
+00:01:20,993 --> 00:01:25,675
+Super tanker rates spiked past one point two million dollars per day.
+
+24
+00:01:25,675 --> 00:01:31,103
+JPMorgan warns traditional supply-demand models no longer anchor oil pricing.
+
+25
+00:01:31,103 --> 00:01:36,765
+Bank of America models a one-hundred-fifty-dollar Brent in a prolonged disruption scenario.
+
+26
+00:01:36,765 --> 00:01:39,621
+A more structural shift is underway.
+
+27
+00:01:39,621 --> 00:01:44,670
+For the first time, analysts are cutting earnings forecasts faster than raising them.
+
+28
+00:01:44,670 --> 00:01:51,569
+Energy costs, higher borrowing, and sticky services inflation are squeezing margins from both sides.
+
+29
+00:01:51,569 --> 00:01:56,655
+Citi data shows global short positions building across asset classes.
+
+30
+00:01:56,655 --> 00:02:00,871
+The risk-off tide is spreading from Europe into US equities.
+
+31
+00:02:00,871 --> 00:02:05,724
+In Europe, HSBC downgraded French sovereign debt to underweight.
+
+32
+00:02:05,724 --> 00:02:09,351
+The euro slid to a two-month low against the dollar.
+
+33
+00:02:09,351 --> 00:02:11,949
+German two-year yields jumped.
+
+34
+00:02:11,949 --> 00:02:15,050
+The DAX saw fresh short accumulation.
+
+35
+00:02:15,050 --> 00:02:19,988
+Now the macro liquidity picture is directly repricing the tech complex.
+
+36
+00:02:19,988 --> 00:02:23,665
+Higher rates hit long-duration growth stocks hardest.
+
+37
+00:02:23,665 --> 00:02:27,402
+That is the Nasdaq's structural vulnerability right now.
+
+38
+00:02:27,402 --> 00:02:30,858
+But the AI capex cycle is not pausing.
+
+39
+00:02:30,858 --> 00:02:37,170
+Over two-thirds of enterprises have pushed AI budgets above ten percent of total IT spend.
+
+40
+00:02:37,170 --> 00:02:41,079
+Compute demand is accelerating, not decelerating.
+
+41
+00:02:41,079 --> 00:02:44,130
+The model price war is intensifying.
+
+42
+00:02:44,130 --> 00:02:49,878
+OpenAI launched GPT six Soul at two dollars per million input tokens.
+
+43
+00:02:49,878 --> 00:02:55,074
+GPT six Luna sits at ten cents input, fifty cents output.
+
+44
+00:02:55,074 --> 00:02:59,069
+Anthropic countered with Claude Opus five point five.
+
+45
+00:02:59,069 --> 00:03:02,513
+Input at four dollars, output at twenty.
+
+46
+00:03:02,513 --> 00:03:06,214
+That is a twenty percent cut from the prior generation.
+
+47
+00:03:06,214 --> 00:03:09,657
+The old slow-down-iteration consensus is dead.
+
+48
+00:03:09,657 --> 00:03:13,628
+Inference cost and deployment scale are the new battleground.
+
+49
+00:03:13,628 --> 00:03:19,302
+On the hardware side, server CPUs and memory are the clear beneficiaries.
+
+50
+00:03:19,302 --> 00:03:25,000
+AMD and Intel server chip logic is being re-priced by institutional flows.
+
+51
+00:03:25,000 --> 00:03:31,287
+McKinsey data shows a thirty-fold gap in compute consumption across different AI agent workloads.
+
+52
+00:03:31,287 --> 00:03:35,466
+That gap is driving hardware differentiation at the top end.
+
+53
+00:03:35,466 --> 00:03:42,537
+The critical divergence from here: companies owning silicon, memory, and manufacturing capacity keep winning.
+
+54
+00:03:42,537 --> 00:03:47,758
+Pure application-layer firms face price compression and unproven monetization.
+
+55
+00:03:47,758 --> 00:03:50,736
+AI is no longer a blanket bid.
+
+56
+00:03:50,736 --> 00:03:54,375
+Trump's July trade disclosures add a data point.
+
+57
+00:03:54,375 --> 00:03:58,224
+He sold Microsoft, Amazon, and Oracle.
+
+58
+00:03:58,224 --> 00:04:03,750
+He bought Marvell, Intuit, Salesforce, Adobe, and CrowdStrike.
+
+59
+00:04:03,750 --> 00:04:06,741
+The cloud mega-cap exit is notable.
+
+60
+00:04:06,741 --> 00:04:09,167
+Let me go into three names.
+
+61
+00:04:09,167 --> 00:04:12,415
+Meta is the day's most contested narrative.
+
+62
+00:04:12,415 --> 00:04:16,165
+The stock broke out of a months-long downtrend this week.
+
+63
+00:04:16,165 --> 00:04:19,216
+A new all-time high is within reach.
+
+64
+00:04:19,216 --> 00:04:24,608
+The catalyst is Muse, its AI agent platform, unveiled at Connect.
+
+65
+00:04:24,608 --> 00:04:28,322
+Zuckerberg fronted the two-day livestream personally.
+
+66
+00:04:28,322 --> 00:04:34,192
+JPMorgan sees Meta as the broadest consumer AI platform after ChatGPT.
+
+67
+00:04:34,192 --> 00:04:37,304
+Their target is eight hundred twenty dollars.
+
+68
+00:04:37,304 --> 00:04:39,645
+They maintain an overweight.
+
+69
+00:04:39,645 --> 00:04:43,162
+But the short side has three structural arguments.
+
+70
+00:04:43,162 --> 00:04:46,532
+First, Amazon banned Muse outright.
+
+71
+00:04:46,532 --> 00:04:51,324
+Six major banks issued joint fraud warnings on agent-driven payments.
+
+72
+00:04:51,416 --> 00:04:55,324
+Second, a critical security flaw was disclosed.
+
+73
+00:04:55,274 --> 00:05:00,470
+Attackers could remotely hijack Muse and harvest multi-platform credentials.
+
+74
+00:05:00,470 --> 00:05:03,975
+Meta patched it, but the trust damage lingers.
+
+75
+00:05:03,975 --> 00:05:09,024
+Third, the AI phone-call feature still relies on human operators.
+
+76
+00:05:09,024 --> 00:05:13,558
+When merchants detect the bot, calls transfer to outsourced staff.
+
+77
+00:05:13,558 --> 00:05:16,867
+At scale, that cost model breaks.
+
+78
+00:05:16,867 --> 00:05:20,237
+The deeper problem is the business model itself.
+
+79
+00:05:20,237 --> 00:05:25,249
+An agent that helps users compare and buy faster kills the ad-duration model.
+
+80
+00:05:25,249 --> 00:05:28,240
+It also kills the search-traffic model.
+
+81
+00:05:28,240 --> 00:05:32,137
+Neither revenue engine maps cleanly to agent commerce.
+
+82
+00:05:32,137 --> 00:05:35,678
+Subscription conversion ceilings remain unproven.
+
+83
+00:05:35,678 --> 00:05:39,980
+Revenue contribution against Meta's capex bill is still thin.
+
+84
+00:05:39,980 --> 00:05:44,391
+The entry-point thesis has a structural gap that has not been closed.
+
+85
+00:05:44,391 --> 00:05:47,896
+McDonald's dropped nearly five percent yesterday.
+
+86
+00:05:47,896 --> 00:05:52,406
+The stock has fallen from three hundred thirty-four to two hundred thirty-eight.
+
+87
+00:05:52,406 --> 00:05:56,646
+That is a thirty percent drawdown on a historically low-beta name.
+
+88
+00:05:56,646 --> 00:06:01,585
+The CEO's own words make this a persistent headwind, not a one-off.
+
+89
+00:06:01,585 --> 00:06:07,210
+High inflation, weak foot traffic, and rising beef and labor costs will linger.
+
+90
+00:06:07,210 --> 00:06:09,710
+The strategy shift is telling.
+
+91
+00:06:09,710 --> 00:06:11,916
+No new growth cake.
+
+92
+00:06:11,916 --> 00:06:16,034
+The play is stealing share through discounts and surgical pricing.
+
+93
+00:06:16,034 --> 00:06:18,852
+That is a margin-compression playbook.
+
+94
+00:06:18,852 --> 00:06:23,534
+They plan to deploy eight point five billion dollars to franchisees.
+
+95
+00:06:23,534 --> 00:06:28,460
+Restaurant modernization, tech deployment, operational upgrades.
+
+96
+00:06:28,460 --> 00:06:33,803
+Target is ten thousand dollars in added annual cash flow per US location.
+
+97
+00:06:33,803 --> 00:06:38,583
+The fifty percent operating margin target by 2030 is ambitious.
+
+98
+00:06:38,583 --> 00:06:42,369
+But the path there runs through a prolonged cost squeeze.
+
+99
+00:06:42,369 --> 00:06:47,247
+At three percent dividend yield, the valuation floor has some support.
+
+100
+00:06:47,247 --> 00:06:52,308
+But the fundamental trajectory argues for a slow bleed, not a V-recovery.
+
+101
+00:06:52,308 --> 00:06:54,624
+Patience over panic here.
+
+102
+00:06:54,624 --> 00:06:58,350
+Marvell is the quiet semiconductor winner in this tape.
+
+103
+00:06:58,350 --> 00:07:01,475
+Trump's July buy list includes the name.
+
+104
+00:07:01,475 --> 00:07:05,494
+The stock sits under two hundred thirty billion in market cap.
+
+105
+00:07:05,494 --> 00:07:10,556
+The setup is optical interconnect and custom silicon for AI data centers.
+
+106
+00:07:10,556 --> 00:07:15,458
+Jensen Huang has referenced a trillion-dollar addressable market for this space.
+
+107
+00:07:15,458 --> 00:07:17,553
+The chart is intact.
+
+108
+00:07:17,553 --> 00:07:19,894
+Uptrend structure holds.
+
+109
+00:07:19,894 --> 00:07:22,308
+No major support break.
+
+110
+00:07:22,308 --> 00:07:25,801
+The name is in accumulation, not distribution.
+
+111
+00:07:25,801 --> 00:07:28,362
+The risk is the rate environment.
+
+112
+00:07:28,362 --> 00:07:33,987
+If the Fed hikes three times, long-duration growth multiples compress across the board.
+
+113
+00:07:33,987 --> 00:07:36,168
+Marvell is not immune.
+
+114
+00:07:36,168 --> 00:07:39,588
+But the capex cycle supports the revenue line.
+
+115
+00:07:39,588 --> 00:07:43,963
+As long as hyperscalers build, Marvell's order book holds.
+
+116
+00:07:43,963 --> 00:07:48,313
+Watch the next earnings print for data-center revenue acceleration.
+
+117
+00:07:48,313 --> 00:07:51,744
+Support sits at the fifty-day moving average.
+
+118
+00:07:51,744 --> 00:07:55,568
+A close below that invalidates the short-term structure.
+
+119
+00:07:55,568 --> 00:07:58,423
+Resistance is the prior swing high.
+
+120
+00:07:58,423 --> 00:08:02,431
+That concludes today's XiaoFang Finance Morning Brief.
+
+121
+00:08:02,431 --> 00:08:06,597
+Thank you for listening, trade safely, and see you tomorrow.

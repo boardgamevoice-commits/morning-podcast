@@ -1,0 +1,271 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,513
+Today is September 26, 2026.
+
+3
+00:00:07,513 --> 00:00:14,425
+Overnight, Wall Street mounted a fragile relief rally, but underlying macro crosscurrents remain treacherous.
+
+4
+00:00:14,425 --> 00:00:20,025
+The S and P five hundred and the tech heavy Nasdaq pushed higher, while the Dow lagged.
+
+5
+00:00:20,025 --> 00:00:26,336
+Benchmark ten year Treasury yields marched upward, tightening financial conditions across the board.
+
+6
+00:00:26,336 --> 00:00:29,939
+Headline sentiment found brief relief from Tehran.
+
+7
+00:00:29,939 --> 00:00:35,822
+Iranian officials floated a seven day diplomatic framework to reopen the Strait of Hormuz.
+
+8
+00:00:35,822 --> 00:00:41,312
+Crude oil ticked down in response, giving equity bulls a temporary window to breathe.
+
+9
+00:00:41,312 --> 00:00:45,883
+Yet institutional desks view this detente as structurally fragile.
+
+10
+00:00:45,883 --> 00:00:50,675
+Gulf allies are urging Washington to maintain full economic pressure.
+
+11
+00:00:50,675 --> 00:00:55,993
+The White House is leveraging dollar clearing sanctions against Iranian state aircraft.
+
+12
+00:00:55,993 --> 00:01:03,383
+JPMorgan warned oil modeling is breaking down, keeping extreme one hundred fifty dollar barrel scenarios on the table.
+
+13
+00:01:03,383 --> 00:01:08,334
+Domestically, macroeconomic realities delivered a sharp reality check.
+
+14
+00:01:08,334 --> 00:01:14,902
+The University of Michigan consumer sentiment index tumbled to forty-eight point one, a four month trough.
+
+15
+00:01:14,902 --> 00:01:19,523
+Year ahead inflation expectations jumped to four point six percent.
+
+16
+00:01:19,523 --> 00:01:26,214
+Five to ten year inflation expectations climbed to three point four percent, the highest print since May.
+
+17
+00:01:26,214 --> 00:01:31,226
+Surging diesel and gasoline prices are squeezing household balance sheets.
+
+18
+00:01:31,226 --> 00:01:34,179
+Mortgage rates breached seven percent.
+
+19
+00:01:34,179 --> 00:01:42,758
+A brief uptick in durable goods purchases reflects panic buying ahead of anticipated price hikes, rather than genuine consumer strength.
+
+20
+00:01:42,758 --> 00:01:52,182
+This sticky inflation print complicates the Federal Reserve rate path, pushing rate cut expectations further out and weighing on long duration valuations.
+
+21
+00:01:52,182 --> 00:01:57,648
+This macro liquidity squeeze is directly reshaping tech sector capital allocation.
+
+22
+00:01:57,648 --> 00:02:02,317
+Speculative software narratives are giving way to raw compute certainty.
+
+23
+00:02:02,317 --> 00:02:08,052
+Meta revealed acute capacity bottlenecks within its Mius artificial intelligence platform.
+
+24
+00:02:08,052 --> 00:02:14,020
+Serving fewer than one million users, the platform suffered widespread service degradation.
+
+25
+00:02:14,020 --> 00:02:19,069
+Meta assigns dedicated virtual machines to each user for data privacy.
+
+26
+00:02:19,069 --> 00:02:25,111
+This architecture causes compute consumption to scale linearly without shared workload efficiency.
+
+27
+00:02:25,111 --> 00:02:28,101
+The immediate market takeaway is clear.
+
+28
+00:02:28,101 --> 00:02:33,665
+Artificial intelligence applications cannot scale without massive physical infrastructure.
+
+29
+00:02:33,665 --> 00:02:40,368
+Capital is aggressively rotating out of unproven software layers and returning to pick and shovel hardware plays.
+
+30
+00:02:40,368 --> 00:02:44,866
+Simultaneously, regulatory crosscurrents are intensifying.
+
+31
+00:02:44,866 --> 00:02:51,177
+Tech heavyweights Google, OpenAI, and Anthropic formed the Frontier AI Standards Board.
+
+32
+00:02:51,177 --> 00:02:57,415
+This self regulatory body aims to establish safety benchmarks and incident reporting protocols.
+
+33
+00:02:57,415 --> 00:03:05,687
+Big tech is moving proactively to shape upcoming compliance frameworks, raising barriers to entry for smaller open source competitors.
+
+34
+00:03:05,687 --> 00:03:10,797
+In long term infrastructure, Google tested its space data center prototype.
+
+35
+00:03:10,797 --> 00:03:18,971
+A satellite carrying four TPU chips launched aboard a SpaceX rocket to test orbital cooling and cosmic radiation resilience.
+
+36
+00:03:18,971 --> 00:03:23,248
+Current thermal constraints limit active compute to fifteen minutes.
+
+37
+00:03:23,248 --> 00:03:27,721
+Cisco stands positioned for future ground to orbit network routing.
+
+38
+00:03:27,721 --> 00:03:33,113
+However, orbital compute remains a distant call option rather than near term revenue.
+
+39
+00:03:33,113 --> 00:03:37,219
+Turning to our pivotal equity deep dives for the trading session.
+
+40
+00:03:37,219 --> 00:03:39,474
+First, Nvidia.
+
+41
+00:03:39,474 --> 00:03:47,292
+Ticker N-V-D-A. Meta compute bottlenecks reaffirm that hyperscalers must keep spending aggressively on advanced accelerators.
+
+42
+00:03:47,292 --> 00:03:52,709
+Nvidia remains the primary institutional beneficiary of this structural shortage.
+
+43
+00:03:52,709 --> 00:03:59,829
+Institutional flows continue to treat Nvidia as the ultimate cash flow anchor in artificial intelligence hardware.
+
+44
+00:03:59,829 --> 00:04:06,324
+Technical support sits firmly at one hundred fifteen dollars, backed by its fifty day moving average.
+
+45
+00:04:06,324 --> 00:04:10,552
+Heavy overhead resistance looms at one hundred thirty dollars.
+
+46
+00:04:10,552 --> 00:04:15,013
+A breakout above one hundred thirty opens the path to fresh highs.
+
+47
+00:04:15,128 --> 00:04:18,668
+Risk management boundaries must remain disciplined.
+
+48
+00:04:18,618 --> 00:04:28,202
+Should sticky inflation push ten year Treasury yields above four point six percent, multiple compression could test secondary support down at one hundred eight dollars.
+
+49
+00:04:28,202 --> 00:04:31,032
+Second, Meta Platforms.
+
+50
+00:04:31,032 --> 00:04:32,773
+Ticker M-E-T-A.
+
+51
+00:04:32,773 --> 00:04:35,983
+The market faces a fundamental divergence.
+
+52
+00:04:35,983 --> 00:04:42,184
+The Mius bottleneck exposes rising capital expenditure intensity without immediate monetization.
+
+53
+00:04:42,184 --> 00:04:49,415
+Positively, expanding immersive hardware ecosystems drives long term content and engine licensing demand.
+
+54
+00:04:49,415 --> 00:04:53,005
+Yet near term margin expansion faces friction.
+
+55
+00:04:53,005 --> 00:04:58,496
+Technically, Meta is testing key horizontal support at four hundred ninety dollars.
+
+56
+00:04:58,496 --> 00:05:02,111
+Resistance is capped at five hundred twenty dollars.
+
+57
+00:05:02,111 --> 00:05:06,204
+Traders should watch the four hundred ninety dollar floor closely.
+
+58
+00:05:06,204 --> 00:05:11,192
+A break below risks a rapid gap fill toward four hundred seventy dollars.
+
+59
+00:05:11,192 --> 00:05:13,373
+Third, Alphabet.
+
+60
+00:05:13,373 --> 00:05:22,172
+Ticker G-O-O-G-L-E. Google is playing offense across multiple horizons, from orbital TPU prototypes to frontline regulatory leadership.
+
+61
+00:05:22,172 --> 00:05:30,052
+While orbital data centers generate zero near term earnings, Google core cash flows comfortably fund ambitious exploration.
+
+62
+00:05:30,052 --> 00:05:38,189
+Technically, Alphabet trades in a defined channel between one hundred sixty dollars support and one hundred seventy-five dollars resistance.
+
+63
+00:05:38,189 --> 00:05:41,523
+Institutional accumulation remains steady.
+
+64
+00:05:41,523 --> 00:05:47,969
+A close below one hundred fifty-eight dollars signals macro multiple contraction across mega cap tech.
+
+65
+00:05:47,969 --> 00:05:52,037
+In this environment, macro liquidity dictates terms.
+
+66
+00:05:52,037 --> 00:05:57,515
+Stick with real earnings, proven hardware moats, and pristine balance sheets.
+
+67
+00:05:57,515 --> 00:06:01,523
+That concludes today's XiaoFang Finance Morning Brief.
+
+68
+00:06:01,523 --> 00:06:05,689
+Thank you for listening, trade safely, and see you tomorrow.

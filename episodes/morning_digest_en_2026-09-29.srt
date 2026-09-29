@@ -1,0 +1,195 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,488
+Today is September 29, 2026.
+
+3
+00:00:07,488 --> 00:00:11,839
+Overnight, Wall Street closed lower in choppy consolidation.
+
+4
+00:00:11,839 --> 00:00:18,089
+The S and P 500 slipped fifty-nine points, down zero point seven seven percent.
+
+5
+00:00:18,089 --> 00:00:23,763
+The Nasdaq shed two hundred forty-eight points, down zero point nine two percent.
+
+6
+00:00:23,763 --> 00:00:28,983
+Key indices remain trapped between their five-day and ten-day moving averages.
+
+7
+00:00:28,983 --> 00:00:32,929
+Global sovereign debt markets flashed red alerts overnight.
+
+8
+00:00:32,929 --> 00:00:37,672
+The thirty-year Treasury yield climbed to five point five five percent.
+
+9
+00:00:37,672 --> 00:00:42,574
+All benchmarks beyond five years now sit firmly above five percent.
+
+10
+00:00:42,574 --> 00:00:46,925
+Bond volatility spiked at its fastest clip in over a year.
+
+11
+00:00:46,925 --> 00:00:55,282
+Apollo warns artificial intelligence agents are accelerating deposit flight into high-yield accounts, prolonging structural high interest rates.
+
+12
+00:00:55,282 --> 00:01:00,429
+Meanwhile, federal funds rate expectations face a massive divergence.
+
+13
+00:01:00,429 --> 00:01:06,312
+The CME FedWatch tool prices a seventy percent probability of an October rate hike.
+
+14
+00:01:06,312 --> 00:01:13,554
+Federal Reserve Governor Cook flagged energy and infrastructure demands from data centers as immediate inflation drivers.
+
+15
+00:01:13,554 --> 00:01:19,780
+Goldman Sachs warns rate cuts are over-priced, projecting one additional hike before any pause.
+
+16
+00:01:19,780 --> 00:01:28,836
+Conversely, Treasury Secretary Bessent argues artificial intelligence productivity gains will ultimately crush inflation and lower long-term yields.
+
+17
+00:01:28,836 --> 00:01:32,709
+Geopolitical risks offered marginal relief overnight.
+
+18
+00:01:32,709 --> 00:01:40,331
+Saudi Arabia restarted its East-West pipeline, restoring seven million barrels per day bypassing the Strait of Hormuz.
+
+19
+00:01:40,331 --> 00:01:45,086
+Middle East exports rebounded to twelve point eight million barrels per day.
+
+20
+00:01:45,086 --> 00:01:52,170
+Brent crude trades cautiously around one hundred five dollars per barrel on pending Washington-Tehran negotiations.
+
+21
+00:01:52,170 --> 00:01:57,795
+Liquidity tightening has raised the return hurdle on enterprise artificial intelligence spending.
+
+22
+00:01:57,795 --> 00:02:03,640
+Bank of America warns institutional leverage metrics are nearing critical de-risking thresholds.
+
+23
+00:02:03,640 --> 00:02:07,574
+Yet tech giants continue aggressive capital deployment.
+
+24
+00:02:07,574 --> 00:02:14,510
+Meta launched its full-stack Enterprise Platform, triggering a twenty-five percent plunge in MongoDB shares.
+
+25
+00:02:14,510 --> 00:02:21,949
+OpenAI is preparing its always-on Ode assistant alongside a five-hundred-dollar monthly GPT Pro Max tier.
+
+26
+00:02:21,949 --> 00:02:28,714
+In cybersecurity, CrowdStrike, ticker C-R-W-D, pushed higher within an ascending channel.
+
+27
+00:02:28,714 --> 00:02:36,349
+Broad sector exposure through the C-I-B-R and B-U-G exchange traded funds continues attracting defensive inflows.
+
+28
+00:02:36,349 --> 00:02:39,290
+Now to our pivotal equities of the day.
+
+29
+00:02:39,290 --> 00:02:46,925
+Nvidia, ticker N-V-D-A, closed at two hundred twenty-eight dollars with a market cap surpassing five trillion dollars.
+
+30
+00:02:46,925 --> 00:02:52,255
+Management approved a historic one-hundred-fifty-billion-dollar share buyback program.
+
+31
+00:02:52,255 --> 00:02:59,081
+That brings total authorized repurchases to two hundred thirty-five billion dollars through January 2028.
+
+32
+00:02:59,081 --> 00:03:04,461
+Anthropic also secured a one-hundred-eighty-billion-dollar long-term compute agreement.
+
+33
+00:03:04,461 --> 00:03:12,023
+Nvidia also unveiled a real-time, two-tier artificial intelligence safety system for agent runtime isolation.
+
+34
+00:03:12,023 --> 00:03:20,086
+The thesis remains intact, but elevated valuation multiples leave limited upside at current levels without broader market breakout.
+
+35
+00:03:20,086 --> 00:03:26,189
+Tesla, ticker T-S-L-A, faces rising delivery headwinds ahead of third-quarter numbers.
+
+36
+00:03:26,189 --> 00:03:30,601
+JPMorgan cut its price target to four hundred fifteen dollars.
+
+37
+00:03:30,601 --> 00:03:38,003
+Wall Street consensus stands at four hundred seventy thousand units, down from four hundred ninety-seven thousand last year.
+
+38
+00:03:38,003 --> 00:03:45,699
+With Optimus and Robotaxi volume still quarters away, a ten percent year-over-year drop could trigger concentrated liquidation.
+
+39
+00:03:45,699 --> 00:03:51,336
+Micron Technology, ticker M-U, reports fiscal fourth-quarter earnings tomorrow.
+
+40
+00:03:51,336 --> 00:03:59,902
+Consensus targets fifty-one point two billion dollars in revenue, up thirty-five percent, and thirty-six billion dollars in net income.
+
+41
+00:03:59,902 --> 00:04:05,687
+Dynamic random access memory blended average selling prices surged over sixty percent.
+
+42
+00:04:05,687 --> 00:04:13,432
+Bulls point to one hundred billion dollars in long-term capacity agreements through 2030 and tight high-bandwidth memory supply.
+
+43
+00:04:13,432 --> 00:04:20,393
+Bears, led by Michael Burry, warn memory pricing is peaking ahead of 2028 capacity expansions.
+
+44
+00:04:20,393 --> 00:04:25,552
+Management forward guidance on enterprise high-bandwidth memory will dictate the trade.
+
+45
+00:04:25,688 --> 00:04:33,248
+SpaceX tracked orbital success on its fourteenth Starship test flight, deploying Starlink V-3 satellites.
+
+46
+00:04:33,198 --> 00:04:40,820
+SPCX traded flat after initial pops, as institutional desks await sustained commercial revenue conversion.
+
+47
+00:04:40,820 --> 00:04:48,259
+Watch the forty-seven hundred support zone on the S and P, and maintain strict stop losses across high-beta names.
+
+48
+00:04:48,259 --> 00:04:52,266
+That concludes today's XiaoFang Finance Morning Brief.
+
+49
+00:04:52,266 --> 00:04:56,433
+Thank you for listening, trade safely, and see you tomorrow.

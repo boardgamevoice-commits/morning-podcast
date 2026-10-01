@@ -166,5 +166,17 @@
     "episode_num": 14,
     "vtt_url": "episodes/morning_digest_en_2026-09-30.vtt",
     "srt_url": "episodes/morning_digest_en_2026-09-30.srt"
+  },
+  {
+    "guid": "digest-en-2026-10-01",
+    "title": "XiaoFang Finance 2026-10-01 · Global Macro & Wall Street Clash",
+    "description": "Daily global macro dynamics and Wall Street tactical setup. First-hand institutional research deduplicated, highlighting key consensus and battleground divergences.",
+    "audio_url": "episodes/morning_digest_en_2026-10-01.mp3",
+    "audio_size": 4335538,
+    "duration": 250.156009,
+    "pub_date": "2026-10-01T04:42:17.773210-04:00",
+    "episode_num": 15,
+    "vtt_url": "episodes/morning_digest_en_2026-10-01.vtt",
+    "srt_url": "episodes/morning_digest_en_2026-10-01.srt"
   }
 ]

@@ -1,0 +1,115 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,206
+Today is October 05, 2026.
+
+3
+00:00:07,206 --> 00:00:12,574
+Overnight, the Nasdaq and S and P pushed higher while the Dow lagged behind.
+
+4
+00:00:12,574 --> 00:00:18,959
+Benchmark indices show acute divergence as three quarters of S and P components finished in the red.
+
+5
+00:00:18,959 --> 00:00:25,797
+The ten-year Treasury yield hovers near cycle highs, while Brent crude presses against one hundred dollars a barrel.
+
+6
+00:00:25,797 --> 00:00:33,236
+Ahead of Wednesday's Federal Reserve minutes, traders debate whether policymakers will signal higher terminal rates or pause.
+
+7
+00:00:33,236 --> 00:00:40,184
+S and P global service P-M-I and Friday consumer inflation expectations will test that policy path.
+
+8
+00:00:40,184 --> 00:00:45,123
+Liquidity remains tightly locked in mega-cap technology balance sheets.
+
+9
+00:00:45,123 --> 00:00:50,834
+Cloud hyperscalers hold one hundred fifty billion dollars in multi-year hardware commitments.
+
+10
+00:00:50,834 --> 00:00:55,552
+This guarantees tight memory and compute supply through 2028.
+
+11
+00:00:55,552 --> 00:01:03,273
+Washington established an A-I task force opposing mandatory development freezes, favoring voluntary industry oversight.
+
+12
+00:01:03,273 --> 00:01:10,576
+Yet OpenAI's safety lead resigned overnight, warning against rapid deployment without redundant physical fail-safes.
+
+13
+00:01:10,576 --> 00:01:19,363
+SoftBank founder Masayoshi Son flagged existential runaway hazards while forecasting robotics will capture twenty percent of global output.
+
+14
+00:01:19,363 --> 00:01:23,211
+Institutional capital flows mirror this bifurcation.
+
+15
+00:01:23,211 --> 00:01:31,079
+Trend-following quantitative funds completely cleared excessive equity length, shifting from extreme overbought to net short positioning.
+
+16
+00:01:31,079 --> 00:01:36,177
+This aggressive systematic derisking clears the deck for a massive short squeeze.
+
+17
+00:01:36,177 --> 00:01:43,395
+Meanwhile, corporate America enters a one-point-three trillion dollar share repurchase window starting October 15.
+
+18
+00:01:43,395 --> 00:01:49,755
+Nvidia, ticker N-V-D-A, trades at fresh all-time highs on relentless hardware demand.
+
+19
+00:01:49,755 --> 00:01:54,866
+Buyers must defend prior breakout support at one hundred thirty-five dollars.
+
+20
+00:01:54,866 --> 00:02:00,368
+Overhead resistance sits at psychological territory near one hundred fifty dollars.
+
+21
+00:02:00,368 --> 00:02:07,010
+Failure to hold one hundred twenty-eight dollars exposes downside risk toward the fifty-day moving average.
+
+22
+00:02:07,010 --> 00:02:15,037
+Microsoft, ticker M-S-F-T, consolidates around four hundred thirty dollars as enterprise A-I monetization accelerates.
+
+23
+00:02:15,037 --> 00:02:21,361
+Immediate support holds firm at four hundred twenty dollars, backed by substantial buyback commitments.
+
+24
+00:02:21,361 --> 00:02:25,135
+Resistance gathers near four hundred forty-eight dollars.
+
+25
+00:02:25,135 --> 00:02:30,687
+A weekly close below four hundred fifteen dollars invalidates the current ascending channel.
+
+26
+00:02:30,687 --> 00:02:37,513
+Apple, ticker A-A-P-L, wrestles with rising energy input costs and consumer sentiment hurdles.
+
+27
+00:02:37,513 --> 00:02:45,724
+Key pivot support remains at two hundred twenty dollars, while strong technical resistance caps upside at two hundred thirty-six dollars.
+
+28
+00:02:45,724 --> 00:02:49,731
+That concludes today's XiaoFang Finance Morning Brief.
+
+29
+00:02:49,731 --> 00:02:53,898
+Thank you for listening, trade safely, and see you tomorrow.

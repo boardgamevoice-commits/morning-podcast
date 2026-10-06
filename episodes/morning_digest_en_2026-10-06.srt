@@ -1,0 +1,215 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,280
+Today is October 06, 2026.
+
+3
+00:00:07,280 --> 00:00:15,466
+Overnight, Wall Street delivered a split tape as the Nasdaq jumped over one percent to record highs while long duration bond yields surged.
+
+4
+00:00:15,466 --> 00:00:21,300
+The Standard and Poor 500 climbed fifty-one points, closing near seventy-eight hundred.
+
+5
+00:00:21,300 --> 00:00:29,829
+The Nasdaq Composite led the rally, adding two hundred eighty-six points to hit an all-time high of twenty-seven thousand five hundred forty-four.
+
+6
+00:00:29,829 --> 00:00:35,540
+The Dow Jones Industrial Average lagged, edging up just zero point one eight percent.
+
+7
+00:00:35,540 --> 00:00:39,388
+The divergence across rates defines this market regime.
+
+8
+00:00:39,388 --> 00:00:44,179
+The ten-year Treasury yield surged back to five point three five percent.
+
+9
+00:00:44,179 --> 00:00:48,628
+The thirty-year bond yield broke above five point seven percent.
+
+10
+00:00:48,628 --> 00:00:55,724
+In contrast, the two-year yield eased after soft consumer inflation data removed October rate hike bets.
+
+11
+00:00:55,724 --> 00:00:59,363
+Shorter yields support rich growth equity multiples.
+
+12
+00:00:59,363 --> 00:01:05,331
+However, long-end yields reflect heavy federal deficit issuance and term premium pressures.
+
+13
+00:01:05,331 --> 00:01:14,228
+Global oil bounced after sabotage reports on Saudi east-west pipelines, but settled back as baseline crude flows continued uninterrupted.
+
+14
+00:01:14,228 --> 00:01:19,204
+Beneath the headline index records lies an extreme divergence in market breadth.
+
+15
+00:01:19,204 --> 00:01:24,657
+Capital flows into index funds have reached one point nine trillion dollars this year.
+
+16
+00:01:24,657 --> 00:01:30,736
+Forty cents of every passive index dollar flows straight into the top ten mega-cap tech stocks.
+
+17
+00:01:30,736 --> 00:01:35,711
+The S and P equal-weighted index has fallen for seven consecutive weeks.
+
+18
+00:01:35,711 --> 00:01:43,738
+That seven-week losing streak has happened only twice before: during the 2002 dot-com bust and the 2022 bear market.
+
+19
+00:01:43,738 --> 00:01:48,934
+Over half of Russell three thousand stocks sit twenty percent below their highs.
+
+20
+00:01:48,934 --> 00:01:57,206
+Bulls point to washed-out retail sentiment, arguing passive institutional liquidity will trigger an aggressive short squeeze toward eight thousand.
+
+21
+00:01:57,206 --> 00:02:04,572
+Bears counter that market concentration leaves indexes vulnerable to a trap if bond auctions push yields higher this week.
+
+22
+00:02:04,572 --> 00:02:11,667
+Tech capital expenditure cycles continue to branch outward from core semiconductors into critical physical bottlenecks.
+
+23
+00:02:11,667 --> 00:02:20,405
+In chip fabrication, Elon Musk confirmed discussions with Taiwan Semiconductor Manufacturing Company regarding TerraFab foundry operations.
+
+24
+00:02:20,405 --> 00:02:26,741
+The news sent TSMC to fresh record highs, while Intel slipped on fears of order dilution.
+
+25
+00:02:26,741 --> 00:02:33,542
+Simultaneously, power constraints have made utilities the newest artificial intelligence infrastructure play.
+
+26
+00:02:33,542 --> 00:02:41,385
+Vistra Energy advanced three percent after the United States government announced a four-billion-dollar loan program for nuclear facilities.
+
+27
+00:02:41,385 --> 00:02:46,814
+Vistra reclaimed its fifty-day moving average, signaling accelerating momentum.
+
+28
+00:02:46,814 --> 00:02:57,243
+In enterprise artificial intelligence, Meta Platforms gained after deploying its Muse agent platform, with independent merchants on Shopify integrating directly into the system.
+
+29
+00:02:57,243 --> 00:03:03,701
+In custom compute, Cerebras surged nine percent following direct endorsements from OpenAI leadership.
+
+30
+00:03:03,701 --> 00:03:09,572
+Meanwhile, a parallel infrastructure trade is accelerating across computational biology.
+
+31
+00:03:09,572 --> 00:03:16,520
+The artificial intelligence drug discovery sector is replicating the historic semiconductor supply chain rotation.
+
+32
+00:03:16,520 --> 00:03:30,233
+Capital is rotating out of binary biotech drug trials into physical bottlenecks like Twist Bioscience for DNA synthesis, Recursion Pharmaceuticals for robotic laboratories, and Schrodinger for molecular simulation software.
+
+33
+00:03:30,233 --> 00:03:35,282
+Three individual equities demand immediate risk management focus this morning.
+
+34
+00:03:35,282 --> 00:03:37,537
+First, Nvidia.
+
+35
+00:03:37,537 --> 00:03:43,579
+Consensus models forecast upcoming quarterly revenues expanding seventy percent year over year.
+
+36
+00:03:43,579 --> 00:03:49,645
+Management is preparing an unprecedented two-hundred-thirty-five-billion-dollar share repurchase program.
+
+37
+00:03:49,645 --> 00:03:57,844
+Nvidia shares are breaking out toward a six-trillion-dollar market capitalization, corresponding to two hundred forty-nine dollars per share.
+
+38
+00:03:57,844 --> 00:04:04,523
+Yet forward price-to-earnings ratios sit at seventeen times, well below historical tech bubble peaks.
+
+39
+00:04:04,523 --> 00:04:12,121
+Immediate technical resistance sits at two hundred fifty dollars, with initial support anchored at two hundred thirty-five dollars.
+
+40
+00:04:12,248 --> 00:04:14,722
+Second, SpaceX.
+
+41
+00:04:14,672 --> 00:04:23,998
+The newly renamed SpaceX Superintelligence entity crossed a two-point-two-trillion-dollar valuation following sixteen percent gains over two trading sessions.
+
+42
+00:04:23,998 --> 00:04:29,329
+Shares settled at two hundred thirty-eight dollars and ninety cents against heavy trading volume.
+
+43
+00:04:29,329 --> 00:04:34,219
+Morgan Stanley holds an overweight rating with a three-hundred-dollar price target.
+
+44
+00:04:34,219 --> 00:04:42,687
+The key operational catalyst remains Starship Flight Fifteen, testing simultaneous launch tower recovery of booster and spacecraft.
+
+45
+00:04:42,687 --> 00:04:47,233
+Traders should watch the two hundred dollar mark as strong structural support.
+
+46
+00:04:47,233 --> 00:04:49,562
+Third, McDonald's.
+
+47
+00:04:49,562 --> 00:04:57,049
+Shares trade around two hundred thirty-three dollars, down thirty percent from all-time highs of three hundred thirty-five dollars.
+
+48
+00:04:57,049 --> 00:05:06,130
+Consumer resistance to price increases has compressed traffic, but earnings remain resilient across five consecutive quarters of positive revenue growth.
+
+49
+00:05:06,130 --> 00:05:15,444
+McDonald's trades at seventeen times forward earnings with a three point three percent dividend yield backed by forty-nine consecutive years of dividend increases.
+
+50
+00:05:15,444 --> 00:05:24,182
+Tactical buyers are positioning initial tranches at two hundred thirty dollars, reserving secondary risk allocation at the two hundred ten dollar floor.
+
+51
+00:05:24,182 --> 00:05:28,986
+Conversely, consumer discretionary weakness remains acute elsewhere.
+
+52
+00:05:28,986 --> 00:05:40,616
+Nike continues to bleed toward thirty-three dollars after guided sales declines of high single digits, while European luxury titans Hermes and Louis Vuitton trade near ten-year valuation troughs.
+
+53
+00:05:40,616 --> 00:05:44,623
+That concludes today's XiaoFang Finance Morning Brief.
+
+54
+00:05:44,623 --> 00:05:48,790
+Thank you for listening, trade safely, and see you tomorrow.

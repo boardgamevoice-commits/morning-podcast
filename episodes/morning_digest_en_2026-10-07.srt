@@ -1,0 +1,227 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,268
+Today is October 07, 2026.
+
+3
+00:00:07,268 --> 00:00:12,893
+Overnight, the S&P 500 and the Nasdaq surged to fresh all-time records.
+
+4
+00:00:12,893 --> 00:00:16,447
+Treasury yields eased while crude oil retreated.
+
+5
+00:00:16,447 --> 00:00:20,000
+Risk appetite roared back into global equities.
+
+6
+00:00:20,000 --> 00:00:24,400
+The S&P 500 closed up fifty-eight basis points.
+
+7
+00:00:24,400 --> 00:00:28,432
+The tech-heavy Nasdaq added forty-five basis points.
+
+8
+00:00:28,432 --> 00:00:33,015
+Meanwhile, the Russell 2000 fell zero point six percent.
+
+9
+00:00:33,015 --> 00:00:37,206
+The Nasdaq to Russell ratio hit a record ten point eight eight.
+
+10
+00:00:37,206 --> 00:00:41,643
+Capital is crowding exclusively into mega-cap balance sheets.
+
+11
+00:00:41,643 --> 00:00:48,800
+On the macro front, a solid fifty-eight billion dollar three-year Treasury auction relieved near-term supply fears.
+
+12
+00:00:48,800 --> 00:00:53,383
+The Fed rate cut path remains constrained by lingering deficits.
+
+13
+00:00:53,383 --> 00:00:57,844
+August trade deficit widened to one hundred and five billion dollars.
+
+14
+00:00:57,844 --> 00:01:01,679
+Surging semiconductor imports drove this expansion.
+
+15
+00:01:01,679 --> 00:01:06,349
+Prominent bears claim markets are entering a late-stage denial phase.
+
+16
+00:01:06,349 --> 00:01:09,915
+However, market internals tell a different story.
+
+17
+00:01:09,915 --> 00:01:15,123
+The S&P broke cleanly above the critical seventy-eight hundred resistance level.
+
+18
+00:01:15,123 --> 00:01:18,738
+That move triggered massive systematic short-covering.
+
+19
+00:01:18,738 --> 00:01:22,476
+Fear and greed gauges sit near neutral territory.
+
+20
+00:01:22,476 --> 00:01:27,978
+We are witnessing left-side momentum expansion, not an exhausted right-side rollover.
+
+21
+00:01:27,978 --> 00:01:31,091
+Key technical watchpoints remain clear.
+
+22
+00:01:31,091 --> 00:01:34,547
+Seventy-eight hundred serves as the primary pivot.
+
+23
+00:01:34,547 --> 00:01:38,334
+A break below seventy-eight hundred warns of a bull trap.
+
+24
+00:01:38,334 --> 00:01:42,623
+Holding above opens the door to seventy-nine hundred and eight thousand.
+
+25
+00:01:42,623 --> 00:01:48,407
+Nasdaq futures must defend seven hundred and fifty-nine to target seven hundred and seventy-eight.
+
+26
+00:01:48,407 --> 00:01:54,228
+Across industry flows, capital is aggressively rotating into AI infrastructure.
+
+27
+00:01:54,228 --> 00:02:00,050
+Big tech capital expenditures are fueling unprecedented demand for clean baseload power.
+
+28
+00:02:00,050 --> 00:02:07,611
+Nuclear provider Constellation Energy soared twelve percent following a landmark twenty-year power purchase agreement with Alphabet.
+
+29
+00:02:07,611 --> 00:02:12,317
+Alphabet secured thirty-six hundred megawatts of dedicated capacity.
+
+30
+00:02:12,317 --> 00:02:18,371
+This mirrors Amazon's nuclear strategy, sending utility valuations to fresh peaks.
+
+31
+00:02:18,371 --> 00:02:21,949
+AI power demand is no longer theoretical.
+
+32
+00:02:21,949 --> 00:02:28,309
+Energy Information Administration forecasts show record power consumption across data centers this year.
+
+33
+00:02:28,309 --> 00:02:32,023
+Hardware supply chains show tactical divergence.
+
+34
+00:02:32,023 --> 00:02:39,241
+Storage leaders like Seagate tumbled nine percent on aggressive acquisition spending rumors and Toshiba head headwinds.
+
+35
+00:02:39,241 --> 00:02:44,302
+Conversely, custom silicon and optical networking gained strong momentum.
+
+36
+00:02:44,302 --> 00:02:51,312
+Marvell popped nearly six percent after boosting fiscal twenty-thirty-one revenue guidance to ninety billion dollars.
+
+37
+00:02:51,312 --> 00:02:57,476
+AMD surged three percent after confirming sustained enterprise server processor shortages.
+
+38
+00:02:57,476 --> 00:03:01,030
+Turning to key pivotal equities for your trading radar.
+
+39
+00:03:01,030 --> 00:03:03,285
+First, Nvidia.
+
+40
+00:03:03,285 --> 00:03:09,425
+The semiconductor titan is knocking on a unprecedented six trillion dollar market cap valuation.
+
+41
+00:03:09,425 --> 00:03:14,486
+Year-to-date market capitalization expansion exceeded one trillion dollars.
+
+42
+00:03:14,486 --> 00:03:20,540
+Remarkable forward earnings power keeps valuation multiples near ten-year historical medians.
+
+43
+00:03:20,540 --> 00:03:24,204
+Yet institutional concentration risk is extreme.
+
+44
+00:03:24,204 --> 00:03:28,787
+Nvidia effectively acts as the equity market's ultimate put option.
+
+45
+00:03:28,787 --> 00:03:32,059
+Second, Advanced Micro Devices.
+
+46
+00:03:32,059 --> 00:03:36,300
+The stock hit record highs at six hundred and fifty-eight dollars.
+
+47
+00:03:36,300 --> 00:03:43,432
+Chief Executive Lisa Su reaffirmed that accelerator and server CPU demand far outstrips current supply.
+
+48
+00:03:43,432 --> 00:03:49,596
+AI agent frameworks are driving massive CPU compute loads alongside GPUs.
+
+49
+00:03:49,596 --> 00:03:53,273
+Wall Street targets pushed toward eight hundred dollars.
+
+50
+00:03:53,273 --> 00:03:59,179
+Maintain trailing stops near six hundred and twenty dollars to safeguard recent breakout gains.
+
+51
+00:03:59,179 --> 00:04:03,248
+Third, Taiwan Semiconductor Manufacturing Company.
+
+52
+00:04:03,248 --> 00:04:09,253
+Shares rallied on reports of direct foundry collaboration with Tesla on the TerraFab project.
+
+53
+00:04:09,253 --> 00:04:15,675
+Industry channel checks assign an eighty percent probability to this joint Texas manufacturing footprint.
+
+54
+00:04:15,675 --> 00:04:22,599
+With Nvidia projecting seventy percent top-line expansion, TSMC commands complete pricing power.
+
+55
+00:04:22,599 --> 00:04:27,059
+Downside risk centers on geopolitical supply chain friction.
+
+56
+00:04:27,059 --> 00:04:31,067
+That concludes today's XiaoFang Finance Morning Brief.
+
+57
+00:04:31,067 --> 00:04:35,233
+Thank you for listening, trade safely, and see you tomorrow.

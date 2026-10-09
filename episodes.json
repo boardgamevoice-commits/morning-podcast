@@ -262,5 +262,17 @@
     "episode_num": 22,
     "vtt_url": "episodes/morning_digest_2026-10-08.vtt",
     "srt_url": "episodes/morning_digest_2026-10-08.srt"
+  },
+  {
+    "guid": "digest-2026-10-09",
+    "title": "【小方财经】2026-10-09 · 晨间内参：全球宏观与美股多空深度博弈",
+    "description": "每日全球宏观异动与美股一线盘面深度复盘。一手投研事实坚决去重，深挖多空分歧与个股点位，呈现高信息密度的开门见山早间内参。",
+    "audio_url": "episodes/morning_digest_2026-10-09.mp3",
+    "audio_size": 11989150,
+    "duration": 728.524014,
+    "pub_date": "2026-10-09T04:43:04.027847-04:00",
+    "episode_num": 23,
+    "vtt_url": "episodes/morning_digest_2026-10-09.vtt",
+    "srt_url": "episodes/morning_digest_2026-10-09.srt"
   }
 ]

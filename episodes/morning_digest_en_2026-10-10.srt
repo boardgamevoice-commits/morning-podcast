@@ -1,0 +1,183 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,206
+Today is October 10, 2026.
+
+3
+00:00:07,206 --> 00:00:14,204
+Overnight, Wall Street mounted a relief rally as crude oil pulled back and software led a technology rebound.
+
+4
+00:00:14,204 --> 00:00:21,067
+The S and P 500 reclaimed 7,800.3, up over one percent on the week.
+
+5
+00:00:21,067 --> 00:00:30,773
+The Nasdaq added 172 points to 27,366, yet continues to lag its peers below short-term moving averages.
+
+6
+00:00:30,773 --> 00:00:35,736
+The Dow gained nearly one percent, snapping a five-week losing streak.
+
+7
+00:00:35,736 --> 00:00:39,596
+Under the surface, liquidity constraints remain tight.
+
+8
+00:00:39,596 --> 00:00:47,378
+Benchmark 30-year Treasury yields broke above 5.6 percent, reaching levels unseen since the turn of the century.
+
+9
+00:00:47,378 --> 00:00:54,535
+Short-term yields holding near 4.5 percent have driven global money market assets past eight trillion dollars.
+
+10
+00:00:54,535 --> 00:00:59,670
+Cash now generates over 300 billion dollars in risk-free annual income.
+
+11
+00:00:59,670 --> 00:01:03,064
+That raises the hurdle rate for risk assets.
+
+12
+00:01:03,064 --> 00:01:08,395
+Macro bulls cite steady two percent GDP growth and near full employment.
+
+13
+00:01:08,395 --> 00:01:18,469
+Bears highlight deteriorating consumer confidence, where one-year inflation expectations hit 4.7 percent and durable goods demand sits at historic lows.
+
+14
+00:01:18,469 --> 00:01:22,353
+The market is displaying an extreme structural divergence.
+
+15
+00:01:22,353 --> 00:01:30,956
+While the S and P index moved less than one percent over the past month, underlying single stocks saw average swings of nearly nine percent.
+
+16
+00:01:30,956 --> 00:01:36,434
+That level of dispersion ranks in the top five percentile over the past three decades.
+
+17
+00:01:36,434 --> 00:01:44,743
+Capital is draining out of legacy consumer, energy, and telecom sectors to fund a single massive theme: artificial intelligence.
+
+18
+00:01:44,743 --> 00:01:51,826
+Panic hit semiconductor names earlier when reports pegged OpenAI annualized revenue at 50 billion dollars.
+
+19
+00:01:51,826 --> 00:02:00,184
+Sentiment reversed once clarified that 50 billion represents net platform take, with 20 billion paid out to partner hyperscalers.
+
+20
+00:02:00,184 --> 00:02:04,988
+The total ecosystem haul remains intact at 70 billion dollars.
+
+21
+00:02:04,988 --> 00:02:16,238
+Yet institutional players are hedging heavily into late-month catalysts, buying puts across mega-cap tech ahead of earnings, the October Federal Open Market Committee meeting, and midterm elections.
+
+22
+00:02:16,238 --> 00:02:19,706
+Next week brings the start of third-quarter earnings.
+
+23
+00:02:19,706 --> 00:02:25,687
+Major money-center banks report Tuesday, followed by consumer price index data Wednesday.
+
+24
+00:02:25,687 --> 00:02:31,201
+In chip manufacturing, ASML and Taiwan Semiconductor report mid-week.
+
+25
+00:02:31,201 --> 00:02:35,846
+ASML expects revenue up 53 percent year over year.
+
+26
+00:02:35,846 --> 00:02:43,775
+Taiwan Semiconductor delivered record monthly sales, operating as the undisputed packaging bottleneck for global accelerators.
+
+27
+00:02:43,775 --> 00:02:50,589
+Looking at key single stocks, Nvidia and the broader semiconductor complex face technical crossroads.
+
+28
+00:02:50,589 --> 00:02:57,635
+Buyers stepped in to defend moving averages, but crowded positioning means positive surprises are heavily priced in.
+
+29
+00:02:57,635 --> 00:03:06,287
+Watch the 7,800 S and P floor and semiconductor sector volume for signs of genuine continuation versus tactical relief.
+
+30
+00:03:06,287 --> 00:03:16,434
+GlobalFoundries traded counter to the semiconductor index, popping on a two-billion-dollar, five-year interposer deal with Taiwan Semiconductor for CoWoS packaging.
+
+31
+00:03:16,434 --> 00:03:28,309
+However, the stock sits trapped in a 40 to 50 dollar channel, burdened by an 80 percent controlling stake held by Abu Dhabi sovereign wealth, which previously triggered massive insider distribution.
+
+32
+00:03:28,309 --> 00:03:32,402
+Treat rallies into upper resistance as distribution zones.
+
+33
+00:03:32,402 --> 00:03:39,228
+Apple slipped over one percent on reports that iPhone 18 Pro build orders were trimmed by up to 20 percent.
+
+34
+00:03:39,228 --> 00:03:44,339
+Rising DRAM and NAND component costs are pressuring consumer price points.
+
+35
+00:03:44,339 --> 00:03:51,128
+While intraday dip buyers cushioned the blow, resistance looms overhead until demand metrics stabilize.
+
+36
+00:03:51,128 --> 00:03:55,197
+Meanwhile, space-based telecom disruption erupted.
+
+37
+00:03:55,197 --> 00:04:02,317
+SpaceX announced an eight-billion-dollar deal to acquire nationwide 800-megahertz low-band wireless spectrum.
+
+38
+00:04:02,317 --> 00:04:09,118
+The Federal Communications Commission granted authorization for 15,000 direct-to-cell Starlink satellites.
+
+39
+00:04:09,118 --> 00:04:11,618
+Traditional carriers cratered.
+
+40
+00:04:11,618 --> 00:04:19,988
+AT and T, Verizon, and T-Mobile shed between 8 and 13 percent as their dividend-heavy moats collapsed under the threat of bypass.
+
+41
+00:04:19,988 --> 00:04:26,949
+Conversely, cell tower infrastructure plays American Tower and Crown Castle surged up to 15 percent.
+
+42
+00:04:26,949 --> 00:04:35,000
+Investors bet space constellations must lease ground-station fiber and macro towers rather than build parallel terrestrial networks.
+
+43
+00:04:35,120 --> 00:04:46,454
+Palantir touched fresh all-time highs near 210 dollars following a Wall Street upgrade to 230, driven by rapid enterprise adoption of defense-grade artificial intelligence software.
+
+44
+00:04:46,404 --> 00:04:51,343
+Valuation risk is acute, demanding strict trailing stop-losses.
+
+45
+00:04:51,343 --> 00:04:55,350
+That concludes today's XiaoFang Finance Morning Brief.
+
+46
+00:04:55,350 --> 00:04:59,517
+Thank you for listening, trade safely, and see you tomorrow.

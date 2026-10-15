@@ -1,0 +1,195 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,402
+Today is October 15, 2026.
+
+3
+00:00:07,402 --> 00:00:12,427
+Overnight, Wall Street faced a sharp repricing across major indices.
+
+4
+00:00:12,427 --> 00:00:16,128
+The Nasdaq tumbled nearly one point nine percent.
+
+5
+00:00:16,128 --> 00:00:20,172
+The S and P five hundred dropped one point one percent.
+
+6
+00:00:20,172 --> 00:00:24,621
+The Dow held virtually flat, down less than a tenth of a percent.
+
+7
+00:00:24,621 --> 00:00:29,878
+A hotter-than-expected September Consumer Price Index sparked this risk-off wave.
+
+8
+00:00:29,878 --> 00:00:34,216
+Headline inflation hit three point seven percent year over year.
+
+9
+00:00:34,216 --> 00:00:38,898
+Core consumer prices rose zero point three percent month over month.
+
+10
+00:00:38,898 --> 00:00:46,152
+Service inflation accelerated alongside crude oil shocks following missile strikes on Saudi Aramco infrastructure.
+
+11
+00:00:46,152 --> 00:00:51,998
+Traders quickly doubled the odds of an October Federal Reserve rate hike to nearly fifty percent.
+
+12
+00:00:51,998 --> 00:00:56,839
+Swaps now price in ninety percent probability for a hike by December.
+
+13
+00:00:56,839 --> 00:01:02,341
+Furthermore, markets are pricing up to three additional hikes through late twenty twenty-seven.
+
+14
+00:01:02,341 --> 00:01:06,067
+However, long-duration Treasury yields declined.
+
+15
+00:01:06,067 --> 00:01:09,939
+The thirty-year yield pulled back for a fifth straight session.
+
+16
+00:01:09,939 --> 00:01:16,839
+Institutional flows rotated into defensive cash cows, including healthcare and consumer staples.
+
+17
+00:01:16,839 --> 00:01:21,275
+The S and P five hundred sliced through seven thousand eight hundred.
+
+18
+00:01:21,275 --> 00:01:25,785
+It now tests its fifty-day moving average at seventy-seven hundred.
+
+19
+00:01:25,785 --> 00:01:32,586
+Crucially, the seven-six-twenty floor represents the line separating consolidation from a true bear reversal.
+
+20
+00:01:32,586 --> 00:01:38,591
+Meanwhile, tech and artificial intelligence infrastructure bore the brunt of liquidity liquidation.
+
+21
+00:01:38,591 --> 00:01:42,917
+The Philadelphia Semiconductor Index slid over four percent.
+
+22
+00:01:42,917 --> 00:01:46,814
+Over one trillion dollars in market value evaporated.
+
+23
+00:01:46,814 --> 00:01:50,429
+Yet, this drawdown is not a demand crisis.
+
+24
+00:01:50,429 --> 00:01:55,613
+ASML posted record third-quarter net income of five billion euros.
+
+25
+00:01:55,613 --> 00:02:00,405
+Customers are already reserving photolithography tools through twenty thirty.
+
+26
+00:02:00,405 --> 00:02:02,978
+The bottleneck is not appetite.
+
+27
+00:02:02,978 --> 00:02:07,145
+The bottleneck is the cost of financing capital expenditures.
+
+28
+00:02:07,145 --> 00:02:10,650
+High interest rates squeeze levered compute plays.
+
+29
+00:02:10,650 --> 00:02:15,809
+Second-tier cloud infrastructure providers face heavy refinancing hurdles.
+
+30
+00:02:15,809 --> 00:02:23,175
+Take CoreWeave, ticker C R W V. Shares plunged fifteen point five percent in a high-volume gap down.
+
+31
+00:02:23,175 --> 00:02:26,851
+The company carries fifty-two billion dollars in debt.
+
+32
+00:02:26,851 --> 00:02:30,552
+Its unsecured bonds yield over fifteen percent.
+
+33
+00:02:30,552 --> 00:02:35,944
+A nine percent cost of capital clashes with four to five percent target yields.
+
+34
+00:02:35,944 --> 00:02:40,834
+Investors must monitor the sixty to sixty-five dollar prior swing low.
+
+35
+00:02:40,834 --> 00:02:44,670
+Watch for base building before attempting any bottom fishing.
+
+36
+00:02:44,670 --> 00:02:51,410
+Next, Oracle, ticker O R C L. Oracle slid nine percent, hitting mid-summer lows.
+
+37
+00:02:51,410 --> 00:02:54,878
+Total debt exceeds one hundred billion dollars.
+
+38
+00:02:54,878 --> 00:02:59,829
+Credit default swaps widened as leverage pushed toward five hundred percent.
+
+39
+00:02:59,829 --> 00:03:05,491
+High-yield debt contagion in cloud infrastructure is now the primary systemic vulnerability.
+
+40
+00:03:05,491 --> 00:03:13,628
+Finally, in semiconductors, ASML, ticker A S M L, and SK Hynix present stark divergences.
+
+41
+00:03:13,628 --> 00:03:20,135
+ASML fell four percent despite raising full-year sales guidance to forty-five billion euros.
+
+42
+00:03:20,135 --> 00:03:24,841
+Advanced node capacity constraints remain locked through twenty twenty-eight.
+
+43
+00:03:24,841 --> 00:03:29,621
+SK Hynix sits down twenty-five percent, deeply oversold.
+
+44
+00:03:29,621 --> 00:03:36,165
+Delayed orders for sixth-generation high-bandwidth memory packaging triggered heavy foreign selling across Seoul.
+
+45
+00:03:36,165 --> 00:03:42,476
+However, short-covering relief rallies could emerge as technical support catches oversold momentum.
+
+46
+00:03:42,476 --> 00:03:48,125
+Capital is separating balance-sheet fortresses like Microsoft from high-yield debt borrowers.
+
+47
+00:03:48,125 --> 00:03:52,121
+Keep cash reserves intact and respect support zones.
+
+48
+00:03:52,121 --> 00:03:56,128
+That concludes today's XiaoFang Finance Morning Brief.
+
+49
+00:03:56,128 --> 00:04:00,295
+Thank you for listening, trade safely, and see you tomorrow.

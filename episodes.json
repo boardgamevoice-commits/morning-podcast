@@ -298,5 +298,41 @@
     "episode_num": 25,
     "vtt_url": "episodes/morning_digest_2026-10-11.vtt",
     "srt_url": "episodes/morning_digest_2026-10-11.srt"
+  },
+  {
+    "guid": "digest-2026-10-14",
+    "title": "【小方财经】2026-10-14 · 晨间内参：全球宏观与美股多空深度博弈",
+    "description": "📌 【今日一分钟核心看点】\n• 宏观水温：美股窄幅横盘，情绪指数报 45.1 处中性胶着区，长端美债与油价高企压制估值，全市场静待今晚通胀破局。\n• 多空分歧：多方押注龙头巨头扎实现金流与刚性设备开支托底，空方警惕超八成个股技术性回调、四年周期末端牛市收敛及亚太存储崩跌去杠杆外溢。\n\n🤖 【AI 前沿与开源精选】\n• morluto/rea：端到端逆向工程 Agent，破除黑盒审计门槛，直通 Native 二进制反编译与漏洞挖掘。\n• mksglu/context-mode：面向 Coding Agent 的极限上下文优化器，沙箱化过滤 98% 冗余输出并跨平台持久化记忆。\n\n💼 【聚焦标的与关键点位】\n• 费城半导体 (SOX)：支撑位 12,004–12,006（面临破位考验），阻力位 12,600，关键风控需缩量站回阻力方确认为良性回调。\n• 特斯拉 (TSLA)：支撑位 340 美元，买入位 353 美元，关键风控高位巨头财报前切勿盲追，严控仓位防二度去杠杆。\n\n📅 【今日重磅催化剂】\n• 今晚 20:30 美国 9 月 CPI 通胀数据放榜，直接裁决美联储年内加息终点预期；ASML、美银及大摩盘前密集发榜。",
+    "audio_url": "episodes/morning_digest_2026-10-14.mp3",
+    "audio_size": 13346682,
+    "duration": 813.4,
+    "pub_date": "2026-10-14T21:21:18.141757-04:00",
+    "episode_num": 26,
+    "vtt_url": "episodes/morning_digest_2026-10-14.vtt",
+    "srt_url": "episodes/morning_digest_2026-10-14.srt"
+  },
+  {
+    "guid": "digest-2026-10-13",
+    "title": "【小方财经】2026-10-13 · 晨间内参：全球宏观与美股多空深度博弈",
+    "description": "📌 【今日一分钟核心看点】\n• 宏观水温：恐贪指数录得 45.9 中性，美债收益率高企与地缘避险推升黄金破 4,200 美元，半导体领跌大盘分化。\n• 多空分歧：空头担忧长债利率高企与回本周期拉长压制 AI 扩张；多头坚信 Q3 高盈利与年末多重利好共振构成黄金洗盘买点。\n\n🤖 【AI 前沿与开源精选】\n• Janas：解决边缘与低配硬件跑大模型难题，利用 SSD 流式加载 Expert 权重突破显存瓶颈。\n• context-mode：解决 Coding Agent 上下文易被日志吞噬痛点，实现 98% 上下文压缩与跨会话记忆持久化。\n\n💼 【聚焦标的与关键点位】\n• 英伟达 (NVDA)：支撑位 50 日均线，阻力位 5 日均线，关键风控 表外担保剧增及下游 CAPEX 削减风险。\n• 特斯拉 (TSLA)：支撑位 340 美元，阻力位 353 美元，关键风控 财报前夕严格分批防守性低吸。\n\n📅 【今日重磅催化剂】\n• 摩根大通、高盛、富国银行等华尔街大行盘前披露 Q3 财报，打响财报季第一枪。",
+    "audio_url": "episodes/morning_digest_2026-10-13.mp3",
+    "audio_size": 7492745,
+    "duration": 447.5,
+    "pub_date": "2026-10-14T21:28:48.772954-04:00",
+    "episode_num": 27,
+    "vtt_url": "episodes/morning_digest_2026-10-13.vtt",
+    "srt_url": "episodes/morning_digest_2026-10-13.srt"
+  },
+  {
+    "guid": "digest-2026-10-12",
+    "title": "【小方财经】2026-10-12 · 晨间内参：全球宏观与美股多空深度博弈",
+    "description": "每日全球宏观异动与美股一线盘面深度复盘。一手投研事实坚决去重，深挖多空分歧与个股点位，呈现高信息密度的开门见山早间内参。",
+    "audio_url": "episodes/morning_digest_2026-10-12.mp3",
+    "audio_size": 10663802,
+    "duration": 645.7,
+    "pub_date": "2026-10-14T21:30:08.253374-04:00",
+    "episode_num": 28,
+    "vtt_url": "episodes/morning_digest_2026-10-12.vtt",
+    "srt_url": "episodes/morning_digest_2026-10-12.srt"
   }
 ]

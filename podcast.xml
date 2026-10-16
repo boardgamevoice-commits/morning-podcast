@@ -1,5 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨 5 分钟，全球资产与财经核心要闻</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Thu, 15 Oct 2026 04:41:59 -0400</lastBuildDate><generator>OpenClaw Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-10-15 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-10-15 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨 5 分钟，全球资产与财经核心要闻</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Fri, 16 Oct 2026 04:41:04 -0400</lastBuildDate><generator>OpenClaw Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-10-16 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-10-16 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+• 宏观水温：隔夜美股走势深度分化（道指+1.08%，纳指微涨+0.08%），恐慌指数报32.1，PPI超预期反弹封死短期降息预期，机构调仓防御致长端美债收益率被动回落。
+• 多空分歧：多头押注亚洲市场企稳与OPEX做市商Gamma托底反抽，空头则紧咬算力租赁高负债暴雷与半导体高位见顶风险。
+
+🤖 【AI 前沿与开源精选】
+• Muse Spark：Meta开源8160亿巨模并联手苹果M5 Ultra，开启千亿大模型本地离线部署时代。
+• morluto/rea：多智能体协作自动化逆向系统，自主分析App交互并直达底层二进制代码，颠覆传统人工反编译。
+
+💼 【聚焦标的与关键点位】
+• 标普500 (SPX)：支撑位 7620（生命线），阻力位 7780-7800（5/10日均线带），关键风控 7620破位即确认中期筑顶
+• CoreWeave (CRWV)：支撑位 59.5-65 美元，阻力位 79-80 美元，关键风控 借贷利差严重倒挂，逢反弹用跟踪止损严禁格局
+
+📅 【今日重磅催化剂】
+• 美股10月月度期权交割（OPEX），防范尾盘波动及交割后正Gamma支撑消退带来的下周回踩风险。</description><itunes:summary>📌 【今日一分钟核心看点】
+• 宏观水温：隔夜美股走势深度分化（道指+1.08%，纳指微涨+0.08%），恐慌指数报32.1，PPI超预期反弹封死短期降息预期，机构调仓防御致长端美债收益率被动回落。
+• 多空分歧：多头押注亚洲市场企稳与OPEX做市商Gamma托底反抽，空头则紧咬算力租赁高负债暴雷与半导体高位见顶风险。
+
+🤖 【AI 前沿与开源精选】
+• Muse Spark：Meta开源8160亿巨模并联手苹果M5 Ultra，开启千亿大模型本地离线部署时代。
+• morluto/rea：多智能体协作自动化逆向系统，自主分析App交互并直达底层二进制代码，颠覆传统人工反编译。
+
+💼 【聚焦标的与关键点位】
+• 标普500 (SPX)：支撑位 7620（生命线），阻力位 7780-7800（5/10日均线带），关键风控 7620破位即确认中期筑顶
+• CoreWeave (CRWV)：支撑位 59.5-65 美元，阻力位 79-80 美元，关键风控 借贷利差严重倒挂，逢反弹用跟踪止损严禁格局
+
+📅 【今日重磅催化剂】
+• 美股10月月度期权交割（OPEX），防范尾盘波动及交割后正Gamma支撑消退带来的下周回踩风险。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
+• 宏观水温：隔夜美股走势深度分化（道指+1.08%，纳指微涨+0.08%），恐慌指数报32.1，PPI超预期反弹封死短期降息预期，机构调仓防御致长端美债收益率被动回落。
+• 多空分歧：多头押注亚洲市场企稳与OP</itunes:subtitle><pubDate>Fri, 16 Oct 2026 04:41:04 -0400</pubDate><guid isPermaLink="false">digest-2026-10-16</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-16.mp3" length="13122238" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>13:19</itunes:duration><itunes:episode>30</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-16.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-16.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-10-15 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-10-15 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
 • 宏观水温：美股与芯片链遭避险重挫，纳指跌 1.88%、费半泻 4.3%，恐慌指数升至 29.9，资金涌入黄金与防御板块交易二次通胀及高利率风险。
 • 多空分歧：多头押注 ASML 与台积电订单饱满等硬核基本面未变；空头则紧咬高利率下二三线算力商债务利差倒挂与去杠杆违约多米诺骨牌。
 

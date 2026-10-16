@@ -346,5 +346,17 @@
     "episode_num": 29,
     "vtt_url": "episodes/morning_digest_2026-10-15.vtt",
     "srt_url": "episodes/morning_digest_2026-10-15.srt"
+  },
+  {
+    "guid": "digest-2026-10-16",
+    "title": "【小方财经】2026-10-16 · 晨间内参：全球宏观与美股多空深度博弈",
+    "description": "📌 【今日一分钟核心看点】\n• 宏观水温：隔夜美股走势深度分化（道指+1.08%，纳指微涨+0.08%），恐慌指数报32.1，PPI超预期反弹封死短期降息预期，机构调仓防御致长端美债收益率被动回落。\n• 多空分歧：多头押注亚洲市场企稳与OPEX做市商Gamma托底反抽，空头则紧咬算力租赁高负债暴雷与半导体高位见顶风险。\n\n🤖 【AI 前沿与开源精选】\n• Muse Spark：Meta开源8160亿巨模并联手苹果M5 Ultra，开启千亿大模型本地离线部署时代。\n• morluto/rea：多智能体协作自动化逆向系统，自主分析App交互并直达底层二进制代码，颠覆传统人工反编译。\n\n💼 【聚焦标的与关键点位】\n• 标普500 (SPX)：支撑位 7620（生命线），阻力位 7780-7800（5/10日均线带），关键风控 7620破位即确认中期筑顶\n• CoreWeave (CRWV)：支撑位 59.5-65 美元，阻力位 79-80 美元，关键风控 借贷利差严重倒挂，逢反弹用跟踪止损严禁格局\n\n📅 【今日重磅催化剂】\n• 美股10月月度期权交割（OPEX），防范尾盘波动及交割后正Gamma支撑消退带来的下周回踩风险。",
+    "audio_url": "episodes/morning_digest_2026-10-16.mp3",
+    "audio_size": 13122238,
+    "duration": 799.324014,
+    "pub_date": "2026-10-16T04:41:04.548090-04:00",
+    "episode_num": 30,
+    "vtt_url": "episodes/morning_digest_2026-10-16.vtt",
+    "srt_url": "episodes/morning_digest_2026-10-16.srt"
   }
 ]

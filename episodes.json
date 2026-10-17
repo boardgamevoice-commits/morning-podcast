@@ -358,5 +358,17 @@
     "episode_num": 30,
     "vtt_url": "episodes/morning_digest_2026-10-16.vtt",
     "srt_url": "episodes/morning_digest_2026-10-16.srt"
+  },
+  {
+    "guid": "digest-2026-10-17",
+    "title": "【小方财经】2026-10-17 · 晨间内参：全球宏观与美股多空深度博弈",
+    "description": "📌 【今日一分钟核心看点】\n• 宏观水温：情绪指数暴跌至17.9陷入极度恐慌，纳指全周重挫5.5%，高通胀与欧债危机推升10年美债收益率至5.098%，原油逼近百元大关。\n• 多空分歧：多头押注芯片流动性踩踏后逼空超卖修复；空方坚守高利率引发AI信用链裂痕与基本面二次探底风险。\n\n🤖 【AI 前沿与开源精选】\n• anthropics/claude-plugins-official：官方统一Agent插件规范，终结生态碎片化与工具冲突，筑牢企业级安全沙盒。\n• mksglu/context-mode：提供高达98%的工具输出沙盒化压缩与跨平台会话路由，解决长程Agent上下文撑爆痛点。\n\n💼 【聚焦标的与关键点位】\n• 标普500 (SPX)：支撑位 7600（20周均线），阻力位 7670–7700，关键风控 严禁满仓加杠杆，失守7600需减仓避险。\n• CoreWeave (CRWV)：支撑位 59.5–60.0 美元，阻力位 79–80 美元，关键风控 CDS飙升隐含违约高危，仅宜右侧波段并设严格跟踪止损。\n\n📅 【今日重磅催化剂】\n• 消化沙特遇袭地缘溢价与法德利差传染；前瞻下周德国政府携手英伟达推主权AI及特斯拉Q3财报大考。",
+    "audio_url": "episodes/morning_digest_2026-10-17.mp3",
+    "audio_size": 15404295,
+    "duration": 941.956009,
+    "pub_date": "2026-10-17T04:55:56.346698-04:00",
+    "episode_num": 31,
+    "vtt_url": "episodes/morning_digest_2026-10-17.vtt",
+    "srt_url": "episodes/morning_digest_2026-10-17.srt"
   }
 ]

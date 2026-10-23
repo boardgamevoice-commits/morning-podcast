@@ -1,0 +1,107 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,488
+Today is October 22, 2026.
+
+3
+00:00:07,488 --> 00:00:13,444
+Overnight, Wall Street mounted an uneasy relief rally, with tech leading a fragile rebound.
+
+4
+00:00:13,444 --> 00:00:22,635
+The Nasdaq rose one point zero five percent, the S and P five hundred gained point five percent, and the Dow added point six nine percent.
+
+5
+00:00:22,635 --> 00:00:30,576
+Crude oil pulled back from intraday highs after reports indicated Persian Gulf flows stabilized, lifting broader risk sentiment.
+
+6
+00:00:30,576 --> 00:00:39,351
+Ten-year Treasury yields eased slightly, yet hot wholesale inflation and aggressive Federal Reserve rate expectations keep bonds tightly bound.
+
+7
+00:00:39,351 --> 00:00:44,768
+The consensus view treats this tape as an oversold bounce rather than a structural bottom.
+
+8
+00:00:44,768 --> 00:00:51,177
+The S and P five hundred remains trapped in a tight band between seventy-six hundred and seventy-eight hundred.
+
+9
+00:00:51,177 --> 00:00:56,152
+Sustained upside momentum requires clearing seventy-eight hundred convincingly.
+
+10
+00:00:56,152 --> 00:01:04,400
+Meanwhile, triple Q reclaimed its five-day moving average, but faces a heavy technical ceiling at seven hundred forty-eight dollars.
+
+11
+00:01:04,400 --> 00:01:11,079
+Corporate buyback blackouts are beginning to thaw, adding passive liquidity that could cushion near-term downside.
+
+12
+00:01:11,079 --> 00:01:18,113
+However, tech sector liquidity remains under intense scrutiny as institutions continue aggressive de-leveraging.
+
+13
+00:01:18,113 --> 00:01:27,304
+Semiconductors staged a modest bounce after nine consecutive down sessions, yet credit default swap spreads on major infrastructure players widened.
+
+14
+00:01:27,304 --> 00:01:34,008
+Heavy AI capital spending has transformed from a growth catalyst into an institutional balance sheet anxiety.
+
+15
+00:01:34,008 --> 00:01:42,084
+Investors now ruthlessly penalize any company providing conservative guidance or burning cash without immediate monetized returns.
+
+16
+00:01:42,084 --> 00:01:51,532
+Looking at individual equities, Meta delivered a stellar third quarter, driven by rapid monetization of its artificial intelligence recommendation algorithms.
+
+17
+00:01:51,532 --> 00:01:58,383
+Revenue hit sixty-four point six billion dollars, and earnings beat expectations by twenty-six cents.
+
+18
+00:01:58,383 --> 00:02:05,907
+However, quarterly capital expenditures surged to nearly thirty-five billion dollars, pushing free cash flow negative.
+
+19
+00:02:05,907 --> 00:02:14,547
+Meta shares gained post-market, yet its widening credit default spreads highlight simmering institutional caution around long-term lease commitments.
+
+20
+00:02:14,547 --> 00:02:21,275
+Tesla presented a mixed fundamental picture, posting flat third-quarter revenue of twenty-eight billion dollars.
+
+21
+00:02:21,275 --> 00:02:29,375
+Earnings per share slipped four percent year over year to forty-eight cents, while free cash flow reached one point five billion dollars.
+
+22
+00:02:29,375 --> 00:02:38,738
+Management lowered full-year capital expenditure targets, leaving the stock suspended between electric vehicle margin compression and future robotics optionality.
+
+23
+00:02:38,738 --> 00:02:46,741
+Super Micro Computer provided unexpected preliminary strength, raising forward gross margin guidance back above twelve percent.
+
+24
+00:02:46,741 --> 00:02:54,608
+The update triggered a sharp nine point five percent short squeeze, testing key moving average resistance near thirty-two dollars.
+
+25
+00:02:54,608 --> 00:02:58,947
+Traders should watch twenty-eight dollars as immediate technical support.
+
+26
+00:02:58,947 --> 00:03:02,954
+That concludes today's XiaoFang Finance Morning Brief.
+
+27
+00:03:02,954 --> 00:03:07,121
+Thank you for listening, trade safely, and see you tomorrow.

@@ -1,0 +1,243 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,525
+Today is October 26, 2026.
+
+3
+00:00:07,525 --> 00:00:15,258
+Overnight, the S and P, Nasdaq, and Dow steadied as Treasury yields and Fed rate expectations took focus.
+
+4
+00:00:15,258 --> 00:00:24,081
+Wall Street now enters a five-day super stress-test where central banks, inflation data, mega-cap earnings, and geopolitics collide.
+
+5
+00:00:24,081 --> 00:00:32,292
+Middle East conflict is driving crude oil volatility, shifting inflation expectations and reshaping the Federal Reserve rate path.
+
+6
+00:00:32,292 --> 00:00:40,197
+Those pressures feed straight into US Treasury yields, the ultimate pricing anchor for equity valuations and sector rotation.
+
+7
+00:00:40,197 --> 00:00:46,974
+Asset repricing this week will depend on expectation gaps against consensus rather than headline numbers alone.
+
+8
+00:00:46,974 --> 00:00:52,917
+Wednesday brings the Federal Reserve rate decision, the centerpiece of this global central bank week.
+
+9
+00:00:52,917 --> 00:00:59,878
+Markets firmly expect rates to remain on hold, with no new quarterly economic projections released at this meeting.
+
+10
+00:00:59,878 --> 00:01:07,084
+Traders are laser-focused on statement wording changes and Chair Powell's press conference clues for the December policy path.
+
+11
+00:01:07,084 --> 00:01:13,199
+A hawkish tilt will push Treasury yields higher and directly pressure high-valuation growth stocks.
+
+12
+00:01:13,199 --> 00:01:19,657
+A dovish signal preaching patience on incoming data would open a welcome relief window for risk assets.
+
+13
+00:01:19,657 --> 00:01:28,665
+Approaching US midterm elections also make oil prices and inflation politically sensitive, complicating monetary policy and military timing.
+
+14
+00:01:28,665 --> 00:01:36,606
+Non-US central banks are taking the stage simultaneously, amplifying global liquidity swings through diverging policy paths.
+
+15
+00:01:36,606 --> 00:01:42,942
+The Bank of Canada decides right after the Fed amid deep market division over its future rate trajectory.
+
+16
+00:01:42,942 --> 00:01:50,650
+The European Central Bank faces tough scrutiny over French fiscal deficits and whether sovereign debt threatens eurozone stability.
+
+17
+00:01:50,650 --> 00:01:56,741
+Meanwhile, the Bank of Japan stands as the biggest wild card for global capital flows.
+
+18
+00:01:56,741 --> 00:02:04,081
+Any surprise signal from Tokyo will jolt the yen, Japanese bond yields, and global yen carry trades.
+
+19
+00:02:04,081 --> 00:02:13,089
+Thursday, October 29 delivers the week's macro climax with third-quarter US GDP and September PCE inflation dropping together.
+
+20
+00:02:13,089 --> 00:02:19,425
+Institutional desks are mapping four distinct market pricing scenarios around this dual data release.
+
+21
+00:02:19,425 --> 00:02:27,292
+Strong GDP paired with hot PCE signals economic overheating and stubborn inflation, keeping rate hikes on the table.
+
+22
+00:02:27,292 --> 00:02:35,442
+That outcome spikes Treasury yields, crushes high-multiple tech stocks, and drives defensive rotation into value and energy.
+
+23
+00:02:35,442 --> 00:02:43,996
+Resilient GDP alongside cooling PCE creates a Goldilocks soft landing, giving tech stocks room for valuation recovery.
+
+24
+00:02:43,996 --> 00:02:52,550
+Weak GDP combined with sticky PCE traps markets in stagflation, spiking volatility as stocks and bonds both struggle.
+
+25
+00:02:52,550 --> 00:03:00,871
+Finally, cooling GDP and falling PCE revive easing hopes, boosting bonds while equities weigh slower earnings growth.
+
+26
+00:03:00,871 --> 00:03:08,775
+Traders will also track Dallas and Richmond Fed manufacturing, durable goods, new home sales, and trade balances.
+
+27
+00:03:08,775 --> 00:03:16,349
+Inventories, the Employment Cost Index, PMI, and consumer confidence round out the American economic picture.
+
+28
+00:03:16,349 --> 00:03:26,226
+Across the Atlantic, German business climate, preliminary CPI readings, and eurozone third-quarter GDP will test European economic weakness.
+
+29
+00:03:26,226 --> 00:03:32,402
+Middle East geopolitical landmines add a volatile wildcard to crude oil and inflation pricing.
+
+30
+00:03:32,402 --> 00:03:40,307
+Houthi forces repeatedly struck Saudi energy facilities and airports, while two supertankers hit mines near the Hormuz Strait.
+
+31
+00:03:40,307 --> 00:03:46,937
+Washington and Tehran are trading sharp warnings over potential military strikes and regional oil supplies.
+
+32
+00:03:46,937 --> 00:03:54,547
+Donald Trump floated a limited Epic Fury strike or seizing Iranian oil, weighing immediate action against slow attrition.
+
+33
+00:03:54,547 --> 00:04:00,675
+Tehran vowed not to yield to new strikes while pointing directly to American midterm election pressures.
+
+34
+00:04:00,675 --> 00:04:08,959
+Tuesday's Israeli parliamentary election introduces immediate political uncertainty around coalition building and regional security policy.
+
+35
+00:04:08,959 --> 00:04:15,197
+Any sudden military escalation around the vote would trigger an immediate spike in global crude prices.
+
+36
+00:04:15,197 --> 00:04:24,351
+Still, geopolitical oil rallies fade quickly unless backed by global demand, OPEC Plus supply policy, and inventory fundamentals.
+
+37
+00:04:24,488 --> 00:04:31,888
+Macro liquidity pressures are flowing directly into technology capital expenditure cycles and broader industry rotation.
+
+38
+00:04:31,838 --> 00:04:39,437
+Following Meta's recent earnings warning, investors fear cloud giants will ramp up AI spending at the expense of margins.
+
+39
+00:04:39,437 --> 00:04:47,022
+Wall Street demands proof that massive AI infrastructure spending generates fresh revenue without draining free cash flow.
+
+40
+00:04:47,022 --> 00:04:55,638
+Beyond tech, a five-day corporate earnings gauntlet will test defensive positioning, consumer resilience, and industrial supply chains.
+
+41
+00:04:55,638 --> 00:05:04,191
+Today, Verizon opens the slate, testing defensive appetite through wireless demand, subscriber churn, and free cash flow.
+
+42
+00:05:04,191 --> 00:05:13,309
+On Tuesday, Boeing tests global aviation supply chains, aircraft deliveries, order backlogs, and industrial cash generation.
+
+43
+00:05:13,309 --> 00:05:20,086
+Visa reports the same day, measuring everyday consumer spending power and cross-border commercial momentum.
+
+44
+00:05:20,086 --> 00:05:27,071
+On Thursday morning, Eli Lilly and Merck highlight pharmaceutical pipelines against the headwind of high interest rates.
+
+45
+00:05:27,071 --> 00:05:34,228
+Friday closes with traditional energy titans ExxonMobil, Chevron, and B P reporting quarterly results.
+
+46
+00:05:34,228 --> 00:05:43,248
+Investors will verify whether Middle East oil spikes actually translate into upstream profits, cash flow, buybacks, and dividends.
+
+47
+00:05:43,248 --> 00:05:50,184
+If rising production costs offset higher crude prices, energy stocks will face sharp internal divergence.
+
+48
+00:05:50,184 --> 00:05:57,010
+At the micro level, four pivotal corporate battles define single-stock positioning and risk management this week.
+
+49
+00:05:57,010 --> 00:06:04,265
+Coca-Cola reports Tuesday after hitting fresh record highs and crossing the four-hundred-billion-dollar market cap milestone.
+
+50
+00:06:04,265 --> 00:06:12,427
+Remarkably, the one-hundred-four-year-old giant is seeing unit volume growth outpace price hikes, fueled by zero-sugar adoption.
+
+51
+00:06:12,427 --> 00:06:20,503
+Kentucky Fried Chicken also ended its decades-long Pepsi contract to switch to Coca-Cola, reshaping restaurant channel dominance.
+
+52
+00:06:20,503 --> 00:06:28,444
+Holding above the four-hundred-billion-dollar valuation mark keeps institutional momentum firmly intact for defensive consumer staples.
+
+53
+00:06:28,444 --> 00:06:35,613
+Wednesday after the bell brings peak volatility as Microsoft and Google report alongside the Federal Reserve decision.
+
+54
+00:06:35,613 --> 00:06:44,253
+For Microsoft, institutional positioning hinges on Azure cloud growth rates, AI order conversion, and capital expenditure discipline.
+
+55
+00:06:44,253 --> 00:06:52,660
+For Google, traders are scrutinizing core search advertising resilience against generative AI disruption and cloud return on investment.
+
+56
+00:06:52,660 --> 00:07:00,405
+Any free cash flow compression from runaway Capex will trigger institutional de-risking across the Nasdaq one hundred benchmark.
+
+57
+00:07:00,405 --> 00:07:07,733
+Finally, Intel reports Thursday after the close to validate the broader semiconductor and AI hardware cycle.
+
+58
+00:07:07,733 --> 00:07:15,454
+Markets will audit Intel's data center recovery, AI progress, foundry turnaround, and capital spending plans.
+
+59
+00:07:15,454 --> 00:07:23,248
+Alongside memory and compute supply chain trends, Intel's guidance will set the defensive floor for the semiconductor index.
+
+60
+00:07:23,248 --> 00:07:27,255
+That concludes today's XiaoFang Finance Morning Brief.
+
+61
+00:07:27,255 --> 00:07:31,422
+Thank you for listening, trade safely, and see you tomorrow.

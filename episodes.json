@@ -430,5 +430,17 @@
     "episode_num": 36,
     "vtt_url": "episodes/morning_digest_2026-10-26.vtt",
     "srt_url": "episodes/morning_digest_2026-10-26.srt"
+  },
+  {
+    "guid": "digest-2026-10-27",
+    "title": "【小方财经】2026-10-27 · 晨间内参：全球宏观与美股多空深度博弈",
+    "description": "📌 【今日一分钟核心看点】\n• 宏观水温：恐慌指数报28.2仍处恐慌区间，中东缓和带动标普(+0.70%)、纳指(+0.82%)与费半(+2.82%)超跌反弹，市场迎战超级央行周、巨头财报及巴西大选股汇债三杀。\n• 避险共振：避险与风险资产呈分化轮动态势，高利率支撑长端美债(TLT)与美元(DXY 102.18)走强，压制黄金回落并死守4000美元颈线。\n• 多空分歧：多头博弈TMT去杠杆出清与中期选举94.7%历史胜率，空头紧盯科技巨头自由现金流转负红线与Neocloud算力债务违约风险。\n\n🤖 【AI 前沿与开源精选】\n• Anthropic IPO与OpenAI证伪ETH：Anthropic携上半年163亿美元营收与4300亿刚性算力长约冲刺1.5万亿估值IPO；OpenAI发布证伪指数时间假说(ETH)等三项基础科学突破。\n• Nutlope/hallmark 与 TradingAgents：Hallmark专为Claude Code与Cursor消除AI前端生成的廉价模板塑料感；TradingAgents通过多智能体多空协同博弈降低量化交易策略幻觉。\n\n💼 【聚焦标的与量化买卖点】\n• 谷歌 (GOOG)：极限超跌反弹买点(RSI 22.0)，当前价 $314.19，第一建仓位 $301.62，加仓位 $313.51，防守止损 $304.76（共振买点：NVDA现价$216.00/首仓$207.36/加仓$189.59/止损$202.48；META现价$630.56/首仓$605.34/止损$583.90）。\n• 防守预警：好市多(COST)等5只消费医疗白马 严重超买逢高止盈预警(RSI>74) 严禁追高，建议锁定20%~30%利润并将COST防守止盈线上移至$962.26。\n\n📅 【今日重磅催化剂】\n• 美联储FOMC议息会议首日、SoFi(SOFI)盘前财报、SK海力士敲定350亿-420亿美元股东回报方案，及周三美联储决议与微软/谷歌盘后财报。",
+    "audio_url": "episodes/morning_digest_2026-10-27.mp3",
+    "audio_size": 27878287,
+    "duration": 1721.596009,
+    "pub_date": "2026-10-27T04:48:22.638316-04:00",
+    "episode_num": 37,
+    "vtt_url": "episodes/morning_digest_2026-10-27.vtt",
+    "srt_url": "episodes/morning_digest_2026-10-27.srt"
   }
 ]

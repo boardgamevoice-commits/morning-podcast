@@ -1,0 +1,475 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,537
+Today is October 27, 2026.
+
+3
+00:00:07,537 --> 00:00:14,670
+Overnight, Wall Street staged a cautious rebound as oil pulled back and oversold technology shares bounced.
+
+4
+00:00:14,670 --> 00:00:25,380
+The S and P 500 gained 53.09 points, or 0.7 percent, before hitting moving average resistance near 7700.
+
+5
+00:00:25,380 --> 00:00:32,157
+The benchmark index now remains locked in a bottoming range between 7600 and 7800 points.
+
+6
+00:00:32,157 --> 00:00:42,059
+The Nasdaq Composite rose 214.04 points, or 0.82 percent, yet closed below its six-month moving average.
+
+7
+00:00:42,059 --> 00:00:49,633
+Meanwhile, the Nasdaq 100 ETF, Triple Q, remains capped beneath its five-day moving average.
+
+8
+00:00:49,633 --> 00:00:56,471
+Short-term bulls must defend yesterday's low at 705 dollars to sustain a gap-fill rally this week.
+
+9
+00:00:56,471 --> 00:01:02,513
+Breaking below 705 dollars would reopen the downside trend across growth equities.
+
+10
+00:01:02,513 --> 00:01:08,775
+Historical midterm election seasonality strongly favors the bulls over the next eight trading sessions.
+
+11
+00:01:08,775 --> 00:01:16,839
+Across nineteen midterm cycles since 1950, the S and P 500 rose eighteen times during this pre-election window.
+
+12
+00:01:16,839 --> 00:01:23,052
+That represents a 94.7 percent win rate with an average gain of 2.8 percent.
+
+13
+00:01:23,052 --> 00:01:29,866
+However, policy uncertainty ahead of Super Central Bank Week is keeping institutional risk appetite muted.
+
+14
+00:01:29,866 --> 00:01:36,287
+The Federal Reserve begins its two-day policy meeting today, with the rate decision due Wednesday afternoon.
+
+15
+00:01:36,287 --> 00:01:44,302
+Rate futures price an 89.5 percent probability that policymakers hold rates steady ahead of the November 3 midterms.
+
+16
+00:01:44,302 --> 00:01:51,349
+Still, markets assign a 10.5 percent tail risk to a surprise 25-basis-point rate hike.
+
+17
+00:01:51,349 --> 00:01:57,917
+Even on a pause, traders brace for hawkish inflation warnings from Fed Chair Kevin Warsh on Wednesday.
+
+18
+00:01:57,917 --> 00:02:02,978
+Globally, major developed central banks remain entrenched in a tightening cycle.
+
+19
+00:02:02,978 --> 00:02:09,853
+The Bank of Canada faces an 80 percent probability of hiking rates Wednesday, bolstering the Canadian dollar.
+
+20
+00:02:09,853 --> 00:02:16,275
+The European Central Bank meets Thursday, while the Bank of Japan should deliver a hawkish pause Friday.
+
+21
+00:02:16,275 --> 00:02:23,175
+In commodities, crude oil reflects a sharp divergence between diplomatic rhetoric and physical supply risk.
+
+22
+00:02:23,175 --> 00:02:31,067
+President Trump ruled out immediate strikes on Iran Sunday as regional diplomats met in Tehran, cooling intraday oil prices.
+
+23
+00:02:31,067 --> 00:02:39,951
+Yet WTI crude surged to 115.98 dollars earlier this week, marking a new high since the Iran conflict began.
+
+24
+00:02:39,951 --> 00:02:47,721
+Sustained triple-digit oil threatens to entrench inflation through 2027 and force harsher Fed tightening after the election.
+
+25
+00:02:47,721 --> 00:02:55,197
+Meanwhile, higher global interest rates continue to pressure non-yielding precious metals and rate-sensitive crypto assets.
+
+26
+00:02:55,197 --> 00:03:01,238
+Gold is clinging to critical support at 4000 dollars an ounce after months of steady pullbacks.
+
+27
+00:03:01,238 --> 00:03:07,427
+Another 200 to 300 dollar drop would complete a head-and-shoulders top and trigger heavy short selling.
+
+28
+00:03:07,427 --> 00:03:14,780
+Defensive pre-Fed positioning also sent Circle down over 7 percent alongside declines in Coinbase and Robinhood.
+
+29
+00:03:14,780 --> 00:03:22,721
+Overseas, a political shock in Brazil triggered a brutal triple sell-off across equities, bonds, and currency markets.
+
+30
+00:03:22,721 --> 00:03:31,067
+Incumbent President Lula narrowly defeated Bolsonaro 51.8 percent to 48.2 percent in Sunday's runoff election.
+
+31
+00:03:31,067 --> 00:03:38,775
+The surprise result crushed Wall Street's fiscal austerity and rate-cut bets, erasing billions in recent foreign inflows.
+
+32
+00:03:38,775 --> 00:03:46,594
+The Brazilian real plunged over 10 percent while the Brazil ETF, E W Z, crashed 28 percent intraday.
+
+33
+00:03:46,594 --> 00:03:53,689
+Petrobras, ticker P B R, sank 14 percent on fears of state intervention and dividend cuts.
+
+34
+00:03:53,689 --> 00:04:03,371
+Berkshire-backed Nu Holdings, ticker N U, tumbled nearly 17 percent, though contrarian buyers stepped in near 11.10 dollars pre-market.
+
+35
+00:04:03,488 --> 00:04:11,170
+Across the technology sector, Wall Street's valuation framework for artificial intelligence has entered a ruthless third phase.
+
+36
+00:04:11,120 --> 00:04:16,316
+Investors no longer reward sheer model size or raw revenue growth alone.
+
+37
+00:04:16,316 --> 00:04:24,172
+The market now demands proof of positive free cash flow after deducting massive chip, power, and depreciation costs.
+
+38
+00:04:24,172 --> 00:04:31,696
+Among the four aggressive hyperscale spenders, Microsoft is now the only giant maintaining positive free cash flow.
+
+39
+00:04:31,696 --> 00:04:38,498
+Both Meta and Alphabet have seen their free cash flow turn negative under relentless capital expenditure expansion.
+
+40
+00:04:38,498 --> 00:04:47,983
+Against this backdrop, frontier lab Anthropic publicly filed its 335-page S-1 prospectus for a mid-November Nasdaq debut.
+
+41
+00:04:47,983 --> 00:04:54,662
+Trading under ticker A N T, Anthropic will become the market's first pure-play foundation model listing.
+
+42
+00:04:54,662 --> 00:05:01,696
+The company initially targeted a 2 trillion dollar valuation and up to 100 billion dollars in gross proceeds.
+
+43
+00:05:01,696 --> 00:05:09,981
+Following the recent AI pullback, institutional investors have trimmed valuation expectations toward 1.5 trillion dollars.
+
+44
+00:05:09,981 --> 00:05:19,380
+Anthropic's revenue grew nearly 400-fold over two and a half years, reaching 16.29 billion dollars in first-half 2026.
+
+45
+00:05:19,380 --> 00:05:30,581
+Second-quarter revenue jumped 144 percent sequentially to 11.56 billion dollars, swinging operating profit positive to 974 million dollars.
+
+46
+00:05:30,581 --> 00:05:38,522
+Enterprise API token billing accounts for 70 percent of sales, led by rapid adoption in coding and AI agents.
+
+47
+00:05:38,522 --> 00:05:47,113
+However, the filing exposed staggering long-term compute commitments totaling 430 billion dollars in non-cancelable contracts.
+
+48
+00:05:47,113 --> 00:05:52,775
+Total compute pledges reach 700 billion dollars when cancelable agreements are included.
+
+49
+00:05:52,775 --> 00:06:01,782
+Updated commitments include up to 161.2 billion dollars for Broadcom and 120.5 billion dollars for SpaceX.
+
+50
+00:06:01,782 --> 00:06:12,027
+Anthropic also committed 114.5 billion dollars to Google and 44.9 billion dollars to Microsoft, alongside Nscale and Lambda.
+
+51
+00:06:12,027 --> 00:06:19,907
+Because Anthropic relies on cloud giants for both underlying compute and model distribution, cash flow risks remain high.
+
+52
+00:06:19,907 --> 00:06:26,206
+Any slowdown in token usage could force dilutive equity issuances to cover its rigid compute bills.
+
+53
+00:06:26,206 --> 00:06:33,277
+Furthermore, seven founders hold just 10 percent of the equity but control 50.1 percent of voting power.
+
+54
+00:06:33,277 --> 00:06:40,017
+They locked in absolute governance control through a single Class F share, leaving public shareholders voiceless.
+
+55
+00:06:40,017 --> 00:06:49,209
+Still, Anthropic's IPO proceeds will directly backstop remaining performance obligations for Amazon, Google, Microsoft, and Nvidia.
+
+56
+00:06:49,209 --> 00:06:56,941
+Amazon holds a 15 to 20 percent stake, while Google owns 14 percent and supplies custom TPU chips.
+
+57
+00:06:56,941 --> 00:07:04,662
+In semiconductors, the Philadelphia Semiconductor Index rose 2.82 percent in an oversold technical bounce.
+
+58
+00:07:04,662 --> 00:07:13,437
+Optical leader Lumentum, ticker L I T E, surged 8.2 percent alongside Intel, though heavy overhead supply looms.
+
+59
+00:07:13,437 --> 00:07:27,664
+In memory, SK Hynix climbed another 4 percent, significantly outperforming Micron, ticker M U. SK Hynix will unveil a 35 to 42 billion dollar shareholder return package alongside third-quarter earnings today.
+
+60
+00:07:27,664 --> 00:07:34,343
+Backed by South Korean government market-rescue pressure, this massive buyback is keeping short sellers at bay.
+
+61
+00:07:34,343 --> 00:07:40,520
+Conversely, the emerging Neocloud sector faces a severe credit crunch and structural shakeout.
+
+62
+00:07:40,520 --> 00:07:47,713
+Elon Musk warned Sunday that bond markets have cut off financing for over 200 pure-play Neocloud operators.
+
+63
+00:07:47,713 --> 00:07:53,669
+Musk explicitly stated that SpaceX will not acquire any distressed Neocloud providers.
+
+64
+00:07:53,669 --> 00:08:00,508
+Because SpaceX is a major compute lessor itself, tightening credit helps squeeze out leveraged competitors.
+
+65
+00:08:00,508 --> 00:08:07,530
+The Neocloud ETF, ticker N C L D, faded late as credit spreads spiked across the industry.
+
+66
+00:08:07,530 --> 00:08:15,115
+CoreWeave, ticker C R W V, saw its credit default swaps blow out above 1000 basis points.
+
+67
+00:08:15,115 --> 00:08:23,865
+While heavily shorted CoreWeave bounced slightly, healthier rival Nebius, ticker N B I S, fell 3.45 percent.
+
+68
+00:08:23,865 --> 00:08:32,223
+Short sellers targeted Nebius's year-to-date gains, aiming for a deeper correction into the 120 to 135 dollar zone.
+
+69
+00:08:32,223 --> 00:08:39,282
+Meanwhile, SEC filings revealed how SpaceX is engineering its own 80 billion dollar compute expansion.
+
+70
+00:08:39,282 --> 00:08:46,819
+SpaceX completed 40 billion dollars in debt financing and signed a 40 billion dollar lease with Apollo Global Management.
+
+71
+00:08:46,819 --> 00:08:48,939
+Structured by Goldman
+
+72
+00:08:49,064 --> 00:08:56,918
+Sachs, this five-year off-balance-sheet vehicle lets Apollo buy Nvidia's next-generation Vera Rubin chips for SpaceX.
+
+73
+00:08:56,868 --> 00:09:04,515
+This structure isolates hardware depreciation risk off the balance sheet while preserving SpaceX's investment-grade credit rating.
+
+74
+00:09:04,664 --> 00:09:12,015
+Alphabet, ticker G O O G L, faces a critical third-quarter earnings test this Wednesday after the bell.
+
+75
+00:09:11,965 --> 00:09:19,649
+Shares fell for five straight sessions, breaking below 317 dollars to form a short-term bearish triple top.
+
+76
+00:09:19,649 --> 00:09:25,997
+Options markets are pricing in a post-earnings swing of plus or minus 5.61 percent.
+
+77
+00:09:25,997 --> 00:09:33,522
+Alphabet's core debate centers on whether robust search advertising cash flow can fund soaring AI infrastructure spending.
+
+78
+00:09:33,522 --> 00:09:40,666
+As AI answers replace traditional link clicks, management must prove that embedded commerce can protect ad pricing.
+
+79
+00:09:40,666 --> 00:09:49,600
+Meanwhile, Bank of America expects Google Cloud revenue to surge 93 percent year-over-year, driven by custom TPU demand.
+
+80
+00:09:49,600 --> 00:09:56,684
+Investors will scrutinize cloud operating margins and whether negative free cash flow shows signs of stabilizing.
+
+81
+00:09:56,684 --> 00:10:02,909
+On the downside, first technical support sits at the July low of 314 dollars.
+
+82
+00:10:02,909 --> 00:10:11,659
+Below that lies Warren Buffett's Berkshire Hathaway average cost basis at 307 dollars and psychological support at 300 dollars.
+
+83
+00:10:11,659 --> 00:10:20,164
+Even if capital expenditure concerns spark a dip, a collapse toward March's extreme low at 272 dollars appears unlikely.
+
+84
+00:10:20,164 --> 00:10:28,179
+Long-term investors should hold existing positions and look to accumulate near Buffett's 307 dollar cost zone after earnings.
+
+85
+00:10:28,179 --> 00:10:36,328
+Microsoft, ticker M S F T, also reports Wednesday after the close with the highest expectations among tech giants.
+
+86
+00:10:36,328 --> 00:10:45,323
+Shares trade above 530 dollars at a trailing PE of 29.22 and a forward PE of 26.45.
+
+87
+00:10:45,323 --> 00:10:55,581
+Wall Street consensus projects third-quarter revenue of 90.6 billion dollars, up 17 percent, with adjusted EPS of 4.71 dollars.
+
+88
+00:10:55,581 --> 00:11:03,669
+Azure cloud revenue is forecast to grow 45 percent alongside quarterly capital expenditures exceeding 50 billion dollars.
+
+89
+00:11:03,669 --> 00:11:11,573
+Options traders price a 5.06 percent move, equating to roughly 27 dollars per share in either direction.
+
+90
+00:11:11,573 --> 00:11:19,686
+To defend margins and free cash flow, Microsoft announced a voluntary exit program covering 60,000 employees yesterday.
+
+91
+00:11:19,686 --> 00:11:26,500
+That workforce reduction represents 27 percent of total headcount and takes effect on December 31.
+
+92
+00:11:26,500 --> 00:11:34,367
+Management must prove that growth stems from high-margin Copilot seat expansion rather than capital-intensive Azure infrastructure alone.
+
+93
+00:11:34,367 --> 00:11:40,715
+If Microsoft's free cash flow flips negative, the stock faces a severe valuation reset.
+
+94
+00:11:40,715 --> 00:11:48,179
+Traders holding heavy positions built below 400 dollars should trim exposure above 530 dollars ahead of the print.
+
+95
+00:11:48,179 --> 00:11:55,507
+Sideline buyers should avoid chasing and wait for a pullback below 500 dollars toward 490 dollar support.
+
+96
+00:11:55,507 --> 00:12:04,441
+Meta Platforms, ticker M E T A, whipsawed investors after unveiling a massive 95 billion dollar equity financing plan.
+
+97
+00:12:04,441 --> 00:12:13,130
+Following last week's dual-class share split that protected Mark Zuckerberg's voting control, Meta will raise 35 billion dollars immediately.
+
+98
+00:12:13,130 --> 00:12:20,127
+It also plans a 60 billion dollar at-the-market offering in early 2027 to fund AI data centers.
+
+99
+00:12:20,127 --> 00:12:27,799
+Nvidia, AMD, and Broadcom have expressed interest in purchasing up to 5 billion dollars of Class A shares.
+
+100
+00:12:27,799 --> 00:12:35,887
+Meta plunged 4 percent pre-market on dilution fears before rebounding 3 percent intraday, warranting a neutral stance near term.
+
+101
+00:12:35,887 --> 00:12:43,988
+Alongside Anthropic's massive IPO, Meta's mega-offering highlights a growing equity supply drain on overall market liquidity.
+
+102
+00:12:43,988 --> 00:12:51,598
+In contrast, Tesla, ticker T S L A, rallied over 5 percent after clearing its earnings hurdle last week.
+
+103
+00:12:51,598 --> 00:12:59,220
+Momentum funds are aggressively bidding up shares on speculation that Tesla and SpaceX will merge by late 2027.
+
+104
+00:12:59,220 --> 00:13:05,250
+Several Wall Street banks hiked their combined valuation target above 500 dollars per share.
+
+105
+00:13:05,250 --> 00:13:13,926
+Fundamentally, a full merger faces immense regulatory barriers given SpaceX's US defense contracts and Tesla's reliance on China.
+
+106
+00:13:13,926 --> 00:13:20,863
+Yet powerful retail conviction continues to drive Tesla on sentiment rather than traditional valuation multiples.
+
+107
+00:13:20,863 --> 00:13:29,135
+Amazon, ticker A M Z N, reports Thursday after the close with an implied options move of 7.68 percent.
+
+108
+00:13:29,135 --> 00:13:38,791
+At a 22.99 forward PE, Amazon looks attractive between 239 and 250 dollars if AWS growth holds.
+
+109
+00:13:38,791 --> 00:13:45,826
+Apple, ticker A A P L, reports next Monday and leads the Magnificent Seven in year-to-date performance.
+
+110
+00:13:45,826 --> 00:13:51,218
+By sitting out the AI capital expenditure arms race, Apple avoided Wall
+
+111
+00:13:51,344 --> 00:13:53,953
+Street's cash flow penalty.
+
+112
+00:13:53,903 --> 00:14:03,670
+However, its trailing PE has stretched to 39.88 with a forward PE of 36.23, well above the 30-times benchmark.
+
+113
+00:14:03,670 --> 00:14:10,790
+Investors should avoid chasing Apple here and wait for a post-earnings pullback toward 315 dollars to buy.
+
+114
+00:14:10,790 --> 00:14:17,555
+Finally, fintech lender SoFi, ticker S O F I, reports before the opening bell today.
+
+115
+00:14:17,555 --> 00:14:25,422
+SoFi has delivered over 30 percent annual revenue growth for five straight quarters, with 36 percent projected this year.
+
+116
+00:14:25,422 --> 00:14:35,508
+At a 17.92 forward PE and a 0.52 PEG ratio, fundamentals remain strong despite macro rate-hike headwinds.
+
+117
+00:14:35,508 --> 00:14:45,177
+With an 18.6 billion dollar market cap, investors should cap position sizes and scale in strictly below 13.70 dollars.
+
+118
+00:14:45,177 --> 00:14:49,185
+That concludes today's XiaoFang Finance Morning Brief.
+
+119
+00:14:49,185 --> 00:14:53,351
+Thank you for listening, trade safely, and see you tomorrow.

@@ -1,5 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨 5 分钟，全球资产与财经核心要闻</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Mon, 26 Oct 2026 04:41:09 -0400</lastBuildDate><generator>OpenClaw Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-10-26 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-10-26 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨 5 分钟，全球资产与财经核心要闻</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Tue, 27 Oct 2026 04:48:22 -0400</lastBuildDate><generator>OpenClaw Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-10-27 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-10-27 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+• 宏观水温：恐慌指数报28.2仍处恐慌区间，中东缓和带动标普(+0.70%)、纳指(+0.82%)与费半(+2.82%)超跌反弹，市场迎战超级央行周、巨头财报及巴西大选股汇债三杀。
+• 避险共振：避险与风险资产呈分化轮动态势，高利率支撑长端美债(TLT)与美元(DXY 102.18)走强，压制黄金回落并死守4000美元颈线。
+• 多空分歧：多头博弈TMT去杠杆出清与中期选举94.7%历史胜率，空头紧盯科技巨头自由现金流转负红线与Neocloud算力债务违约风险。
+
+🤖 【AI 前沿与开源精选】
+• Anthropic IPO与OpenAI证伪ETH：Anthropic携上半年163亿美元营收与4300亿刚性算力长约冲刺1.5万亿估值IPO；OpenAI发布证伪指数时间假说(ETH)等三项基础科学突破。
+• Nutlope/hallmark 与 TradingAgents：Hallmark专为Claude Code与Cursor消除AI前端生成的廉价模板塑料感；TradingAgents通过多智能体多空协同博弈降低量化交易策略幻觉。
+
+💼 【聚焦标的与量化买卖点】
+• 谷歌 (GOOG)：极限超跌反弹买点(RSI 22.0)，当前价 $314.19，第一建仓位 $301.62，加仓位 $313.51，防守止损 $304.76（共振买点：NVDA现价$216.00/首仓$207.36/加仓$189.59/止损$202.48；META现价$630.56/首仓$605.34/止损$583.90）。
+• 防守预警：好市多(COST)等5只消费医疗白马 严重超买逢高止盈预警(RSI&gt;74) 严禁追高，建议锁定20%~30%利润并将COST防守止盈线上移至$962.26。
+
+📅 【今日重磅催化剂】
+• 美联储FOMC议息会议首日、SoFi(SOFI)盘前财报、SK海力士敲定350亿-420亿美元股东回报方案，及周三美联储决议与微软/谷歌盘后财报。</description><itunes:summary>📌 【今日一分钟核心看点】
+• 宏观水温：恐慌指数报28.2仍处恐慌区间，中东缓和带动标普(+0.70%)、纳指(+0.82%)与费半(+2.82%)超跌反弹，市场迎战超级央行周、巨头财报及巴西大选股汇债三杀。
+• 避险共振：避险与风险资产呈分化轮动态势，高利率支撑长端美债(TLT)与美元(DXY 102.18)走强，压制黄金回落并死守4000美元颈线。
+• 多空分歧：多头博弈TMT去杠杆出清与中期选举94.7%历史胜率，空头紧盯科技巨头自由现金流转负红线与Neocloud算力债务违约风险。
+
+🤖 【AI 前沿与开源精选】
+• Anthropic IPO与OpenAI证伪ETH：Anthropic携上半年163亿美元营收与4300亿刚性算力长约冲刺1.5万亿估值IPO；OpenAI发布证伪指数时间假说(ETH)等三项基础科学突破。
+• Nutlope/hallmark 与 TradingAgents：Hallmark专为Claude Code与Cursor消除AI前端生成的廉价模板塑料感；TradingAgents通过多智能体多空协同博弈降低量化交易策略幻觉。
+
+💼 【聚焦标的与量化买卖点】
+• 谷歌 (GOOG)：极限超跌反弹买点(RSI 22.0)，当前价 $314.19，第一建仓位 $301.62，加仓位 $313.51，防守止损 $304.76（共振买点：NVDA现价$216.00/首仓$207.36/加仓$189.59/止损$202.48；META现价$630.56/首仓$605.34/止损$583.90）。
+• 防守预警：好市多(COST)等5只消费医疗白马 严重超买逢高止盈预警(RSI&gt;74) 严禁追高，建议锁定20%~30%利润并将COST防守止盈线上移至$962.26。
+
+📅 【今日重磅催化剂】
+• 美联储FOMC议息会议首日、SoFi(SOFI)盘前财报、SK海力士敲定350亿-420亿美元股东回报方案，及周三美联储决议与微软/谷歌盘后财报。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
+• 宏观水温：恐慌指数报28.2仍处恐慌区间，中东缓和带动标普(+0.70%)、纳指(+0.82%)与费半(+2.82%)超跌反弹，市场迎战超级央行周、巨头财报及巴西大选股汇债三杀。
+• 避险共振：避险与风险资产</itunes:subtitle><pubDate>Tue, 27 Oct 2026 04:48:22 -0400</pubDate><guid isPermaLink="false">digest-2026-10-27</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-27.mp3" length="27878287" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>28:42</itunes:duration><itunes:episode>37</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-27.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-27.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-10-26 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-10-26 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
 • 宏观水温：恐慌指数报21.1深陷极度恐慌，上周美股收跌、费半周挫3.2%，10年期美债收益率逼近5%，本周迎超级央行周与科技巨头财报大考。
 • 避险共振：非典型分化轮动，机构抛售黄金（GLD五日跌3.44%）补缴股市保证金，避险资金涌入长端美债（TLT涨2.37%），美元微升、原油高位回落。
 • 多空分歧：多头押注AI算力真实放量与99百分位极值空头逼空反弹，空头聚焦OpenAI估值下调、新算力云遭巨额做空及云巨头自由现金流审判。

@@ -1,5 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨 5 分钟，全球资产与财经核心要闻</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Tue, 27 Oct 2026 04:48:22 -0400</lastBuildDate><generator>OpenClaw Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-10-27 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-10-27 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨 5 分钟，全球资产与财经核心要闻</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Wed, 28 Oct 2026 05:14:34 -0400</lastBuildDate><generator>OpenClaw Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-10-28 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-10-28 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+• 宏观水温：恐慌指数报34.3仍处恐慌区间，隔夜纳指涨1.18%、费半涨3.6%科技领涨，市场聚焦今日FOMC决议与沃什鹰派抗通胀指引。
+• 避险共振：金价企稳4069美元、10年期美债收益率逼近5%，GLD、TLT与UUP走势分化，呈“避险与风险资产区间胶着、内部高低切换轮动”态势。
+• 多空分歧：多头押注中期选举94.7%高胜率窗口与资金回流AI，空头警惕逼空买盘衰竭及华尔街对AI资本开支侵蚀自由现金流的严苛审判。
+
+🤖 【AI 前沿与开源精选】
+• DeepMind Genie 4：新一代通用世界模拟模型，推动大模型跨入具备物理引擎规律与三维空间一致性的“世界模拟器”底层基建。
+• Nutlope/hallmark：为Claude Code与Cursor注入专业视觉审计与打磨规范，自动拦截塑料感、同质化的“AI Slop”劣质前端界面。
+
+💼 【聚焦标的与量化买卖点】
+• 谷歌 (GOOG)：⚡极限超跌反弹买点，当前价 $316.83，第一建仓位 $304.16，加仓位 $313.51，防守止损 $305.34（另有META、ASML等共11股触发超跌买点）。
+• 防守预警：家得宝 (HD) 与麦当劳 (MCD) 触发🔴严重超买逢高止盈，建议逢高锁定20%–30%利润，防守保护线分别上移至 $300.61 与 $239.76。
+
+📅 【今日重磅催化剂】
+• 美东14:00美联储10月FOMC利率决议及14:30主席沃什发布会；美股盘后微软 (MSFT)、谷歌 (GOOGL) 公布财报；SK海力士敲定350亿–420亿美元股东回报方案。</description><itunes:summary>📌 【今日一分钟核心看点】
+• 宏观水温：恐慌指数报34.3仍处恐慌区间，隔夜纳指涨1.18%、费半涨3.6%科技领涨，市场聚焦今日FOMC决议与沃什鹰派抗通胀指引。
+• 避险共振：金价企稳4069美元、10年期美债收益率逼近5%，GLD、TLT与UUP走势分化，呈“避险与风险资产区间胶着、内部高低切换轮动”态势。
+• 多空分歧：多头押注中期选举94.7%高胜率窗口与资金回流AI，空头警惕逼空买盘衰竭及华尔街对AI资本开支侵蚀自由现金流的严苛审判。
+
+🤖 【AI 前沿与开源精选】
+• DeepMind Genie 4：新一代通用世界模拟模型，推动大模型跨入具备物理引擎规律与三维空间一致性的“世界模拟器”底层基建。
+• Nutlope/hallmark：为Claude Code与Cursor注入专业视觉审计与打磨规范，自动拦截塑料感、同质化的“AI Slop”劣质前端界面。
+
+💼 【聚焦标的与量化买卖点】
+• 谷歌 (GOOG)：⚡极限超跌反弹买点，当前价 $316.83，第一建仓位 $304.16，加仓位 $313.51，防守止损 $305.34（另有META、ASML等共11股触发超跌买点）。
+• 防守预警：家得宝 (HD) 与麦当劳 (MCD) 触发🔴严重超买逢高止盈，建议逢高锁定20%–30%利润，防守保护线分别上移至 $300.61 与 $239.76。
+
+📅 【今日重磅催化剂】
+• 美东14:00美联储10月FOMC利率决议及14:30主席沃什发布会；美股盘后微软 (MSFT)、谷歌 (GOOGL) 公布财报；SK海力士敲定350亿–420亿美元股东回报方案。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
+• 宏观水温：恐慌指数报34.3仍处恐慌区间，隔夜纳指涨1.18%、费半涨3.6%科技领涨，市场聚焦今日FOMC决议与沃什鹰派抗通胀指引。
+• 避险共振：金价企稳4069美元、10年期美债收益率逼近5%，GLD、</itunes:subtitle><pubDate>Wed, 28 Oct 2026 05:14:34 -0400</pubDate><guid isPermaLink="false">digest-2026-10-28</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-28.mp3" length="25054137" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>25:45</itunes:duration><itunes:episode>38</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-28.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-28.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-10-27 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-10-27 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
 • 宏观水温：恐慌指数报28.2仍处恐慌区间，中东缓和带动标普(+0.70%)、纳指(+0.82%)与费半(+2.82%)超跌反弹，市场迎战超级央行周、巨头财报及巴西大选股汇债三杀。
 • 避险共振：避险与风险资产呈分化轮动态势，高利率支撑长端美债(TLT)与美元(DXY 102.18)走强，压制黄金回落并死守4000美元颈线。
 • 多空分歧：多头博弈TMT去杠杆出清与中期选举94.7%历史胜率，空头紧盯科技巨头自由现金流转负红线与Neocloud算力债务违约风险。

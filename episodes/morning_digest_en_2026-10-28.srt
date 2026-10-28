@@ -1,0 +1,323 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,439
+Today is October 28, 2026.
+
+3
+00:00:07,439 --> 00:00:13,591
+Overnight, Wall Street rallied as tech buyers returned ahead of today's Federal Reserve rate decision.
+
+4
+00:00:13,591 --> 00:00:21,826
+The Nasdaq Composite jumped 1.18 percent, adding 308 points, led by a strong semiconductor rebound.
+
+5
+00:00:21,826 --> 00:00:28,628
+The S and P five hundred gained 0.6 percent, rising nearly 46 points on the session.
+
+6
+00:00:28,628 --> 00:00:36,042
+The Dow Jones Industrial Average closed flat on Boeing's plunge, while Treasury yields steadied alongside falling oil.
+
+7
+00:00:36,042 --> 00:00:42,917
+Six of the eleven S and P sectors advanced, led by information technology and consumer discretionary.
+
+8
+00:00:42,917 --> 00:00:49,498
+Energy and staples lagged as funds rotated out of defensive havens like Coca-Cola back into technology.
+
+9
+00:00:49,498 --> 00:00:56,300
+Technically, institutional desks view this bounce as an oversold repair mixed with a pre-Fed short squeeze.
+
+10
+00:00:56,300 --> 00:01:02,145
+The Nasdaq remains trapped in a wide box between twenty-five thousand and twenty-seven thousand.
+
+11
+00:01:02,145 --> 00:01:07,782
+The Triple Q ETF reclaimed its five-day moving average and filled its overhead gap.
+
+12
+00:01:07,782 --> 00:01:13,285
+Key overhead resistance sits at the monthly moving average near 733.
+
+13
+00:01:13,285 --> 00:01:19,143
+A rejection at 733 risks triggering a three-wave downward continuation.
+
+14
+00:01:19,143 --> 00:01:25,858
+Only a decisive breakout above 733 would shift the technical structure toward a true reversal.
+
+15
+00:01:25,858 --> 00:01:32,317
+Meanwhile, the S and P five hundred trades sideways while waiting for its annual average to rise.
+
+16
+00:01:32,317 --> 00:01:38,579
+In commodities, crude oil fell and stayed weak all day, dragging energy stocks down with it.
+
+17
+00:01:38,579 --> 00:01:45,956
+Markets traded geopolitical relief after Iran's Supreme Leader Mojtaba Khamenei signaled openness to ending the stalemate.
+
+18
+00:01:45,956 --> 00:01:52,133
+Russia also expressed readiness to negotiate an end to conflict in exchange for sanctions relief.
+
+19
+00:01:52,133 --> 00:01:58,285
+Yet core deadlocks over the Strait of Hormuz and uranium enrichment remain completely unresolved.
+
+20
+00:01:58,285 --> 00:02:04,412
+Oil's drop reflects profit-taking on crowded risk premiums rather than lasting Middle East peace.
+
+21
+00:02:04,412 --> 00:02:12,170
+Lower crude prices eased inflation fears, while gold topped four thousand dollars and Bitcoin hugged institutional cost.
+
+22
+00:02:12,170 --> 00:02:18,015
+Macro focus now turns to today's two P.M. Eastern Federal Reserve policy announcement.
+
+23
+00:02:18,015 --> 00:02:25,429
+With 163 S and P companies reporting this week, markets universally expect rates to stay unchanged.
+
+24
+00:02:25,429 --> 00:02:31,655
+However, internal Fed debate is heating up over December's rate path and forward guidance rules.
+
+25
+00:02:31,655 --> 00:02:37,513
+At two-thirty P.M., Fed Chair Kevin Warsh will deliver a brief eight-minute press conference.
+
+26
+00:02:37,513 --> 00:02:43,469
+Conference Board consumer confidence rebounded for the first time in four months on plentiful jobs.
+
+27
+00:02:43,469 --> 00:02:49,829
+By contrast, University of Michigan sentiment stayed weak due to lingering household living costs.
+
+28
+00:02:49,829 --> 00:02:55,809
+With employment strong, Warsh will likely sound hawkish and stay anchored to two percent inflation.
+
+29
+00:02:55,809 --> 00:03:01,777
+Morgan Stanley warns that seventy-five to one hundred basis points of hike room still remains.
+
+30
+00:03:01,777 --> 00:03:09,731
+Meanwhile, Goldman Sachs stays overweight equities for tech earnings resilience while hedging with gold, cash, and Treasuries.
+
+31
+00:03:09,731 --> 00:03:16,630
+That macro setup ignited a fierce short squeeze across semiconductors and artificial intelligence infrastructure.
+
+32
+00:03:16,630 --> 00:03:23,530
+The Philadelphia Semiconductor Index climbed 3.6 percent as leveraged funds returned to chipmakers.
+
+33
+00:03:23,530 --> 00:03:30,429
+Anthropic IPO chatter and Elon Musk's bullish call on robotics memory demand fueled additional buying.
+
+34
+00:03:30,429 --> 00:03:37,795
+The Neocloud ETF surged 8.84 percent, led by heavily shorted landlords Nebius and CoreWeave.
+
+35
+00:03:37,795 --> 00:03:44,302
+Nebius vaulted 11 percent off its annual moving average, while CoreWeave gained nearly 8 percent.
+
+36
+00:03:44,302 --> 00:03:51,434
+Unlike cash-rich tech giants, neocloud operators face surging debt rates and real balance sheet stress.
+
+37
+00:03:51,434 --> 00:03:58,371
+Today's rally reflects pre-FOMC short covering rather than sticky long-term institutional accumulation.
+
+38
+00:03:58,371 --> 00:04:05,062
+Traders should raise trailing stops, as short squeezes can unwind fast once passive buying ends.
+
+39
+00:04:05,192 --> 00:04:11,441
+In data storage, post-earnings trading proved brutally unforgiving despite stellar fundamentals.
+
+40
+00:04:11,391 --> 00:04:19,834
+Seagate Technology posted fiscal first-quarter revenue of 4.23 billion dollars, up 61 percent year over year.
+
+41
+00:04:19,834 --> 00:04:28,560
+Net income soared 221 percent to 1.76 billion dollars, with gross margins hitting 57.8 percent.
+
+42
+00:04:28,560 --> 00:04:35,913
+Seagate also posted record free cash flow, raised its dividend, and issued strong second-quarter guidance.
+
+43
+00:04:35,913 --> 00:04:42,922
+Yet shares dropped 6 percent after hours on sell-the-news profit-taking, pulling Western Digital slightly lower.
+
+44
+00:04:42,922 --> 00:04:51,427
+Micron rebounded to 928 dollars, entering high-level consolidation backed by sold-out capacity and reasonable valuation.
+
+45
+00:04:51,427 --> 00:04:59,234
+Investors now await SK Hynix buyback news alongside earnings from Samsung, Kioxia, and CXMT.
+
+46
+00:04:59,234 --> 00:05:04,332
+These four memory giants supply one-third of global data center components.
+
+47
+00:05:04,332 --> 00:05:11,391
+Having priced in worst-case cyclical fears, Korean memory leaders offer substantial valuation repair upside.
+
+48
+00:05:11,391 --> 00:05:18,792
+In nuclear power, Constellation Energy faded after spiking on reports of a five-billion-dollar government reactor loan.
+
+49
+00:05:18,792 --> 00:05:26,060
+Federal backing cements its long-term AI power moat, making pullbacks toward support attractive for staggered buying.
+
+50
+00:05:26,060 --> 00:05:35,508
+Elsewhere, Corning slipped 1.13 percent below gap resistance despite 44 percent optical growth, as high valuations compress.
+
+51
+00:05:35,508 --> 00:05:42,935
+Cadence Design Systems rose 6.5 percent on raised guidance, with its six-month average serving as support.
+
+52
+00:05:42,935 --> 00:05:51,354
+Bank of America also lifted targets on CrowdStrike, projecting enterprise security budgets to grow 7 percent by 2027.
+
+53
+00:05:51,354 --> 00:05:58,829
+Among major single-stock movers, Boeing plunged 10.69 percent on heavy volume after a grim report.
+
+54
+00:05:58,829 --> 00:06:06,967
+Third-quarter revenue rose 4 percent to 24.19 billion dollars, but commercial aircraft sales fell 3 percent.
+
+55
+00:06:06,967 --> 00:06:14,993
+Commercial operating margins hit negative 6.5 percent, driving a wider-than-expected loss of 34 cents per share.
+
+56
+00:06:14,993 --> 00:06:21,893
+Management delayed its 737 MAX target of 47 jets per month to early 2027.
+
+57
+00:06:21,893 --> 00:06:27,052
+That delay effectively kills this year's goal of 500 aircraft deliveries.
+
+58
+00:06:27,052 --> 00:06:35,484
+Boeing also guided 2027 free cash flow to 3 billion dollars, well below the 5.6 billion consensus.
+
+59
+00:06:35,484 --> 00:06:43,927
+Slow delivery conversion, 777X certification risks, and quality hurdles point to a multi-year structural headwind.
+
+60
+00:06:43,927 --> 00:06:50,986
+With a medium-term top in place, avoid bottom-fishing as shares risk sliding toward 150 dollars.
+
+61
+00:06:50,986 --> 00:06:59,344
+In mega-cap tech, Meta Platforms unveiled a dual-class share split alongside a 95-billion-dollar AI financing plan.
+
+62
+00:06:59,344 --> 00:07:05,030
+Each share splits into one voting Class A share and one non-voting Class C share.
+
+63
+00:07:05,030 --> 00:07:11,550
+This lets Mark Zuckerberg pay California wealth taxes and issue equity without diluting his voting control.
+
+64
+00:07:11,550 --> 00:07:19,123
+Meta tapped Goldman Sachs and Morgan Stanley for a 25-billion-dollar stock offering at 625 dollars.
+
+65
+00:07:19,123 --> 00:07:26,599
+The deal was five times oversubscribed, including three billion dollars from Nvidia and one billion from AMD.
+
+66
+00:07:26,599 --> 00:07:32,861
+However, Meta closed at 620 dollars, erasing the institutional discount cushion.
+
+67
+00:07:32,861 --> 00:07:39,810
+Heavy AI capital spending has pushed free cash flow negative, creating near-term dilution and debt pressure.
+
+68
+00:07:39,810 --> 00:07:47,788
+Long term, however, securing 95 billion dollars guarantees Meta's firepower in the frontier AI arms race.
+
+69
+00:07:47,912 --> 00:07:56,759
+Meanwhile, Alphabet trades near 320 dollars, approaching Berkshire Hathaway's average cost basis of 307 dollars.
+
+70
+00:07:56,709 --> 00:08:05,642
+With Greg Abel's recent block at 359 dollars and Berkshire's massive cash pile, downside below 307 looks defended.
+
+71
+00:08:05,642 --> 00:08:13,976
+For Amazon, upcoming earnings hinge on whether AWS growth and margins justify rising Louisiana data center spending.
+
+72
+00:08:13,976 --> 00:08:21,525
+Deutsche Bank reiterates its buy rating through 2028, citing Amazon's custom chips and multi-model platform moat.
+
+73
+00:08:21,525 --> 00:08:27,726
+Still, any shortfall in free cash flow conversion could spark immediate post-earnings selling.
+
+74
+00:08:27,726 --> 00:08:36,696
+In fintech, SoFi Technologies surged past 15 dollars after revenue jumped 44 percent to 4.39 billion dollars.
+
+75
+00:08:36,696 --> 00:08:45,618
+Record additions of 1.2 million members lifted total membership to 17.1 million, confirming a reversal above 15 dollars.
+
+76
+00:08:45,618 --> 00:08:53,682
+Conversely, Robinhood fell after hours on an earnings miss, while PayPal stalled despite raising full-year EPS guidance.
+
+77
+00:08:53,682 --> 00:09:01,292
+Visa beat estimates with 3.48 dollars in EPS and raised its dividend, making its after-hours dip buyable.
+
+78
+00:09:01,292 --> 00:09:09,564
+Meanwhile, HSBC tumbled 5.7 percent, snapping its four-year bull cycle despite a one-billion-dollar buyback.
+
+79
+00:09:09,564 --> 00:09:18,890
+Finally, UPS rallied toward 116-dollar resistance on raised holiday guidance, while Coca-Cola dipped purely on sector rotation.
+
+80
+00:09:18,890 --> 00:09:22,897
+That concludes today's XiaoFang Finance Morning Brief.
+
+81
+00:09:22,897 --> 00:09:27,064
+Thank you for listening, trade safely, and see you tomorrow.

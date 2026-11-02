@@ -1,0 +1,175 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:01,400 --> 00:00:05,945
+Four tail risks now threaten a self-reinforcing downward spiral.
+
+3
+00:00:03,652 --> 00:00:07,194
+Today is November 02, 2026.
+
+4
+00:00:05,895 --> 00:00:13,873
+Lagging artificial intelligence monetization could force cloud giants to cut chip orders, widening corporate credit spreads further.
+
+5
+00:00:07,194 --> 00:00:14,829
+Overnight, the S and P, Nasdaq, and Dow steadied after plunging on high Treasury yields and Fed rate fears.
+
+6
+00:00:13,873 --> 00:00:20,822
+Meanwhile, Middle East shipping disruptions in the Strait of Hormuz could spike oil prices and reignite inflation.
+
+7
+00:00:14,829 --> 00:00:23,481
+Last week began with euphoria over artificial intelligence compute and memory supercycles, then reversed into a broad cross-asset selloff.
+
+8
+00:00:20,822 --> 00:00:27,758
+Combined with a stronger dollar and rising yields, tighter liquidity could trigger forced selling across stocks and gold.
+
+9
+00:00:23,481 --> 00:00:31,398
+Equities, semiconductors, and gold fell together as the VIX volatility index spiked to its highest level since April.
+
+10
+00:00:27,758 --> 00:00:33,101
+This has sparked a fierce clash between bulls and bears in semiconductors and memory.
+
+11
+00:00:31,398 --> 00:00:40,393
+Institutional capital is rotating out of volatile tech into utilities, consumer staples, and traditional sixty-forty stock-and-bond portfolios.
+
+12
+00:00:33,101 --> 00:00:39,596
+Bears are dumping chip stocks indiscriminately over runaway capital expenditures and high discount rates.
+
+13
+00:00:39,596 --> 00:00:45,552
+Bulls counter that the thirty-seven percent plunge in memory chipmakers is an emotional overreaction.
+
+14
+00:00:40,393 --> 00:00:48,309
+The equal-weight S and P five hundred just posted its strongest monthly outperformance over cap-weighted benchmarks since two thousand nine.
+
+15
+00:00:45,552 --> 00:00:51,336
+Global memory shortages remain structural and are projected to persist through two thousand twenty-eight.
+
+16
+00:00:48,309 --> 00:00:56,177
+Retail traders defied the rout, pouring a record seven billion dollars into triple-leveraged semiconductor fund S O X L.
+
+17
+00:00:51,336 --> 00:00:58,983
+With over one hundred thirty S and P five hundred companies reporting this week, positioning requires strict cash-flow discipline.
+
+18
+00:00:56,177 --> 00:01:02,966
+They also injected two billion dollars into triple-leveraged Nasdaq fund T Q Q Q to buy the dip.
+
+19
+00:00:58,983 --> 00:01:05,552
+Intel remains a clear sell on any bounce after plunging twenty-eight point five eight percent in a single day.
+
+20
+00:01:02,966 --> 00:01:08,701
+Weekend shocks across Europe and cryptocurrency markets added fresh macro uncertainty.
+
+21
+00:01:05,552 --> 00:01:14,020
+That marked its worst session in fifty years, driven by weak personal computer demand, factory mishaps, and collapsing cash flow.
+
+22
+00:01:08,701 --> 00:01:17,206
+Poland faces a constitutional crisis over judicial appointments, sparking mass protests in Warsaw that threaten fiscal and defense budgets.
+
+23
+00:01:14,020 --> 00:01:28,052
+With Intel's credit default swaps at record highs, investors should exit and monitor broad chip benchmark S O X X. Amazon also faces profit-taking pressure despite thirty-nine percent revenue growth in Amazon Web Services.
+
+24
+00:01:17,206 --> 00:01:26,226
+In Germany, youth protests erupted across thirty cities against high living costs, housing shortages, and mandatory military conscription.
+
+25
+00:01:26,226 --> 00:01:33,836
+Storefront looting in Frankfurt and continued street clashes in France are weighing heavily on the euro and European sovereign bonds.
+
+26
+00:01:28,052 --> 00:01:34,045
+Doubling quarterly capital expenditures pushed Amazon's free cash flow into a deep deficit.
+
+27
+00:01:33,836 --> 00:01:41,765
+In crypto, Binance covered ninety percent of recent hack losses, fully restoring Bitcoin and Ethereum user balances.
+
+28
+00:01:34,045 --> 00:01:42,243
+Until cash flow stabilizes, institutions favor trimming cloud-heavy Q Q Q in favor of equal-weight S P Y.
+
+29
+00:01:41,765 --> 00:01:49,094
+The exchange will tap its safety fund for full reimbursement, though security fears keep crypto volatility elevated.
+
+30
+00:01:42,243 --> 00:01:50,858
+Conversely, memory leaders Samsung Electronics and S K Hynix offer compelling contrarian buy setups after falling thirty-seven percent.
+
+31
+00:01:49,094 --> 00:01:57,206
+Two major macro catalysts dominate this week: the United States midterm elections and Friday's October nonfarm payrolls report.
+
+32
+00:01:50,858 --> 00:01:57,672
+Both trade at historic lows of two to three times two thousand twenty-seven earnings with massive cash reserves.
+
+33
+00:01:57,206 --> 00:02:02,648
+Markets have already priced in the downside risk of a Democratic sweep across Congress.
+
+34
+00:01:57,672 --> 00:02:04,143
+Bulls are accumulating memory leaders here, provided the midterm elections avoid a full Democratic sweep.
+
+35
+00:02:02,648 --> 00:02:08,395
+Citi notes that if Republicans hold the Senate, equities could stage a year-end relief rally.
+
+36
+00:02:04,143 --> 00:02:13,003
+Finally, earnings from Apple, A M D, Palantir, and Qualcomm will test whether semiconductor and hardware sentiment can stabilize.
+
+37
+00:02:08,395 --> 00:02:17,488
+Because Senate committees control financial regulation and Federal Reserve nominations, a split Congress favors buying healthcare against financial stocks.
+
+38
+00:02:13,003 --> 00:02:20,233
+Apple's new chief executive must prove that Services growth and China resilience can offset broader hardware weakness.
+
+39
+00:02:17,488 --> 00:02:24,008
+A Democratic sweep would pressure sentiment and bring forward fears of corporate tax hikes in two thousand twenty-eight.
+
+40
+00:02:20,233 --> 00:02:24,241
+That concludes today's XiaoFang Finance Morning Brief.
+
+41
+00:02:24,008 --> 00:02:32,182
+Democratic governor wins in Wisconsin, Michigan, and Nevada would also tighten environmental reviews and slow data center construction.
+
+42
+00:02:24,241 --> 00:02:28,407
+Thank you for listening, trade safely, and see you tomorrow.
+
+43
+00:02:32,182 --> 00:02:40,172
+On Friday, economists expect October nonfarm payrolls to rebound to sixty-five thousand from twenty-nine thousand previously.
+
+44
+00:02:40,172 --> 00:02:44,572
+The unemployment rate is projected to hold at four point two percent.

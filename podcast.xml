@@ -1,5 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨 5 分钟，全球资产与财经核心要闻</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Mon, 02 Nov 2026 09:33:12 -0400</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-02 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-11-02 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨 5 分钟，全球资产与财经核心要闻</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Tue, 03 Nov 2026 06:13:28 -0400</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-03 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-11-03 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+• 宏观水温：恐贪指数跌至18.8，处于极度恐慌区间。纳指跌1.07%，费半重挫3.4%。AI资本开支恐慌叠加12月加息概率72%，科技股承压。
+• 避险共振：黄金跌1.3%失守3900，美元走平。10年美债收益率回落至4.894%，承接撤离AI的资金。属于去杠杆式降风险，未形成三重避险共振。
+• 多空分歧：多方押注中选这一"清除事件"，历史上选后一年上涨概率100%。空方警惕巨头发债扩张、机构借反弹减持，以及选后伊朗冲突升级。
+
+🤖 【AI 前沿与开源精选】
+• Astra权重空间编程：直接读写Qwen权重来定向改进模型，绕开昂贵的重训练，压低单位能力的算力成本。
+• vercel-labs/agent-desktop：为Agent提供桌面操控命令行工具，无需逐个对接API即可直接操作应用。
+
+💼 【聚焦标的与量化买卖点】
+• AMZN：绝佳双重共振买点（信心度98），当前价245.63，第一建仓位243.44，加仓位230.90，防守止损223.38
+• 防守预警：MCD 严重超买（RSI 85.5），逢高锁定20%~30%利润，移动止盈线上移至260.51
+
+📅 【今日重磅催化剂】
+• 今晚美国中期选举结果揭晓，预测市场显示民主党控制参议院概率75%、众议院94%。苹果盘前跌4.7%，今日为财报后首个交易日。周五非农将左右12月加息预期。</description><itunes:summary>📌 【今日一分钟核心看点】
+• 宏观水温：恐贪指数跌至18.8，处于极度恐慌区间。纳指跌1.07%，费半重挫3.4%。AI资本开支恐慌叠加12月加息概率72%，科技股承压。
+• 避险共振：黄金跌1.3%失守3900，美元走平。10年美债收益率回落至4.894%，承接撤离AI的资金。属于去杠杆式降风险，未形成三重避险共振。
+• 多空分歧：多方押注中选这一"清除事件"，历史上选后一年上涨概率100%。空方警惕巨头发债扩张、机构借反弹减持，以及选后伊朗冲突升级。
+
+🤖 【AI 前沿与开源精选】
+• Astra权重空间编程：直接读写Qwen权重来定向改进模型，绕开昂贵的重训练，压低单位能力的算力成本。
+• vercel-labs/agent-desktop：为Agent提供桌面操控命令行工具，无需逐个对接API即可直接操作应用。
+
+💼 【聚焦标的与量化买卖点】
+• AMZN：绝佳双重共振买点（信心度98），当前价245.63，第一建仓位243.44，加仓位230.90，防守止损223.38
+• 防守预警：MCD 严重超买（RSI 85.5），逢高锁定20%~30%利润，移动止盈线上移至260.51
+
+📅 【今日重磅催化剂】
+• 今晚美国中期选举结果揭晓，预测市场显示民主党控制参议院概率75%、众议院94%。苹果盘前跌4.7%，今日为财报后首个交易日。周五非农将左右12月加息预期。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
+• 宏观水温：恐贪指数跌至18.8，处于极度恐慌区间。纳指跌1.07%，费半重挫3.4%。AI资本开支恐慌叠加12月加息概率72%，科技股承压。
+• 避险共振：黄金跌1.3%失守3900，美元走平。10年美债收益</itunes:subtitle><pubDate>Tue, 03 Nov 2026 06:13:28 -0400</pubDate><guid isPermaLink="false">digest-2026-11-03</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-03.mp3" length="13368833" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>13:35</itunes:duration><itunes:episode>43</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-03.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-03.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-11-02 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-11-02 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
 • 宏观水温：恐慌指数报26.1（恐慌），10年期美债收益率逼近4.93%倒逼市场严审AI资本开支ROI；周一早盘纳指期货超跌反弹涨超1%，沪指重上3600点、恒科涨超2%。
 • 避险共振：金价企稳报3907.8美元，WTI原油重挫4.4%跌破百元；黄金（GLD）、美债（TLT）与美元（UUP）呈区间胶着分化，资金由流动性挤兑转入结构性再平衡。
 • 多空分歧：机构担忧科技巨头4.11万亿美元表外算力承诺拖累自由现金流而撤向防御板块；散户则创纪录涌入SOXL抄底，博弈存储芯片短缺周期至2028年及2-3倍PE估值错杀。

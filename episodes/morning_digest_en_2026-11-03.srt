@@ -1,0 +1,543 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,194
+Today is November 03, 2026.
+
+3
+00:00:07,194 --> 00:00:10,540
+Overnight, the Dow rose against the tide.
+
+4
+00:00:10,540 --> 00:00:15,625
+The S&P 500 and Nasdaq gave up early gains and closed lower.
+
+5
+00:00:15,625 --> 00:00:21,790
+The Nasdaq fell 1.07 percent to 25,164.
+
+6
+00:00:21,790 --> 00:00:27,954
+The S&P 500 lost 0.51 percent, or about 39 points.
+
+7
+00:00:27,954 --> 00:00:33,567
+The S&P has now closed below its half-year moving average for two straight sessions.
+
+8
+00:00:33,567 --> 00:00:40,123
+Money kept rotating out of technology and into insurance, healthcare, credit and internet retail.
+
+9
+00:00:40,123 --> 00:00:44,241
+The ten-year Treasury yield slid back below 5 percent.
+
+10
+00:00:44,241 --> 00:00:48,040
+Some money leaving the AI trade went into bonds.
+
+11
+00:00:48,040 --> 00:00:50,552
+Oil fell along with yields.
+
+12
+00:00:50,552 --> 00:00:56,128
+But the VIX climbed as high as 21.7, and that ended the intraday rebound.
+
+13
+00:00:56,128 --> 00:00:58,775
+Iran drove the drop in oil.
+
+14
+00:00:58,775 --> 00:01:04,792
+Before the open, Tehran offered a phased plan to reopen the Strait of Hormuz within days.
+
+15
+00:01:04,792 --> 00:01:10,969
+Secretary of State Rubio said President Trump prefers diplomacy and is holding off on new strikes.
+
+16
+00:01:10,969 --> 00:01:17,611
+By the afternoon, Iranian media said messages had passed through intermediaries, with no progress.
+
+17
+00:01:17,611 --> 00:01:21,900
+The talks have not broken down, so crude held its losses.
+
+18
+00:01:21,900 --> 00:01:25,172
+But Iran's core demands have not changed.
+
+19
+00:01:25,172 --> 00:01:28,763
+The risk is that strikes resume after the midterms.
+
+20
+00:01:28,763 --> 00:01:31,716
+If they do, oil could jump again.
+
+21
+00:01:31,716 --> 00:01:35,993
+The midterm election is today, and results are expected tonight.
+
+22
+00:01:35,993 --> 00:01:40,969
+Prediction markets give Democrats a 94 percent chance of taking the House.
+
+23
+00:01:40,969 --> 00:01:44,045
+They give 75 percent for the Senate.
+
+24
+00:01:44,045 --> 00:01:47,819
+Bulls say divided government brings policy stability.
+
+25
+00:01:47,819 --> 00:01:52,047
+Bears warn that tax cuts and deregulation could be reversed.
+
+26
+00:01:52,047 --> 00:01:54,486
+History favors the bulls.
+
+27
+00:01:54,486 --> 00:02:00,160
+The S&P 500 has risen in the twelve months after every midterm since 1950.
+
+28
+00:02:00,160 --> 00:02:04,290
+The average gain has been roughly 14 to 15 percent.
+
+29
+00:02:04,290 --> 00:02:07,709
+Still, the election is a secondary driver.
+
+30
+00:02:07,709 --> 00:02:11,361
+Monetary policy and earnings decide the direction.
+
+31
+00:02:11,361 --> 00:02:15,650
+On the Fed, the debate is about rate hikes, not cuts.
+
+32
+00:02:15,650 --> 00:02:20,711
+CME futures put the odds of a December rate hike at 72 percent.
+
+33
+00:02:20,711 --> 00:02:23,456
+The economy is still running warm.
+
+34
+00:02:23,456 --> 00:02:28,309
+The ISM manufacturing index rose to 55.5.
+
+35
+00:02:28,309 --> 00:02:31,275
+That is ten straight months of expansion.
+
+36
+00:02:31,275 --> 00:02:34,277
+This week's jobs data matters a lot.
+
+37
+00:02:34,277 --> 00:02:40,773
+The ADP report comes Wednesday, with 65,000 to 85,000 jobs expected.
+
+38
+00:02:40,773 --> 00:02:47,304
+Friday's payrolls are expected near 70,000, with unemployment steady at 4.2 percent.
+
+39
+00:02:47,304 --> 00:02:52,917
+With the labor market near full employment, inflation will decide what happens in December.
+
+40
+00:02:52,917 --> 00:02:57,746
+The Fear and Greed Index sits at 23, which is extreme fear.
+
+41
+00:02:57,746 --> 00:03:00,748
+That is not a capitulation signal yet.
+
+42
+00:03:00,748 --> 00:03:05,834
+Past bottoms reached 3 on Liberation Day and 6 during the Iran war.
+
+43
+00:03:05,834 --> 00:03:11,618
+Q-Q-Q failed at 700 and now sits near its 250-day moving average.
+
+44
+00:03:11,618 --> 00:03:16,434
+If that line breaks, the next level to watch is near 660.
+
+45
+00:03:16,434 --> 00:03:23,150
+On the Nasdaq Composite, watch 25,000 and the annual line near 24,700.
+
+46
+00:03:23,150 --> 00:03:29,081
+For the S&P 500, the bearish downside target is near 7,200.
+
+47
+00:03:29,081 --> 00:03:33,971
+In the past, breaks of the annual line have paid off for patient buyers.
+
+48
+00:03:33,971 --> 00:03:36,900
+But history does not repeat on schedule.
+
+49
+00:03:36,900 --> 00:03:39,964
+The selling is centered on AI hardware.
+
+50
+00:03:39,964 --> 00:03:46,434
+The Philadelphia Semiconductor Index dropped 3.4 percent to 10,328.
+
+51
+00:03:46,434 --> 00:03:49,167
+Just below sits 10,000.
+
+52
+00:03:49,167 --> 00:03:54,057
+The annual line, a round number and a Fibonacci level all meet there.
+
+53
+00:03:54,057 --> 00:03:57,268
+A bounce from that zone would not be surprising.
+
+54
+00:03:57,268 --> 00:04:02,035
+Until chips stabilize, the broader correction is unlikely to end.
+
+55
+00:04:02,035 --> 00:04:04,339
+Demand is not the problem.
+
+56
+00:04:04,339 --> 00:04:11,434
+South Korea's October chip exports jumped 259 percent to 56.4 billion dollars.
+
+57
+00:04:11,434 --> 00:04:17,133
+Even so, foreign investors kept selling Korean chip names like SK Hynix.
+
+58
+00:04:17,133 --> 00:04:20,699
+The real worry is the cost of the AI buildout.
+
+59
+00:04:20,699 --> 00:04:28,469
+Microsoft, Alphabet, Amazon, Meta and Oracle cut buybacks by 83 percent in the first three quarters.
+
+60
+00:04:28,469 --> 00:04:33,873
+That is down from 81.8 billion to 13.6 billion dollars.
+
+61
+00:04:33,873 --> 00:04:37,047
+It is the lowest in at least fifteen years.
+
+62
+00:04:37,047 --> 00:04:39,633
+Instead, they are borrowing.
+
+63
+00:04:39,633 --> 00:04:43,076
+Alphabet plans a six billion euro bond.
+
+64
+00:04:43,076 --> 00:04:48,591
+Meta is weighing at least 20 billion dollars in debt across the dollar and euro markets.
+
+65
+00:04:48,591 --> 00:04:57,047
+Off-balance-sheet commitments at the hyperscalers, Nvidia, Broadcom and SpaceX now total 4.11 trillion dollars.
+
+66
+00:04:57,047 --> 00:05:00,429
+People owned the megacaps as cash machines.
+
+67
+00:05:00,429 --> 00:05:04,608
+That case is weakening, and investors are losing patience.
+
+68
+00:05:04,608 --> 00:05:10,589
+On the other side, White House adviser Kevin Hassett says AI funding remains plentiful.
+
+69
+00:05:10,589 --> 00:05:13,652
+He sees no risk of a broad selloff.
+
+70
+00:05:13,652 --> 00:05:18,358
+Bill Ackman is buying the dip in Amazon, Meta and Microsoft.
+
+71
+00:05:18,440 --> 00:05:21,931
+The biggest deal shock came in optical networking.
+
+72
+00:05:21,881 --> 00:05:28,499
+Marvell agreed to buy Lumentum in an all-stock deal, at 4.5 Marvell shares per Lumentum share.
+
+73
+00:05:28,499 --> 00:05:32,800
+Lumentum holders will own 33 percent of the combined company.
+
+74
+00:05:32,800 --> 00:05:36,624
+The deal is expected to close in early 2028.
+
+75
+00:05:36,624 --> 00:05:38,965
+There is no cash premium.
+
+76
+00:05:38,965 --> 00:05:42,371
+Lumentum fell 18.6 percent.
+
+77
+00:05:42,371 --> 00:05:47,261
+Marvell fell 12.7 percent and broke below its annual line.
+
+78
+00:05:47,261 --> 00:05:49,614
+The strategy makes sense.
+
+79
+00:05:49,614 --> 00:05:54,933
+Marvell needs Lumentum's indium phosphide lasers to complete its optical platform.
+
+80
+00:05:54,933 --> 00:06:00,178
+Management expects more than 1.1 billion dollars a year in cost savings.
+
+81
+00:06:00,178 --> 00:06:06,317
+But two richly valued stocks are being marked down together, and Chinese approval is uncertain.
+
+82
+00:06:06,317 --> 00:06:12,151
+Lumentum's revenue rose 136 percent, and even that could not stop the slide.
+
+83
+00:06:12,151 --> 00:06:15,031
+Palantir beat on every major line.
+
+84
+00:06:15,031 --> 00:06:19,847
+Revenue jumped 96 percent to 2.31 billion dollars.
+
+85
+00:06:19,847 --> 00:06:24,749
+For the first time, U.S. commercial revenue was larger than government revenue.
+
+86
+00:06:24,749 --> 00:06:28,266
+Fourth quarter guidance came in above forecasts.
+
+87
+00:06:28,266 --> 00:06:32,947
+Still, the stock slipped after hours on weak short-term momentum.
+
+88
+00:06:32,947 --> 00:06:37,653
+Four stocks have clear signals today: two buys and two sells.
+
+89
+00:06:37,653 --> 00:06:40,141
+Nvidia is the first buy.
+
+90
+00:06:40,141 --> 00:06:44,798
+Among the five leading chip stocks, it has the largest market cap.
+
+91
+00:06:44,798 --> 00:06:48,768
+It also has the lowest valuation and the strongest growth.
+
+92
+00:06:48,768 --> 00:06:53,229
+At nearly five trillion dollars, it will not rise tenfold.
+
+93
+00:06:53,229 --> 00:06:56,170
+But its moat makes it steadier than most.
+
+94
+00:06:56,170 --> 00:07:00,264
+Buy around 203 dollars, near the current price.
+
+95
+00:07:00,264 --> 00:07:04,332
+Add if it breaks below 199 dollar support.
+
+96
+00:07:04,332 --> 00:07:08,205
+Your risk gauge is the chip index holding 10,000.
+
+97
+00:07:08,205 --> 00:07:13,241
+Berkshire Hathaway B shares are the defensive buy, but only on a pullback.
+
+98
+00:07:13,241 --> 00:07:17,764
+They hit a record high in October, while many stocks nearly halved.
+
+99
+00:07:17,764 --> 00:07:21,403
+They also rose during the 2022 bear market.
+
+100
+00:07:21,403 --> 00:07:27,911
+Cash and Treasury bills totaled 365.5 billion dollars at the end of the second quarter.
+
+101
+00:07:27,911 --> 00:07:34,455
+Over five years, the stock returned about 92 percent, beating all three major indexes.
+
+102
+00:07:34,455 --> 00:07:36,624
+Do not chase the record.
+
+103
+00:07:36,624 --> 00:07:40,227
+Start buying near 530 dollar support.
+
+104
+00:07:40,227 --> 00:07:43,180
+Add near 512 dollars.
+
+105
+00:07:43,180 --> 00:07:47,335
+This is a position to build steadily and hold for the long term.
+
+106
+00:07:47,335 --> 00:07:49,957
+Apple is a take-profits signal.
+
+107
+00:07:49,957 --> 00:07:56,844
+Fiscal fourth quarter revenue reached about 114.5 billion dollars, up 12 percent.
+
+108
+00:07:56,844 --> 00:08:02,077
+Earnings per share were 2.10 dollars, above the 2.00 dollar estimate.
+
+109
+00:08:02,077 --> 00:08:05,031
+iPhone and Mac sales both beat.
+
+110
+00:08:05,031 --> 00:08:08,597
+But five cents of that came from tariff refunds.
+
+111
+00:08:08,597 --> 00:08:14,749
+Without them, gross margin was about 46.9 percent, below expectations.
+
+112
+00:08:14,749 --> 00:08:19,994
+Greater China revenue missed, and iPad and wearables also disappointed.
+
+113
+00:08:19,994 --> 00:08:23,511
+The stock fell about 3 percent after hours.
+
+114
+00:08:23,511 --> 00:08:28,768
+Investors seeking safety pushed Apple up about 25 percent from its June low.
+
+115
+00:08:28,768 --> 00:08:35,055
+It now trades near 39 times forward earnings, roughly double the S&P 500.
+
+116
+00:08:35,055 --> 00:08:41,979
+The average analyst target is 332 dollars, below the recent price near 338.
+
+117
+00:08:41,979 --> 00:08:46,195
+Sell into any bounce back toward 338 dollars.
+
+118
+00:08:46,195 --> 00:08:51,207
+If Apple keeps sliding, the market loses one of its usual stabilizers.
+
+119
+00:08:51,207 --> 00:08:53,229
+Oracle is the sell.
+
+120
+00:08:53,229 --> 00:08:58,560
+Five days after its investor day, Oracle broke its own financing promise.
+
+121
+00:08:58,560 --> 00:09:03,891
+It had pledged no more than 20 billion dollars in new funding through fiscal 2030.
+
+122
+00:09:03,891 --> 00:09:09,516
+Now it is raising the full 20 billion at once, half in stock and half in bonds.
+
+123
+00:09:09,516 --> 00:09:13,707
+Long-term debt is near 117 billion dollars.
+
+124
+00:09:13,707 --> 00:09:19,381
+Free cash flow is expected at negative 23.7 billion dollars this year.
+
+125
+00:09:19,381 --> 00:09:25,570
+S&P Global Ratings already rates Oracle B-B-B minus, one notch above junk.
+
+126
+00:09:25,570 --> 00:09:29,614
+Another downgrade would force investment-grade funds to sell.
+
+127
+00:09:29,614 --> 00:09:33,634
+Credit default swap prices have spiked several times.
+
+128
+00:09:33,634 --> 00:09:36,955
+Key support is 114 dollars.
+
+129
+00:09:36,955 --> 00:09:40,656
+A break there opens a path toward 100 dollars.
+
+130
+00:09:40,656 --> 00:09:43,290
+Use rallies to cut exposure.
+
+131
+00:09:43,290 --> 00:09:48,131
+At best, Oracle is a short-term trade, not a long-term hold.
+
+132
+00:09:48,131 --> 00:09:56,305
+Key events this week are tonight's midterm results, AMD earnings, Wednesday's ADP report, and Friday's payrolls.
+
+133
+00:09:56,305 --> 00:09:58,438
+Keep cash on hand.
+
+134
+00:09:58,438 --> 00:10:01,612
+Buy at your levels, not on headlines.
+
+135
+00:10:01,612 --> 00:10:05,619
+That concludes today's XiaoFang Finance Morning Brief.
+
+136
+00:10:05,619 --> 00:10:09,786
+Thank you for listening, trade safely, and see you tomorrow.

@@ -1,0 +1,119 @@
+Good morning, listeners. Today is November 03, 2026.
+
+Overnight, the Dow rose against the tide. The S&P 500 and Nasdaq gave up early gains and closed lower.
+The Nasdaq fell 1.07 percent to 25,164. The S&P 500 lost 0.51 percent, or about 39 points.
+The S&P has now closed below its half-year moving average for two straight sessions.
+Money kept rotating out of technology and into insurance, healthcare, credit and internet retail.
+The ten-year Treasury yield slid back below 5 percent. Some money leaving the AI trade went into bonds.
+Oil fell along with yields. But the VIX climbed as high as 21.7, and that ended the intraday rebound.
+
+Iran drove the drop in oil.
+Before the open, Tehran offered a phased plan to reopen the Strait of Hormuz within days.
+Secretary of State Rubio said President Trump prefers diplomacy and is holding off on new strikes.
+By the afternoon, Iranian media said messages had passed through intermediaries, with no progress.
+The talks have not broken down, so crude held its losses. But Iran's core demands have not changed.
+The risk is that strikes resume after the midterms. If they do, oil could jump again.
+
+The midterm election is today, and results are expected tonight.
+Prediction markets give Democrats a 94 percent chance of taking the House. They give 75 percent for the Senate.
+Bulls say divided government brings policy stability. Bears warn that tax cuts and deregulation could be reversed.
+History favors the bulls. The S&P 500 has risen in the twelve months after every midterm since 1950.
+The average gain has been roughly 14 to 15 percent.
+Still, the election is a secondary driver. Monetary policy and earnings decide the direction.
+
+On the Fed, the debate is about rate hikes, not cuts.
+CME futures put the odds of a December rate hike at 72 percent.
+The economy is still running warm. The ISM manufacturing index rose to 55.5.
+That is ten straight months of expansion.
+This week's jobs data matters a lot. The ADP report comes Wednesday, with 65,000 to 85,000 jobs expected.
+Friday's payrolls are expected near 70,000, with unemployment steady at 4.2 percent.
+With the labor market near full employment, inflation will decide what happens in December.
+
+The Fear and Greed Index sits at 23, which is extreme fear.
+That is not a capitulation signal yet. Past bottoms reached 3 on Liberation Day and 6 during the Iran war.
+Q-Q-Q failed at 700 and now sits near its 250-day moving average.
+If that line breaks, the next level to watch is near 660.
+On the Nasdaq Composite, watch 25,000 and the annual line near 24,700.
+For the S&P 500, the bearish downside target is near 7,200.
+In the past, breaks of the annual line have paid off for patient buyers. But history does not repeat on schedule.
+
+The selling is centered on AI hardware.
+The Philadelphia Semiconductor Index dropped 3.4 percent to 10,328.
+Just below sits 10,000. The annual line, a round number and a Fibonacci level all meet there.
+A bounce from that zone would not be surprising. Until chips stabilize, the broader correction is unlikely to end.
+Demand is not the problem. South Korea's October chip exports jumped 259 percent to 56.4 billion dollars.
+Even so, foreign investors kept selling Korean chip names like SK Hynix.
+
+The real worry is the cost of the AI buildout.
+Microsoft, Alphabet, Amazon, Meta and Oracle cut buybacks by 83 percent in the first three quarters.
+That is down from 81.8 billion to 13.6 billion dollars. It is the lowest in at least fifteen years.
+Instead, they are borrowing. Alphabet plans a six billion euro bond.
+Meta is weighing at least 20 billion dollars in debt across the dollar and euro markets.
+Off-balance-sheet commitments at the hyperscalers, Nvidia, Broadcom and SpaceX now total 4.11 trillion dollars.
+People owned the megacaps as cash machines. That case is weakening, and investors are losing patience.
+On the other side, White House adviser Kevin Hassett says AI funding remains plentiful.
+He sees no risk of a broad selloff.
+Bill Ackman is buying the dip in Amazon, Meta and Microsoft.
+
+The biggest deal shock came in optical networking.
+Marvell agreed to buy Lumentum in an all-stock deal, at 4.5 Marvell shares per Lumentum share.
+Lumentum holders will own 33 percent of the combined company. The deal is expected to close in early 2028.
+There is no cash premium. Lumentum fell 18.6 percent.
+Marvell fell 12.7 percent and broke below its annual line.
+The strategy makes sense. Marvell needs Lumentum's indium phosphide lasers to complete its optical platform.
+Management expects more than 1.1 billion dollars a year in cost savings.
+But two richly valued stocks are being marked down together, and Chinese approval is uncertain.
+Lumentum's revenue rose 136 percent, and even that could not stop the slide.
+
+Palantir beat on every major line. Revenue jumped 96 percent to 2.31 billion dollars.
+For the first time, U.S. commercial revenue was larger than government revenue.
+Fourth quarter guidance came in above forecasts. Still, the stock slipped after hours on weak short-term momentum.
+
+Four stocks have clear signals today: two buys and two sells.
+
+Nvidia is the first buy.
+Among the five leading chip stocks, it has the largest market cap.
+It also has the lowest valuation and the strongest growth.
+At nearly five trillion dollars, it will not rise tenfold. But its moat makes it steadier than most.
+Buy around 203 dollars, near the current price.
+Add if it breaks below 199 dollar support.
+Your risk gauge is the chip index holding 10,000.
+
+Berkshire Hathaway B shares are the defensive buy, but only on a pullback.
+They hit a record high in October, while many stocks nearly halved.
+They also rose during the 2022 bear market.
+Cash and Treasury bills totaled 365.5 billion dollars at the end of the second quarter.
+Over five years, the stock returned about 92 percent, beating all three major indexes.
+Do not chase the record. Start buying near 530 dollar support.
+Add near 512 dollars. This is a position to build steadily and hold for the long term.
+
+Apple is a take-profits signal.
+Fiscal fourth quarter revenue reached about 114.5 billion dollars, up 12 percent.
+Earnings per share were 2.10 dollars, above the 2.00 dollar estimate.
+iPhone and Mac sales both beat.
+But five cents of that came from tariff refunds.
+Without them, gross margin was about 46.9 percent, below expectations.
+Greater China revenue missed, and iPad and wearables also disappointed.
+The stock fell about 3 percent after hours.
+Investors seeking safety pushed Apple up about 25 percent from its June low.
+It now trades near 39 times forward earnings, roughly double the S&P 500.
+The average analyst target is 332 dollars, below the recent price near 338.
+Sell into any bounce back toward 338 dollars.
+If Apple keeps sliding, the market loses one of its usual stabilizers.
+
+Oracle is the sell.
+Five days after its investor day, Oracle broke its own financing promise.
+It had pledged no more than 20 billion dollars in new funding through fiscal 2030.
+Now it is raising the full 20 billion at once, half in stock and half in bonds.
+Long-term debt is near 117 billion dollars.
+Free cash flow is expected at negative 23.7 billion dollars this year.
+S&P Global Ratings already rates Oracle B-B-B minus, one notch above junk.
+Another downgrade would force investment-grade funds to sell.
+Credit default swap prices have spiked several times.
+Key support is 114 dollars. A break there opens a path toward 100 dollars.
+Use rallies to cut exposure. At best, Oracle is a short-term trade, not a long-term hold.
+
+Key events this week are tonight's midterm results, AMD earnings, Wednesday's ADP report, and Friday's payrolls.
+Keep cash on hand. Buy at your levels, not on headlines.
+
+That concludes today's XiaoFang Finance Morning Brief. Thank you for listening, trade safely, and see you tomorrow.

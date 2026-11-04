@@ -1,0 +1,47 @@
+Good morning, listeners. Today is November 04, 2026. Overnight, Wall Street drifted higher on light volume as midterm ballots were cast.
+
+The S and P 500 added about 28 points, or 0.36 percent. The Nasdaq Composite gained about 208 points, or 0.83 percent. This was a technical bounce, not a change in trend. Blue-chip defensives held firm, and Berkshire Hathaway closed at a record high.
+
+The bigger story is rates. Markets now see a 78.9 percent chance of a December rate hike. Tariffs, war, and AI spending are all pushing inflation higher. Big tech is selling debt faster, and that extra supply is pushing Treasury yields up. Higher rates for longer put heavy pressure on growth stock valuations.
+
+Jobs are not the problem. September job openings rose to 7.52 million, and layoffs fell. Friday's payrolls are expected at 59 thousand, with unemployment steady at 4.2 percent.
+
+On the election, the bulls and bears disagree. Markets expect Democrats to win the House. Control of the Senate is still a toss-up. Bulls point to history. Since 1950, the S and P has risen in the year after every midterm. The average gain was 15.4 percent. UBS adds that light hedge fund positioning sets up a post-election rally.
+
+Bears point out that the index was already up 10.7 percent through October. In a typical midterm year, it is up about one percent by then. Morgan Stanley's Michael Wilson sees another nine percent drop, toward 7,100. He blames politics, worries about AI spending, and tighter liquidity. Then he sees a rebound to 8,000 next year. Citi reports large new short positions in S and P and Nasdaq futures last week.
+
+Here are the key levels. The S and P has closed below its half-year moving average for three straight sessions. Strong support sits near 7,200. The Nasdaq 100 bounced off its one-year moving average. Old support at 28,900 is now firm resistance. For the Nasdaq Composite, support is near 25,000.
+
+The VIX is still above 20. The CNN Fear and Greed Index slipped from 23 to 19. Once the election results are in, hedges get unwound, and swings could get bigger. If a Democratic sweep triggers a selloff, that could be a buying opportunity.
+
+Geopolitics is the main wild card. Washington and Tehran are reviewing a new proposal from Qatar. Qatar expects responses within 36 hours. Israel's Prime Minister Netanyahu is urging a strike on Iran right after the election. The ceasefire is fragile. The United States hit targets near Qeshm Island, and Iran shot down two American drones. On the other side, Russia, Ukraine, and the United States will hold peace talks in Abu Dhabi on November 10 and 11. That news is weighing on oil. If crude starts climbing again, stocks face a new headwind.
+
+Tight money is hitting tech the hardest. The Philadelphia Semiconductor Index rose 2.63 percent but faded off its highs. It is still below its one-year moving average. In October, the chip index fell 15.4 percent, and Q-Q-Q fell 6.7 percent.
+
+Morgan Stanley's tech momentum factor is down about 62 percent from its peak. That is deeper than the roughly 50 percent drop when the dot-com bubble burst in 2000.
+
+Earnings are not the problem. About 80 percent of reporting S and P companies have beaten estimates. The problem is the payback. Downstream AI users are earning big profits. Upstream builders are borrowing to keep spending. The market has stopped asking whether there is demand. It now asks whether all this spending will ever pay off.
+
+For the chip index, 10,000 is the line to watch. It is a round number, the one-year average, and a key Fibonacci retracement level. If AI stocks recover from there, the broader market can stabilize. If that level breaks, nothing else is big enough to lead the market higher.
+
+Big money is waiting for two things, the election result and the Anthropic IPO. Anthropic's buyers are pushing to cut its valuation from two trillion dollars to between 1.5 and 1.6 trillion. The roadshow could start next week, with a listing targeted for the week of November 16.
+
+AI infrastructure names are showing some strength. Fabrinet jumped after its fourteenth straight quarter of revenue growth. Goldman Sachs raised its forecasts for data center capacity and spending. Cipher Mining rose 18.4 percent after extending its leases to 20 years, worth about 9.1 billion dollars. Memory chip stocks got a lift after Apple said memory prices will keep rising. But their rebound was weak.
+
+The rush into defensive names like Coca-Cola, Eli Lilly, and Walmart was driven by fear of tech. It is not true safety. If tech bottoms, money will leave those stocks and flow back into tech.
+
+Three stocks have clear trade signals today.
+
+First, A-M-D is a conditional buy. Third-quarter revenue hit a record 13.4 billion dollars, up 45 percent. Earnings per share were 2.09 dollars, up 74 percent. Data center revenue nearly doubled to 8.5 billion dollars. Fourth-quarter guidance is 17 billion dollars, above the 16.3 billion Wall Street expected. Gross margin guidance is 55 percent. The weak spot is cash flow. Free cash flow fell 64 percent to 554 million dollars. Analysts had expected nearly two billion. The stock lost almost 200 dollars in a single month. It sits far below Lisa Su's 600 dollar ambition.
+
+Buy only if the after-hours gain holds through today's regular session. Exit if the stock gives back the whole gap. A drop in the chip index below 10,000 also means get out. If the move holds, it could lift chip stocks across the board.
+
+Second, Apple is a buy on dips. Fiscal-year revenue reached 478.8 billion dollars, up 15.1 percent. Net income rose 18 percent to 132.1 billion dollars. The stock gapped down on its margin guidance. December-quarter gross margin is guided at 45 to 46 percent, down from 47.9 percent, mainly because memory costs more. Every phone maker faces the same cost. Apple has the pricing power to pass it on to customers.
+
+The stock opened lower and closed higher, so sellers are running out of reasons. Its beta is 1.09, so it moves roughly in step with the market. Apple has historically filled every downside gap, and this gap is small. Buy into weakness. Take profits when the gap fills. Stop out on a close below Tuesday's low. Apple is usually the last big stock to fall in a Q-Q-Q pullback. When Apple falls, a bottom is often close.
+
+Third, Shopify is a sell into strength. Revenue was 3.74 billion dollars, up 32 percent, just missing estimates. Earnings per share were 49 cents, a slight beat. Free cash flow was 816 million dollars. But gross merchandise volume and gross profit grew less than big buyers had bet on. Holiday guidance was only in line. The stock trades near 96 times earnings. That is far richer than the top tech leaders. Shares fell more than 19 percent before the open and faded again in the afternoon. Use any relief bounce to cut positions. Do not buy into the drop.
+
+Here is what to watch next. The midterm results come out today. Qatar expects answers from Washington and Tehran within 36 hours. Watch whether A-M-D holds its gain in regular trading. October payrolls come out Friday. The Abu Dhabi peace talks are next week, followed by the Anthropic listing. The December Fed meeting decides the rate path. The levels to watch are 7,200 on the S and P, 25,000 on the Nasdaq, and 10,000 on the chip index.
+
+That concludes today's XiaoFang Finance Morning Brief. Thank you for listening, trade safely, and see you tomorrow.

@@ -1,5 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨 5 分钟，全球资产与财经核心要闻</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Tue, 03 Nov 2026 06:13:28 -0400</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-03 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-11-03 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨 5 分钟，全球资产与财经核心要闻</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Wed, 04 Nov 2026 06:10:12 -0400</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-04 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-11-04 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+• 宏观水温：选举结果落地后，VIX 跌 11%，跌破 20。标普 +0.36%，纳指 +0.83%，费半 +2.63%。恐贪指数 24.1，仍在极度恐慌区间。民主党横扫国会，推升赤字预期。10 年期美债收益率逼近 5%，12 月加息概率 78.9%。
+• 避险共振：黄金单日 +2.89%，对冲盘没有离场。美元走弱，美债收益率维持高位。整体是中性偏 Risk-On 的过渡态。
+• 多空分歧：多方看好选后季节性反弹，以及 80% 财报超预期。空方警示 TMT 动能因子崩塌，大摩短期看跌至 7100 点。
+
+🤖 【AI 前沿与开源精选】
+• vercel-labs/agent-desktop：提供标准化的 Computer Use 命令行接口，让 Agent 直接操控桌面，单日 +3791 星。
+• claude-mem：压缩会话记录并在之后的会话里注入相关上下文，解决 Agent 跨会话失忆问题。
+
+💼 【聚焦标的与量化买卖点】
+• NVDA：💎绝佳双重共振买点，当前价 $206.69，第一建仓位 $204.27，加仓位 $194.36，防守止损 $187.09。费半须守住 10000 点，跌破则暂停加仓。
+• 防守预警：MCD/HD 🔴严重超买，RSI 分别为 79.3/75.3。建议逢高分批止盈 20%–30%，移动止盈线分别上移至 $247.79/$330.27。
+
+📅 【今日重磅催化剂】
+• 今日：看 AMD 盘后涨幅能否保住、费半能否守住 10000 点；卡塔尔美伊调解方案预计 36 小时内反馈。
+• 周五：美国 10 月非农，预期新增 5.9 万人，失业率 4.2%。</description><itunes:summary>📌 【今日一分钟核心看点】
+• 宏观水温：选举结果落地后，VIX 跌 11%，跌破 20。标普 +0.36%，纳指 +0.83%，费半 +2.63%。恐贪指数 24.1，仍在极度恐慌区间。民主党横扫国会，推升赤字预期。10 年期美债收益率逼近 5%，12 月加息概率 78.9%。
+• 避险共振：黄金单日 +2.89%，对冲盘没有离场。美元走弱，美债收益率维持高位。整体是中性偏 Risk-On 的过渡态。
+• 多空分歧：多方看好选后季节性反弹，以及 80% 财报超预期。空方警示 TMT 动能因子崩塌，大摩短期看跌至 7100 点。
+
+🤖 【AI 前沿与开源精选】
+• vercel-labs/agent-desktop：提供标准化的 Computer Use 命令行接口，让 Agent 直接操控桌面，单日 +3791 星。
+• claude-mem：压缩会话记录并在之后的会话里注入相关上下文，解决 Agent 跨会话失忆问题。
+
+💼 【聚焦标的与量化买卖点】
+• NVDA：💎绝佳双重共振买点，当前价 $206.69，第一建仓位 $204.27，加仓位 $194.36，防守止损 $187.09。费半须守住 10000 点，跌破则暂停加仓。
+• 防守预警：MCD/HD 🔴严重超买，RSI 分别为 79.3/75.3。建议逢高分批止盈 20%–30%，移动止盈线分别上移至 $247.79/$330.27。
+
+📅 【今日重磅催化剂】
+• 今日：看 AMD 盘后涨幅能否保住、费半能否守住 10000 点；卡塔尔美伊调解方案预计 36 小时内反馈。
+• 周五：美国 10 月非农，预期新增 5.9 万人，失业率 4.2%。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
+• 宏观水温：选举结果落地后，VIX 跌 11%，跌破 20。标普 +0.36%，纳指 +0.83%，费半 +2.63%。恐贪指数 24.1，仍在极度恐慌区间。民主党横扫国会，推升赤字预期。10 年期美债收益率逼</itunes:subtitle><pubDate>Wed, 04 Nov 2026 06:10:12 -0400</pubDate><guid isPermaLink="false">digest-2026-11-04</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-04.mp3" length="13299034" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>13:30</itunes:duration><itunes:episode>44</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-04.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-04.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-11-03 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-11-03 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
 • 宏观水温：恐贪指数跌至18.8，处于极度恐慌区间。纳指跌1.07%，费半重挫3.4%。AI资本开支恐慌叠加12月加息概率72%，科技股承压。
 • 避险共振：黄金跌1.3%失守3900，美元走平。10年美债收益率回落至4.894%，承接撤离AI的资金。属于去杠杆式降风险，未形成三重避险共振。
 • 多空分歧：多方押注中选这一"清除事件"，历史上选后一年上涨概率100%。空方警惕巨头发债扩张、机构借反弹减持，以及选后伊朗冲突升级。

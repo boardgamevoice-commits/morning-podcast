@@ -1,0 +1,431 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,194
+Today is November 05, 2026.
+
+3
+00:00:07,194 --> 00:00:14,314
+Overnight, all three major U.S. indices closed higher after Democrats swept both chambers of Congress.
+
+4
+00:00:14,314 --> 00:00:20,491
+The Dow led the charge, surging roughly three percent on a powerful rotation into cyclicals.
+
+5
+00:00:20,491 --> 00:00:27,537
+The S&P 500 gapped higher, filled last Friday's gap, and reclaimed its six-month moving average.
+
+6
+00:00:27,537 --> 00:00:33,652
+It now sits back inside its 7,600 to 7,800 trading range.
+
+7
+00:00:33,652 --> 00:00:39,682
+The Nasdaq gained about one and a half percent, but faded more than 300 points off the high.
+
+8
+00:00:39,682 --> 00:00:47,599
+The Nasdaq 100 tagged 28,900, former support now turned hard resistance, and sellers stepped in.
+
+9
+00:00:47,599 --> 00:00:53,849
+Futures first plunged about 100 points on the results, then bottomed after midnight and reversed.
+
+10
+00:00:53,849 --> 00:00:59,731
+The VIX collapsed from 23 to around 16 as institutions dumped their election hedges.
+
+11
+00:00:59,731 --> 00:01:06,140
+The 10-year Treasury yield fell about seven basis points, to roughly 4.89 percent.
+
+12
+00:01:06,140 --> 00:01:12,133
+A Democratic Congress blocks new fiscal expansion, easing the outlook for Treasury supply.
+
+13
+00:01:12,133 --> 00:01:15,858
+The dollar posted its steepest one-day drop in a month.
+
+14
+00:01:15,858 --> 00:01:19,253
+Spot gold reclaimed 4,000 dollars.
+
+15
+00:01:19,253 --> 00:01:24,939
+West Texas crude crashed more than eight percent, breaking below 90 dollars a barrel.
+
+16
+00:01:24,939 --> 00:01:31,704
+President Trump signaled large-scale strikes on Iran may no longer be needed, but kept military options open.
+
+17
+00:01:31,704 --> 00:01:39,020
+Cheaper oil eases inflation, lifting industrials, financials, consumer names, and defensives.
+
+18
+00:01:39,020 --> 00:01:45,282
+On the Fed, October ADP payrolls beat expectations with 86,000 new jobs.
+
+19
+00:01:45,282 --> 00:01:51,103
+Strong hiring gives the Fed room to tighten, and some desks now flag a December hike.
+
+20
+00:01:51,103 --> 00:01:57,010
+A Democratic Congress also shields Fed independence, limiting White House pressure for cuts.
+
+21
+00:01:57,010 --> 00:02:00,920
+Markets are no longer pricing a one-way easing cycle.
+
+22
+00:02:00,920 --> 00:02:03,150
+The bull camp is loud.
+
+23
+00:02:03,150 --> 00:02:07,599
+Goldman Sachs and Deutsche Bank argue this rally has staying power.
+
+24
+00:02:07,599 --> 00:02:13,554
+Gridlock means fewer policy shocks, and Trump-era corporate tax cuts likely survive.
+
+25
+00:02:13,554 --> 00:02:16,312
+History also favors bulls.
+
+26
+00:02:16,312 --> 00:02:20,184
+Stocks usually rise in the twelve months after a midterm.
+
+27
+00:02:20,184 --> 00:02:22,733
+The skeptics push back hard.
+
+28
+00:02:22,733 --> 00:02:27,684
+Barclays says the Nasdaq's near ten percent pullback was never about the election.
+
+29
+00:02:27,684 --> 00:02:32,402
+The real problems are AI revenue delivery and expensive financing.
+
+30
+00:02:32,402 --> 00:02:34,719
+Neither went away yesterday.
+
+31
+00:02:34,719 --> 00:02:38,027
+Much of this year's gain is already priced in.
+
+32
+00:02:38,027 --> 00:02:42,819
+And the debt ceiling looms, likely hitting in the second quarter of next year.
+
+33
+00:02:42,819 --> 00:02:47,378
+Republicans have roughly eight weeks of unified control left to act.
+
+34
+00:02:47,378 --> 00:02:50,442
+After that, brinkmanship returns.
+
+35
+00:02:50,442 --> 00:02:55,981
+Yesterday's pop came largely from hedges being unwound, not from fresh conviction.
+
+36
+00:02:55,981 --> 00:02:59,743
+Beneath the surface, tech split cleanly in two.
+
+37
+00:02:59,743 --> 00:03:05,589
+The trigger was Texas, home to 27 percent of U.S. data center power capacity.
+
+38
+00:03:05,589 --> 00:03:11,949
+Its new Democratic governor campaigned on pausing new data center approvals and scrapping tax breaks.
+
+39
+00:03:11,949 --> 00:03:17,219
+Nearly two in three Americans oppose AI data centers in their own communities.
+
+40
+00:03:17,219 --> 00:03:23,003
+Anger over noise, water use, and power bills helped flip deep-red districts.
+
+41
+00:03:23,003 --> 00:03:28,800
+For the cloud giants, a slower buildout means lighter capex and better free cash flow.
+
+42
+00:03:28,800 --> 00:03:34,498
+Microsoft jumped 6.7 percent to a record high, breaking through a triple top.
+
+43
+00:03:34,498 --> 00:03:39,645
+It is the only major cloud giant still generating positive free cash flow.
+
+44
+00:03:39,645 --> 00:03:42,562
+Amazon gained over six percent.
+
+45
+00:03:42,562 --> 00:03:45,773
+Alphabet added 3.2 percent.
+
+46
+00:03:45,773 --> 00:03:50,883
+Apple surged on bets that slower data center growth will cap memory prices.
+
+47
+00:03:50,883 --> 00:03:54,902
+For chip suppliers, the same math runs in reverse.
+
+48
+00:03:54,902 --> 00:03:58,248
+Their revenue is the cloud giants' capex.
+
+49
+00:03:58,248 --> 00:04:04,964
+The Philadelphia Semiconductor Index fell 3.1 percent, to 10,268.
+
+50
+00:04:04,964 --> 00:04:10,331
+That puts 10,000 in focus, a level with several layers of technical support.
+
+51
+00:04:10,331 --> 00:04:15,981
+If it holds, this correction is likely over, though a V-shaped rebound is unlikely.
+
+52
+00:04:15,981 --> 00:04:20,589
+If it breaks, the semiconductor bull trend itself may be reversing.
+
+53
+00:04:20,589 --> 00:04:24,106
+Nvidia has now fallen five straight weeks.
+
+54
+00:04:24,106 --> 00:04:27,084
+Broadcom and Micron also slid.
+
+55
+00:04:27,084 --> 00:04:32,476
+Micron's support sits near 740 dollars, then 660.
+
+56
+00:04:32,476 --> 00:04:36,630
+Chip suppliers in Japan and Korea sold off in sympathy.
+
+57
+00:04:36,630 --> 00:04:39,890
+The neocloud group took the heaviest damage.
+
+58
+00:04:39,890 --> 00:04:42,917
+CoreWeave fell 9.9 percent.
+
+59
+00:04:42,917 --> 00:04:49,130
+Its 2031 unsecured bonds traded as low as 79.5 cents on the dollar.
+
+60
+00:04:49,130 --> 00:04:55,822
+Its 2030 and 2032 notes now yield above 15 percent, deep in distress territory.
+
+61
+00:04:55,822 --> 00:04:58,959
+Cipher Mining plunged 20 percent.
+
+62
+00:04:58,959 --> 00:05:01,802
+IREN dropped over 11 percent.
+
+63
+00:05:01,802 --> 00:05:05,086
+Nebius lost 6.7 percent.
+
+64
+00:05:05,192 --> 00:05:08,254
+The buildout supply chain cracked too.
+
+65
+00:05:08,204 --> 00:05:11,905
+Comfort Systems USA sank 15 percent.
+
+66
+00:05:11,905 --> 00:05:14,785
+Caterpillar fell over five percent.
+
+67
+00:05:14,785 --> 00:05:21,758
+Constellation Energy and Vistra, both heavy in Texas, slid on fears of tighter grid and pricing rules.
+
+68
+00:05:21,758 --> 00:05:27,763
+The medium-term nuclear case still holds, because both parties support a nuclear revival.
+
+69
+00:05:27,763 --> 00:05:32,849
+Lockheed Martin fell nearly seven percent on fears of defense budget cuts.
+
+70
+00:05:32,849 --> 00:05:40,312
+Tesla dropped 3.3 percent and SpaceX 3.9 percent, on political pressure, not fundamentals.
+
+71
+00:05:40,312 --> 00:05:42,947
+Qualcomm reported after the bell.
+
+72
+00:05:42,947 --> 00:05:47,542
+Revenue of 10.32 billion edged past estimates.
+
+73
+00:05:47,542 --> 00:05:53,229
+But handset revenue plunged 26 percent, to 5.1 billion dollars.
+
+74
+00:05:53,229 --> 00:05:55,753
+Shares sank after hours.
+
+75
+00:05:55,753 --> 00:05:59,295
+Money rotating out of chips and memory is healthy.
+
+76
+00:05:59,295 --> 00:06:03,388
+Compute and memory remain the long-term backbone of AI.
+
+77
+00:06:03,388 --> 00:06:06,170
+Here are today's actionable signals.
+
+78
+00:06:06,170 --> 00:06:08,952
+Nvidia is a buy on weakness.
+
+79
+00:06:08,952 --> 00:06:15,337
+The cloud giants now hold the pricing power, and working through excess GPU inventory gets harder.
+
+80
+00:06:15,337 --> 00:06:19,393
+But five weekly losses have flushed out much of the leverage.
+
+81
+00:06:19,393 --> 00:06:23,143
+Start buying below 199 dollars.
+
+82
+00:06:23,143 --> 00:06:27,616
+Add at 190, and again at 185.
+
+83
+00:06:27,616 --> 00:06:33,131
+The risk line is a decisive close below 10,000 on the semiconductor index.
+
+84
+00:06:33,131 --> 00:06:35,949
+If that breaks, step aside.
+
+85
+00:06:35,949 --> 00:06:38,425
+Broadcom is a buy at the gap.
+
+86
+00:06:38,425 --> 00:06:43,731
+Target entries near 315 dollars, the lower edge of the open gap.
+
+87
+00:06:43,731 --> 00:06:46,366
+The same risk line applies.
+
+88
+00:06:46,366 --> 00:06:49,087
+Semis must hold 10,000.
+
+89
+00:06:49,087 --> 00:06:51,819
+Amazon is a sell into strength.
+
+90
+00:06:51,819 --> 00:06:58,768
+The rally rests on a stretched chain: no war, no tariffs, cheaper goods, stronger e-commerce.
+
+91
+00:06:58,768 --> 00:07:03,829
+Meanwhile, free cash flow sits tens of billions of dollars in the red.
+
+92
+00:07:03,829 --> 00:07:07,273
+Take profits on yesterday's six percent pop.
+
+93
+00:07:07,273 --> 00:07:11,072
+Expect a pullback toward the six-month moving average.
+
+94
+00:07:11,072 --> 00:07:13,192
+Alphabet is a trim.
+
+95
+00:07:13,192 --> 00:07:19,981
+Shares rose 3.2 percent and reclaimed the five-day line, but stalled below 300 dollars.
+
+96
+00:07:19,981 --> 00:07:24,430
+Recent earnings showed AI is starting to hurt search advertising.
+
+97
+00:07:24,430 --> 00:07:27,224
+That weakens the long-term case.
+
+98
+00:07:27,224 --> 00:07:31,109
+Sell roughly two-thirds into strength below 300.
+
+99
+00:07:31,109 --> 00:07:36,746
+Keep a core position, since megacaps favored by Democrats may run a few more days.
+
+100
+00:07:36,746 --> 00:07:40,729
+On the calendar, IREN reports after today's close.
+
+101
+00:07:40,729 --> 00:07:43,180
+Treat that one as a coin flip.
+
+102
+00:07:43,180 --> 00:07:46,452
+CoreWeave reports November 10 after the bell.
+
+103
+00:07:46,452 --> 00:07:50,545
+Watch its debt, cash flow, and compute delivery.
+
+104
+00:07:50,545 --> 00:07:57,297
+Nebius follows, with a deeper accumulation zone at 120 to 135 dollars.
+
+105
+00:07:57,297 --> 00:08:04,013
+Beyond that, watch for an Anthropic IPO pulling cash out of big tech, and the December Fed decision.
+
+106
+00:08:04,013 --> 00:08:14,405
+Key levels are S&P 7,600 to 7,800, Nasdaq 100 at 28,900, and the semiconductor index at 10,000.
+
+107
+00:08:14,405 --> 00:08:18,413
+That concludes today's XiaoFang Finance Morning Brief.
+
+108
+00:08:18,413 --> 00:08:22,579
+Thank you for listening, trade safely, and see you tomorrow.

@@ -1,0 +1,98 @@
+Good morning, listeners. Today is November 05, 2026.
+
+Overnight, all three major U.S. indices closed higher after Democrats swept both chambers of Congress.
+The Dow led the charge, surging roughly three percent on a powerful rotation into cyclicals.
+The S&P 500 gapped higher, filled last Friday's gap, and reclaimed its six-month moving average.
+It now sits back inside its 7,600 to 7,800 trading range.
+The Nasdaq gained about one and a half percent, but faded more than 300 points off the high.
+The Nasdaq 100 tagged 28,900, former support now turned hard resistance, and sellers stepped in.
+Futures first plunged about 100 points on the results, then bottomed after midnight and reversed.
+The VIX collapsed from 23 to around 16 as institutions dumped their election hedges.
+
+The 10-year Treasury yield fell about seven basis points, to roughly 4.89 percent.
+A Democratic Congress blocks new fiscal expansion, easing the outlook for Treasury supply.
+The dollar posted its steepest one-day drop in a month. Spot gold reclaimed 4,000 dollars.
+West Texas crude crashed more than eight percent, breaking below 90 dollars a barrel.
+President Trump signaled large-scale strikes on Iran may no longer be needed, but kept military options open.
+Cheaper oil eases inflation, lifting industrials, financials, consumer names, and defensives.
+
+On the Fed, October ADP payrolls beat expectations with 86,000 new jobs.
+Strong hiring gives the Fed room to tighten, and some desks now flag a December hike.
+A Democratic Congress also shields Fed independence, limiting White House pressure for cuts.
+Markets are no longer pricing a one-way easing cycle.
+
+The bull camp is loud. Goldman Sachs and Deutsche Bank argue this rally has staying power.
+Gridlock means fewer policy shocks, and Trump-era corporate tax cuts likely survive.
+History also favors bulls. Stocks usually rise in the twelve months after a midterm.
+The skeptics push back hard. Barclays says the Nasdaq's near ten percent pullback was never about the election.
+The real problems are AI revenue delivery and expensive financing. Neither went away yesterday.
+Much of this year's gain is already priced in.
+And the debt ceiling looms, likely hitting in the second quarter of next year.
+Republicans have roughly eight weeks of unified control left to act. After that, brinkmanship returns.
+Yesterday's pop came largely from hedges being unwound, not from fresh conviction.
+
+Beneath the surface, tech split cleanly in two.
+The trigger was Texas, home to 27 percent of U.S. data center power capacity.
+Its new Democratic governor campaigned on pausing new data center approvals and scrapping tax breaks.
+Nearly two in three Americans oppose AI data centers in their own communities.
+Anger over noise, water use, and power bills helped flip deep-red districts.
+
+For the cloud giants, a slower buildout means lighter capex and better free cash flow.
+Microsoft jumped 6.7 percent to a record high, breaking through a triple top.
+It is the only major cloud giant still generating positive free cash flow.
+Amazon gained over six percent. Alphabet added 3.2 percent.
+Apple surged on bets that slower data center growth will cap memory prices.
+
+For chip suppliers, the same math runs in reverse. Their revenue is the cloud giants' capex.
+The Philadelphia Semiconductor Index fell 3.1 percent, to 10,268.
+That puts 10,000 in focus, a level with several layers of technical support.
+If it holds, this correction is likely over, though a V-shaped rebound is unlikely.
+If it breaks, the semiconductor bull trend itself may be reversing.
+Nvidia has now fallen five straight weeks. Broadcom and Micron also slid.
+Micron's support sits near 740 dollars, then 660.
+Chip suppliers in Japan and Korea sold off in sympathy.
+
+The neocloud group took the heaviest damage. CoreWeave fell 9.9 percent.
+Its 2031 unsecured bonds traded as low as 79.5 cents on the dollar.
+Its 2030 and 2032 notes now yield above 15 percent, deep in distress territory.
+Cipher Mining plunged 20 percent. IREN dropped over 11 percent. Nebius lost 6.7 percent.
+The buildout supply chain cracked too. Comfort Systems USA sank 15 percent. Caterpillar fell over five percent.
+Constellation Energy and Vistra, both heavy in Texas, slid on fears of tighter grid and pricing rules.
+The medium-term nuclear case still holds, because both parties support a nuclear revival.
+Lockheed Martin fell nearly seven percent on fears of defense budget cuts.
+Tesla dropped 3.3 percent and SpaceX 3.9 percent, on political pressure, not fundamentals.
+
+Qualcomm reported after the bell. Revenue of 10.32 billion edged past estimates.
+But handset revenue plunged 26 percent, to 5.1 billion dollars. Shares sank after hours.
+Money rotating out of chips and memory is healthy. Compute and memory remain the long-term backbone of AI.
+
+Here are today's actionable signals.
+
+Nvidia is a buy on weakness.
+The cloud giants now hold the pricing power, and working through excess GPU inventory gets harder.
+But five weekly losses have flushed out much of the leverage.
+Start buying below 199 dollars. Add at 190, and again at 185.
+The risk line is a decisive close below 10,000 on the semiconductor index. If that breaks, step aside.
+
+Broadcom is a buy at the gap.
+Target entries near 315 dollars, the lower edge of the open gap.
+The same risk line applies. Semis must hold 10,000.
+
+Amazon is a sell into strength.
+The rally rests on a stretched chain: no war, no tariffs, cheaper goods, stronger e-commerce.
+Meanwhile, free cash flow sits tens of billions of dollars in the red.
+Take profits on yesterday's six percent pop. Expect a pullback toward the six-month moving average.
+
+Alphabet is a trim.
+Shares rose 3.2 percent and reclaimed the five-day line, but stalled below 300 dollars.
+Recent earnings showed AI is starting to hurt search advertising. That weakens the long-term case.
+Sell roughly two-thirds into strength below 300.
+Keep a core position, since megacaps favored by Democrats may run a few more days.
+
+On the calendar, IREN reports after today's close. Treat that one as a coin flip.
+CoreWeave reports November 10 after the bell. Watch its debt, cash flow, and compute delivery.
+Nebius follows, with a deeper accumulation zone at 120 to 135 dollars.
+Beyond that, watch for an Anthropic IPO pulling cash out of big tech, and the December Fed decision.
+Key levels are S&P 7,600 to 7,800, Nasdaq 100 at 28,900, and the semiconductor index at 10,000.
+
+That concludes today's XiaoFang Finance Morning Brief. Thank you for listening, trade safely, and see you tomorrow.

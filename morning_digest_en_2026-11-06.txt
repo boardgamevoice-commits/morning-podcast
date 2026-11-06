@@ -1,0 +1,51 @@
+Good morning, listeners. Today is November 06, 2026. Overnight, Wall Street suffered a brutal, one-way selloff, and the Nasdaq 100 plunged 6.36 percent.
+
+The S&P 500 fell 4.36 percent, or 335 points, and closed at its lows. The Nasdaq Composite lost 5.52 percent and sliced through its 250-day moving average. It also broke its July 29 low, which confirms a large double top. The Dow opened higher, then collapsed 1,833 points, or 3.44 percent. The Philadelphia Semiconductor Index crashed 12.25 percent. That was its worst day since March 2020.
+
+Fear came back in force. The VIX spiked as much as 70 percent intraday and settled near 28. The CNN Fear and Greed Index dropped to 20, deep in extreme fear.
+
+In bonds, money fled into Treasuries. Prices rallied and yields moved lower. Oil and yields had already eased before the crash. This was not a rates shock. On the Fed, markets want to know if officials will soften their tone after this turmoil. Morgan Stanley warns that rates staying high will still cap growth stock valuations. The upcoming nonfarm payrolls report is the next big macro test.
+
+Overseas, Korea's KOSPI triggered another circuit breaker. Samsung Electronics and SK Hynix were hammered. Seoul and New York dragged each other lower in a feedback loop.
+
+The trigger was political. Democrats won both chambers of Congress in the midterms. Traders fear tighter data center permits, antitrust pressure, and curbs on frontier AI research. Goldman Sachs estimates that about 45 percent of planned US data center capacity faces scrutiny or bans. Senator Sanders' September proposal to ban superintelligence came back as a fear point.
+
+The bears see a structural repricing. Citi says to cut earnings estimates across AI hardware and avoid bottom fishing. Mike Wilson at Morgan Stanley expects more choppy downside before a cleaner entry window.
+
+The bulls push back hard. Under a divided government, sweeping federal data center limits are nearly impossible for two years. The White House can simply veto them. Goldman stresses that forward valuations sit far below the peaks of the 2000 bubble. In its view, this is valuation compression, not the start of a bear market.
+
+Positioning favors a rebound. CTA equity exposure sits at the 2nd percentile of its one-year range. Hedge fund net exposure is also low. That is fuel for short covering.
+
+But history says be patient. Across 48 prior Nasdaq drops of 5 percent or more, the median next-day gain was just 0.3 percent. Only 54 percent of those next days closed higher.
+
+The selling hit hardest where leverage was most crowded, in AI infrastructure. Margin calls and quant stop losses fed each other in a forced deleveraging spiral. The triple-leveraged chip fund, S O X L, lost 38.7 percent in one day.
+
+The chain reaction is simple. Slower permits mean later data centers. That means later hardware deliveries and later revenue. Chip stocks were priced for years of nonstop capex growth. Even one soft quarter breaks that story.
+
+Nvidia has now lost roughly 1 trillion dollars in market value from its peak. Even if hyperscalers absorb every GPU, their growing bargaining power threatens Nvidia's premium margins. Qualcomm's weak guidance the night before added fuel.
+
+Memory took a direct hit. Micron fell about 17 percent, slipping below 700 dollars. SanDisk plunged 22 percent and now sits 65 percent below its June peak. JPMorgan argues memory fundamentals are still tight. DRAM prices keep rising and HBM is even scarcer. The market, however, is already trading as if the cycle has peaked.
+
+The relative winners are the cloud giants. Microsoft, Alphabet, Amazon, and Meta fell far less than hardware names. Microsoft jumped 6.68 percent the day before, then dropped 3.58 percent. It is still up since the election. The logic is that slower new builds make existing compute more valuable. Hardware and financing costs should ease too.
+
+The real danger sits with debt-funded neoclouds. When projects slip, the interest, rent, and GPU depreciation keep coming. Microsoft is reportedly tightening oversight of neocloud projects, including Nebius, IREN, and Nscale.
+
+The chip index has broken below 10,000. Its next major support is near 8,300, its prior record high.
+
+Now to today's actionable trades. There are two buys and two sells.
+
+Buy number one is broad index exposure through S P Y and Q Q Q, not single chip stocks. Indexes usually recover faster than individual names, and year-end seasonality offers support. On the S&P 500, the first buy zone is 7,300 to 7,320. That is the floor of the prior range. The final line of defense is 7,224 to 7,245. That band covers the 250-day average and a major JPMorgan put strike. If the index flushes into that zone, holds, and reverses sharply, that would confirm a bottom. A decisive break below 7,224 cancels the setup. Cut exposure if it happens.
+
+For Q Q Q, 700 is the line between bulls and bears. Below 700, every bounce is only a relief rally. Take profits into strength at 680 and 700. In an extreme case, the Nasdaq 100 could revisit 26,000.
+
+Buy number two is A M D. The stock held firm after earnings, then got dragged into the selloff. Its 250-day moving average sits near 376 dollars. That is the key defense, and a rebound is expected there. Scale in near 376. A decisive close below 376 means the trend is broken. Exit if that happens. Take partial profits into the first sharp rebound.
+
+Sell number one is CoreWeave. It gapped down and kept falling. About 40 percent of its planned data centers are in states like Ohio and Texas. Permitting risk is rising fast in those states. Its interest costs are fixed while its revenue keeps getting pushed back. Use any relief bounce to cut or exit.
+
+Sell number two is Teradyne. It broke down on heavy volume and shattered its technical support. Even a short-term bounce is unlikely to restore the uptrend. Sell into rallies, and do not average down.
+
+On risk, avoid crowded leveraged trades like S O X L. Build positions in stages, because aftershocks are likely. Healthcare and renewables could benefit from Democratic policy priorities.
+
+There are four catalysts to watch: nonfarm payrolls, Fed speakers, the scope of state data center bills, and hyperscaler capex guidance.
+
+That concludes today's XiaoFang Finance Morning Brief. Thank you for listening, trade safely, and see you tomorrow.

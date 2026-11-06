@@ -1,0 +1,431 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,280
+Today is November 06, 2026.
+
+3
+00:00:07,280 --> 00:00:15,295
+Overnight, Wall Street suffered a brutal, one-way selloff, and the Nasdaq 100 plunged 6.36 percent.
+
+4
+00:00:15,295 --> 00:00:23,199
+The S&P 500 fell 4.36 percent, or 335 points, and closed at its lows.
+
+5
+00:00:23,199 --> 00:00:30,282
+The Nasdaq Composite lost 5.52 percent and sliced through its 250-day moving average.
+
+6
+00:00:30,282 --> 00:00:35,417
+It also broke its July 29 low, which confirms a large double top.
+
+7
+00:00:35,417 --> 00:00:42,709
+The Dow opened higher, then collapsed 1,833 points, or 3.44 percent.
+
+8
+00:00:42,709 --> 00:00:47,795
+The Philadelphia Semiconductor Index crashed 12.25 percent.
+
+9
+00:00:47,795 --> 00:00:51,152
+That was its worst day since March 2020.
+
+10
+00:00:51,152 --> 00:00:53,628
+Fear came back in force.
+
+11
+00:00:53,628 --> 00:00:58,444
+The VIX spiked as much as 70 percent intraday and settled near 28.
+
+12
+00:00:58,444 --> 00:01:03,567
+The CNN Fear and Greed Index dropped to 20, deep in extreme fear.
+
+13
+00:01:03,567 --> 00:01:06,888
+In bonds, money fled into Treasuries.
+
+14
+00:01:06,888 --> 00:01:09,902
+Prices rallied and yields moved lower.
+
+15
+00:01:09,902 --> 00:01:13,579
+Oil and yields had already eased before the crash.
+
+16
+00:01:13,579 --> 00:01:15,981
+This was not a rates shock.
+
+17
+00:01:15,981 --> 00:01:21,459
+On the Fed, markets want to know if officials will soften their tone after this turmoil.
+
+18
+00:01:21,459 --> 00:01:26,851
+Morgan Stanley warns that rates staying high will still cap growth stock valuations.
+
+19
+00:01:26,851 --> 00:01:31,532
+The upcoming nonfarm payrolls report is the next big macro test.
+
+20
+00:01:31,532 --> 00:01:35,724
+Overseas, Korea's KOSPI triggered another circuit breaker.
+
+21
+00:01:35,724 --> 00:01:39,645
+Samsung Electronics and SK Hynix were hammered.
+
+22
+00:01:39,645 --> 00:01:43,775
+Seoul and New York dragged each other lower in a feedback loop.
+
+23
+00:01:43,775 --> 00:01:46,018
+The trigger was political.
+
+24
+00:01:46,018 --> 00:01:49,951
+Democrats won both chambers of Congress in the midterms.
+
+25
+00:01:49,951 --> 00:01:56,655
+Traders fear tighter data center permits, antitrust pressure, and curbs on frontier AI research.
+
+26
+00:01:56,655 --> 00:02:03,983
+Goldman Sachs estimates that about 45 percent of planned US data center capacity faces scrutiny or bans.
+
+27
+00:02:03,983 --> 00:02:09,682
+Senator Sanders' September proposal to ban superintelligence came back as a fear point.
+
+28
+00:02:09,682 --> 00:02:12,599
+The bears see a structural repricing.
+
+29
+00:02:12,599 --> 00:02:18,150
+Citi says to cut earnings estimates across AI hardware and avoid bottom fishing.
+
+30
+00:02:18,150 --> 00:02:23,996
+Mike Wilson at Morgan Stanley expects more choppy downside before a cleaner entry window.
+
+31
+00:02:23,996 --> 00:02:26,373
+The bulls push back hard.
+
+32
+00:02:26,373 --> 00:02:32,513
+Under a divided government, sweeping federal data center limits are nearly impossible for two years.
+
+33
+00:02:32,513 --> 00:02:35,233
+The White House can simply veto them.
+
+34
+00:02:35,233 --> 00:02:40,785
+Goldman stresses that forward valuations sit far below the peaks of the 2000 bubble.
+
+35
+00:02:40,785 --> 00:02:45,809
+In its view, this is valuation compression, not the start of a bear market.
+
+36
+00:02:45,809 --> 00:02:48,456
+Positioning favors a rebound.
+
+37
+00:02:48,456 --> 00:02:53,652
+CTA equity exposure sits at the 2nd percentile of its one-year range.
+
+38
+00:02:53,652 --> 00:02:56,692
+Hedge fund net exposure is also low.
+
+39
+00:02:56,692 --> 00:02:59,326
+That is fuel for short covering.
+
+40
+00:02:59,326 --> 00:03:01,851
+But history says be patient.
+
+41
+00:03:01,851 --> 00:03:09,731
+Across 48 prior Nasdaq drops of 5 percent or more, the median next-day gain was just 0.3 percent.
+
+42
+00:03:09,731 --> 00:03:13,738
+Only 54 percent of those next days closed higher.
+
+43
+00:03:13,738 --> 00:03:18,934
+The selling hit hardest where leverage was most crowded, in AI infrastructure.
+
+44
+00:03:18,934 --> 00:03:24,290
+Margin calls and quant stop losses fed each other in a forced deleveraging spiral.
+
+45
+00:03:24,290 --> 00:03:30,932
+The triple-leveraged chip fund, S O X L, lost 38.7 percent in one day.
+
+46
+00:03:30,932 --> 00:03:33,444
+The chain reaction is simple.
+
+47
+00:03:33,444 --> 00:03:36,643
+Slower permits mean later data centers.
+
+48
+00:03:36,643 --> 00:03:40,368
+That means later hardware deliveries and later revenue.
+
+49
+00:03:40,368 --> 00:03:44,682
+Chip stocks were priced for years of nonstop capex growth.
+
+50
+00:03:44,682 --> 00:03:47,758
+Even one soft quarter breaks that story.
+
+51
+00:03:47,758 --> 00:03:52,966
+Nvidia has now lost roughly 1 trillion dollars in market value from its peak.
+
+52
+00:03:52,966 --> 00:04:00,074
+Even if hyperscalers absorb every GPU, their growing bargaining power threatens Nvidia's premium margins.
+
+53
+00:04:00,074 --> 00:04:03,787
+Qualcomm's weak guidance the night before added fuel.
+
+54
+00:04:03,787 --> 00:04:06,079
+Memory took a direct hit.
+
+55
+00:04:06,079 --> 00:04:11,373
+Micron fell about 17 percent, slipping below 700 dollars.
+
+56
+00:04:11,373 --> 00:04:17,415
+SanDisk plunged 22 percent and now sits 65 percent below its June peak.
+
+57
+00:04:17,415 --> 00:04:21,349
+JPMorgan argues memory fundamentals are still tight.
+
+58
+00:04:21,349 --> 00:04:25,576
+DRAM prices keep rising and HBM is even scarcer.
+
+59
+00:04:25,576 --> 00:04:30,282
+The market, however, is already trading as if the cycle has peaked.
+
+60
+00:04:30,282 --> 00:04:33,371
+The relative winners are the cloud giants.
+
+61
+00:04:33,371 --> 00:04:39,192
+Microsoft, Alphabet, Amazon, and Meta fell far less than hardware names.
+
+62
+00:04:39,192 --> 00:04:45,760
+Microsoft jumped 6.68 percent the day before, then dropped 3.58 percent.
+
+63
+00:04:45,760 --> 00:04:48,260
+It is still up since the election.
+
+64
+00:04:48,260 --> 00:04:53,052
+The logic is that slower new builds make existing compute more valuable.
+
+65
+00:04:53,052 --> 00:04:56,581
+Hardware and financing costs should ease too.
+
+66
+00:04:56,672 --> 00:05:00,310
+The real danger sits with debt-funded neoclouds.
+
+67
+00:05:00,260 --> 00:05:06,179
+When projects slip, the interest, rent, and GPU depreciation keep coming.
+
+68
+00:05:06,179 --> 00:05:13,924
+Microsoft is reportedly tightening oversight of neocloud projects, including Nebius, IREN, and Nscale.
+
+69
+00:05:13,924 --> 00:05:17,491
+The chip index has broken below 10,000.
+
+70
+00:05:17,491 --> 00:05:22,736
+Its next major support is near 8,300, its prior record high.
+
+71
+00:05:22,736 --> 00:05:25,652
+Now to today's actionable trades.
+
+72
+00:05:25,652 --> 00:05:28,410
+There are two buys and two sells.
+
+73
+00:05:28,410 --> 00:05:35,469
+Buy number one is broad index exposure through S P Y and Q Q Q, not single chip stocks.
+
+74
+00:05:35,469 --> 00:05:41,951
+Indexes usually recover faster than individual names, and year-end seasonality offers support.
+
+75
+00:05:41,951 --> 00:05:48,863
+On the S&P 500, the first buy zone is 7,300 to 7,320.
+
+76
+00:05:48,863 --> 00:05:51,706
+That is the floor of the prior range.
+
+77
+00:05:51,706 --> 00:05:58,116
+The final line of defense is 7,224 to 7,245.
+
+78
+00:05:58,116 --> 00:06:03,618
+That band covers the 250-day average and a major JPMorgan put strike.
+
+79
+00:06:03,618 --> 00:06:09,991
+If the index flushes into that zone, holds, and reverses sharply, that would confirm a bottom.
+
+80
+00:06:09,991 --> 00:06:15,211
+A decisive break below 7,224 cancels the setup.
+
+81
+00:06:15,211 --> 00:06:17,711
+Cut exposure if it happens.
+
+82
+00:06:17,711 --> 00:06:22,797
+For Q Q Q, 700 is the line between bulls and bears.
+
+83
+00:06:22,797 --> 00:06:27,025
+Below 700, every bounce is only a relief rally.
+
+84
+00:06:27,025 --> 00:06:31,253
+Take profits into strength at 680 and 700.
+
+85
+00:06:31,253 --> 00:06:36,486
+In an extreme case, the Nasdaq 100 could revisit 26,000.
+
+86
+00:06:36,486 --> 00:06:39,231
+Buy number two is A M D.
+
+87
+00:06:39,231 --> 00:06:43,986
+The stock held firm after earnings, then got dragged into the selloff.
+
+88
+00:06:43,986 --> 00:06:49,329
+Its 250-day moving average sits near 376 dollars.
+
+89
+00:06:49,329 --> 00:06:53,348
+That is the key defense, and a rebound is expected there.
+
+90
+00:06:53,348 --> 00:06:56,572
+Scale in near 376.
+
+91
+00:06:56,572 --> 00:07:01,621
+A decisive close below 376 means the trend is broken.
+
+92
+00:07:01,621 --> 00:07:03,790
+Exit if that happens.
+
+93
+00:07:03,790 --> 00:07:07,429
+Take partial profits into the first sharp rebound.
+
+94
+00:07:07,429 --> 00:07:09,966
+Sell number one is CoreWeave.
+
+95
+00:07:09,966 --> 00:07:12,613
+It gapped down and kept falling.
+
+96
+00:07:12,613 --> 00:07:17,956
+About 40 percent of its planned data centers are in states like Ohio and Texas.
+
+97
+00:07:17,956 --> 00:07:21,412
+Permitting risk is rising fast in those states.
+
+98
+00:07:21,412 --> 00:07:26,081
+Its interest costs are fixed while its revenue keeps getting pushed back.
+
+99
+00:07:26,081 --> 00:07:29,268
+Use any relief bounce to cut or exit.
+
+100
+00:07:29,268 --> 00:07:31,964
+Sell number two is Teradyne.
+
+101
+00:07:31,964 --> 00:07:36,130
+It broke down on heavy volume and shattered its technical support.
+
+102
+00:07:36,130 --> 00:07:40,174
+Even a short-term bounce is unlikely to restore the uptrend.
+
+103
+00:07:40,174 --> 00:07:43,692
+Sell into rallies, and do not average down.
+
+104
+00:07:43,692 --> 00:07:51,682
+On risk, avoid crowded leveraged trades like S O X L. Build positions in stages, because aftershocks are likely.
+
+105
+00:07:51,682 --> 00:07:56,584
+Healthcare and renewables could benefit from Democratic policy priorities.
+
+106
+00:07:56,584 --> 00:08:06,167
+There are four catalysts to watch: nonfarm payrolls, Fed speakers, the scope of state data center bills, and hyperscaler capex guidance.
+
+107
+00:08:06,167 --> 00:08:10,174
+That concludes today's XiaoFang Finance Morning Brief.
+
+108
+00:08:10,174 --> 00:08:14,341
+Thank you for listening, trade safely, and see you tomorrow.

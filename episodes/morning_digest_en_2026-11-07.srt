@@ -1,0 +1,215 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,268
+Today is November 07, 2026.
+
+3
+00:00:07,268 --> 00:00:14,302
+Overnight, Wall Street staged a tentative rebound after a brutal week driven by hawkish rates and midterm shocks.
+
+4
+00:00:14,302 --> 00:00:24,768
+October nonfarm payrolls surged by 165,000 jobs, crushing the 65,000 consensus while prior months were revised up by 84,000.
+
+5
+00:00:24,768 --> 00:00:32,721
+Unemployment unexpectedly dipped to 4.1 percent, and average hourly earnings rose 3.1 percent year over year.
+
+6
+00:00:32,721 --> 00:00:40,356
+Two-year Treasury yields climbed to 4.54 percent, and ten-year yields reached 4.87 percent.
+
+7
+00:00:40,356 --> 00:00:46,238
+Rate futures now price a 70 percent probability of a December Federal Reserve rate hike.
+
+8
+00:00:46,238 --> 00:00:53,089
+San Francisco Fed President Mary Daly warned that sticky inflation may require even further rate increases.
+
+9
+00:00:53,089 --> 00:01:00,981
+Meanwhile, the new Fed chair scrapped forward guidance, shifting policy to pure data dependence on inflation and employment.
+
+10
+00:01:00,981 --> 00:01:07,341
+Combined with a Democratic midterm blue wave in Congress, both the Fed put and White House put vanished.
+
+11
+00:01:07,341 --> 00:01:15,625
+On Friday, the S and P 500 edged up 0.31 percent, ending the week down 2.68 percent.
+
+12
+00:01:15,625 --> 00:01:23,983
+The Nasdaq gained just 0.09 percent Friday, tumbling 4.9 percent this week for a fourth straight weekly loss.
+
+13
+00:01:23,983 --> 00:01:32,427
+The volatility index stays elevated above 25, after Thursday saw a record 1.5 billion dollars in put premium.
+
+14
+00:01:32,427 --> 00:01:42,182
+Retail investors dumped 257 million dollars on Thursday, while volatility-control funds slashed equity exposure by 30 percentage points.
+
+15
+00:01:42,182 --> 00:01:51,679
+Technical support for the S and P 500 sits at 7,240 to 7,250, matching the JPMorgan collar put strike.
+
+16
+00:01:51,679 --> 00:01:59,535
+Until the Nasdaq reclaims its 200-day moving average, only long-term accumulation in broad index funds makes sense.
+
+17
+00:01:59,535 --> 00:02:06,471
+Still, eight trillion dollars in sideline cash and active corporate buybacks should cushion near-term downside.
+
+18
+00:02:06,471 --> 00:02:13,665
+This macro deleveraging collided directly with regulatory fears over artificial intelligence data center expansion.
+
+19
+00:02:13,665 --> 00:02:21,790
+Incoming Democratic governors in Texas, Ohio, and Georgia proposed new taxes and pauses on power-hungry data centers.
+
+20
+00:02:21,790 --> 00:02:30,197
+However, the Texas governor-elect confirmed that permitted projects covering 2027 and most of 2028 will finish construction.
+
+21
+00:02:30,197 --> 00:02:37,500
+President Trump and White House economic director Hassett also pledged full federal support for superintelligence infrastructure.
+
+22
+00:02:37,500 --> 00:02:46,177
+SemiAnalysis reports that 75 percent of 2027 data center projects across 20 key states are already under construction.
+
+23
+00:02:46,177 --> 00:02:54,535
+JPMorgan notes 2027 power is secure, though 38 gigawatts of 2028 capacity face potential delays.
+
+24
+00:02:54,535 --> 00:03:01,777
+Wells Fargo estimates that even halting half of Texas projects would trim national AI capex by just eight percent.
+
+25
+00:03:01,777 --> 00:03:09,510
+Tech giants are already adapting, led by Google investing 17 billion dollars into clean-energy data centers in Wyoming.
+
+26
+00:03:09,510 --> 00:03:18,738
+The Philadelphia Semiconductor Index rebounded 4.2 percent Friday, with forward valuation compressed to just 12.7 times earnings.
+
+27
+00:03:18,738 --> 00:03:27,170
+Cathie Wood bought the dip in Nvidia, A-M-D, and Google, while trimming Broadcom, Taiwan Semiconductor, and CoreWeave.
+
+28
+00:03:27,170 --> 00:03:35,258
+Meanwhile, Anthropic begins its IPO roadshow next week after slashing its target valuation in half to one trillion dollars.
+
+29
+00:03:35,258 --> 00:03:42,255
+That massive offering will fund upstream cloud and chip orders, but it will also drain secondary market liquidity.
+
+30
+00:03:42,255 --> 00:03:50,503
+Consequently, institutional capital is rotating out of heavy capex builders into defensive hardware and high-margin AI software.
+
+31
+00:03:50,503 --> 00:03:58,983
+Apple briefly topped 5.1 trillion dollars in market value on lower memory chip cost expectations and on-device AI safety.
+
+32
+00:03:58,983 --> 00:04:06,165
+Yet rising cloud token costs for Siri upgrades still pose a medium-term headwind to Apple hardware margins.
+
+33
+00:04:06,296 --> 00:04:12,728
+In individual equities, high-margin AI advertising software leads our actionable buy list today.
+
+34
+00:04:12,678 --> 00:04:19,884
+AppLovin surged 30 percent Thursday and 10 percent Friday as third-quarter net income jumped 72 percent.
+
+35
+00:04:19,884 --> 00:04:28,671
+Revenue climbed 55 percent year over year, and management expanded its share buyback authorization to 3.6 billion dollars.
+
+36
+00:04:28,671 --> 00:04:36,514
+Unity also soared 40 percent this week, posting its first-ever quarterly net profit of 122 million dollars.
+
+37
+00:04:36,514 --> 00:04:45,313
+Unity AI ad revenue surged 126 percent year over year, confirming rapid monetization across software applications.
+
+38
+00:04:45,313 --> 00:04:52,825
+Traders should buy AppLovin on a confirmed breakout above its 200-day moving average, using that level as a stop-loss.
+
+39
+00:04:52,825 --> 00:05:01,122
+Cloudflare offers a second actionable buy setup after third-quarter revenue grew 39 percent, its fastest pace in four years.
+
+40
+00:05:01,122 --> 00:05:08,377
+Management raised full-year profit guidance for the third time as AI workloads drive enterprise cybersecurity demand.
+
+41
+00:05:08,377 --> 00:05:15,987
+Buy Cloudflare on pullbacks holding the five-day moving average, targeting the 120-day line with a stop just below.
+
+42
+00:05:15,987 --> 00:05:23,352
+Oracle also staged a sharp intraday reversal after rumors of Microsoft canceling cloud leases proved overblown.
+
+43
+00:05:23,352 --> 00:05:32,507
+Microsoft only retired 30,000 aging A-one-hundred chips, leaving Oracle and its 500,000 modern AI chips fundamentally intact.
+
+44
+00:05:32,507 --> 00:05:41,392
+In consumer tech, Airbnb jumped nearly 12 percent after third-quarter revenue rose 19 percent to 4.87 billion dollars.
+
+45
+00:05:41,392 --> 00:05:49,713
+Management raised fourth-quarter revenue guidance to 3.28 billion dollars and announced a massive 12 billion dollar stock buyback.
+
+46
+00:05:49,713 --> 00:05:57,666
+Traders can buy Airbnb on a breakout above its August swing high, while monitoring long-term AI agent disruption risks.
+
+47
+00:05:57,666 --> 00:06:05,178
+On the sell side, investors should trim or avoid Tesla following a decisive technical breakdown and political blowback.
+
+48
+00:06:05,178 --> 00:06:12,825
+Despite a four percent Friday bounce, Thursday's plunge broke below Tesla's primary uptrend line established in August.
+
+49
+00:06:12,825 --> 00:06:21,220
+Elon Musk spent 474 million dollars backing Republicans, making his companies prime targets for the new Democratic Congress.
+
+50
+00:06:21,220 --> 00:06:30,166
+Senator Elizabeth Warren and House committees plan investigations into SpaceX federal contracts, Starlink, and Texas Terafab subsidies.
+
+51
+00:06:30,166 --> 00:06:39,124
+While SpaceX rebounded eight percent to its 135 dollar IPO price, regulatory headwinds will cap Tesla's valuation multiple.
+
+52
+00:06:39,124 --> 00:06:46,441
+Take profits on Tesla rallies below the broken August trendline, and avoid chasing rate-sensitive lenders like Affirm.
+
+53
+00:06:46,441 --> 00:06:50,448
+That concludes today's XiaoFang Finance Morning Brief.
+
+54
+00:06:50,448 --> 00:06:54,615
+Thank you for listening, trade safely, and see you tomorrow.

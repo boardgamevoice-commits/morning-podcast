@@ -562,5 +562,17 @@
     "episode_num": 47,
     "vtt_url": "episodes/morning_digest_2026-11-07.vtt",
     "srt_url": "episodes/morning_digest_2026-11-07.srt"
+  },
+  {
+    "guid": "digest-2026-11-09",
+    "title": "【小方财经】2026-11-09 · 晨间内参：全球宏观与美股多空深度博弈",
+    "description": "📌 【今日一分钟核心看点】\n• 宏观水温：恐慌贪婪指数回升至31.4（VIX骤降20.5%），纳指涨超2%、费半强弹3.4%，油价暴跌4.16%缓解通胀焦虑；但10年期美债收益率高悬4.872%，12月加息25bp概率逼近80%。\n• 避险共振：期金走高至4122.6美元，GLD与TLT上行、美元DXY回落至101.75，资金呈“黄金对冲地缘政治风险+超跌科技战术修复”的区间胶着。\n• 多空分歧：多头依据PMI与信贷扩张定性回调为恐慌出清；空头紧盯纳指100指数26630点生死线及4.1万亿美元AI表外债务的信用重估风险。\n\n🤖 【AI 前沿与开源精选】\n• Claude 5.2 与 anthropics/skills：Anthropic在IPO前夕发布Fable/Mythos 5.2双模型并开源官方Agent技能库，解决大模型工具调用碎片化痛点。\n• Muse Ember 与 meta/astryx：Meta推出最小高能效模型Ember与Agent原生UI系统astryx，攻克端侧低功耗推理与动态前端界面生成瓶颈。\n\n💼 【聚焦标的与量化买卖点】\n• META：绝佳双重共振买点，当前价 $644.56，第一建仓位 $631.09，加仓位 $594.13，防守止损 $571.95（GOOG $287.72、NVDA $176.66、INTC $58.99 同步触发极限超跌反弹买点）。\n• 防守预警：Unity (U) 极度超买预警（RSI达79.9），立即逢高分批止盈20%~30%并上移保护线至 $49.83（SERV $3.36、IONQ $34.46 同步止盈设防）。\n\n📅 【今日重磅催化剂】\n• 今日聚焦美财政部3年期国债拍卖及黄仁勋缺席论坛与国会传唤舆情；本周迎10月CPI环比大考（预期+0.3%）、10/30年期美债拍卖及CoreWeave、思科、应用材料财报。",
+    "audio_url": "episodes/morning_digest_2026-11-09.mp3",
+    "audio_size": 7341024,
+    "duration": 438.004014,
+    "pub_date": "2026-11-09T14:49:46.423981-05:00",
+    "episode_num": 48,
+    "vtt_url": "episodes/morning_digest_2026-11-09.vtt",
+    "srt_url": "episodes/morning_digest_2026-11-09.srt"
   }
 ]

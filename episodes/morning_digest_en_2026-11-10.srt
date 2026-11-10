@@ -1,0 +1,207 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,194
+Today is November 10, 2026.
+
+3
+00:00:07,194 --> 00:00:13,211
+Overnight, Wall Street staged a powerful broad based rally driven by massive short covering.
+
+4
+00:00:13,211 --> 00:00:20,760
+The Nasdaq surged 2.74 percent, while the S and P 500 climbed 2.35 percent.
+
+5
+00:00:20,760 --> 00:00:26,643
+The Dow Jones Industrial Average also advanced 2.15 percent across the board.
+
+6
+00:00:26,643 --> 00:00:32,844
+Diplomatic talks between Washington and Tehran mediated by Qatar sparked the initial relief rally.
+
+7
+00:00:32,844 --> 00:00:40,307
+Rumored framework terms include a 3.67 percent uranium enrichment cap and reopening the Strait of Hormuz.
+
+8
+00:00:40,307 --> 00:00:46,557
+Washington would also unfreeze between 6 billion and 9 billion dollars in Iranian assets.
+
+9
+00:00:46,557 --> 00:00:52,611
+Crude oil plunged on the news, pulling ten year and thirty year Treasury yields sharply lower.
+
+10
+00:00:52,611 --> 00:01:00,000
+The volatility index tumbled, reversing forced selling from volatility control funds and lifting equity futures.
+
+11
+00:01:00,000 --> 00:01:06,349
+However, market veterans warn that Middle East headlines often serve as institutional smoke screens.
+
+12
+00:01:06,349 --> 00:01:12,488
+This single day rebound requires three to five trading days of follow through to confirm a reversal.
+
+13
+00:01:12,488 --> 00:01:19,032
+Today's October consumer price index report will dictate the Federal Reserve rate path and market direction.
+
+14
+00:01:19,032 --> 00:01:26,263
+Technically, the Nasdaq 100 reclaimed its 50 week moving average, signaling a potential bottoming reversal.
+
+15
+00:01:26,263 --> 00:01:32,402
+Bulls need a Friday close above both the 5 week and 50 week averages to confirm upside.
+
+16
+00:01:32,402 --> 00:01:39,584
+Until the Nasdaq 100 reclaims 29000, a secondary retest of recent lows remains possible.
+
+17
+00:01:39,584 --> 00:01:46,557
+Triple Q closed below 680 dollars and faces heavy overhead resistance at 700 dollars.
+
+18
+00:01:46,557 --> 00:01:53,505
+The S and P 500 must break through major resistance at 7600 to reclaim its upper range.
+
+19
+00:01:53,505 --> 00:02:01,177
+Meanwhile, the Philadelphia Semiconductor Index filled its November 5 gap, facing key resistance near 1900.
+
+20
+00:02:01,177 --> 00:02:07,782
+Falling yields and deep valuation resets are reshaping technology and semiconductor capital flows.
+
+21
+00:02:07,782 --> 00:02:14,302
+The S and P 500 tech sector forward price to earnings ratio has fallen to 17 times.
+
+22
+00:02:14,302 --> 00:02:20,564
+Tech now trades below the broader market's 18 multiple for the first time since 2017.
+
+23
+00:02:20,564 --> 00:02:26,300
+That marks a dramatic compression from the 32 multiple reached in October 2025.
+
+24
+00:02:26,300 --> 00:02:33,309
+Goldman Sachs compares this correction to the 1998 liquidity crisis rather than the 2000 dot com bust.
+
+25
+00:02:33,309 --> 00:02:40,037
+Forced deleveraging drove the recent pullback, while underlying artificial intelligence demand remains intact.
+
+26
+00:02:40,037 --> 00:02:46,765
+Still, private market valuations are undergoing a reality check as investors demand real cash flow.
+
+27
+00:02:46,765 --> 00:02:53,959
+Anthropic slashed its valuation target by 40 percent to 1.2 trillion dollars ahead of next week's IPO.
+
+28
+00:02:53,959 --> 00:03:01,716
+OpenAI similarly trimmed its valuation target from 1.5 trillion down to 1.25 trillion dollars.
+
+29
+00:03:01,716 --> 00:03:09,192
+As long as Microsoft and Google maintain strong cloud capital expenditures, hardware supply chains remain safe.
+
+30
+00:03:09,192 --> 00:03:16,557
+Within semiconductors, sudden governance turmoil at Nvidia triggered violent capital rotation across chipmakers.
+
+31
+00:03:16,557 --> 00:03:23,444
+Nvidia fell against the rally amid probe rumors linking CEO Jensen Huang's contact to chip smuggling.
+
+32
+00:03:23,444 --> 00:03:30,969
+Investigators suspect a Singapore front company scheme to divert graphics cards rather than core technology espionage.
+
+33
+00:03:30,969 --> 00:03:38,996
+With Nvidia facing November 17 earnings and a November 18 congressional hearing, institutions rotated into rivals.
+
+34
+00:03:38,996 --> 00:03:45,809
+Meanwhile, Google lagged with a 1.18 percent gain as its new tensor chips failed to impress.
+
+35
+00:03:45,944 --> 00:03:52,168
+Among actionable equities, A M D stands out as the premier semiconductor safe haven buy.
+
+36
+00:03:52,118 --> 00:04:00,035
+Shares surged 13.26 percent as institutional capital fled Nvidia governance risk for Lisa Su's leadership.
+
+37
+00:04:00,035 --> 00:04:06,812
+Backed by strong recent earnings and Wall Street upgrades, A M D offers an actionable buy on dips.
+
+38
+00:04:06,812 --> 00:04:14,128
+Broadcom also captured spillover inflows, though A M D carries cleaner management certainty into mid November.
+
+39
+00:04:14,128 --> 00:04:21,493
+Optical communications leader Coherent, ticker C O H R, also triggers an actionable rebound buy signal.
+
+40
+00:04:21,493 --> 00:04:27,339
+Following the Lumentum and Marvell merger, Coherent is taking over as the optical sector leader.
+
+41
+00:04:27,339 --> 00:04:36,260
+A 62 percent drawdown purged valuation froth, setting a profit taking target between 250 and 260 dollars.
+
+42
+00:04:36,260 --> 00:04:43,466
+Nuclear power leader Constellation Energy, ticker C E G, flashes a strong fundamental buy signal.
+
+43
+00:04:43,466 --> 00:04:52,645
+Third quarter revenue jumped 45 percent to 9.55 billion dollars, while net income doubled to 1.84 billion dollars.
+
+44
+00:04:52,645 --> 00:05:00,071
+Driven by favorable power pricing and the Calpine acquisition, management raised 2026 guidance a second time.
+
+45
+00:05:00,071 --> 00:05:06,652
+Traders can buy breakouts above the one year moving average, targeting the 250 day moving average.
+
+46
+00:05:06,652 --> 00:05:13,233
+Berkshire Hathaway, ticker B R K, offers an actionable value accumulation buy on pullbacks.
+
+47
+00:05:13,233 --> 00:05:20,022
+Nine month operating earnings grew 8 percent as rail and manufacturing offset softer insurance underwriting.
+
+48
+00:05:20,022 --> 00:05:28,098
+Record cash of 377 billion dollars and 9.6 billion dollars in buybacks signal deep intrinsic value.
+
+49
+00:05:28,098 --> 00:05:35,108
+With Wall Street stabilizing sentiment ahead of Anthropic's IPO next week, traders should scale in on dips.
+
+50
+00:05:35,108 --> 00:05:40,635
+Keep position sizes disciplined and use Monday's lows as strict stop loss levels.
+
+51
+00:05:40,635 --> 00:05:44,643
+That concludes today's XiaoFang Finance Morning Brief.
+
+52
+00:05:44,643 --> 00:05:48,809
+Thank you for listening, trade safely, and see you tomorrow.

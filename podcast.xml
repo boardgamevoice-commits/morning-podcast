@@ -1,5 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨 5 分钟，全球资产与财经核心要闻</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Tue, 10 Nov 2026 05:13:39 -0500</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-10 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-11-10 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨 5 分钟，全球资产与财经核心要闻</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Wed, 11 Nov 2026 05:12:21 -0500</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-11 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-11-11 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+• 宏观水温：恐慌贪婪指数报33.9（恐慌），10月CPI超预期推升12月加息概率至100%，隔夜标普跌0.38%、纳指跌0.74%守稳年线，盘前AI回暖带动纳指期指涨1.6%。
+• 避险共振：区间胶着，高实际利率压制下近5日黄金（GLD -0.84%）与长债（TLT -1.08%）双双承压，资金向美元（UUP +0.87%）单向回流。
+• 多空分歧：大摩看好标普7100-7300点筑底支撑，高盛则警告450亿美元潜在卖压与标普7000-7550点负伽马区间量化平仓踩踏隐患。
+
+🤖 【AI 前沿与开源精选】
+• Anthropic IPO与Rubin光互联突破：Anthropic冲刺1.4万亿估值IPO并推Claude办公套件突袭微软；英伟达Rubin Ultra带动单Pod光学价值翻5倍至540万美元。
+• meta/astryx &amp; anthropics/skills：Meta开源Agent原生UI系统解决动态界面生成痛点；Anthropic公开官方Skills标准库赋能复杂任务SOP对齐。
+
+💼 【聚焦标的与量化买卖点】
+• META：绝佳双重共振买点，当前价 $641.39，第一建仓位 $630.93，加仓位 $595.09，防守止损 $573.58（另GOOG首仓$273.59、NVDA首仓$161.29、INTC首仓$55.51均触发极限超跌买点）。
+• 防守预警：RKLB、U、MCD 触发严重超买逢高止盈预警，建议分批锁利20%-30%，移动止盈线分别上移至 $59.89、$48.07、$279.40。
+
+📅 【今日重磅催化剂】
+• 美国退伍军人节债市休市（美股正常交易），聚焦盘前大涨17%的CoreWeave及光通信/存储板块资金承接力；跟踪中国央行Q3货政报告；前瞻下周NVDA财报（11/17）与Anthropic上市（11/19）。</description><itunes:summary>📌 【今日一分钟核心看点】
+• 宏观水温：恐慌贪婪指数报33.9（恐慌），10月CPI超预期推升12月加息概率至100%，隔夜标普跌0.38%、纳指跌0.74%守稳年线，盘前AI回暖带动纳指期指涨1.6%。
+• 避险共振：区间胶着，高实际利率压制下近5日黄金（GLD -0.84%）与长债（TLT -1.08%）双双承压，资金向美元（UUP +0.87%）单向回流。
+• 多空分歧：大摩看好标普7100-7300点筑底支撑，高盛则警告450亿美元潜在卖压与标普7000-7550点负伽马区间量化平仓踩踏隐患。
+
+🤖 【AI 前沿与开源精选】
+• Anthropic IPO与Rubin光互联突破：Anthropic冲刺1.4万亿估值IPO并推Claude办公套件突袭微软；英伟达Rubin Ultra带动单Pod光学价值翻5倍至540万美元。
+• meta/astryx &amp; anthropics/skills：Meta开源Agent原生UI系统解决动态界面生成痛点；Anthropic公开官方Skills标准库赋能复杂任务SOP对齐。
+
+💼 【聚焦标的与量化买卖点】
+• META：绝佳双重共振买点，当前价 $641.39，第一建仓位 $630.93，加仓位 $595.09，防守止损 $573.58（另GOOG首仓$273.59、NVDA首仓$161.29、INTC首仓$55.51均触发极限超跌买点）。
+• 防守预警：RKLB、U、MCD 触发严重超买逢高止盈预警，建议分批锁利20%-30%，移动止盈线分别上移至 $59.89、$48.07、$279.40。
+
+📅 【今日重磅催化剂】
+• 美国退伍军人节债市休市（美股正常交易），聚焦盘前大涨17%的CoreWeave及光通信/存储板块资金承接力；跟踪中国央行Q3货政报告；前瞻下周NVDA财报（11/17）与Anthropic上市（11/19）。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
+• 宏观水温：恐慌贪婪指数报33.9（恐慌），10月CPI超预期推升12月加息概率至100%，隔夜标普跌0.38%、纳指跌0.74%守稳年线，盘前AI回暖带动纳指期指涨1.6%。
+• 避险共振：区间胶着，高实际利</itunes:subtitle><pubDate>Wed, 11 Nov 2026 05:12:21 -0500</pubDate><guid isPermaLink="false">digest-2026-11-11</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-11.mp3" length="12089876" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>12:15</itunes:duration><itunes:episode>50</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-11.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-11.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-11-10 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-11-10 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
 • 宏观水温：恐慌指数报33.2仍处恐慌区间；美伊缓和压低油价超3%，隔夜纳指大涨2.74%、标普涨2.35%，但联储沃勒警告若10月核心CPI环比≥0.3%或加息50基点，致期指跳水转跌。
 • 避险共振：跨资产呈区间胶着轮动；黄金(GLD 5日+5.64%)与长债(TLT +1.05%)持续净流入，美元(UUP -0.14%)微幅震荡，大资金仍重仓黄金与长债对冲通胀及政策尾部风险。
 • 多空分歧：多方锚定标普科技远期PE跌至17倍（九年首现相对大盘折价）与去杠杆修复；空方警惕一级市场AI估值下调、软银核销37亿美元算力设备减值及宽基技术强阻（QQQ $700/NDX 29000）。

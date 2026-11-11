@@ -586,5 +586,17 @@
     "episode_num": 49,
     "vtt_url": "episodes/morning_digest_2026-11-10.vtt",
     "srt_url": "episodes/morning_digest_2026-11-10.srt"
+  },
+  {
+    "guid": "digest-2026-11-11",
+    "title": "【小方财经】2026-11-11 · 晨间内参：全球宏观与美股多空深度博弈",
+    "description": "📌 【今日一分钟核心看点】\n• 宏观水温：恐慌贪婪指数报33.9（恐慌），10月CPI超预期推升12月加息概率至100%，隔夜标普跌0.38%、纳指跌0.74%守稳年线，盘前AI回暖带动纳指期指涨1.6%。\n• 避险共振：区间胶着，高实际利率压制下近5日黄金（GLD -0.84%）与长债（TLT -1.08%）双双承压，资金向美元（UUP +0.87%）单向回流。\n• 多空分歧：大摩看好标普7100-7300点筑底支撑，高盛则警告450亿美元潜在卖压与标普7000-7550点负伽马区间量化平仓踩踏隐患。\n\n🤖 【AI 前沿与开源精选】\n• Anthropic IPO与Rubin光互联突破：Anthropic冲刺1.4万亿估值IPO并推Claude办公套件突袭微软；英伟达Rubin Ultra带动单Pod光学价值翻5倍至540万美元。\n• meta/astryx & anthropics/skills：Meta开源Agent原生UI系统解决动态界面生成痛点；Anthropic公开官方Skills标准库赋能复杂任务SOP对齐。\n\n💼 【聚焦标的与量化买卖点】\n• META：绝佳双重共振买点，当前价 $641.39，第一建仓位 $630.93，加仓位 $595.09，防守止损 $573.58（另GOOG首仓$273.59、NVDA首仓$161.29、INTC首仓$55.51均触发极限超跌买点）。\n• 防守预警：RKLB、U、MCD 触发严重超买逢高止盈预警，建议分批锁利20%-30%，移动止盈线分别上移至 $59.89、$48.07、$279.40。\n\n📅 【今日重磅催化剂】\n• 美国退伍军人节债市休市（美股正常交易），聚焦盘前大涨17%的CoreWeave及光通信/存储板块资金承接力；跟踪中国央行Q3货政报告；前瞻下周NVDA财报（11/17）与Anthropic上市（11/19）。",
+    "audio_url": "episodes/morning_digest_2026-11-11.mp3",
+    "audio_size": 12089876,
+    "duration": 734.811995,
+    "pub_date": "2026-11-11T05:12:21.521265-05:00",
+    "episode_num": 50,
+    "vtt_url": "episodes/morning_digest_2026-11-11.vtt",
+    "srt_url": "episodes/morning_digest_2026-11-11.srt"
   }
 ]

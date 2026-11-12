@@ -1,5 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨 5 分钟，全球资产与财经核心要闻</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Wed, 11 Nov 2026 05:12:21 -0500</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-11 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-11-11 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨 5 分钟，全球资产与财经核心要闻</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Thu, 12 Nov 2026 05:12:55 -0500</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-12 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-11-12 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+• 宏观水温：恐慌贪婪指数报37.5（恐慌），标普(+1.31%)与纳指(+1.60%)三连阳夺回年线，但联储鹰派加息警告与10年期美债收益率逼近5.0%严峻考验追涨情绪。
+• 避险共振：跨资产处于区间胶着与存量分化，高利率与再通胀压制下黄金跌破4000美元、黄金(GLD)与长端美债(TLT)双双走弱，资金流向强势美元(UUP)。
+• 多空分歧：机构借算力高景气与天量IPO逼空散户割肉盘，空头则聚焦大盘强阻力区量价背离及黄仁勋个人风波致英伟达盘前暴跌6%~7%的治理黑天鹅。
+
+🤖 【AI 前沿与开源精选】
+• Anthropic IPO与算力底座验证：1.4万亿估值募资904亿美元并推Claude办公套件触发“卖软买硬”轮动，叠加CoreWeave 90亿预付款与存储暴涨证伪算力泡沫。
+• meta/astryx &amp; daily_stock_analysis：Meta开源Agent原生动态UI设计系统解决智能体界面交互痛点；后者用LLM打通多市场行情降噪与零成本自动化投研推送。
+
+💼 【聚焦标的与量化买卖点】
+• NVDA：极限超跌反弹买点，当前价 $173.73，第一建仓位 $165.91，加仓位 $155.13，防守止损 $145.07。
+• 防守预警：RKLB、U、ZETA 触发严重超买逢高止盈警报，严禁追高，建议逢高锁利20%~30%并将移动止盈线分别上移至 $62.49、$47.42、$36.04。
+
+📅 【今日重磅催化剂】
+• 美债复牌直面10年期收益率5.0%与VIX 22攻防战、Nebius(NBIS)盘后财报、英伟达董事会危机公关定调及Anthropic IPO路演定价。</description><itunes:summary>📌 【今日一分钟核心看点】
+• 宏观水温：恐慌贪婪指数报37.5（恐慌），标普(+1.31%)与纳指(+1.60%)三连阳夺回年线，但联储鹰派加息警告与10年期美债收益率逼近5.0%严峻考验追涨情绪。
+• 避险共振：跨资产处于区间胶着与存量分化，高利率与再通胀压制下黄金跌破4000美元、黄金(GLD)与长端美债(TLT)双双走弱，资金流向强势美元(UUP)。
+• 多空分歧：机构借算力高景气与天量IPO逼空散户割肉盘，空头则聚焦大盘强阻力区量价背离及黄仁勋个人风波致英伟达盘前暴跌6%~7%的治理黑天鹅。
+
+🤖 【AI 前沿与开源精选】
+• Anthropic IPO与算力底座验证：1.4万亿估值募资904亿美元并推Claude办公套件触发“卖软买硬”轮动，叠加CoreWeave 90亿预付款与存储暴涨证伪算力泡沫。
+• meta/astryx &amp; daily_stock_analysis：Meta开源Agent原生动态UI设计系统解决智能体界面交互痛点；后者用LLM打通多市场行情降噪与零成本自动化投研推送。
+
+💼 【聚焦标的与量化买卖点】
+• NVDA：极限超跌反弹买点，当前价 $173.73，第一建仓位 $165.91，加仓位 $155.13，防守止损 $145.07。
+• 防守预警：RKLB、U、ZETA 触发严重超买逢高止盈警报，严禁追高，建议逢高锁利20%~30%并将移动止盈线分别上移至 $62.49、$47.42、$36.04。
+
+📅 【今日重磅催化剂】
+• 美债复牌直面10年期收益率5.0%与VIX 22攻防战、Nebius(NBIS)盘后财报、英伟达董事会危机公关定调及Anthropic IPO路演定价。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
+• 宏观水温：恐慌贪婪指数报37.5（恐慌），标普(+1.31%)与纳指(+1.60%)三连阳夺回年线，但联储鹰派加息警告与10年期美债收益率逼近5.0%严峻考验追涨情绪。
+• 避险共振：跨资产处于区间胶着与存量</itunes:subtitle><pubDate>Thu, 12 Nov 2026 05:12:55 -0500</pubDate><guid isPermaLink="false">digest-2026-11-12</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-12.mp3" length="10924606" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>11:02</itunes:duration><itunes:episode>51</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-12.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-12.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-11-11 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-11-11 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
 • 宏观水温：恐慌贪婪指数报33.9（恐慌），10月CPI超预期推升12月加息概率至100%，隔夜标普跌0.38%、纳指跌0.74%守稳年线，盘前AI回暖带动纳指期指涨1.6%。
 • 避险共振：区间胶着，高实际利率压制下近5日黄金（GLD -0.84%）与长债（TLT -1.08%）双双承压，资金向美元（UUP +0.87%）单向回流。
 • 多空分歧：大摩看好标普7100-7300点筑底支撑，高盛则警告450亿美元潜在卖压与标普7000-7550点负伽马区间量化平仓踩踏隐患。

@@ -1,0 +1,267 @@
+1
+00:00:01,400 --> 00:00:03,702
+Good morning, listeners.
+
+2
+00:00:03,652 --> 00:00:07,439
+Today is November 13, 2026.
+
+3
+00:00:07,439 --> 00:00:14,535
+Overnight, the S and P, Nasdaq, and Dow steadied while Treasury yields climbed on a hawkish Fed pivot.
+
+4
+00:00:14,535 --> 00:00:23,138
+The S and P 500 dipped 27 points, or 0.35 percent, yet logged a fourth straight bullish daily candle.
+
+5
+00:00:23,138 --> 00:00:30,969
+Buyers defended the 10-day moving average, though rallies stalled beneath overhead resistance at the 50-day and 60-day lines.
+
+6
+00:00:30,969 --> 00:00:40,846
+Bulls must reclaim 7600 and 7670 to unlock upside, while weakness risks a drop toward 7420 and 7350.
+
+7
+00:00:40,846 --> 00:00:49,045
+The Nasdaq Composite slipped 100 points, or 0.39 percent, after bouncing off its annual moving average.
+
+8
+00:00:49,045 --> 00:00:57,378
+In the Nasdaq 100 E T F, Q Q Q, traders remain deadlocked between 680 and 700 dollars.
+
+9
+00:00:57,378 --> 00:01:08,346
+A high-volume breakout above 700 dollars targets 720, whereas losing 680 exposes downside to 660 and 647 dollars.
+
+10
+00:01:08,346 --> 00:01:15,037
+Broad index funds like S P Y and V O O absorbed tech turbulence with minimal net damage.
+
+11
+00:01:15,037 --> 00:01:22,366
+Even a 10 percent plunge in a top heavyweight drags those diversified benchmarks down by just 0.5 percent.
+
+12
+00:01:22,366 --> 00:01:30,246
+Meanwhile, post-midterm Federal Reserve officials broke free from White House pressure and united around an A I inflation thesis.
+
+13
+00:01:30,246 --> 00:01:37,451
+Fed Governor Barr warned that rapid A I adoption will trigger severe short-term labor disruption and income inequality.
+
+14
+00:01:37,451 --> 00:01:45,074
+Cleveland Fed President Hammack stated that A I demand pressures require more restrictive rates to contain inflation expectations.
+
+15
+00:01:45,074 --> 00:01:52,782
+San Francisco Fed President Daly explicitly backed further rate hikes as companies pass rising input costs to consumers.
+
+16
+00:01:52,782 --> 00:01:59,241
+Policymakers view cooling the A I trade as a direct lever to tame compute-driven inflation pressures.
+
+17
+00:01:59,241 --> 00:02:07,194
+Bank of America data shows hedge funds finished covering semiconductor shorts and rotated into shorting rate-sensitive small caps.
+
+18
+00:02:07,194 --> 00:02:12,746
+That institutional short cycle is now squarely targeting the Russell 2000 index.
+
+19
+00:02:12,746 --> 00:02:19,572
+In energy markets, crude oil rebounded after President Trump declared Washington does not need an Iran deal.
+
+20
+00:02:19,572 --> 00:02:26,373
+That reversal followed reports that Vice President Vance weighed direct talks with Tehran to exit the Strait of Hormuz.
+
+21
+00:02:26,504 --> 00:02:34,125
+Tightening macro liquidity and Washington power shifts are triggering a historic shakeup across the global semiconductor supply chain.
+
+22
+00:02:34,075 --> 00:02:42,065
+Closed-source leader Anthropic is rushing its initial public offering before liquidity tightens further, clashing with open-source rivals.
+
+23
+00:02:42,065 --> 00:02:50,264
+That conflict exploded yesterday when Nvidia founder Jensen Huang resigned immediately as C E O, President, and director.
+
+24
+00:02:50,264 --> 00:02:57,764
+After 33 years at the helm, Huang exited without a transition period, severing all formal ties with Nvidia.
+
+25
+00:02:57,764 --> 00:03:06,122
+The surface catalyst combined an improper relationship with subordinate executive Kimberly Powell and congressional national security investigations.
+
+26
+00:03:06,122 --> 00:03:13,462
+Three Republican House committee chairs had summoned Huang over estimates that 20 percent of revenue flowed indirectly to China.
+
+27
+00:03:13,462 --> 00:03:21,318
+Beneath the scandal, bipartisan defense hawks and closed-source A I giants moved to dismantle Huang's open-source ecosystem.
+
+28
+00:03:21,318 --> 00:03:29,455
+Following Democratic midterm victories, Washington lawmakers targeted Trump's top tech allies to send a warning across Silicon Valley.
+
+29
+00:03:29,455 --> 00:03:37,850
+Huang had donated 25 million dollars to White House projects, while Elon Musk gave Republicans over 440 million dollars.
+
+30
+00:03:37,850 --> 00:03:45,754
+Removing Huang weakens opposition to strict China export controls and disrupts the bridge connecting Asian hardware supply chains.
+
+31
+00:03:45,754 --> 00:03:53,401
+Silicon Valley venture leaders condemned the board's decision, comparing Huang's sudden ouster to Apple firing Steve Jobs.
+
+32
+00:03:53,401 --> 00:04:02,408
+The Philadelphia Semiconductor Index held its 250-day moving average overnight, but remains capped beneath its 200-day resistance line.
+
+33
+00:04:02,408 --> 00:04:10,558
+Emerging NeoCloud compute providers backed by Huang suffered immediate selloffs as long-term chip allocation certainty evaporated.
+
+34
+00:04:10,558 --> 00:04:17,592
+CoreWeave plunged over 16 percent intraday after announcing a 4 billion dollar debt offering right after earnings.
+
+35
+00:04:17,592 --> 00:04:25,693
+Rival Nebius grew third-quarter revenue 570 percent while narrowing net losses to 37.5 million dollars.
+
+36
+00:04:25,693 --> 00:04:35,374
+However, Nebius guided full-year 2026 revenue to 3 to 3.4 billion dollars, missing the 3.35 billion consensus.
+
+37
+00:04:35,374 --> 00:04:43,168
+Power switching delays at its New Jersey data center for Microsoft pushed nearly half of contracted deliveries into 2027.
+
+38
+00:04:43,168 --> 00:04:51,845
+Investors also balked at Nebius projecting 40 to 45 billion dollars in 2027 capex, fearing heavy debt dilution.
+
+39
+00:04:51,992 --> 00:05:00,716
+In individual equities, Nvidia, ticker N V D A, flashed a capitulation reversal after shedding 500 billion dollars.
+
+40
+00:05:00,666 --> 00:05:09,980
+Shares gapped down to 151 dollars, hit a washout low at 149, and rallied to close at 166 dollars.
+
+41
+00:05:09,980 --> 00:05:18,619
+Total 24-hour trading turnover reached an astonishing 160 to 180 billion dollars as dip buyers absorbed panic selling.
+
+42
+00:05:18,619 --> 00:05:26,058
+Short sellers led by Culper Research, which targeted Nvidia back in May, covered positions to lock in profits.
+
+43
+00:05:26,058 --> 00:05:34,355
+Because 2026 and 2027 orders remain intact, C F O Colette Kress can steady operations as interim chief.
+
+44
+00:05:34,355 --> 00:05:40,776
+Kress and new board chair Harvey Jones will lead the critical third-quarter earnings call on November 17.
+
+45
+00:05:40,776 --> 00:05:53,656
+Prediction markets price C U D A creator Ian Buck at 39 percent to become permanent C E O. Arm chief Rene Haas is a top external contender, while Trump's suggestion of Tim Cook holds 5 percent odds.
+
+46
+00:05:53,656 --> 00:06:01,463
+However, Bernstein downgraded Nvidia to Market Perform and slashed its price target from 400 down to 200 dollars.
+
+47
+00:06:01,463 --> 00:06:10,004
+Long-term risks include congressional espionage hearings and potential stock liquidation from trusts shared with Huang's wife, Lori Huang.
+
+48
+00:06:10,004 --> 00:06:18,289
+Lori Huang co-controls over half of Jensen's 922 million shares and solely controls another 5 billion dollar trust.
+
+49
+00:06:18,289 --> 00:06:25,543
+Actionable strategy on Nvidia is a short-term tactical buy above the 149 dollar false-breakdown floor.
+
+50
+00:06:25,543 --> 00:06:30,960
+Long-term institutional cost support sits much lower near 120 dollars.
+
+51
+00:06:30,960 --> 00:06:37,406
+Traders should ride this oversold relief bounce and sell into strength near the 200 dollar Bernstein target.
+
+52
+00:06:37,406 --> 00:06:45,286
+Alphabet, ticker G O O G L, is a high-conviction buy as cloud giants diversify A I chip supply.
+
+53
+00:06:45,286 --> 00:06:53,779
+Although Nvidia's roadmap holds until 2028, leadership turmoil is pushing hyperscalers toward Google's in-house T P U chips.
+
+54
+00:06:53,779 --> 00:07:01,977
+Custom silicon partner Broadcom, ticker A V G O, and rival A M D are also capturing spillover demand.
+
+55
+00:07:01,977 --> 00:07:10,678
+Still, investors should buy Google first, since Asian-American semiconductor executives face elevated political spillover risks in Washington.
+
+56
+00:07:10,678 --> 00:07:17,345
+Tesla, ticker T S L A, triggers an actionable momentum buy following a sharp late-session breakout.
+
+57
+00:07:17,345 --> 00:07:24,195
+Bloomberg reports that Tesla and SpaceX boards are accelerating merger talks for a formal announcement in December.
+
+58
+00:07:24,195 --> 00:07:31,034
+Closing the merger in December helps Elon Musk outrun Democratic congressional investigations starting in January.
+
+59
+00:07:31,034 --> 00:07:38,668
+Musk also publicly welcomed recruiting Jensen Huang to help build massive chip infrastructure for x A I and SpaceX.
+
+60
+00:07:38,668 --> 00:07:43,007
+Traders should buy Tesla dips ahead of the December merger catalyst.
+
+61
+00:07:43,007 --> 00:07:50,985
+Conversely, Super Micro Computer, ticker S M C I, is an actionable sell as legal probes intensify.
+
+62
+00:07:50,985 --> 00:07:59,355
+Losing Huang as a strategic protector leaves Super Micro exposed to Justice Department investigations involving Nvidia and Megaspeed.
+
+63
+00:07:59,355 --> 00:08:07,639
+Meanwhile, MicroStrategy, ticker M S T R, faces structural selling after its M S C I Global Index removal.
+
+64
+00:08:07,639 --> 00:08:15,850
+Passive funds must liquidate 2.8 billion dollars by November 30, and up to 8.8 billion if other indices follow.
+
+65
+00:08:15,850 --> 00:08:23,080
+While early pricing prevented a crash yesterday, traders should sell rallies and watch 90 dollars as must-hold support.
+
+66
+00:08:23,080 --> 00:08:27,088
+That concludes today's XiaoFang Finance Morning Brief.
+
+67
+00:08:27,088 --> 00:08:31,254
+Thank you for listening, trade safely, and see you tomorrow.

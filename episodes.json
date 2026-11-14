@@ -622,5 +622,17 @@
     "episode_num": 52,
     "vtt_url": "episodes/morning_digest_2026-11-13.vtt",
     "srt_url": "episodes/morning_digest_2026-11-13.srt"
+  },
+  {
+    "guid": "digest-2026-11-14",
+    "title": "【小方财经】2026-11-14 · 晨间内参：全球宏观与美股多空深度博弈",
+    "description": "📌 【今日一分钟核心看点】\n• 宏观水温：情绪恐慌（38.6），标普全周逆势涨2.51%（周五跌0.4%），10月PPI同比6.5%坐实通胀抬头，10年期美债利率飙至5.154%，12月加息成共识。\n• 避险共振：避险与风险资产区间胶着（现金虹吸与防御轮动），高美债利率与强势美元（UUP 5日+1.83%）压制黄金（GLD -6.34%）与长债（TLT -3.15%）。\n• 多空分歧：多头博弈极低仓位“无票可卖”轧空与云巨头19.7倍PE防御估值，空头Burry翻倍做空纳指与半导体，博弈标普7500点负Gamma破位。\n\n🤖 【AI 前沿与开源精选】\n• GoogleChrome/modern-web-guidance-src：解决AI编程调用废弃API痛点，为Agent提供实时现代Web规范基准。\n• alibaba/open-code-review：静态规则结合LLM Agent，克服纯大模型代码审查高幻觉与耗时痛点，实现行级安全审计。\n\n💼 【聚焦标的与量化买卖点】\n• 英伟达 (NVDA)：极限超跌反弹买点，当前价 $162.85，第一建仓位 $155.52，加仓位 $148.80，防守止损 $136.90（INTC $59.66、PLTR $167.99 同触超跌买点）。\n• 防守预警：COST、U、KO 严重超买逢高止盈，建议锁定20%~30%利润，移动止盈线分别上移至 $1084.54、$50.43、$94.76。\n\n📅 【今日重磅催化剂】\n• 周末休市无数据；下周迎周二盘后英伟达生死局财报、阿里与沃尔玛财报、周四Anthropic上市及周五期权交割日。",
+    "audio_url": "episodes/morning_digest_2026-11-14.mp3",
+    "audio_size": 17895748,
+    "duration": 1097.668005,
+    "pub_date": "2026-11-14T05:13:27.748808-05:00",
+    "episode_num": 53,
+    "vtt_url": "episodes/morning_digest_2026-11-14.vtt",
+    "srt_url": "episodes/morning_digest_2026-11-14.srt"
   }
 ]

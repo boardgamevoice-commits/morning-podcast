@@ -1,5 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨 5 分钟，全球资产与财经核心要闻</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Sat, 14 Nov 2026 05:18:53 -0500</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-14 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-11-14 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨全球宏观异动、AI产业突破与持仓量化风控内参</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Sun, 15 Nov 2026 05:30:56 -0500</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-15 · 加息重燃联储盲盒化，英伟达砍千亿担保禁裸买</title><itunes:title>【小方财经】2026-11-15 · 加息重燃联储盲盒化，英伟达砍千亿担保禁裸买</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+• 宏观水温：恐慌指数报38.6、VIX升至19.3，美股周五呈“道指微涨0.1%、纳指跌0.91%、标普周涨2.51%终结四连跌”分化；10月PPI飙至6.5%推升10年期美债破5.154%，12月加息25bp成共识（50bp尾部风险升温），叠加联储拟减议息频次并评估废除点阵图开启“盲盒模式”。
+• 避险共振：近5日黄金（GLD -6.34%）与长端美债（TLT -3.15%）遭双杀，唯美元（UUP +1.83%，DXY 103.41）独强，定性为“再通胀与紧缩重定价下的唯美元现金独强”，5.15%+无风险利率强力虹吸流动性并压缩科技估值分母。
+• 多空分歧：CTA美股敞口降至8%极低水位酝酿空头回补（两月涨8%历史胜率95%），对决大空头Burry翻倍加码纳指100与SMH看跌期权押注财报“利好兑现即抛售”；下周SPX以7,500点为正负Gamma分水岭（站稳7,600转稳，上方Call墙7,650~7,700、下方Put墙7,400~7,450），NDX关注26,800~28,900震荡区间。
+
+🤖 【AI 前沿与开源精选】
+• AI央行缩表与星舰回收突破：黄仁勋离职后英伟达临时CEO克雷斯将OpenAI数据中心担保从2,500亿砍至1,050亿美元，高利率下加速NeoCloud洗牌与NAND现货走弱（闭源仍占企业AI付费96%且算力实控权审查升级）；SpaceX第15次试飞首次实现“筷子夹二级星舰飞船”打通全复用回收闭环。
+• 编码安全警钟与GitHub开源双星：AI应用生成平台Lovable曝权限缺陷泄露护照及20万私信敲响Vibe Coding警钟；Chrome官方开源 `modern-web-guidance-src`（+1,231★）为Agent实时注入现代Web安全与性能标准库，`backnotprop/plannotator`（+408★）打造多Agent方案塑形与逐行批注的人机协同治理工作台。
+
+💼 【持仓量化买卖点与财报风控】
+• 可执行买点：① INTC（CEO陈立武971万美元现金自购+RSI 26.3超卖共振）：现价$59.66 / 建仓$56.98 / 加仓$53.28 / 止损$49.02；② ZETA（PEAD超预期+39.17%右侧Stage 2加仓，前期回踩守稳Day0中点$31.96并突破$32.56）：现价$36.65 / 建仓$35.00 / 加仓$34.03 / 止损$33.07（紧凑保护线$34.45）；③ PLTR（RSI 26.8缩量极限超跌）：现价$167.99 / 建仓$160.43 / 加仓$153.72 / 止损$141.42。
+• 财报冻结与防守止盈：【财报前2交易日硬冻结（严禁左侧裸买，存量建议配Protective Put对冲）】NVDA（现价$162.85，RSI 19.1，11/17盘后财报，企稳后观察$155.52/$148.80、极限风控$136.90）、HD（现价$348.69，RSI 67.7，11/17盘前财报，企稳后观察$333.83/$312.15、极限风控$303.20）；【严重超买逢高锁利20%~30%并上移止盈线】COST（现价$1,106.21 → 保护线$1,084.54）、U（现价$52.81 → 保护线$50.43）、KO（现价$99.25 → 保护线$94.76）。
+
+📅 【重磅催化剂与早安彩蛋】
+• 核心事件与财报日历：周日跟踪深圳APEC中美关税/芯片博弈与伊朗暂停IAEA合作后原油（$88.56）开盘；11/17（周二）迎盘前HD与盘后NVDA核爆财报（临时CEO克雷斯首秀定调指引与担保敞口）；周内关注BABA、WMT财报，11/19（周四）Anthropic纳斯达克IPO上市，11/20（周五）美股月度期权结算日（OpEx）；🚨 本地1级高危提醒：Woburn（01801）冬季夜间禁停令今日（11/15）正式生效，严禁在市政街道偶数门牌侧过夜停车，请及时移车防罚单与清雪拖车。</description><itunes:summary>📌 【今日一分钟核心看点】
+• 宏观水温：恐慌指数报38.6、VIX升至19.3，美股周五呈“道指微涨0.1%、纳指跌0.91%、标普周涨2.51%终结四连跌”分化；10月PPI飙至6.5%推升10年期美债破5.154%，12月加息25bp成共识（50bp尾部风险升温），叠加联储拟减议息频次并评估废除点阵图开启“盲盒模式”。
+• 避险共振：近5日黄金（GLD -6.34%）与长端美债（TLT -3.15%）遭双杀，唯美元（UUP +1.83%，DXY 103.41）独强，定性为“再通胀与紧缩重定价下的唯美元现金独强”，5.15%+无风险利率强力虹吸流动性并压缩科技估值分母。
+• 多空分歧：CTA美股敞口降至8%极低水位酝酿空头回补（两月涨8%历史胜率95%），对决大空头Burry翻倍加码纳指100与SMH看跌期权押注财报“利好兑现即抛售”；下周SPX以7,500点为正负Gamma分水岭（站稳7,600转稳，上方Call墙7,650~7,700、下方Put墙7,400~7,450），NDX关注26,800~28,900震荡区间。
+
+🤖 【AI 前沿与开源精选】
+• AI央行缩表与星舰回收突破：黄仁勋离职后英伟达临时CEO克雷斯将OpenAI数据中心担保从2,500亿砍至1,050亿美元，高利率下加速NeoCloud洗牌与NAND现货走弱（闭源仍占企业AI付费96%且算力实控权审查升级）；SpaceX第15次试飞首次实现“筷子夹二级星舰飞船”打通全复用回收闭环。
+• 编码安全警钟与GitHub开源双星：AI应用生成平台Lovable曝权限缺陷泄露护照及20万私信敲响Vibe Coding警钟；Chrome官方开源 `modern-web-guidance-src`（+1,231★）为Agent实时注入现代Web安全与性能标准库，`backnotprop/plannotator`（+408★）打造多Agent方案塑形与逐行批注的人机协同治理工作台。
+
+💼 【持仓量化买卖点与财报风控】
+• 可执行买点：① INTC（CEO陈立武971万美元现金自购+RSI 26.3超卖共振）：现价$59.66 / 建仓$56.98 / 加仓$53.28 / 止损$49.02；② ZETA（PEAD超预期+39.17%右侧Stage 2加仓，前期回踩守稳Day0中点$31.96并突破$32.56）：现价$36.65 / 建仓$35.00 / 加仓$34.03 / 止损$33.07（紧凑保护线$34.45）；③ PLTR（RSI 26.8缩量极限超跌）：现价$167.99 / 建仓$160.43 / 加仓$153.72 / 止损$141.42。
+• 财报冻结与防守止盈：【财报前2交易日硬冻结（严禁左侧裸买，存量建议配Protective Put对冲）】NVDA（现价$162.85，RSI 19.1，11/17盘后财报，企稳后观察$155.52/$148.80、极限风控$136.90）、HD（现价$348.69，RSI 67.7，11/17盘前财报，企稳后观察$333.83/$312.15、极限风控$303.20）；【严重超买逢高锁利20%~30%并上移止盈线】COST（现价$1,106.21 → 保护线$1,084.54）、U（现价$52.81 → 保护线$50.43）、KO（现价$99.25 → 保护线$94.76）。
+
+📅 【重磅催化剂与早安彩蛋】
+• 核心事件与财报日历：周日跟踪深圳APEC中美关税/芯片博弈与伊朗暂停IAEA合作后原油（$88.56）开盘；11/17（周二）迎盘前HD与盘后NVDA核爆财报（临时CEO克雷斯首秀定调指引与担保敞口）；周内关注BABA、WMT财报，11/19（周四）Anthropic纳斯达克IPO上市，11/20（周五）美股月度期权结算日（OpEx）；🚨 本地1级高危提醒：Woburn（01801）冬季夜间禁停令今日（11/15）正式生效，严禁在市政街道偶数门牌侧过夜停车，请及时移车防罚单与清雪拖车。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
+• 宏观水温：恐慌指数报38.6、VIX升至19.3，美股周五呈“道指微涨0.1%、纳指跌0.91%、标普周涨2.51%终结四连跌”分化；10月PPI飙至6.5%推升10年期美债破5.154%，12月加息25bp</itunes:subtitle><pubDate>Sun, 15 Nov 2026 05:30:02 -0500</pubDate><guid isPermaLink="false">digest-2026-11-15</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-15.mp3" length="31783774" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>32:44</itunes:duration><itunes:episode>54</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:chapters url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-15.chapters.json" type="application/json+chapters" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-15.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-15.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-11-14 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-11-14 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
 • 宏观水温：情绪恐慌（38.6），标普全周逆势涨2.51%（周五跌0.4%），10月PPI同比6.5%坐实通胀抬头，10年期美债利率飙至5.154%，12月加息成共识。
 • 避险共振：避险与风险资产区间胶着（现金虹吸与防御轮动），高美债利率与强势美元（UUP 5日+1.83%）压制黄金（GLD -6.34%）与长债（TLT -3.15%）。
 • 多空分歧：多头博弈极低仓位“无票可卖”轧空与云巨头19.7倍PE防御估值，空头Burry翻倍做空纳指与半导体，博弈标普7500点负Gamma破位。
@@ -686,32 +715,4 @@
 📅 【今日重磅催化剂】
 • 消化沙特遇袭地缘溢价与法德利差传染；前瞻下周德国政府携手英伟达推主权AI及特斯拉Q3财报大考。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
 • 宏观水温：情绪指数暴跌至17.9陷入极度恐慌，纳指全周重挫5.5%，高通胀与欧债危机推升10年美债收益率至5.098%，原油逼近百元大关。
-• 多空分歧：多头押注芯片流动性踩踏后逼空超卖修复；空方坚守高利率引</itunes:subtitle><pubDate>Sat, 17 Oct 2026 04:55:56 -0400</pubDate><guid isPermaLink="false">digest-2026-10-17</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-17.mp3" length="15404295" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>15:42</itunes:duration><itunes:episode>31</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-17.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-17.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-10-16 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-10-16 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
-• 宏观水温：隔夜美股走势深度分化（道指+1.08%，纳指微涨+0.08%），恐慌指数报32.1，PPI超预期反弹封死短期降息预期，机构调仓防御致长端美债收益率被动回落。
-• 多空分歧：多头押注亚洲市场企稳与OPEX做市商Gamma托底反抽，空头则紧咬算力租赁高负债暴雷与半导体高位见顶风险。
-
-🤖 【AI 前沿与开源精选】
-• Muse Spark：Meta开源8160亿巨模并联手苹果M5 Ultra，开启千亿大模型本地离线部署时代。
-• morluto/rea：多智能体协作自动化逆向系统，自主分析App交互并直达底层二进制代码，颠覆传统人工反编译。
-
-💼 【聚焦标的与关键点位】
-• 标普500 (SPX)：支撑位 7620（生命线），阻力位 7780-7800（5/10日均线带），关键风控 7620破位即确认中期筑顶
-• CoreWeave (CRWV)：支撑位 59.5-65 美元，阻力位 79-80 美元，关键风控 借贷利差严重倒挂，逢反弹用跟踪止损严禁格局
-
-📅 【今日重磅催化剂】
-• 美股10月月度期权交割（OPEX），防范尾盘波动及交割后正Gamma支撑消退带来的下周回踩风险。</description><itunes:summary>📌 【今日一分钟核心看点】
-• 宏观水温：隔夜美股走势深度分化（道指+1.08%，纳指微涨+0.08%），恐慌指数报32.1，PPI超预期反弹封死短期降息预期，机构调仓防御致长端美债收益率被动回落。
-• 多空分歧：多头押注亚洲市场企稳与OPEX做市商Gamma托底反抽，空头则紧咬算力租赁高负债暴雷与半导体高位见顶风险。
-
-🤖 【AI 前沿与开源精选】
-• Muse Spark：Meta开源8160亿巨模并联手苹果M5 Ultra，开启千亿大模型本地离线部署时代。
-• morluto/rea：多智能体协作自动化逆向系统，自主分析App交互并直达底层二进制代码，颠覆传统人工反编译。
-
-💼 【聚焦标的与关键点位】
-• 标普500 (SPX)：支撑位 7620（生命线），阻力位 7780-7800（5/10日均线带），关键风控 7620破位即确认中期筑顶
-• CoreWeave (CRWV)：支撑位 59.5-65 美元，阻力位 79-80 美元，关键风控 借贷利差严重倒挂，逢反弹用跟踪止损严禁格局
-
-📅 【今日重磅催化剂】
-• 美股10月月度期权交割（OPEX），防范尾盘波动及交割后正Gamma支撑消退带来的下周回踩风险。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
-• 宏观水温：隔夜美股走势深度分化（道指+1.08%，纳指微涨+0.08%），恐慌指数报32.1，PPI超预期反弹封死短期降息预期，机构调仓防御致长端美债收益率被动回落。
-• 多空分歧：多头押注亚洲市场企稳与OP</itunes:subtitle><pubDate>Fri, 16 Oct 2026 04:41:04 -0400</pubDate><guid isPermaLink="false">digest-2026-10-16</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-16.mp3" length="13122238" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>13:19</itunes:duration><itunes:episode>30</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-16.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-16.srt" type="application/x-subrip" language="zh-cn" /></item></channel></rss>
+• 多空分歧：多头押注芯片流动性踩踏后逼空超卖修复；空方坚守高利率引</itunes:subtitle><pubDate>Sat, 17 Oct 2026 04:55:56 -0400</pubDate><guid isPermaLink="false">digest-2026-10-17</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-17.mp3" length="15404295" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>15:42</itunes:duration><itunes:episode>31</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-17.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-17.srt" type="application/x-subrip" language="zh-cn" /></item></channel></rss>

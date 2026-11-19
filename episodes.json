@@ -686,5 +686,18 @@
     "vtt_url": "episodes/morning_digest_2026-11-18.vtt",
     "srt_url": "episodes/morning_digest_2026-11-18.srt",
     "chapters_url": "episodes/morning_digest_2026-11-18.chapters.json"
+  },
+  {
+    "guid": "digest-2026-11-19",
+    "title": "【小方财经】2026-11-19 · 千亿IPO撞上联储放鹰，英伟达收紧算力担保",
+    "description": "📌 【今日一分钟核心看点】\n• 宏观水温：CNN恐慌指数报26.5、VIX 22.17仍处警戒位，美股三大指数悉数处年线下方（标普-0.23%四连跌、道指-1.11%、纳指+0.42%）；FOMC鹰派纪要点名复合型通胀与AI表外债风险（沃勒暗示12月或加息50bp），10Y美债驻留5.066%。\n• 避险共振：呈“区间胶着、现金与短久期优先”格局——近5日黄金（GLD -3.9%）遭去杠杆兑现，美债（TLT +0.6%）与美元（UUP +0.7%）温和吸金，主因机构应对保证金压力并备战今日Anthropic千亿IPO认购抽血。\n• 多空分歧：对冲基金多空比创7年新低背离散户10年高位敞口，医保追溯审计重创UNH/HUM撕裂防御抱团；标普需站稳7600点解除头肩顶（反抽看7400点），下方死守7300点颈线与7245点摩根大通期权墙，失守将触发负Gamma下探7100–7000点。\n\n🤖 【AI 前沿与开源精选】\n• Anthropic千亿IPO与算力紧信用：Anthropic携810亿美元ARR今日挂牌（$78–$85/股，算力承诺高达RPO的65倍），同期Google发布Gemini 4 Neon、Nginx曝HTTP/2高危RCE漏洞，英伟达终结无条件融资担保开启AI信用与电力双紧缩。\n• CLI-Anything与last30days-skill爆火：港大HKUDS/CLI-Anything（+389★）将传统软件封装为CLI供Agent毫秒级确定性接管；mvanhorn/last30days-skill（+1,059★）联动社媒与Polymarket赔率交叉验证近30天实时情报。\n\n💼 【持仓量化买卖点与财报风控】\n• 可执行买点：INTC（CEO陈立武$9.7M自购+超跌｜现$54.67/建$52.21/加$48.82/损$44.91）；BAC（护城河共振｜现$48.91/建$47.68/加$45.65/损$44.55）；NVDA（RSI 15.8超跌｜现$150.96/建$144.17/加$134.80/损$124.02）；SOFI（缩量超跌｜现$14.11/建$13.48/加$12.60/损$11.59）。\n• 财报冻结/防守止盈：今日无财报前5交易日冻结标的；严重超买逢高止盈20%~30%并上移保护线——COST（现$1,096.62/保护线$1,048.26）、KO（现$98.09/保护线$95.60），规避暴雷股UNH/HUM/RCAT；前序INTC（$52.69）与PLTR（$153.84）精准接针浮盈+3.76%/+1.84%，U破$49.55保护线已锁利。\n\n📅 【重磅催化剂与早安彩蛋】\n• 聚焦Anthropic美股IPO首日挂牌（开盘时间随机，紧盯与QQQ联动辨别增量回流或存量抽血，忌盲目追高）、NVDA $150攻防与算力担保收紧次日定价、标普7300/7245点期权防线，以及FOMC鹰派纪要利率重定价与Nginx高危漏洞对网安股（PANW等）的催化。",
+    "audio_url": "episodes/morning_digest_2026-11-19.mp3",
+    "audio_size": 25134507,
+    "duration": 1548.444014,
+    "pub_date": "2026-11-19T05:27:08.088501-05:00",
+    "episode_num": 58,
+    "vtt_url": "episodes/morning_digest_2026-11-19.vtt",
+    "srt_url": "episodes/morning_digest_2026-11-19.srt",
+    "chapters_url": "episodes/morning_digest_2026-11-19.chapters.json"
   }
 ]

@@ -1,0 +1,21 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "今日看点与宏观大盘"
+    },
+    {
+      "startTime": 672.27,
+      "title": "AI前沿突破与开源工程"
+    },
+    {
+      "startTime": 1042.96,
+      "title": "持仓量化买卖点与风控"
+    },
+    {
+      "startTime": 1476.47,
+      "title": "催化剂日历与早安彩蛋"
+    }
+  ]
+}

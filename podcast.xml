@@ -1,5 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨全球宏观异动、AI产业突破与持仓量化风控内参</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Sat, 21 Nov 2026 05:28:22 -0500</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-21 · 纳指入熊AI蒸发4万亿，高管千万抄底英特尔</title><itunes:title>【小方财经】2026-11-21 · 纳指入熊AI蒸发4万亿，高管千万抄底英特尔</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨全球宏观异动、AI产业突破与持仓量化风控内参</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Mon, 23 Nov 2026 05:33:35 -0500</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-23 · NVDA暴力反抽遇CTA抛压，高盛唱空HBM</title><itunes:title>【小方财经】2026-11-23 · NVDA暴力反抽遇CTA抛压，高盛唱空HBM</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日核心增量看点】
+• 宏观脉搏：亚太周末祭出六维稳市防线叠加AI抛压缓解，纳指期指涨超3%、NVDA盘前飙涨近10%、Anthropic反弹超3%，VIX重挫15.24%至30.42；密歇根1年期通胀预期骤降至3.7%与AI挤压白领就业缓和12月加息焦虑，但标普仍处200日均线下方，超卖反抽尚待市场广度修复确认。
+• 资金风向：机构补保证金抛压消退推升COMEX黄金大涨2.82%报3614.7美元，美元指数持稳103.82，年内美高等级公司债供给创2.1万亿美元纪录，外资11月净流入印度股市超120亿美元；衍生品端大空头Burry平仓兑现50%英伟达与半导体ETF看跌期权，但高盛预警未来一周CTA全情景机械净卖出仍高达286亿至806亿美元。
+
+🤖 【AI 与科技前沿】
+• 算力狂飙与存储冷热对冲：OpenAI披露预训练核心指标越过数学突破线并预警2027年“雪崩式爆发”，高盛则唱空2028年存储供需转向再平衡、预计同规格HBM跌价20%并猛砍SK海力士目标价逾42%，叠加美BIS新规封堵海外云租赁通道（约60万颗H200滞留香港待批），硬件扩产周期估值迎双向考验。
+• 开源新星 Firecrawl &amp; MiniMind：Firecrawl（今日+915★）以单一标准化API聚合动态网页抓取与550+数据源，解决AI Agent投研工作流实时语料碎片化痛点；MiniMind（+473★）支持个人2小时从零训练64M参数小模型，加速端侧轻量化自训与本地部署平民化。
+
+💼 【持仓状态机与风控纪律】
+• 状态机核验与仓位纪律：今日无新增买点，在途挂单静默守候（无隔夜新档位触达，亦无新增止盈或财报冻结标的）；当前SPY/QQQ/SOXX仍处200日均线下方且上方横亘至少286亿至658亿美元CTA量化卖盘，早盘跳空高开严禁情绪化追涨，若缩量拉抬且站上10日均线成分股比例（现仅9%）未能扩容，重仓科技账户宜借感恩节前反弹适度降杠杆并留意低估值内需板块轮动。
+
+📅 【盯盘日历与早安提醒】
+• 感恩节压缩周与早安提醒：美股周四休市、周五提前半日收市，今日紧盯开盘首小时CTA抛压承接力及VIX能否有效跌破30关口，周三迎10月核心PCE（预期同比+3.2%）与美联储褐皮书双响炮；🚨 Woburn (01801) 1级冬季夜间禁停令已生效，每日凌晨2:00-6:00严禁在全市街道偶数门牌侧过夜停车，感恩节亲友来访请留意规避罚单与清雪拖车。
+
+📌 【在途仓位静默追踪（未触发新档位·口播不重复）】
+• 在途挂单/持仓防守：INTC(首仓已接·二档$45.79/止损$42.13)、PLTR(首仓已接·二档$137.22/止损$126.24)、HOOD(二档已接·止损$58.43)、UBER(二档已接·止损$62.63)、GOOG(首仓已接·二档$248.21/止损$237.28)、NVDA(二档已接·止损$119.92) ｜ 超买保护线：COST(移动止盈线$1048.26)、KO(移动止盈线$95.6)、PG(移动止盈线$164.68)</description><itunes:summary>📌 【今日核心增量看点】
+• 宏观脉搏：亚太周末祭出六维稳市防线叠加AI抛压缓解，纳指期指涨超3%、NVDA盘前飙涨近10%、Anthropic反弹超3%，VIX重挫15.24%至30.42；密歇根1年期通胀预期骤降至3.7%与AI挤压白领就业缓和12月加息焦虑，但标普仍处200日均线下方，超卖反抽尚待市场广度修复确认。
+• 资金风向：机构补保证金抛压消退推升COMEX黄金大涨2.82%报3614.7美元，美元指数持稳103.82，年内美高等级公司债供给创2.1万亿美元纪录，外资11月净流入印度股市超120亿美元；衍生品端大空头Burry平仓兑现50%英伟达与半导体ETF看跌期权，但高盛预警未来一周CTA全情景机械净卖出仍高达286亿至806亿美元。
+
+🤖 【AI 与科技前沿】
+• 算力狂飙与存储冷热对冲：OpenAI披露预训练核心指标越过数学突破线并预警2027年“雪崩式爆发”，高盛则唱空2028年存储供需转向再平衡、预计同规格HBM跌价20%并猛砍SK海力士目标价逾42%，叠加美BIS新规封堵海外云租赁通道（约60万颗H200滞留香港待批），硬件扩产周期估值迎双向考验。
+• 开源新星 Firecrawl &amp; MiniMind：Firecrawl（今日+915★）以单一标准化API聚合动态网页抓取与550+数据源，解决AI Agent投研工作流实时语料碎片化痛点；MiniMind（+473★）支持个人2小时从零训练64M参数小模型，加速端侧轻量化自训与本地部署平民化。
+
+💼 【持仓状态机与风控纪律】
+• 状态机核验与仓位纪律：今日无新增买点，在途挂单静默守候（无隔夜新档位触达，亦无新增止盈或财报冻结标的）；当前SPY/QQQ/SOXX仍处200日均线下方且上方横亘至少286亿至658亿美元CTA量化卖盘，早盘跳空高开严禁情绪化追涨，若缩量拉抬且站上10日均线成分股比例（现仅9%）未能扩容，重仓科技账户宜借感恩节前反弹适度降杠杆并留意低估值内需板块轮动。
+
+📅 【盯盘日历与早安提醒】
+• 感恩节压缩周与早安提醒：美股周四休市、周五提前半日收市，今日紧盯开盘首小时CTA抛压承接力及VIX能否有效跌破30关口，周三迎10月核心PCE（预期同比+3.2%）与美联储褐皮书双响炮；🚨 Woburn (01801) 1级冬季夜间禁停令已生效，每日凌晨2:00-6:00严禁在全市街道偶数门牌侧过夜停车，感恩节亲友来访请留意规避罚单与清雪拖车。
+
+📌 【在途仓位静默追踪（未触发新档位·口播不重复）】
+• 在途挂单/持仓防守：INTC(首仓已接·二档$45.79/止损$42.13)、PLTR(首仓已接·二档$137.22/止损$126.24)、HOOD(二档已接·止损$58.43)、UBER(二档已接·止损$62.63)、GOOG(首仓已接·二档$248.21/止损$237.28)、NVDA(二档已接·止损$119.92) ｜ 超买保护线：COST(移动止盈线$1048.26)、KO(移动止盈线$95.6)、PG(移动止盈线$164.68)</itunes:summary><itunes:subtitle>📌 【今日核心增量看点】
+• 宏观脉搏：亚太周末祭出六维稳市防线叠加AI抛压缓解，纳指期指涨超3%、NVDA盘前飙涨近10%、Anthropic反弹超3%，VIX重挫15.24%至30.42；密歇根1年期通胀预期骤降至3.7%与AI挤压白领</itunes:subtitle><pubDate>Mon, 23 Nov 2026 05:33:28 -0500</pubDate><guid isPermaLink="false">digest-2026-11-23</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-23.mp3" length="15984177" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>16:17</itunes:duration><itunes:episode>61</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:chapters url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-23.chapters.json" type="application/json+chapters" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-23.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-23.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-11-21 · 纳指入熊AI蒸发4万亿，高管千万抄底英特尔</title><itunes:title>【小方财经】2026-11-21 · 纳指入熊AI蒸发4万亿，高管千万抄底英特尔</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
 • 宏观水温：受 12 月加息 100% 定价、AI 信仰松动与衍生品负 Gamma 踩踏三重绞杀，CNN 恐慌指数跌至 9.7 个位数极值、VIX 飙至 35.89 现期限倒挂；标普周五跌 3.7% 失守 7000 点（周挫 8.61% 录 7 连阴），纳指 100 周跌 10.43% 步入技术性熊市，费半单日崩跌 10.73%（周五盘后芯片龙头初现修复）。
 • 避险共振：呈典型“流动性挤兑型分化”——机构被迫抛售高流动性浮盈黄金补缴保证金致金价重挫 4.62%（GLD 5日 -8.52%），衰退预期推升长债避险买盘（TLT 5日 +2.61%，10Y 美债收益率回落至 4.912%）但受加息通道封顶掣肘，美元现金（DXY 103.84，UUP 5日 +0.20%）稳居跨周期防御最高优先级。
 • 多空分歧：Fed Put 隐退与做市商负 Gamma“越跌越卖”压制中期估值，但量化风险敞口骤降至历史第 10 分位叠加下周感恩节 4.5 交易日波动率回落易催生超跌反抽；标普盯紧 6900 点支撑与 7250 点强阻力（中期防二次探底 6550 点），QQQ 跌穿 $625~$635 后若现反抽属高仓位减仓窗口（谨防回补 $580 缺口）。
@@ -783,88 +814,4 @@
 📅 【今日重磅催化剂】
 • 周日休市紧盯中东局势对103美元油价扰动与桂格工厂爆炸事件；跨周决战周三美联储利率决议（聚焦12月加息指引），及SK海力士、微软、谷歌、亚马逊、英特尔重磅财报。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
 • 宏观水温：恐慌指数报21陷极度恐慌，高盛空头居99百分位；标普周跌0.47%报7623点、SOX两周蒸发1.6万亿美元，5%长期通胀预期与AI债利差走阔施压盘面。
-• 避险共振：GLD周跌3.44%、TLT涨</itunes:subtitle><pubDate>Sun, 25 Oct 2026 04:44:30 -0400</pubDate><guid isPermaLink="false">digest-2026-10-25</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-25.mp3" length="28969579" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>29:50</itunes:duration><itunes:episode>35</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-25.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-25.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-10-24 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-10-24 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
-• 宏观水温：周末美股休市，恐慌指数处极度恐慌区间（21.0），油价破百加剧通胀预期脱锚，10年期美债逼近5.0%关口压制风险偏好。
-• 多空分歧：空头聚焦对冲基金惨烈去杠杆与万亿Capex吞噬自由现金流，多头押注空头仓位达99百分位极值后的爆仓式逼空反转。
-
-🤖 【AI 前沿与开源精选】
-• Kimi K3.1 Pro：杀入全球前四并位列Agent第一，以五分之一成本对标顶尖模型，推动AI从参数竞赛转向极端推理工效比。
-• NVIDIA/OpenShell：英伟达官方推出的智能体安全隔离沙箱，彻底解决自主AI执行系统指令时的提权与越界风险。
-
-💼 【聚焦标的与关键点位】
-• 英伟达：支撑位 200 以下（250日年线 199），阻力位 208 附近，关键风控 守住年线确立核心长线底仓，严防半导体机构慢钱踩踏。
-• 特斯拉：支撑位 340 支撑下沿，阻力位 352 关键位，关键风控 FSD订阅大增支撑毛利，但财报期权隐含波动高达±7%，忌追高宜低吸。
-
-📅 【今日重磅催化剂】
-• 全球市场周末休市，重点监控中东局势与原油溢价回归；跨周聚焦美联储FOMC议息决议及微软、谷歌、亚马逊Q3云业务与Capex财报大考。</description><itunes:summary>📌 【今日一分钟核心看点】
-• 宏观水温：周末美股休市，恐慌指数处极度恐慌区间（21.0），油价破百加剧通胀预期脱锚，10年期美债逼近5.0%关口压制风险偏好。
-• 多空分歧：空头聚焦对冲基金惨烈去杠杆与万亿Capex吞噬自由现金流，多头押注空头仓位达99百分位极值后的爆仓式逼空反转。
-
-🤖 【AI 前沿与开源精选】
-• Kimi K3.1 Pro：杀入全球前四并位列Agent第一，以五分之一成本对标顶尖模型，推动AI从参数竞赛转向极端推理工效比。
-• NVIDIA/OpenShell：英伟达官方推出的智能体安全隔离沙箱，彻底解决自主AI执行系统指令时的提权与越界风险。
-
-💼 【聚焦标的与关键点位】
-• 英伟达：支撑位 200 以下（250日年线 199），阻力位 208 附近，关键风控 守住年线确立核心长线底仓，严防半导体机构慢钱踩踏。
-• 特斯拉：支撑位 340 支撑下沿，阻力位 352 关键位，关键风控 FSD订阅大增支撑毛利，但财报期权隐含波动高达±7%，忌追高宜低吸。
-
-📅 【今日重磅催化剂】
-• 全球市场周末休市，重点监控中东局势与原油溢价回归；跨周聚焦美联储FOMC议息决议及微软、谷歌、亚马逊Q3云业务与Capex财报大考。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
-• 宏观水温：周末美股休市，恐慌指数处极度恐慌区间（21.0），油价破百加剧通胀预期脱锚，10年期美债逼近5.0%关口压制风险偏好。
-• 多空分歧：空头聚焦对冲基金惨烈去杠杆与万亿Capex吞噬自由现金流，多头押</itunes:subtitle><pubDate>Sat, 24 Oct 2026 04:35:23 -0400</pubDate><guid isPermaLink="false">digest-2026-10-24</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-24.mp3" length="9464259" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>9:31</itunes:duration><itunes:episode>34</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-24.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-24.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-10-23 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-10-23 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
-• 宏观水温：CNN 情绪指数跌至 21.2 极度恐慌，高油价与美债逼近 5% 加剧滞胀担忧，纳指破半年线、道指逆势抗跌。
-• 多空分歧：空头押注巨额 AI 资本开支恶化现金流，多头则依托万亿级企业回购解禁与空头过度拥挤博弈暴力轧空。
-
-🤖 【AI 前沿与开源精选】
-• Anthropic 形式化验证：突破传统高成本局限，推动大模型从“概率写码”跨越至“数学级确定性代码证明”。
-• NVIDIA OpenShell：为企业级大规模自主 AI 智能体集群提供安全隔离与隐私合规的本地沙箱运行时。
-
-💼 【聚焦标的与关键点位】
-• 英伟达 (NVDA)：支撑位 199 (年线)，阻力位 208，关键风控：跌破年线需防守，触及年线属核心底仓高胜率区。
-• 特斯拉 (TSLA)：支撑位 340，阻力位 352，关键风控：下调 CapEx 压制估值，失守 340 止损，区间内等待企稳。
-
-📅 【今日重磅催化剂】
-• 标普成分股回购静默期加速解禁（周末达 34%）；跟踪霍尔木兹海峡地缘油价异动与下周 FOMC 利率前瞻指引。</description><itunes:summary>📌 【今日一分钟核心看点】
-• 宏观水温：CNN 情绪指数跌至 21.2 极度恐慌，高油价与美债逼近 5% 加剧滞胀担忧，纳指破半年线、道指逆势抗跌。
-• 多空分歧：空头押注巨额 AI 资本开支恶化现金流，多头则依托万亿级企业回购解禁与空头过度拥挤博弈暴力轧空。
-
-🤖 【AI 前沿与开源精选】
-• Anthropic 形式化验证：突破传统高成本局限，推动大模型从“概率写码”跨越至“数学级确定性代码证明”。
-• NVIDIA OpenShell：为企业级大规模自主 AI 智能体集群提供安全隔离与隐私合规的本地沙箱运行时。
-
-💼 【聚焦标的与关键点位】
-• 英伟达 (NVDA)：支撑位 199 (年线)，阻力位 208，关键风控：跌破年线需防守，触及年线属核心底仓高胜率区。
-• 特斯拉 (TSLA)：支撑位 340，阻力位 352，关键风控：下调 CapEx 压制估值，失守 340 止损，区间内等待企稳。
-
-📅 【今日重磅催化剂】
-• 标普成分股回购静默期加速解禁（周末达 34%）；跟踪霍尔木兹海峡地缘油价异动与下周 FOMC 利率前瞻指引。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
-• 宏观水温：CNN 情绪指数跌至 21.2 极度恐慌，高油价与美债逼近 5% 加剧滞胀担忧，纳指破半年线、道指逆势抗跌。
-• 多空分歧：空头押注巨额 AI 资本开支恶化现金流，多头则依托万亿级企业回购解禁与空头</itunes:subtitle><pubDate>Fri, 23 Oct 2026 04:36:45 -0400</pubDate><guid isPermaLink="false">digest-2026-10-23</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-23.mp3" length="9917744" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>9:59</itunes:duration><itunes:episode>33</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-23.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-23.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-10-22 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-10-22 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
-• 宏观水温：CNN贪恐指数跌入19.8极度恐慌，半导体暴跌与中东地缘推升油价，但长端美债收益率大跌触发资金涌入非科技价值防御板块。
-• 多空分歧：空方押注巨额AI资本开支引爆信用债违约与半导体去杠杆，多方则看好传统经济韧性及利率下行对地产、顺周期的强刺激。
-
-🤖 【AI 前沿与开源精选】
-• OpenShell：英伟达开源的企业级自主Agent安全隔离运行时，破解多智能体集群规模化落地的安全与隐私痛点。
-• Anthropic 形式化验证研究：利用大模型实现数学可证明的代码级验证，攻克高危软件代码审计与零容错落地难题。
-
-💼 【聚焦标的与关键点位】
-• 纳指100 ETF (QQQ)：支撑位 700 美元，阻力位 748 美元，关键风控跌破700且半导体破位则硬止损
-• 费城半导体 (SOXX / SOX)：支撑位 SOX 250日年线，阻力位 SOXX 525/535 美元，关键风控未企稳前大盘反弹皆属诱多
-
-📅 【今日重磅催化剂】
-• 标普回购静默期逐步解禁（买盘托底）、沙特阿美设施受袭后输油评估、超大规模云厂商CapEx修正预期</description><itunes:summary>📌 【今日一分钟核心看点】
-• 宏观水温：CNN贪恐指数跌入19.8极度恐慌，半导体暴跌与中东地缘推升油价，但长端美债收益率大跌触发资金涌入非科技价值防御板块。
-• 多空分歧：空方押注巨额AI资本开支引爆信用债违约与半导体去杠杆，多方则看好传统经济韧性及利率下行对地产、顺周期的强刺激。
-
-🤖 【AI 前沿与开源精选】
-• OpenShell：英伟达开源的企业级自主Agent安全隔离运行时，破解多智能体集群规模化落地的安全与隐私痛点。
-• Anthropic 形式化验证研究：利用大模型实现数学可证明的代码级验证，攻克高危软件代码审计与零容错落地难题。
-
-💼 【聚焦标的与关键点位】
-• 纳指100 ETF (QQQ)：支撑位 700 美元，阻力位 748 美元，关键风控跌破700且半导体破位则硬止损
-• 费城半导体 (SOXX / SOX)：支撑位 SOX 250日年线，阻力位 SOXX 525/535 美元，关键风控未企稳前大盘反弹皆属诱多
-
-📅 【今日重磅催化剂】
-• 标普回购静默期逐步解禁（买盘托底）、沙特阿美设施受袭后输油评估、超大规模云厂商CapEx修正预期</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
-• 宏观水温：CNN贪恐指数跌入19.8极度恐慌，半导体暴跌与中东地缘推升油价，但长端美债收益率大跌触发资金涌入非科技价值防御板块。
-• 多空分歧：空方押注巨额AI资本开支引爆信用债违约与半导体去杠杆，多方则看好</itunes:subtitle><pubDate>Thu, 22 Oct 2026 20:50:54 -0400</pubDate><guid isPermaLink="false">digest-2026-10-22</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-22.mp3" length="8588216" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>8:36</itunes:duration><itunes:episode>32</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-22.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-22.srt" type="application/x-subrip" language="zh-cn" /></item></channel></rss>
+• 避险共振：GLD周跌3.44%、TLT涨</itunes:subtitle><pubDate>Sun, 25 Oct 2026 04:44:30 -0400</pubDate><guid isPermaLink="false">digest-2026-10-25</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-25.mp3" length="28969579" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>29:50</itunes:duration><itunes:episode>35</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-25.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-25.srt" type="application/x-subrip" language="zh-cn" /></item></channel></rss>

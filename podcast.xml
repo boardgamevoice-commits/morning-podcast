@@ -1,5 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨全球宏观异动、AI产业突破与持仓量化风控内参</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Tue, 24 Nov 2026 05:34:04 -0500</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-24 · 黄仁勋复职NVDA狂飙31%，戴铐回归藏暗礁</title><itunes:title>【小方财经】2026-11-24 · 黄仁勋复职NVDA狂飙31%，戴铐回归藏暗礁</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日核心增量看点】
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨全球宏观异动、AI产业突破与持仓量化风控内参</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Wed, 25 Nov 2026 05:28:36 -0500</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-25 · 费半跌近8%道指返五万，DELL千亿订单遇冷</title><itunes:title>【小方财经】2026-11-25 · 费半跌近8%道指返五万，DELL千亿订单遇冷</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日核心增量看点】
+• 宏观脉搏：逼空“一日游”切入科技回吐与蓝筹防御跷跷板，费半重挫 7.88%、纳指跌 1.48%，道指涨 0.85% 重返 50,000 点；USTR 补贴调查最快本周收官引燃新广谱关税与紧缩担忧（VIX 飙涨 11.12% 报 29.29），叠加五大零售财报揭示“三层消费分化与退税粉饰”及中东三航母部署的假期尾部风险。
+• 资金风向：10Y 美债收益率微降至 4.904%（TLT 近 5 日 +1.58% 温和吸金），美元指数微涨报 104.071，黄金微跌报 $3,557.2 续化保证金余波；期权负 Gamma 未清致日内维持 ±1.5% 拉锯（忌追涨杀跌），标普 500 与 QQQ 短期统一以 5 日均线为多空生死线，费半下方支撑看 8,000 点。
+
+🤖 【AI 与科技前沿】
+• 算力财报冰火分化与核心筹码重估：DELL 狂揽 1,323 亿美元 AI 积压订单（EPS +265%）盘后仅微涨、HPE 暴跌 16.3%，唯 HPQ 超预期拉升成企稳风向标；NVDA 受阻 $160 解套墙且锁定 12 月 1—3 日国会听证，AMD 登记 3.36 亿股实为未达行权条件权证（零短期抛压），Anthropic 跌破 $83 发行价深探 $75 靠绿鞋护盘。
+• 底层算法突破与马斯克 3.5 万亿资本局：OpenAI 预印本将矩阵乘法复杂度推进至 Θ(n^2.25) 打破理论瓶颈，Bonsai 2.5 27B 推动三值权重实用化并有研究敲响共享推理侧信道安全警钟；SpaceX 与特斯拉启动 3.5 万亿美元合并换股建模，并拟建地面无线网挑战传统电信巨头。
+• 开源新星（合规门禁与跨平台技能）：mjmirza/app-store-compliance（+928★）沉淀 124 种拒审修复方案与 112 项监管死线破解 AI 应用上架痛点；google-labs-code/stitch-skills（+403★）打通 Antigravity、Claude Code 与 Cursor 跨平台设计转代码技能复用。
+
+💼 【持仓状态机与风控纪律】
+• 今日【全新首发】三大买点（已剔除财报盲盒，今日无新增财报冻结或超买止盈警报）：① ISRG（现价 $434.46，置信度 98 双重共振）：首仓 $427.03 / 加仓 $404.12 / 止损 $390.37；② MSFT（现价 $496.13，置信度 94 极限超跌 RSI 25.7）：首仓 $478.66 / 加仓 $442.83 / 止损 $427.1；③ NFLX（现价 $58.87，置信度 86 极限超跌 RSI 26.1）：首仓 $56.91 / 加仓 $53.96 / 止损 $51.41。
+
+📅 【盯盘日历与早安提醒】
+• 紧盯最快本周落地的 USTR 补贴调查与关税清单突袭；感恩节休市前最后完整交易日重点验证 HPQ、DELL 能否带动费半止血及标普/QQQ 收盘能否稳守 5 日均线，同时跟踪 ANT（$75–$83 绿鞋承接）、NVDA（$150–$160 换手）、中东地缘风险及下周 12 月 1—3 日黄仁勋国会听证会。
+
+📌 【在途仓位静默追踪（未触发新档位·口播不重复）】
+• 在途挂单/持仓防守：INTC(首仓已接·二档$45.79/止损$42.13)、PLTR(首仓已接·二档$137.22/止损$126.24)、HOOD(二档已接·止损$58.43)、UBER(二档已接·止损$62.63)、GOOG(首仓已接·二档$248.21/止损$237.28)、NVDA(二档已接·止损$119.92) ｜ 超买保护线：COST(移动止盈线$1048.26)、KO(移动止盈线$95.6)、PG(移动止盈线$164.68)</description><itunes:summary>📌 【今日核心增量看点】
+• 宏观脉搏：逼空“一日游”切入科技回吐与蓝筹防御跷跷板，费半重挫 7.88%、纳指跌 1.48%，道指涨 0.85% 重返 50,000 点；USTR 补贴调查最快本周收官引燃新广谱关税与紧缩担忧（VIX 飙涨 11.12% 报 29.29），叠加五大零售财报揭示“三层消费分化与退税粉饰”及中东三航母部署的假期尾部风险。
+• 资金风向：10Y 美债收益率微降至 4.904%（TLT 近 5 日 +1.58% 温和吸金），美元指数微涨报 104.071，黄金微跌报 $3,557.2 续化保证金余波；期权负 Gamma 未清致日内维持 ±1.5% 拉锯（忌追涨杀跌），标普 500 与 QQQ 短期统一以 5 日均线为多空生死线，费半下方支撑看 8,000 点。
+
+🤖 【AI 与科技前沿】
+• 算力财报冰火分化与核心筹码重估：DELL 狂揽 1,323 亿美元 AI 积压订单（EPS +265%）盘后仅微涨、HPE 暴跌 16.3%，唯 HPQ 超预期拉升成企稳风向标；NVDA 受阻 $160 解套墙且锁定 12 月 1—3 日国会听证，AMD 登记 3.36 亿股实为未达行权条件权证（零短期抛压），Anthropic 跌破 $83 发行价深探 $75 靠绿鞋护盘。
+• 底层算法突破与马斯克 3.5 万亿资本局：OpenAI 预印本将矩阵乘法复杂度推进至 Θ(n^2.25) 打破理论瓶颈，Bonsai 2.5 27B 推动三值权重实用化并有研究敲响共享推理侧信道安全警钟；SpaceX 与特斯拉启动 3.5 万亿美元合并换股建模，并拟建地面无线网挑战传统电信巨头。
+• 开源新星（合规门禁与跨平台技能）：mjmirza/app-store-compliance（+928★）沉淀 124 种拒审修复方案与 112 项监管死线破解 AI 应用上架痛点；google-labs-code/stitch-skills（+403★）打通 Antigravity、Claude Code 与 Cursor 跨平台设计转代码技能复用。
+
+💼 【持仓状态机与风控纪律】
+• 今日【全新首发】三大买点（已剔除财报盲盒，今日无新增财报冻结或超买止盈警报）：① ISRG（现价 $434.46，置信度 98 双重共振）：首仓 $427.03 / 加仓 $404.12 / 止损 $390.37；② MSFT（现价 $496.13，置信度 94 极限超跌 RSI 25.7）：首仓 $478.66 / 加仓 $442.83 / 止损 $427.1；③ NFLX（现价 $58.87，置信度 86 极限超跌 RSI 26.1）：首仓 $56.91 / 加仓 $53.96 / 止损 $51.41。
+
+📅 【盯盘日历与早安提醒】
+• 紧盯最快本周落地的 USTR 补贴调查与关税清单突袭；感恩节休市前最后完整交易日重点验证 HPQ、DELL 能否带动费半止血及标普/QQQ 收盘能否稳守 5 日均线，同时跟踪 ANT（$75–$83 绿鞋承接）、NVDA（$150–$160 换手）、中东地缘风险及下周 12 月 1—3 日黄仁勋国会听证会。
+
+📌 【在途仓位静默追踪（未触发新档位·口播不重复）】
+• 在途挂单/持仓防守：INTC(首仓已接·二档$45.79/止损$42.13)、PLTR(首仓已接·二档$137.22/止损$126.24)、HOOD(二档已接·止损$58.43)、UBER(二档已接·止损$62.63)、GOOG(首仓已接·二档$248.21/止损$237.28)、NVDA(二档已接·止损$119.92) ｜ 超买保护线：COST(移动止盈线$1048.26)、KO(移动止盈线$95.6)、PG(移动止盈线$164.68)</itunes:summary><itunes:subtitle>📌 【今日核心增量看点】
+• 宏观脉搏：逼空“一日游”切入科技回吐与蓝筹防御跷跷板，费半重挫 7.88%、纳指跌 1.48%，道指涨 0.85% 重返 50,000 点；USTR 补贴调查最快本周收官引燃新广谱关税与紧缩担忧（VIX 飙涨 </itunes:subtitle><pubDate>Wed, 25 Nov 2026 05:28:03 -0500</pubDate><guid isPermaLink="false">digest-2026-11-25</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-25.mp3" length="16725124" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>17:03</itunes:duration><itunes:episode>63</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:chapters url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-25.chapters.json" type="application/json+chapters" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-25.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-25.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-11-24 · 黄仁勋复职NVDA狂飙31%，戴铐回归藏暗礁</title><itunes:title>【小方财经】2026-11-24 · 黄仁勋复职NVDA狂飙31%，戴铐回归藏暗礁</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日核心增量看点】
 • 宏观脉搏：离职12天的黄仁勋获全票复职引爆史诗级逼空，标普暴涨4.73%、纳指狂飙6.51%（期指盘中一度熔断）、NVDA单日井喷31%重返3—4万亿美元市值，次新股Anthropic（ANT）则逆市跳水探至$84.61险破$83发行价；白宫“政治看跌期权”介入叠加前10%富裕家庭贡献超半数消费锁死底层“Fed Put”，促花旗与大摩集体翻多并指向12月FOMC迎政策转鸽窗，但纳指收高开假阴线、标普未复200日年线且恐慌指数仍滞留16.7极值，趋势企稳尚待确认。
 • 资金风向：美债（TLT 5日+2.69%，10Y收益率4.918%）与美元（UUP 5日+0.81%，DXY报104.16）延续温和吸金，黄金继续消化去杠杆抛压（COMEX金跌0.78%报$3,623.1，GLD 5日-5.52%），比特币失守6万美元、WTI原油报$80.07但遇霍尔木兹海峡两艘油轮触雷变数；期权与资金防线上，重仓NVDA Put空头单日归零但VIX逆势升4.13%至27.72显示机构尾部对冲未撤，ANT靠30天绿鞋机制死守$83防线，月末养老金“卖债买股”再平衡力度亦受6%—8%高息公司债惜售考验。
 
@@ -785,34 +818,4 @@
 📅 【今日重磅催化剂】
 • 美联储FOMC议息会议首日、SoFi(SOFI)盘前财报、SK海力士敲定350亿-420亿美元股东回报方案，及周三美联储决议与微软/谷歌盘后财报。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
 • 宏观水温：恐慌指数报28.2仍处恐慌区间，中东缓和带动标普(+0.70%)、纳指(+0.82%)与费半(+2.82%)超跌反弹，市场迎战超级央行周、巨头财报及巴西大选股汇债三杀。
-• 避险共振：避险与风险资产</itunes:subtitle><pubDate>Tue, 27 Oct 2026 04:48:22 -0400</pubDate><guid isPermaLink="false">digest-2026-10-27</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-27.mp3" length="27878287" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>28:42</itunes:duration><itunes:episode>37</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-27.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-27.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-10-26 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-10-26 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
-• 宏观水温：恐慌指数报21.1深陷极度恐慌，上周美股收跌、费半周挫3.2%，10年期美债收益率逼近5%，本周迎超级央行周与科技巨头财报大考。
-• 避险共振：非典型分化轮动，机构抛售黄金（GLD五日跌3.44%）补缴股市保证金，避险资金涌入长端美债（TLT涨2.37%），美元微升、原油高位回落。
-• 多空分歧：多头押注AI算力真实放量与99百分位极值空头逼空反弹，空头聚焦OpenAI估值下调、新算力云遭巨额做空及云巨头自由现金流审判。
-
-🤖 【AI 前沿与开源精选】
-• VoiceStudio：100%本地离线的ElevenLabs开源替代方案，支持646种语言克隆与有声书全流程制作，彻底消除云端计费与隐私痛点。
-• Hallmark与企业开源小模型：直击AI前端设计塑料感痛点；同时IBM与微软9B Qwen决策模型印证企业私有化部署开源模型已达高性价比临界点。
-
-💼 【聚焦标的与量化买卖点】
-• 英伟达 (NVDA)：极限超跌反弹买点（携GOOG/TSM等16股触发），当前价 $210.96，第一建仓位 $202.52，加仓位 $189.59，防守止损 $197.81
-• 防守预警：开市客 (COST) 等7只消费医疗白马 严重超买预警（RSI 74.5~80.5） 逢高止盈20%~30%，COST防守线上移至 $958.15（硬止损 $973.22）
-
-📅 【今日重磅催化剂】
-• 今日关注威瑞森（VZ）财报、Anthropic拟公开IPO申报文件及SK海力士121亿美元特别股息催化；本周迎美联储议息、微软/谷歌/亚马逊财报及美Q3 GDP与9月PCE数据。</description><itunes:summary>📌 【今日一分钟核心看点】
-• 宏观水温：恐慌指数报21.1深陷极度恐慌，上周美股收跌、费半周挫3.2%，10年期美债收益率逼近5%，本周迎超级央行周与科技巨头财报大考。
-• 避险共振：非典型分化轮动，机构抛售黄金（GLD五日跌3.44%）补缴股市保证金，避险资金涌入长端美债（TLT涨2.37%），美元微升、原油高位回落。
-• 多空分歧：多头押注AI算力真实放量与99百分位极值空头逼空反弹，空头聚焦OpenAI估值下调、新算力云遭巨额做空及云巨头自由现金流审判。
-
-🤖 【AI 前沿与开源精选】
-• VoiceStudio：100%本地离线的ElevenLabs开源替代方案，支持646种语言克隆与有声书全流程制作，彻底消除云端计费与隐私痛点。
-• Hallmark与企业开源小模型：直击AI前端设计塑料感痛点；同时IBM与微软9B Qwen决策模型印证企业私有化部署开源模型已达高性价比临界点。
-
-💼 【聚焦标的与量化买卖点】
-• 英伟达 (NVDA)：极限超跌反弹买点（携GOOG/TSM等16股触发），当前价 $210.96，第一建仓位 $202.52，加仓位 $189.59，防守止损 $197.81
-• 防守预警：开市客 (COST) 等7只消费医疗白马 严重超买预警（RSI 74.5~80.5） 逢高止盈20%~30%，COST防守线上移至 $958.15（硬止损 $973.22）
-
-📅 【今日重磅催化剂】
-• 今日关注威瑞森（VZ）财报、Anthropic拟公开IPO申报文件及SK海力士121亿美元特别股息催化；本周迎美联储议息、微软/谷歌/亚马逊财报及美Q3 GDP与9月PCE数据。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
-• 宏观水温：恐慌指数报21.1深陷极度恐慌，上周美股收跌、费半周挫3.2%，10年期美债收益率逼近5%，本周迎超级央行周与科技巨头财报大考。
-• 避险共振：非典型分化轮动，机构抛售黄金（GLD五日跌3.44%）</itunes:subtitle><pubDate>Mon, 26 Oct 2026 04:41:09 -0400</pubDate><guid isPermaLink="false">digest-2026-10-26</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-26.mp3" length="26682088" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>27:27</itunes:duration><itunes:episode>36</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-26.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-26.srt" type="application/x-subrip" language="zh-cn" /></item></channel></rss>
+• 避险共振：避险与风险资产</itunes:subtitle><pubDate>Tue, 27 Oct 2026 04:48:22 -0400</pubDate><guid isPermaLink="false">digest-2026-10-27</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-27.mp3" length="27878287" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>28:42</itunes:duration><itunes:episode>37</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-27.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-27.srt" type="application/x-subrip" language="zh-cn" /></item></channel></rss>

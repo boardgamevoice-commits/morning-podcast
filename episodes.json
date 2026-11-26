@@ -764,5 +764,18 @@
     "vtt_url": "episodes/morning_digest_2026-11-25.vtt",
     "srt_url": "episodes/morning_digest_2026-11-25.srt",
     "chapters_url": "episodes/morning_digest_2026-11-25.chapters.json"
+  },
+  {
+    "guid": "digest-2026-11-26",
+    "title": "【小方财经】2026-11-26 · 全球宏观增量与持仓状态追踪",
+    "description": "📌 【今日核心增量看点】\n• 宏观脉搏：大盘最新边际动向与全球流动性跟踪\n• AI 与科技：过去24小时关键产业与工程突破\n• 持仓风控：状态机触价回溯与新增信号纪律\n\n📌 【在途仓位静默追踪（未触发新档位·口播不重复）】\n• 在途挂单/持仓防守：HOOD(二档已接·止损$58.43)、UBER(二档已接·止损$62.63)、GOOG(首仓已接·二档$248.21/止损$237.28)、NVDA(二档已接·止损$119.92)、BAC(首仓已接·二档$43.86/止损$42.72)、TCEHY(待接$41.02/$38.8·止损$37.47) ｜ 超买保护线：PG(移动止盈线$164.68)",
+    "audio_url": "episodes/morning_digest_2026-11-26.mp3",
+    "audio_size": 19629898,
+    "duration": 1204.764036,
+    "pub_date": "2026-11-26T05:34:09.921855-05:00",
+    "episode_num": 64,
+    "vtt_url": "episodes/morning_digest_2026-11-26.vtt",
+    "srt_url": "episodes/morning_digest_2026-11-26.srt",
+    "chapters_url": "episodes/morning_digest_2026-11-26.chapters.json"
   }
 ]

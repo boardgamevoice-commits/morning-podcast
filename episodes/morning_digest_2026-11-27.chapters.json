@@ -1,0 +1,21 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "早盘破题与宏观脉搏"
+    },
+    {
+      "startTime": 405.36,
+      "title": "AI与科技前沿增量"
+    },
+    {
+      "startTime": 606.36,
+      "title": "持仓信号追踪与风控"
+    },
+    {
+      "startTime": 753.28,
+      "title": "今日盯盘日历与早安提醒"
+    }
+  ]
+}

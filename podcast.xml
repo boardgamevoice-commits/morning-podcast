@@ -1,5 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨全球宏观异动、AI产业突破与持仓量化风控内参</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Fri, 27 Nov 2026 05:30:02 -0500</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-27 · PCE锁死加息，甲骨文CDS新高与MU目标价腰斩</title><itunes:title>【小方财经】2026-11-27 · PCE锁死加息，甲骨文CDS新高与MU目标价腰斩</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日核心增量看点】
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>小方财经 · Morning Finance</title><description>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</description><itunes:summary>聚焦全球宏观异动，深挖美股多空博弈。每日清晨为您提炼事实去重、观点碰撞、点位风控拉满的早间第一手财金综合内参。车载通勤，开盘前必听。</itunes:summary><itunes:subtitle>每日清晨全球宏观异动、AI产业突破与持仓量化风控内参</itunes:subtitle><language>zh-cn</language><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><lastBuildDate>Sat, 28 Nov 2026 05:19:43 -0500</lastBuildDate><generator>Antigravity Podcast Engine 2.0</generator><atom:link href="https://boardgamevoice-commits.github.io/morning-podcast/podcast.xml" rel="self" type="application/rss+xml" /><itunes:type>episodic</itunes:type><itunes:author>小方</itunes:author><itunes:owner><itunes:name>小方</itunes:name><itunes:email>boardgamevoice@gmail.com</itunes:email></itunes:owner><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:category text="Business"><itunes:category text="Investing" /></itunes:category><itunes:category text="News"><itunes:category text="Business News" /></itunes:category><itunes:explicit>false</itunes:explicit><item><title>【小方财经】2026-11-28 · 恐慌退潮美债逼近5%，债弱金强与BTC破6万</title><itunes:title>【小方财经】2026-11-28 · 恐慌退潮美债逼近5%，债弱金强与BTC破6万</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日核心增量看点】
+• 宏观脉搏：周五美股恐慌退潮（VIX 再降 11.16% 收报 23.81），但 10Y 美债收益率反抽冲上 4.936% 直逼 5.0% 大关，高息压力传导至周末加密市场引发全网约 10 万人爆仓、BTC 失守 6 万美元（报 $59,489.75）。
+• 资金风向：跨资产完成“债弱金强”换手——美元重返 104.01、TLT 近 5 日转跌至 $81.27，而 COMEX 黄金顶住高息与强美元逆风劲涨 3.75% 收报 $3,668.5/盎司（WTI 原油稳守 $83.08）；跨周防线紧盯 10Y 美债 5.0% 临界带、VIX 20 警戒线及 BTC $60,000 收复力度。
+
+🤖 【AI 与科技前沿】
+• Google 残差连接最高提速 3 倍：DeepCrossAttention 强化 Transformer 跨层信息交互，在不牺牲模型质量下实现最高 3 倍运行提速以对冲算力资本开支约束；同期马斯克放风称 Google 有意增租 SpaceX 算力。
+• Agent 技能泄密与黑五 WebRTC 盗刷警报：Convex Skill 被曝静默外传开发者应用创意，叠加黑五主流电商惊现借 WebRTC 绕过传统监控的信用卡侧录脚本，凸显第三方 AI 技能供应链审计与内核级轻量沙箱（如编译 Linux 至 Wasm 的开源新星 Unkernel）的迫切价值。
+
+💼 【持仓状态机与风控纪律】
+• 【全新首发】右侧共振买点：美股周末休市无隔夜触价回溯；ABNB 周五回踩支撑并放量反抽收报 $179.16（RSI 37.7 / 量比 1.1x，系统置信度 90），下周一开盘挂单锁定首仓 $177.72（30%）、二档加仓 $170.18、ATR 硬止损 $161.42。
+• 新增严重超买止盈信号：防御抱团现高位缩量背离，COST（收 $1097.81，RSI 78.1 / 量比 0.52x）与 AZO（收 $3399.21，RSI 74.9 / 量比 0.49x）均建议逢高分批锁定 20%~30% 利润，移动止盈保护线分别上移至 $1052.37 与 $3276.35（今日无新增财报冻结）。
+
+📅 【盯盘日历与早安提醒】
+• 跨周核心催化剂：周末休市紧盯 BTC $60,000 关口企稳测试（周日晚期指风险偏好先行指标）及北美“黑五—网一”消费数据与支付安全响应；下周一（11/30）聚焦 10Y 美债 5.0% 压力测试与持仓高低切换挂单落地，周二起（12/1—12/3）迎 NVDA 国会听证会及关税议题博弈。
+
+📌 【在途仓位静默追踪（未触发新档位·口播不重复）】
+• 在途挂单/持仓防守：GOOG(首仓已接·二档$248.21/止损$237.28)、NVDA(二档已接·止损$119.92)、BAC(首仓已接·二档$43.86/止损$42.72)、SOFI(二档已接·止损$11.11)、TCEHY(待接$41.02/$38.8·止损$37.47)、NKE(待接$31.44/$29.4·止损$27.8) ｜ 超买保护线：PG(移动止盈线$164.68)</description><itunes:summary>📌 【今日核心增量看点】
+• 宏观脉搏：周五美股恐慌退潮（VIX 再降 11.16% 收报 23.81），但 10Y 美债收益率反抽冲上 4.936% 直逼 5.0% 大关，高息压力传导至周末加密市场引发全网约 10 万人爆仓、BTC 失守 6 万美元（报 $59,489.75）。
+• 资金风向：跨资产完成“债弱金强”换手——美元重返 104.01、TLT 近 5 日转跌至 $81.27，而 COMEX 黄金顶住高息与强美元逆风劲涨 3.75% 收报 $3,668.5/盎司（WTI 原油稳守 $83.08）；跨周防线紧盯 10Y 美债 5.0% 临界带、VIX 20 警戒线及 BTC $60,000 收复力度。
+
+🤖 【AI 与科技前沿】
+• Google 残差连接最高提速 3 倍：DeepCrossAttention 强化 Transformer 跨层信息交互，在不牺牲模型质量下实现最高 3 倍运行提速以对冲算力资本开支约束；同期马斯克放风称 Google 有意增租 SpaceX 算力。
+• Agent 技能泄密与黑五 WebRTC 盗刷警报：Convex Skill 被曝静默外传开发者应用创意，叠加黑五主流电商惊现借 WebRTC 绕过传统监控的信用卡侧录脚本，凸显第三方 AI 技能供应链审计与内核级轻量沙箱（如编译 Linux 至 Wasm 的开源新星 Unkernel）的迫切价值。
+
+💼 【持仓状态机与风控纪律】
+• 【全新首发】右侧共振买点：美股周末休市无隔夜触价回溯；ABNB 周五回踩支撑并放量反抽收报 $179.16（RSI 37.7 / 量比 1.1x，系统置信度 90），下周一开盘挂单锁定首仓 $177.72（30%）、二档加仓 $170.18、ATR 硬止损 $161.42。
+• 新增严重超买止盈信号：防御抱团现高位缩量背离，COST（收 $1097.81，RSI 78.1 / 量比 0.52x）与 AZO（收 $3399.21，RSI 74.9 / 量比 0.49x）均建议逢高分批锁定 20%~30% 利润，移动止盈保护线分别上移至 $1052.37 与 $3276.35（今日无新增财报冻结）。
+
+📅 【盯盘日历与早安提醒】
+• 跨周核心催化剂：周末休市紧盯 BTC $60,000 关口企稳测试（周日晚期指风险偏好先行指标）及北美“黑五—网一”消费数据与支付安全响应；下周一（11/30）聚焦 10Y 美债 5.0% 压力测试与持仓高低切换挂单落地，周二起（12/1—12/3）迎 NVDA 国会听证会及关税议题博弈。
+
+📌 【在途仓位静默追踪（未触发新档位·口播不重复）】
+• 在途挂单/持仓防守：GOOG(首仓已接·二档$248.21/止损$237.28)、NVDA(二档已接·止损$119.92)、BAC(首仓已接·二档$43.86/止损$42.72)、SOFI(二档已接·止损$11.11)、TCEHY(待接$41.02/$38.8·止损$37.47)、NKE(待接$31.44/$29.4·止损$27.8) ｜ 超买保护线：PG(移动止盈线$164.68)</itunes:summary><itunes:subtitle>📌 【今日核心增量看点】
+• 宏观脉搏：周五美股恐慌退潮（VIX 再降 11.16% 收报 23.81），但 10Y 美债收益率反抽冲上 4.936% 直逼 5.0% 大关，高息压力传导至周末加密市场引发全网约 10 万人爆仓、BTC 失守</itunes:subtitle><pubDate>Sat, 28 Nov 2026 05:18:19 -0500</pubDate><guid isPermaLink="false">digest-2026-11-28</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-28.mp3" length="17140573" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>17:29</itunes:duration><itunes:episode>66</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:chapters url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-28.chapters.json" type="application/json+chapters" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-28.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-11-28.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-11-27 · PCE锁死加息，甲骨文CDS新高与MU目标价腰斩</title><itunes:title>【小方财经】2026-11-27 · PCE锁死加息，甲骨文CDS新高与MU目标价腰斩</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日核心增量看点】
 • 宏观脉搏：多国关税提议（欧越最高20%、日韩15%）冲击后美股借节前空头回补走出深V（标普微跌0.25%，今晨VIX回落至24.89、恐慌指数17.9），但10月PCE同比升至3.8%（核心3.3%）伴随消费停滞已锁死12月加息25bp，叠加华盛顿“四线监管风暴”酝酿，节后双向高波动风险犹存。
 • 资金风向：保证金抛压消退助推COMEX黄金劲弹3.90%重返3,700.9美元、10Y美债收益率回落至4.848%、美元指数持稳103.836，大空头Burry已于节前清空全部美股看跌期权并加仓京东/腾讯/比亚迪；今日标普上探7270–7300点阻力、QQQ守606–608防线，需警惕高位抱团避险的AAPL松动补跌。
 
@@ -777,34 +810,4 @@
 📅 【今日重磅催化剂】
 • 周日（11月1日）伊朗对霍尔木兹海峡油轮反制措施生效；下周迎美国中期选举（周二）、10月非农就业，及周一盘后苹果(AAPL)与Palantir(PLTR)重磅财报。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
 • 宏观水温：恐慌指数跌至26.2（恐慌），受科技巨头财报暴雷、粘性PCE通胀及伊朗封锁海峡警告冲击，周五纳指重挫2.86%、标普跌1.82%、费半暴跌7.2%。
-• 避险共振：金跌(-3.29%)债稳美元平，呈</itunes:subtitle><pubDate>Sat, 31 Oct 2026 21:32:19 -0400</pubDate><guid isPermaLink="false">digest-2026-10-31</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-31.mp3" length="32125589" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>33:07</itunes:duration><itunes:episode>40</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-31.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-31.srt" type="application/x-subrip" language="zh-cn" /></item><item><title>【小方财经】2026-10-29 · 晨间内参：全球宏观与美股多空深度博弈</title><itunes:title>【小方财经】2026-10-29 · 晨间内参：全球宏观与美股多空深度博弈</itunes:title><link>https://boardgamevoice-commits.github.io/morning-podcast/</link><description>📌 【今日一分钟核心看点】
-• 宏观水温：恐慌指数报36.5处恐慌区间，美联储10:2鹰派暂停维持高息，隔夜美股微涨但盘后受谷歌暴雷拖累期指转跌，A股双创跌超4%。
-• 避险共振：避险与风险资产呈区间胶着分化态势，黄金ETF与美元近5日收涨，10年期美债收益率破5.045%压制长端美债TLT走弱。
-• 多空分歧：上游算力高景气及微软控支保正现金流，与巨头举债烧钱致现金流恶化（谷歌FCF达-91亿美元）的AI投资回报率重估博弈。
-
-🤖 【AI 前沿与开源精选】
-• Qwenputer：在Qwen3.5大模型内部成功运行完全确定性的RISC-V CPU，突破概率生成边界，开辟神经网络内嵌形式化逻辑运算新路径。
-• HKUDS/DeepTutor：解决通用大模型单次对话缺乏学情连续性的痛点，构建具备终身学习记忆、知识图谱追踪与个性化规划的AI导师系统。
-
-💼 【聚焦标的与量化买卖点】
-• 谷歌（GOOG）：极限超跌反弹买点，当前价$321.89，第一建仓位$309.01，加仓位$313.51，防守止损$307.66（盘后财报暴雷跳水破位，实操接刀下移参考$272~$297）。
-• 防守预警：微软（MSFT）绩后冲高严守$511.84止损勿盲目追涨；维谛技术（VRT）止盈止损上移至$225；飞塔信息（FTNT）与Enphase（ENPH）绩后暴雷严禁抄底。
-
-📅 【今日重磅催化剂】
-• 美国9月核心PCE物价指数揭晓、谷歌与微软正式交易时段巨量换手检验、标普7680点支撑与纳指100期货5日均线攻防。</description><itunes:summary>📌 【今日一分钟核心看点】
-• 宏观水温：恐慌指数报36.5处恐慌区间，美联储10:2鹰派暂停维持高息，隔夜美股微涨但盘后受谷歌暴雷拖累期指转跌，A股双创跌超4%。
-• 避险共振：避险与风险资产呈区间胶着分化态势，黄金ETF与美元近5日收涨，10年期美债收益率破5.045%压制长端美债TLT走弱。
-• 多空分歧：上游算力高景气及微软控支保正现金流，与巨头举债烧钱致现金流恶化（谷歌FCF达-91亿美元）的AI投资回报率重估博弈。
-
-🤖 【AI 前沿与开源精选】
-• Qwenputer：在Qwen3.5大模型内部成功运行完全确定性的RISC-V CPU，突破概率生成边界，开辟神经网络内嵌形式化逻辑运算新路径。
-• HKUDS/DeepTutor：解决通用大模型单次对话缺乏学情连续性的痛点，构建具备终身学习记忆、知识图谱追踪与个性化规划的AI导师系统。
-
-💼 【聚焦标的与量化买卖点】
-• 谷歌（GOOG）：极限超跌反弹买点，当前价$321.89，第一建仓位$309.01，加仓位$313.51，防守止损$307.66（盘后财报暴雷跳水破位，实操接刀下移参考$272~$297）。
-• 防守预警：微软（MSFT）绩后冲高严守$511.84止损勿盲目追涨；维谛技术（VRT）止盈止损上移至$225；飞塔信息（FTNT）与Enphase（ENPH）绩后暴雷严禁抄底。
-
-📅 【今日重磅催化剂】
-• 美国9月核心PCE物价指数揭晓、谷歌与微软正式交易时段巨量换手检验、标普7680点支撑与纳指100期货5日均线攻防。</itunes:summary><itunes:subtitle>📌 【今日一分钟核心看点】
-• 宏观水温：恐慌指数报36.5处恐慌区间，美联储10:2鹰派暂停维持高息，隔夜美股微涨但盘后受谷歌暴雷拖累期指转跌，A股双创跌超4%。
-• 避险共振：避险与风险资产呈区间胶着分化态势，黄金ETF与美元近5日收涨</itunes:subtitle><pubDate>Thu, 29 Oct 2026 05:20:06 -0400</pubDate><guid isPermaLink="false">digest-2026-10-29</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-29.mp3" length="28949517" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>29:49</itunes:duration><itunes:episode>39</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-29.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-29.srt" type="application/x-subrip" language="zh-cn" /></item></channel></rss>
+• 避险共振：金跌(-3.29%)债稳美元平，呈</itunes:subtitle><pubDate>Sat, 31 Oct 2026 21:32:19 -0400</pubDate><guid isPermaLink="false">digest-2026-10-31</guid><enclosure url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-31.mp3" length="32125589" type="audio/mpeg" /><itunes:image href="https://boardgamevoice-commits.github.io/morning-podcast/cover.jpg" /><itunes:episodeType>full</itunes:episodeType><itunes:duration>33:07</itunes:duration><itunes:episode>40</itunes:episode><itunes:explicit>false</itunes:explicit><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-31.vtt" type="text/vtt" language="zh-cn" /><podcast:transcript url="https://boardgamevoice-commits.github.io/morning-podcast/episodes/morning_digest_2026-10-31.srt" type="application/x-subrip" language="zh-cn" /></item></channel></rss>
